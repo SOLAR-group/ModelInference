@@ -98,3 +98,11 @@ python PymooSingleRun.py krita 20 NSGAII UnRec-Size-UnObs 90
 ```
 
 The resulting models of this execution will be outputted to `results/krita/NSGAII/UnRec-Size-UnObs/*.pkl`, alongside some logs and time results.
+
+## Reference
+
+If you would like to cite our work, you can use the following reference:
+
+```bibtex
+TBA
+```
