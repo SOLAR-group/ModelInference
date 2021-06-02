@@ -1,0 +1,3609 @@
+{
+    "159323": [
+        "1. Starting with a default setup, right-click the kickoff widget and select remove.  The taskbar is now the leftmost widget.",
+        "2. Right-click the panel and select \"Add Widgets...\"",
+        "3. Click and drag the Application Launcher Menu (Kickoff) widget to the far left edge of the panel"
+    ],
+    "161520": [
+        "1. Install Fedora 9 Preview x86_64 Live KDE",
+        "2. Update all packages",
+        "3. yum install firefox"
+    ],
+    "168717": [
+        "1. Plug in camera",
+        "2. Watch as nothing happens."
+    ],
+    "175301": [
+        "1) Right-click the desktop, choose Desktop Settings",
+        "2) Choose \"Get New Wallpapers\"",
+        "3) In the search field, enter something, hit enter to get the results.",
+        "4) Hit the \"Clear text\" button next to the text entry field."
+    ],
+    "176606": [
+        "1. Change your resolution. In my case, I went from 1280x800 on the laptop panel to 1280x1024 on the external LCD, using clone mode (so max. res. is 1280x1024 not 2560x1024)",
+        "2. Click 'Zoom Out' from the cashew."
+    ],
+    "178151": [
+        "1. Unlock widgets",
+        "2. Right click desktop and select add widget",
+        "3. Click install widget from file",
+        "4. Clicking file installs widget but can not be seen until add widget window reopened."
+    ],
+    "178353": [
+        "1. Click date applet in panel.",
+        "2. Calendar opens up.",
+        "3. Click anywhere on desktop or any application",
+        "4. Click on date applet."
+    ],
+    "181164": [
+        "1. Open configure desktop.",
+        "2. Go to Advanced.",
+        "3. Click Autostart.",
+        "4. Click Add program.",
+        "5. Select evolution.",
+        "6. This opens properties of evolution.desktop.",
+        "7. Go to Application tab.",
+        "8. Click Advanced Options.",
+        "9. Select place in system tray.",
+        "10. Save settings. ",
+        "11. Restart kde.",
+        "12. A new cashew icon appears in system tray with tooltip \"Qt subapplication\".",
+        "13. Click this icon."
+    ],
+    "183901": [
+        "1. Right click desktop and click appearance settings.",
+        "2. Change desktop activity type from desktop to plain desktop.",
+        "1. Only desktop type should be changed."
+    ],
+    "184160": [
+        "1. Remove panel",
+        "2. add plasmoid application launcer",
+        "3. add plasmoid system tray."
+    ],
+    "184880": [
+        "1. right click desktop -> add panel",
+        "2. right click panel -> panel settings (is this another bug? that the panel is",
+        "3. \"screen edge\" drag to lower portion of the screen"
+    ],
+    "185045": [
+        "1. Activate a screen edge",
+        "2. Create a new panel on the desktop.",
+        "3. Move the panel onto the active screen edge.",
+        "4. Set the panel to 'Autohide'",
+        "5. Try and show the panel."
+    ],
+    "186805": [
+        "1. Click on the Cashew and choose the magnifying glass (\"Zoom out\")",
+        "2. Choose \"Add Activity...\" (in German it's \"Aktivit\u00e4t hinzuf\u00fcgen\")",
+        "3. Zoom in to the new workspace, create a widget and move it.",
+        "4. Try to delete the new workspace."
+    ],
+    "188133": [
+        "1. Open Konversation in Desktop 1",
+        "2. Have someone send you a message",
+        "3. Go to Desktop 2 before message arrives"
+    ],
+    "190595": [
+        "1. Add the picture frame plasma widget to the desktop.",
+        "2. Configure the widget to work in diaporama mode.",
+        "3. Select two pictures, one in portrait format and one in landscape mode.",
+        "4. Set the change time to 1 minute.",
+        "5. Close the config panel.",
+        "6. Move the widget to the bottom-left screen edge, so that the picture fits in the edge.",
+        "7. Wait for 1 minute until the picture changes."
+    ],
+    "190738": [
+        "1. Unlock widgets.",
+        "2. Try to reduce size of panel located at bottom."
+    ],
+    "191325": [
+        "1. Open the Desktop settings dialog",
+        "2. Select \"Image\" as wallpaper type",
+        "3. Browse and select a new wallpaper (not one present already in the combo box list)"
+    ],
+    "192336": [
+        "1. Plug in the AC adapter.",
+        "2. Use suspend to disk.",
+        "3. Unplug the AC adpater.",
+        "4. Turn the computer on (wake up).",
+        "5. See the battery widget"
+    ],
+    "192337": [
+        "1. Start KDE 4.2.3 (I'm using Opensuse 11.1 with the KDE 4 Factory repository)",
+        "2. Use it for a few hours.",
+        "3. Open dolphin and try to copy a big folder.",
+        "4. Click the small \"I\" appearing near the system tray."
+    ],
+    "193100": [
+        "1. Open pidgin.",
+        "2. Open chat window.",
+        "3. Now it'll be shown as 2 grouped items.",
+        "4. Click taskbar entry to expand it."
+    ],
+    "198528": [
+        "0. Have a monitor/laptop that supports rotation and a Quick Access in the panel",
+        "1. Click a \"Quick Access\" in the panel to test",
+        "2. Run \u00abxrandr -o 3\u00bb in a console",
+        "3. Click a \"Quick Access\" in the panel to test",
+        "4. Run \u00abxrandr -o 0\u00bb in a console",
+        "5. Click a \"Quick Access\" in the panel to test"
+    ],
+    "199921": [
+        "1. Create a new empty panel",
+        "2. Add an activity bar to the panel"
+    ],
+    "201467": [
+        "1. Add a new frame plasma widget to the desktop.",
+        "2. Open its configuration dialog.",
+        "3. Select \"Slideshow\" mode",
+        "4. Add a directory containing some pictures",
+        "5. Change the time to 30 minutes",
+        "6. Click ok."
+    ],
+    "207721": [
+        "1. Use a netbook",
+        "2. Change some desktop effects (turning it on first of course)",
+        "3. Watch it reload without the taskbar"
+    ],
+    "217871": [
+        "1. Make sure to have several applications open.",
+        "2. Click taskbar buttons and verify if it opens corresponding application.",
+        "3. Right click desktop and select desktop  activity settings.",
+        "4. Click get new wallpapers.",
+        "5. Now click taskbar buttons."
+    ],
+    "223401": [
+        "1. Have some open windows(I had evolution mail client, dolphin, chrome, etc)",
+        "2. Compose new mail in evolution.",
+        "3. Drag file from dolphin to new compose window taskbar button to add as attachment. "
+    ],
+    "224952": [
+        "1. Open calendar extender from digital clock applet.",
+        "2. Drag extender out.",
+        "3. Release on random thing --- a browser window.",
+        "4. Look at extender again."
+    ],
+    "228089": [
+        "1. arrange desktop icons in your own way",
+        "2. restart PC (or only X-server, maybe some other operations (?))",
+        "3. see the new desktop icon lyaout :-("
+    ],
+    "228259": [
+        "1. setup the right time on widget, eventually enable hand for seconds",
+        "2. restart PC (or only X-server, maybe some other operations (?))",
+        "3. see the freezed clock widget (hands on 12:00, without hand for seconds)"
+    ],
+    "238958": [
+        "1. Attach external monitor to laptop. (I have only tested this on HDMI and DVI ports)",
+        "2. Configure external monitor to any resolution and locate it to the side of the Laptop screen in an extended desktop."
+    ],
+    "239875": [
+        "1. Connect external monitor and boot.",
+        "2. Log into KDE.",
+        "3. Start System Settings -> Display; disable one display."
+    ],
+    "239961": [
+        "1. Right click systray.",
+        "2. Select systray settings."
+    ],
+    "239967": [
+        "1. Open dolphin.",
+        "2. Delete a small text file using shift+delete."
+    ],
+    "240642": [
+        "1. Open \"Desktop Activity Settings Dialog\"",
+        "2. Switch to Folderview",
+        "3. Click \"Apply\", Folderview opens and icons are shown",
+        "4. Click \"OK\" and icons dissapear"
+    ],
+    "240702": [
+        "1. Set task manager in \"Group by Program\" mode.",
+        "2. Install Firefox mozplugger plugin.",
+        "3. Install Okular.",
+        "4. Start Firefox and Virtualbox.",
+        "5. Open a PDF file in Firefox."
+    ],
+    "240724": [
+        "1.) Move Brightness slider to max",
+        "2.) Move it to a smaller value"
+    ],
+    "240769": [
+        "1. Boot",
+        "2. Watch"
+    ],
+    "240812": [
+        "1. unlock the panel, click the cashew to show panel options",
+        "2. move the panel from the bottom to the top screen",
+        "3. Close the panel options"
+    ],
+    "240963": [
+        "1. right click system tray empty space",
+        "2. select System Tray Settings",
+        "3. switch to plasma widgets tab",
+        "4. select bubblemon"
+    ],
+    "241295": [
+        "1) Upgrade do KDE 4.4.85.",
+        "2) Relog."
+    ],
+    "241332": [
+        "1 - connect a second monitor;",
+        "2 - add panels to each screen;",
+        "3 - logout (or turn off the machine) and remove the second monitor;",
+        "4 - start KDE."
+    ],
+    "241401": [
+        "1. Create a new user",
+        "2. Log into KDE 4.5 beta2 or newer",
+        "3. Add System Load Viewer plasmoid to Kicker",
+        "4. Edit plasmoid options to \"Show usage of &all processors\" and set update interval to 750ms."
+    ],
+    "241459": [
+        "1. kill plasma-desktop (or wait for it to crash :>)",
+        "2. start plasma-desktop in a terminal",
+        "3. put the mouse pointer on the K menu"
+    ],
+    "241486": [
+        "1) Add Quick-Launch widget to plasma-desktop, drag one icon to the end of right side (the right border).",
+        "2) plasma-desktop crashes."
+    ],
+    "241595": [
+        "1. In Desktop Settings, set Activity to Folder View.",
+        "2. In Mouse Actions, set Vertical-Scroll to \"Switch Desktop.\"",
+        "3. Move mouse over desktop and roll the scroll wheel."
+    ],
+    "241668": [
+        "1) start klipper",
+        "2) open a context menu in the systemtray",
+        "3) switch to another VT",
+        "4) kill the klipper instance on that VT",
+        "5) quickly switch back to the original VT to see plasma crash"
+    ],
+    "241868": [
+        "1. Set picture viewer plasmoid to run a slideshow in which only a single image is present. ",
+        "2. Change the image once it is being displayed.",
+        "3. At the next reload, the error will occur."
+    ],
+    "241933": [
+        "1. Create new user",
+        "2. Log in",
+        "3. Right-click the scissors icon"
+    ],
+    "242173": [
+        "1. Add a dictionary widget on the taskbar.",
+        "2. Set a keyboard shortcut for it (let's say Alt+F5).",
+        "3. Press Alt+F5."
+    ],
+    "242354": [
+        "1. Open a few windows, so that taskbar is full",
+        "2. Start kopete with its window hidden",
+        "3. Open and close kopete's main window by clicking on its icon in the systray"
+    ],
+    "242377": [
+        "1. Disable kwallet",
+        "2. Add the microblogging widget to the desktop and configure it.",
+        "3. Close session.",
+        "4. Start again session.",
+        "5. See the microblogging applet blank, and if you see it's configuration details you will the twitter password empty.",
+        "6. Add a password.",
+        "7. See that the applet doesn't refresh automatically to get new posts.",
+        "8. Click on messages, wait for them to appear and then click back on timeline to get the new posts."
+    ],
+    "242525": [
+        "1. place main panel on the left side of the screen",
+        "2. make sure it has 100% height and is always shown",
+        "3. use activities tool from plasma tool box"
+    ],
+    "242592": [
+        "1) run kickoff",
+        "2) go to \"recently used\" tab with right key",
+        "3) try to use up and down arrow keys"
+    ],
+    "242627": [
+        "1. Create a TwinView setup with external monitor on the left",
+        "2. Switch resolution to a small, single-monitor resolution (e.g 1024x768)",
+        "3. Observe that panels and cashew have gone offscreen and part of the desktop is also offscreen."
+    ],
+    "242959": [
+        "1. Add a Shelf to a panel.",
+        "2. Add a folder with a space in its name to Shelf."
+    ],
+    "243041": [
+        "1. Open Dolphin",
+        "2. Select a File",
+        "3. Press Ctrl + C"
+    ],
+    "243576": [
+        "1. Set plasmoid's hotkey and apply changes.",
+        "2. Remove plasmoid.",
+        "3. Add plasmoid back."
+    ],
+    "243616": [
+        "1)Add an extra system tray plasmoid somewhere",
+        "2)Remove all ticks from one of the trays' settings for notifications",
+        "3)Configure other tray so it shows all notifications"
+    ],
+    "243639": [
+        "1. Create a file or a folder (or use an existing).",
+        "2. Highlight the file/folder.",
+        "3. Press shift+delete on keyboard to delete the file."
+    ],
+    "244062": [
+        "1. Setup quick launch.",
+        "2. Put some icons on it.",
+        "3. Drag and drop one icon onto it self."
+    ],
+    "244134": [
+        "1. Set up dual screen (TwinView, reproducible with XRandr probably as well)",
+        "2. Start plasma-desktop",
+        "3. On secondary screen, create new empty panel (it will be sized correctly, filling all available width).",
+        "4. Click panel 'cashew' to open panel settings, observe panel settings bar width (should be different that available screen width). Alternatively click 'More settings'->'Maximize panel'",
+        "5. if you're unlucky to reproduce, move panel to the bottom of the screen and repeat step 4."
+    ],
+    "244431": [
+        "1. Create a new user for KDE 4.5RC2",
+        "2. Log in into new environment",
+        "3. Create more than two files in a Desktop folder",
+        "3. Select all of them using mouse",
+        "4. Press \"Shift + Delete\""
+    ],
+    "244931": [
+        "1)waif for notification with button",
+        "2)let it hide in systray notifications",
+        "3)open notifications, click on that button"
+    ],
+    "245053": [
+        "1 - Enable autohide panel",
+        "2 - Configure a shortcut to enable The KDE Menu",
+        "3 - Press the shortcut and the menu do not open properly"
+    ],
+    "245416": [
+        "0 - Have to screen",
+        "1 - Go in systemsettings - Display - Size & Orientation",
+        "2 - Change something (for example put screen 2 on right of screen 1)",
+        "3 - Apply and enjoy your working settings",
+        "4 - Restart your X server"
+    ],
+    "246281": [
+        "1.) Add the weather applet to your desktop",
+        "2.) Open the configuration dialog",
+        "3.) Use 'stuttgart' as search term",
+        "4.) Apply the settings"
+    ],
+    "246286": [
+        "1.) Click on the toolbox icon of a panel",
+        "2.) Click the 'Add Applets' button",
+        "1.) Click on the toolbox button of the desktop corona",
+        "2.) Click on the 'Activities' button"
+    ],
+    "247144": [
+        "1. Add folderview applet",
+        "2. Restart plasma-desktop (important)",
+        "3. Hover mouse pointer over any foldeview icon"
+    ],
+    "247162": [
+        "1. Move the mouse over date & time in the panel",
+        "2. Let it rest there until a small window appears showing date & time",
+        "3. As soon as it appears, move the mouse away"
+    ],
+    "247180": [
+        "1. Add the pager widget to your panel",
+        "2. Add the pager widget to your desktop",
+        "3. Configure the layout of the 1st pager widget to show all workspaces in a single row",
+        "4. Configure the layout of the 2nd pager widget to show all workspaces as a grid",
+        "5. Restart KDE"
+    ],
+    "247205": [
+        "1. Start X and KDE with internal 1024x600 screen",
+        "2. Attach 1680x1050 screen (external), change output to it and maximise panels",
+        "3. Reboot",
+        "4. Start X, KDE with 1024x600 again (external screen removed)",
+        "5. Reattach external screen and change output to it"
+    ],
+    "247277": [
+        "1. In System Settings, set Date format to \"WEEKDAY MONTH dD YYYY.\"",
+        "2. Reboot system."
+    ],
+    "247304": [
+        "1. Create a panel at the bottom right, with system tray and at least one icon on the right of it.",
+        "2. Wait until Strigi icon appears for a moment."
+    ],
+    "247392": [
+        "1. Log in to KDE 4.5",
+        "2. Open JDownloader"
+    ],
+    "247440": [
+        "1.) Set a panel to autohide",
+        "2.) Do a rightclick on the panel and chose the 'Add widgets' option from the contextmenu",
+        "3.) Select a widget and try to drag'n'drop it to the panel"
+    ],
+    "247677": [
+        "1. Find a folder with a lot of files",
+        "2. Set up a newspaper/netbook containment with a folderview and enough other widgets that the containment scrolls.",
+        "3. Put your mouse over the folderview widget",
+        "4. Rotate the scroll wheel"
+    ],
+    "247852": [
+        "1) Open the panel settings",
+        "2) Try to drag the left most widget to a new location (as you would any other widget)"
+    ],
+    "247871": [
+        "1. Add analog clock widget to desktop.",
+        "2. Check it's status on reboot/login cycles."
+    ],
+    "248080": [
+        "1) Setup the env like mine",
+        "2) try to resize the panel"
+    ],
+    "248112": [
+        "1) I have several icons in my Desktop folder, which is displayed by the folder view widget on my desktop.",
+        "2) I have a specific, non-alphebetical arrangement of these icons.",
+        "3) Right-click on one of the files and select \"Cut\".  The icons rearrange alphabetically."
+    ],
+    "248268": [
+        "1: start kopete or ktorrent and make sure their icon shows up in the systray. These two programs support a dbus-based systray and have comples menus.",
+        "2:right click on the icon of kopete or ktorrent in the systray",
+        "3: browse the various sub-menus"
+    ],
+    "248292": [
+        "1. Create folder-view plasmoid.",
+        "2. Download something in that folder."
+    ],
+    "248318": [
+        "1. Create shelf plasmoid.",
+        "2. Add folder to it.",
+        "3. Open shelf."
+    ],
+    "248322": [
+        "1. Create shelf plasmoid.",
+        "2. Add folder to shelf.",
+        "3. Create file with \"&\" in name."
+    ],
+    "248570": [
+        "1. Ensure you're using Air theme and panel has a shadow",
+        "2. Open some window",
+        "3. Move it towards panel"
+    ],
+    "248605": [
+        "1. Download my SVG icon (in attachments)",
+        "2. Put it to ~/.kde4/share/apps/desktoptheme/default/icons",
+        "3. Open Kopete",
+        "4. Switch status to busy and then back to online"
+    ],
+    "248659": [
+        "1. Drag the content of your KDE Microblog beyond its limit, triggering the physics effect.",
+        "2. Drag it again (In fact, you need 3-5 drags to trigger the bug)",
+        "3. Watch X CPU usage rise to 90% and plasma-desktop to 30%, and watch that CPU usage to stay there until killing plasma-desktop."
+    ],
+    "248945": [
+        "1. Start Eclipse (or possibly some other application with a splash screen).",
+        "2. Right-click on the splash screen in the system panel.",
+        "3. Having opened the context menu, wait until the splash sceen is gone.",
+        "4. Select another desktop from the context menu."
+    ],
+    "249178": [
+        "1. In Dolphin, hover the mouse over a file close to the Panel.",
+        "2. When the preview covers the panel, move the mouse to the right (not up or down) away from the filename, to make the preview disappear.",
+        "3. Then move the mouse up to another filename to trigger another mouseover preview."
+    ],
+    "249232": [
+        "1) Have one window, tiled, adjacent to the right screen edge",
+        "2) Have a couple entries in the task manager",
+        "3) Make sure you have tooltips enabled in the task manager.",
+        "3) Over the 'i' icon in the system tray (so its tooltip shows up).",
+        "4) Now hover one entry in the task manager so its tooltip shows up."
+    ],
+    "249489": [
+        "0: Ensure X runs in clone mode by default",
+        "1: Login KDE 4.5",
+        "2: Use xrandr to configure a multi-head display setup",
+        "3: Make sure there is a panel on each page",
+        "4: Logout",
+        "5: Login again",
+        "6: Both panels should appear on the single cloned display",
+        "7: Run xrandr to configure multi-head",
+        "8: Multi-head is configured but panels remain on one screen"
+    ],
+    "249516": [
+        "1. Attach two screens one left and one right",
+        "2. Set rotation for the first screen to 90\u00b0 left",
+        "3. Apply",
+        "4. Set rotation to None again and Apply",
+        "5. Plasma crashes"
+    ],
+    "249524": [
+        "1. Plug fancy new monitor in (in this case it is a VGA screen)",
+        "2. Open Display Settings",
+        "3. Set second monitor to a higher resolution than your primary screen",
+        "4. Set second monitor to be to the right of your primary screen",
+        "5. When the panel moves to the second screen, it will only be as wide as it was on the primary screen."
+    ],
+    "250113": [
+        "1) Copy (Ctrl+C) files or text to clipboard.",
+        "2) Clear the Klipper's history.",
+        "3) Open FolderView's context menu."
+    ],
+    "250144": [
+        "1. Right click in Desktop Folder view and select",
+        "2. Click tab \"Device\" and select \"/proc\" or \"/sys\"",
+        "3. Device usage ratio is displayed incorrectly"
+    ],
+    "250395": [
+        "1. Create new panel",
+        "2. Open interface for adding new widgets",
+        "3. Invoke remove panel action"
+    ],
+    "251692": [
+        "1) Add a Folder View Widget to the Desktop. ",
+        "2) Select the \"Show the desktop folder\" location option.",
+        "3) Place an image file in the Desktop directory."
+    ],
+    "251870": [
+        "1. Configure couple keyboard layouts",
+        "2. Give one layout short label (e.g. default)",
+        "3. Give second layout long label (e.g. WWW)",
+        "4. Try to switch between layouts"
+    ],
+    "252288": [
+        "1) have a working internet connection (you should have ;))",
+        "2) shutdown your router or change the default route to an ip which does not exist, i.e. in linux with iproute2 type as root: ",
+        "3) wait plasma to hang for minutes with a little wake-up then hang again, and so on until the network connection is available again"
+    ],
+    "252350": [
+        "1) Enter auto-hiding panel area to show it.",
+        "2) Click color picker button.",
+        "3) Move away the mouse, so that panel gets hidden."
+    ],
+    "252551": [
+        "1. Turn on \"different widgets for each desktop\", and create 12 desktops.",
+        "2. With the classic K menu, right-click on any application.",
+        "3. Choose \"Add to Desktop\"."
+    ],
+    "252573": [
+        "1. add the mini programm ksystray (a plasmoid?!)",
+        "2. remove the control bar"
+    ],
+    "252578": [
+        "1. start up system",
+        "2. login as normal user",
+        "3. unlock desktop widgets",
+        "4. set mouse pointer on a widget and wait to get a icon bar on a side of the widget",
+        "5. no icon bar appears, so no way to edit the widget position and so"
+    ],
+    "252612": [
+        "1- Follow System Settings -> Workspace Appearance -> Desktop Theme ",
+        "2- Click Get New Themes...",
+        "3- Install new theme and check it's installation by closing the GHNS window.",
+        "4- Open GHNS window again and click Uninstall for the theme you've just installed."
+    ],
+    "252645": [
+        "1. Enter credentials, save.",
+        "2. Wait 10 seconds, authentication window pops up.",
+        "3. Enter again, go back to 2."
+    ],
+    "252774": [
+        "1. Click on the \"Panel Tool Box\" (on the right corner of your panel)",
+        "2. Click and hold \"Screen Edge\"",
+        "3. Drag your panel to anywhere and see magic! do this a few times since the magic differs from time to time",
+        "4. Once done minimize/maximize a few windows for even more magic (they don't maximize/minimize to the panel anymore)"
+    ],
+    "252783": [
+        "1.) Place extra panel on secondary monitor",
+        "2.) Disable secondary monitor or reboot with it already disconnected.",
+        "3.) Observe that the secondary panel is now placed on primary monitor, overlapping the existing panel."
+    ],
+    "252959": [
+        "1) create a shortcut for opening the K menu;",
+        "2) set auto hide to panel that have the K menu plasmoid;",
+        "3) open the menu with the shortcut;"
+    ],
+    "252988": [
+        "1. Have a panel at the bottom of your screen.",
+        "2. Right click on it and then left click on \"Panel Options\" -> \"Add Widgets\"",
+        "3. Right click on it and then left click on \"Panel Options\" -> \"Remove this Panel\""
+    ],
+    "253197": [
+        "1: start a chat with someone.",
+        "2: make chat window not focused",
+        "3: have other person type a message"
+    ],
+    "253346": [
+        "0. Open Lancelot",
+        "1. Go to Documents",
+        "2. Choose one of you recently used documents(right column)"
+    ],
+    "253364": [
+        "1. Hide icons in the system tray.",
+        "2. Close one application."
+    ],
+    "253623": [
+        "1. Use KDE SC as normal. Especially with five or six windows on one desktop.",
+        "2. Change desktops."
+    ],
+    "253855": [
+        "1. Have some app's windows grouped in a taskbar",
+        "2. Press the window group's button to activate window list menu",
+        "3. Hover item at bottom of the list, wait for tooltip to appear"
+    ],
+    "253984": [
+        "1. Put a lancelot shelf on your desktop",
+        "2. Enable \"Show the Search Box\"",
+        "3. Do a search for something you know is available but gives multiple results (\"kma\" is a good choice on my computer)",
+        "4. Open any of the applications, either through clicking on it or by using the no-click interface"
+    ],
+    "253999": [
+        "1) Move mouse over pager's 1st desktop's rectangle.",
+        "2) Move the mouse out of the pager.",
+        "3) Move the pointer over 3rd desktop's rectangle.",
+        "4) Notice the 1st desktop's rectangle flashes for a short time."
+    ],
+    "254425": [
+        "1. Put a lancelot shelf on your desktop",
+        "2. Add enough items that it needs to scroll.  The more the better, since you might need to scroll for a little while to trigger this.",
+        "3. Put your mouse over an entry so it is highlighted",
+        "4. Scroll with your mouse scroll wheel quickly"
+    ],
+    "254642": [
+        "1. Create a vertical panel on the side of the screen.",
+        "2. Apply auto-hide feature.",
+        "3. Make sure Sliding popups option in Desktop effects is checked.",
+        "4. Make sure there is no window open under the panel's field, just the background.",
+        "4. Hover the mouse over the panel to begin the slide."
+    ],
+    "254643": [
+        "1. Create a vertical panel on the side of the screen.",
+        "2. Apply auto-hide feature.",
+        "3. Hover the mouse over the panel to begin the slide.",
+        "4. Repeat step 4 until a task in Task manager jumps one space rightwards."
+    ],
+    "254827": [
+        "1. Click the K to bring up the Kickoff application launcher.",
+        "2. Click or press right arrow to navigate to the Leave tab.",
+        "3. Type any of the words next to the icons on this tab."
+    ],
+    "254835": [
+        "1. Press Alt-F2 to bring up KRunner.",
+        "2. Type the name of a widget, such as Application Launcher, and press Enter to run it in a window.",
+        "3. Right-click the widget and choose <Widget Name> Settings.",
+        "4. Click the [Help] button in the widget's settings"
+    ],
+    "255345": [
+        "1) Maximize panel and put it to the top border",
+        "2) Logout",
+        "3) Login remotely (e.g. NX, VLC) with a smaller screen resolution",
+        "4) Logout remote session",
+        "5) Login locally"
+    ],
+    "255594": [
+        "1. Start KDE",
+        "2. Press ALT + SHIFT + F12 (compositing toggle)",
+        "3. Now you \"can\" see wrongly rendered parts in the plasma panels."
+    ],
+    "255849": [
+        "1) Use the menu editor to add a new menu item.",
+        "2) Try to search for it in the application launcher."
+    ],
+    "256073": [
+        "1. Set up \"Search & Launch\" activity.",
+        "2. Set up action on vertical mouse scroll (switch desktop for example)",
+        "3. Use vertical mouse scroll NOT on search input field."
+    ],
+    "256099": [
+        "1. Open netbook workspace (Search and Launch activity).",
+        "2. Set to show bookmarks (desktop settings -> main menu).",
+        "3. Add separators to bookmarks list (in bookmark editor).",
+        "4. Click on bookmarks entry on desktop."
+    ],
+    "256149": [
+        "1) Configure panels and widgets",
+        "2) Lock desktop",
+        "3) After some time, crash the computer or press Ctrl-Alt-Del to reset the X server"
+    ],
+    "256300": [
+        "1. Open Dashboard;",
+        "2. Right click -> Configure widget: Dashboard;",
+        "3. Open \"Activity\" screen; Select \"Type: Search and Run\";",
+        "4. Apply/Ok."
+    ],
+    "256590": [
+        "1. Enable Grouping:By Program Name and Sorting:By Desktop in taskbar",
+        "2. open some task on different virtual desktops",
+        "3. Get KeePassX, create a database and save it",
+        "4. Change to another virtual desktop"
+    ],
+    "257446": [
+        "1) Use nvidia-settings to set screen 2 as \"Separate X display\". Xinerama is turned off.",
+        "2) Double-check that KDE multiple-monitors control panel is appropriately unaware of second display.",
+        "3) start KDM and log in.",
+        "4) Try to run anything on display :0.1 (eg. xclock -display :0.1; fvwm --display :0.1)"
+    ],
+    "258052": [
+        "1. Start a Plasma session with one than more activity",
+        "2. Switch to a new activity using either the activity bar or the activity controller"
+    ],
+    "258392": [
+        "1. Start konsole from the K menu",
+        "2. In konsole, start a GUI instance of emacs",
+        "3. Right-click on desktop",
+        "4. Choose Activities",
+        "5. Rename current activity (\"New activity\") to \"Email\"",
+        "6. Create new activity, choosing \"Empty Desktop\" as a starting point",
+        "7. Rename that activity to \"Builds\"",
+        "8. Right-click on the titlebar of the emacs window",
+        "9. Select Activity->Email",
+        "10. Right-click on the titlebar of the konsole window",
+        "11. Select Activity->Builds",
+        "12. Stop the Email activity"
+    ],
+    "258397": [
+        "1. select a shareprovider with X-KDE-PlasmaShareProvider-MimeType=image/*;video/*;audio/* in imagebin",
+        "2. drag an audio file to pastebin"
+    ],
+    "258416": [
+        "1. Go to Activities from the desktop right-click menu",
+        "2. Click the wrench mini-icon on \"New Activity\" to rename it",
+        "3. Enter a new name, e.g. \"Email\"",
+        "4. Click Apply"
+    ],
+    "258467": [
+        "1) In multiple virtual desktops setting, virtual desktops, \"Switching\" tab, go to Actions for Desktop Switching and set \"Meta+Shift+Tab\" shortcut for \"Switch to Previous Desktop\"",
+        "2) press this shortcut"
+    ],
+    "258591": [
+        "1. Open lancelot.",
+        "2. Click right mouse button on favourite/other_shortcut to get pop-up.",
+        "3. Click on desktop."
+    ],
+    "258648": [
+        "1. Wait to notification to appear.",
+        "2. Click on notification button in tray.",
+        "3. Resize notification window.",
+        "4. Remove notification and  close that window.",
+        "5. Wait for new notifications to appear.",
+        "6. Click on notification button in tray."
+    ],
+    "258781": [
+        "1. Set krusader as default player for mp3.",
+        "2. Open any song by hitting enter in krusader (opening first instance of audacious)",
+        "3. Open any song by hitting enter in krusader => will cause this sittuation."
+    ],
+    "258785": [
+        "1. Start any game that changes the resolution (or change manually in the settings).",
+        "2. Change back to your original one, it must be higher than the temporary one.",
+        "3. Wait for something to notify you."
+    ],
+    "258823": [
+        "1) Turn blur effect on",
+        "2) Select Air Plasma Theme",
+        "3) Restart Plasma to get blur effect working (maybe not necessary)",
+        "4) Disable and re-enable desktop effects (default Alt+Shift+F12)"
+    ],
+    "259255": [
+        "1)drag and drop information panel from the main window",
+        "2)click on the dolphin icon in the kde application tray"
+    ],
+    "259335": [
+        "1. Dolphin -> Settings menu -> Configure dolphin -> Navigation tab.",
+        "2. Select 'double-click to open files/folders'.",
+        "3. Group a few files/folders in widget and attempt to drag drop with cursor to another folder view/dolphin file manager."
+    ],
+    "259410": [
+        "1) Right click on selected an application in kickoff and choose \"Add to Panel\" or \"Add to Desktop\"",
+        "2) Try to start application by clicking on icon in panel/desktop"
+    ],
+    "259595": [
+        "1) Add Web Browser applet to your panel.",
+        "1) Add Web Browser applet to your desktop",
+        "2) Move it to your panel"
+    ],
+    "259704": [
+        "1. Quit plasma",
+        "2. Remove ~/.kde4/share/config/plasma*",
+        "3. Enable the secondary monitor using nvidia-settings, in TwinView mode. Apply the settings. it's useful to keep nvidia-settings open, in its window menu also tick Advanced > Keep Above Others.",
+        "4. Start plasma",
+        "5. Add a new default panel, move this to the secondary monitor (not sure if this is actually necessary).",
+        "6. Quit plasma (kquitapp plasma-desktop)",
+        "7. Disable the secondary monitor in nvidia-settings, apply the settings.",
+        "8. Restart plasma.",
+        "9. Quit and restart plasma again.",
+        "10. You should now observe the behavior as described above, see screenshot 2."
+    ],
+    "260272": [
+        "1. In an already-configured activity, open up the activity controller",
+        "2. Choose to create a new activity, type \"Empty Desktop\"",
+        "3. Switch to the newly running activity"
+    ],
+    "260671": [
+        "1. Download the plasmoid from http://kde-look.org/content/show.php/ShortLog?content=123379",
+        "2. Install it",
+        "3. Add it to the desktop",
+        "4. Try to add a entry."
+    ],
+    "261113": [
+        "1) Have a systray (either in the panel or on the desktop",
+        "2) Change any configuration (hide an entry, remove a plasmoid ...) "
+    ],
+    "261182": [
+        "1) Load fresh kde",
+        "2) Configure a few things",
+        "3) Exit KDE",
+        "4) re-launch KDE"
+    ],
+    "261234": [
+        "1. right click on desktop -> desktop settings -> click 'open' to add a new wallpaper from say /home/user",
+        "2. select the new image and click apply",
+        "3. now go ahead and add a few more new images from /home/user",
+        "4. now remove all/some of the newly added images, after which you can see some duplicate wallpaper thumbnails. "
+    ],
+    "261239": [
+        "1. Launch some application (kate, for example)",
+        "2. Launch Dolphin",
+        "3. Drag a file from Dolphin to kate button on the tasskbar"
+    ],
+    "261967": [
+        "1. Set the desktop theme to Air",
+        "2. Add a Battery widget to your system tray and click it",
+        "3. Note text labels' visibility",
+        "4. Set the desktop theme to Oxygen",
+        "5. Click same Battery widget"
+    ],
+    "262351": [
+        "0. Make sure there are some elements in your Favorites list",
+        "1. Open Lancelot",
+        "2. Browser through application's categories(Development -> Web Development, for example)",
+        "3. Close Lancelot withOUT going back to Favorites",
+        "4. Open it again"
+    ],
+    "262487": [
+        "1. run any application (for example, Konsole)",
+        "2. click right mouse button on the Konsole's item in taskbar and enable \"Show A Launcher For Konsole When It Is Not Running\"",
+        "3. close Konsole"
+    ],
+    "262558": [
+        "1. Right click on one screen",
+        "2. Select Add Panel -> Default Panel",
+        "3. Right click on the other screen",
+        "4. Select Add Panel -> Default Panel"
+    ],
+    "262730": [
+        "1. Create two activities",
+        "2. open one window per activity.",
+        "3. switch activity"
+    ],
+    "262740": [
+        "1. Have a link on plasma desktop.",
+        "2. Open Settings",
+        "3. Navigate to \"General\" or \"Permissions\" tab and look for \"Links to\" input line."
+    ],
+    "262969": [
+        "1. Copy large folder from one drive to other in dolphin.",
+        "2. Job starts.",
+        "3. Click job notification icon.",
+        "4. This  shows dolphin copy progress.",
+        "5. click dolphin icon. This hides the details.",
+        "6. Click dolphin icon again."
+    ],
+    "263016": [
+        "1. Add a note to your desktop containment and type some lines",
+        "2. Open the configuration dialog",
+        "3. Select 'User defined color' and select another color",
+        "4. Click 'OK'"
+    ],
+    "263084": [
+        "1. Add CPU widget on desktop and close window where widgets listed.",
+        "2. Left click on desktop."
+    ],
+    "263104": [
+        "1. Select some multiline text in a terminal",
+        "2. Drag it to the desktop containment and drop it"
+    ],
+    "263143": [
+        "1. open add widget menu",
+        "2. change the widget category to another then \"All widgets\"",
+        "3. click on button \"download widgets from internet\""
+    ],
+    "263179": [
+        "1. Add a pager to desktop and make it very big",
+        "2. Place the mouse over virtual desktop icon",
+        "3. Take the mouse away from it"
+    ],
+    "263233": [
+        "1. Add device notifier plasmoid to the panel",
+        "2. Add device notifier plasmoid to the tray"
+    ],
+    "263452": [
+        "1) insert shelf applet in the KDE panel and add to it \"places\"",
+        "2) click on it or activate it with a predefine short key",
+        "3) try to use up and down arrow keys",
+        "4) try to press enter"
+    ],
+    "263454": [
+        "1) create a shelf applet on the panel, and add \"places\" to it",
+        "2) add a new place with dolphin",
+        "3) click on shelf applet"
+    ],
+    "263917": [
+        "1. Install Amarok 2.4.0",
+        "2. Install the Now Playing widget (i have installed it on the panel itself, but on the desktop the behaviour is similar)",
+        "3. Start ANY song in Amarok",
+        "4. Press the \"Pause\" button",
+        "5. Notice the result",
+        "6. Press the \"Play\" button",
+        "7. Notice the result",
+        "8. Resume the song from the Amarok context menu (or from the GUI itself)",
+        "9. Notice the result on the plasmoid",
+        "10. Click again on the Play button",
+        "11. Notice the result"
+    ],
+    "264140": [
+        "1. Enable desktop effects.",
+        "2. Reboot",
+        "3. Log in to your new nice desktop with an ugly square"
+    ],
+    "264359": [
+        "1) Open any application and cover it's window with a file",
+        "2) Now drag a file from the file manager to the Taskbar and"
+    ],
+    "264399": [
+        "1. Place the oldschool K menu plasmoid into an autohiding panel",
+        "2. Open the K menu by clicking on the plasmoid",
+        "3. Close the K menu"
+    ],
+    "264413": [
+        "1. Login to new account",
+        "2. Default desktop will have system tray with notification.",
+        "3. Logout"
+    ],
+    "264591": [
+        "1. In Folder View rearrange the icons.",
+        "2. Cut one of them."
+    ],
+    "264738": [
+        "4-5minutes. In the mean times, I loose plasma control (can't change desktop by",
+        "60 to 80 minutes after virtuoso-t running at 100% plasma-desktop start using",
+        "100% cpu too. Then crash (this backtrace) and restart properly."
+    ],
+    "264774": [
+        "1. Copy some text to clipboard",
+        "2. Use paste action to add note with this text",
+        "3. Logout and login again"
+    ],
+    "265087": [
+        "1. in Kopete - any contact -> properties -> adressbook link (change)",
+        "1. start Kopete"
+    ],
+    "265102": [
+        "1) Set your panel to \"autohide\"",
+        "2) Add \"konsoleprofiles\" widget",
+        "3) set a keyboard shortcut for the widget",
+        "4) launch the widgit with the keyboard shortcut"
+    ],
+    "265261": [
+        "1. Start with an external monitor connected (that has higher resolution than internal one)",
+        "2. Resize the panel to monitor's size",
+        "3. Restart with external monitor disconnected"
+    ],
+    "265357": [
+        "1. On KDE4 Plasma Desktop, press the increase brightness key.",
+        "2. The brightness is increased correctly, but the OSD is not displayed."
+    ],
+    "265467": [
+        "1. Switch to activity Develop or Administer",
+        "2. Display desktop grid by using ctrl + F8",
+        "3. Select a desktop in the grid"
+    ],
+    "265860": [
+        "1. LMB click on a clock widget to display calendar.",
+        "2. Press LMB but do not release it after pressing. (sometimes it is necessary to make usual LMB click and only then LMB click without releasing LMB)."
+    ],
+    "266088": [
+        "1) Create two or more activities",
+        "2) Make sure the desktop pager is on your panel, and in Pager Settings > Virtual Desktops select \"Different Widgets for Each Desktop\"",
+        "3) You may have to actually add some widgets",
+        "4) Reboot"
+    ],
+    "266332": [
+        "1. Open up a Website with Konqueror",
+        "2. Drag the favicon in front of the \"http://\" to either firefox or konqueror in your panel"
+    ],
+    "266405": [
+        "1) manually group applications in the task bar",
+        "2) switch to another desktop",
+        "3) switch back to the original desktop",
+        "4) the group which was manually created doesn't exist anymore."
+    ],
+    "266562": [
+        "1. Place a folderview widget on a desktop.",
+        "2. System Settings -> Input devices -> Mouse -> General -> Icons -> Select the  \"Double Click to open files and folders\" option and click \"Apply\" button.",
+        "3. Try to select and move any icon in the folderview widget."
+    ],
+    "266612": [
+        "1. Add Launchers to task manager.",
+        "2. Open/close few launchers."
+    ],
+    "267517": [
+        "1. Set taskbar to auto-hide",
+        "2. Wait for some application to mark it's taskbar entry as 'requesting attention'"
+    ],
+    "267700": [
+        "1- click on a plasmoid on the systray",
+        "2- move the mouse away"
+    ],
+    "267843": [
+        "1.) Add QuickAccess widget to panel",
+        "2.) Click on the widget in the panel",
+        "3.) While browsing the home folder using the widget, click \"Open: /home/username\" on the top.",
+        "4.) Notice that dolphin displays nothing.",
+        "5.) Press F5 to refresh folder and view folder contents"
+    ],
+    "268020": [
+        "1. plug in a LUKS encrypted usb-disk",
+        "2. click the device entry's \"unlock\"-button",
+        "4. enter password",
+        "5. click the device entry (not the \"unlock\"-button this time) to open Dolphin"
+    ],
+    "268326": [
+        "1. set-up multiple virtual-desktop environment",
+        "2. run an application",
+        "3. create launcher on taskbar (\"Show a launcher for ... when it is not running\") under advanced submenu on popup-menu of taskbar button",
+        "4. launcher will not be show (application is running)",
+        "5. move to another desktop, you will see launcher (applicaiton is not running on this desktop)",
+        "6. move back to application desktop, launcher is still visible",
+        "7. if this application has a tray icon click on it, launcher will dissapear"
+    ],
+    "268344": [
+        "1. Log in. ",
+        "2. Open desktop settings. ",
+        "3. Change some settings (such as enabling and disabling \"Disable functionality checks\"). ",
+        "4. Hit apply. ",
+        "5. Keep changing such settings and inducing a kwin/plasma reload until the problem shows up as in screenshot (note the white around bottom panel). Shouldn't take more than a few tries to manifest. "
+    ],
+    "268346": [
+        "1. Copy a large amount files from one location to another via dolphin, etc. ",
+        "2. During the copy operation, expand the file transfer status in the system tray.",
+        "3. Part of this behavior should be observed. ",
+        "4. Click on the \"expand\" button. The expand button may randomly reposition itself during this process. ",
+        "5. The status indicator will behave like a pile of Jell-O during a tremor ;)"
+    ],
+    "268347": [
+        "1. Transfer or copy a large amount of files from one place to another. ",
+        "2. During the process, expand plasma notifier's system tray progress indicator. ",
+        "3. None of the details are actually shown. "
+    ],
+    "268397": [
+        "1. Add LCD Weather Station Widget",
+        "2. Configure. Type \"saint paul\" in the blank.",
+        "3. Select \"Saint Paul, MN\" from the list (wettercom source).",
+        "4. Press OK. ",
+        "5. Observe errant behavior."
+    ],
+    "268400": [
+        "1. Add lancelot launcher widget to main panel. ",
+        "2. Install a new program (e.g. sudo apt-get install partitionmanager) OR change menu contents using KDE Menu Editor, etc.",
+        "3. Search the lancelot menu for the newly installed application or any changes made."
+    ],
+    "268411": [
+        "1. Open Widget Explorer. ",
+        "2. Add any widget. ",
+        "3. Go into the widget customization, navigate away (but not so that the explorer closes), cover up the explorer with a window, etc."
+    ],
+    "268437": [
+        "1. Add new page with desktop",
+        "2. click icon in left bottom corner"
+    ],
+    "268478": [
+        "1. Activate \"show dashboard\" with Ctrl + F12 in a multiscreen configuration.",
+        "2. Click the close button next to the title in the top of the first screen."
+    ],
+    "268543": [
+        "1. Add weather applet to systray",
+        "2. Click on the weather icon in the systray",
+        "3. Move the cursor outside of the area of the systray"
+    ],
+    "268597": [
+        "1. Start Kopete",
+        "2. Chat for a while, leave running for 15 minutes or longer.",
+        "3. Quit Kopete"
+    ],
+    "268777": [
+        "1) right click on a window title Select \"Activities\" choose \"All Activities\".",
+        "2) minimise/maximise the application. (if the pager is on a autohide panel just hide/unhide that panel)"
+    ],
+    "269032": [
+        "1) Open the program \"konsole\"",
+        "2) Right-click on the task-panel on it",
+        "3) Choose \"Advanced\" and then \"Show a launcher for konsole when it is not running\"",
+        "4) close konsole",
+        "5) start konsole by clicking on the new launcher",
+        "6) type in konsole the command \"exit\" (without quotes)"
+    ],
+    "269231": [
+        "1) External monitor is primary, displaying taskbar with full width",
+        "2) Shut down computer and reboot",
+        "3) Login and reactivate external monitor"
+    ],
+    "269242": [
+        "0 - put the plasma-keyboard widget either in the desktop or in the panel",
+        "1 - open konsole (or another aplication)",
+        "2 - click on the  plasma-keyboard widget keys, it takes the focus from the aplication and nothing is typed."
+    ],
+    "269327": [
+        "1. Open a libreoffice application, say libreoffice writer",
+        "2. Right-click on the task",
+        "3. Select \"Advanced\""
+    ],
+    "269388": [
+        "1. Open System Settings",
+        "2. Change the value",
+        "3. Press apply",
+        "4. Open System Settings again and notice the value is back to default"
+    ],
+    "269843": [
+        "1. create a small horizontal panel in the upper edge of the screen",
+        "2. set it to \"center\"",
+        "3. manualy move the center of it to the left; now the panel is offcentered like I wanted it to be",
+        "4. restart your computer"
+    ],
+    "270073": [
+        "1) add a new panel",
+        "2) set it's option so that \"Windows can cover\" it",
+        "3) test if it works",
+        "4) add some plasmoids",
+        "5) logout & login again",
+        "6) test"
+    ],
+    "270880": [
+        "1) Right click on your control panel and select \"settings for this control panel\"",
+        "2) Select the tab \"General\" and set the maximum amount of lines to \"2\" (or more)",
+        "3) Open any application and create a starter for it",
+        "4) Close this application",
+        "5) Open other applications, so the control panel expands into two lines",
+        "6) look at the starter you created in step 3)"
+    ],
+    "271155": [
+        "1. Change virtual desktop",
+        "2. Try to activate one of the auto-hide panels by moving the mouse to its screen edge."
+    ],
+    "271468": [
+        "1) Align panel to left side",
+        "2) Log out",
+        "3) Log in"
+    ],
+    "271533": [
+        "1. Run the testcase in the plasmoidviewer.",
+        "2. Click 'Test' button.",
+        "3. Rerun the testcase in the plasmoidviewer."
+    ],
+    "271784": [
+        "1. turn on autohiding taskbar",
+        "2. right after kde start",
+        "3. move mouse down to bottom of the screen.",
+        "4. move the mouse up to the top of the screen."
+    ],
+    "272006": [
+        "1) create a basic Python plasma runner ",
+        "2) call self.config().writeEntry('myKey', 'myValue')",
+        "3) open krunnerrc and search for the written data"
+    ],
+    "272371": [
+        "1. Unplug the power adapter and let the battery run down to some point.",
+        "2. Plug in the power adapter and allow the laptop to charge."
+    ],
+    "272492": [
+        "1. install network-manager plasmoid",
+        "2. show it",
+        "3. view list of wireless networks",
+        "4. click show more button",
+        "5. click show less button"
+    ],
+    "272605": [
+        "1. Click \"Reports\" in \"Actions\" (top left) and \"Old Charts\"",
+        "2. Select product \"plasma\" and \"NEW\" and \"WONTFIX\" datasets",
+        "3. Observe the trend of NEW and WONTFIX closely follow each other."
+    ],
+    "273143": [
+        "1. add the plasmoid for network traffic",
+        "2. watch the graph, in my case: in=blue, out=green",
+        "3. let it run for some time, e.g. >= 1 hour"
+    ],
+    "273378": [
+        "1) In a console, run:",
+        "2) Open the virtual Plasma keyboard",
+        "3) Press Caps Lock and look at characters in the virtual keyboard."
+    ],
+    "273448": [
+        "1. Connect to an unprotected WiFi network (i have only tried it with one)",
+        "2. Connect to a VPN using the network-manager widget (again, only one VPN tried)",
+        "3. Wait until plasma freezes",
+        "4. Kill plasma",
+        "5. Attempt to restart it from a console"
+    ],
+    "273762": [
+        "1. Switch on JoikuSpot on a smartphone",
+        "2. Switch on the WiFi card on PC",
+        "3. Open plasma widget and select the JoikuSpot WiFi network"
+    ],
+    "274020": [
+        "1) Add a window rule to open an application (e.g. firefox) on a given workspace",
+        "2) Switch to a different workspace",
+        "3) Open the application ",
+        "4) The window in the taskbar has the \"demands attention\" design  (flashes grey on Air theme) ",
+        "5) Activate this application (click on the taskbar entry) "
+    ],
+    "274172": [
+        "1. Start a GTK application which displays an icon in system tray",
+        "2. Configure the System Tray to hide that icon",
+        "3. Click on the arrow to display hidden icons - the bug occurs."
+    ],
+    "274711": [
+        "1. Open at least two windows.",
+        "2. Drag the taskbar entry for the inactive window a short distance (say 10 pixels)."
+    ],
+    "274984": [
+        "1. Create two panels.",
+        "2. Set the right one to have a maximum size that overlaps with the left one, but make sure its current size does not",
+        "3. Put a task manager widget in the left panel",
+        "4. Open enough windows that the left panel resizes"
+    ],
+    "275175": [
+        "1. create new user (or mv .kde(4) to .kde.old)",
+        "2. login using the new user ",
+        "3. we can see '...' 'dolphin' 'kfmclient' icons on panel/ taskbar",
+        "4. right-click on kfmclient launcher, and choose 'remove'",
+        "5. logout",
+        "6. re-login with the last username",
+        "7. kfmclient is back again"
+    ],
+    "275306": [
+        "1. If the widget is on the desktop, then delete it and add it to the desktop.",
+        "2. Observe the three tabs: Nearby, Friends, Messages.",
+        "3. Observe that no one is nearby.",
+        "4. Click the configuration button.",
+        "5. Observe your OpenDesktop.org username and obscured password.",
+        "6. Enter your location.",
+        "7. Observe that you can't publish it.",
+        "8. Click OK.",
+        "9. Observe that there are now three \"Friends\" tabs and three \"Messages\" tabs.",
+        "10. Click the configuration button.",
+        "11. Observe that there is neither username nor password.",
+        "12. Look at your location.",
+        "13. Observe that the \"Publish my location\" button is no longer disabled. ",
+        "14. Push the Publish button.",
+        "15. Observe that all of the tabs are still empty.  You can wait all day and nothing will change."
+    ],
+    "275464": [
+        "1. Be sure that \"Lock widgets\" option is active",
+        "2. Click and drag the notification's pop-up"
+    ],
+    "275664": [
+        "1) Set the following taskbar options:",
+        "2) Open a bunch of applications to fill up the taskbar.",
+        "3) Open another copy of any application whose taskbar entry is not the rightmost entry.  Assuming the taskbar is sufficiently full, this will trigger the taskbar widget to auto-group the two instances of the application."
+    ],
+    "275831": [
+        "1. KDE-panel is on bottom of the desktop",
+        "2. set the auto-hide-mode for it",
+        "3. start VirtualBox ",
+        "4. start a VM ",
+        "5. put the VM in full-screen-mode",
+        "6. position the mouse cursor in centered botton position"
+    ],
+    "275884": [
+        "0. Panel is transperency.",
+        "1. Disable or suspend compositing.",
+        "2. Enable or resume compositing."
+    ],
+    "275920": [
+        "1) configure an extra timezone for the digital clock",
+        "2) place a dark window where the popup will appear",
+        "3) hover over the clock so that the popup appears"
+    ],
+    "275971": [
+        "1) Open 1 or 2 programs, they should not be minimized..",
+        "2) Open Quassel( make sure that it supports minimizing to the system tray )",
+        "3) Minimize Quassel by first trying from its TaskManager entry and then from the tray icon.",
+        "4) Finally, try to minimize any other program, be clicking on the its TaskManager entry, then you will notice that they don't get minimized!"
+    ],
+    "276513": [
+        "1) Launch arbitrary application",
+        "2) Rightclick it in taskbar->Advanced->Show a Launcher for (app) when it is not running",
+        "3) Close the app, logout, login, the launcher appears in taskbar",
+        "4) Click the launcher",
+        "5) Close the application, the launcher will be gone"
+    ],
+    "276617": [
+        "1. Left click on the network-manager icon",
+        "2. Select \"Settings\"",
+        "3. Select the \"Wired\" tab"
+    ],
+    "276723": [
+        "1. Add an application to my favorites (or bookmarks) in plasma-netbook.",
+        "2. Logout and login",
+        "3. Remove the application you just added in my favorites",
+        "4. logout and login"
+    ],
+    "276886": [
+        "1. right-click on the an empty space on the desktop",
+        "2. in the first tab, open the \"background\" menu",
+        "3. select \"Globe\". if \"Globe\" is not available you must install \"plasma-wallpapers-addons\" package."
+    ],
+    "276932": [
+        "1. KDE 4.6 or before: open the Kickoff menu, switch to the \"Applications\" pane, and press the Down key. The cursor will move.",
+        "2. KDE 4.7: open the Kickoff menu, switch to the \"Applications\" pane, and press the Down key. The cursor won't move."
+    ],
+    "277010": [
+        "1. Start KDE with my configuration.",
+        "2. Wait a while for a few windows to open and close."
+    ],
+    "277019": [
+        "1. Start notebook with no external monitor (1152x864). Set main panel width to 100% (1152px).",
+        "2. Restart computer with external monitor attached."
+    ],
+    "277248": [
+        "1. create a new panel to the upper edge of the screen (2 panels exist now)",
+        "2. set the autohide option on both panels",
+        "3. open a non-KDE application, like xine (xine-ui package)",
+        "4. place the window, so that it actually touches the upper border of the screen",
+        "5. Try to unhide the panel by moving the cursor to the upper edge of the screen"
+    ],
+    "277367": [
+        "1. Desktop -> Add Panel -> Empty.",
+        "2. Cashew -> Add Widgets.",
+        "3. Select the System Tray and drag it there."
+    ],
+    "277467": [
+        "1. Unlock desktop",
+        "2. Set your desktop type to \"desktop\" or \"folder view\"",
+        "3. Add \"Folder view\" plasmoid",
+        "4. Hover mouse cursor above plasmoid"
+    ],
+    "277965": [
+        "1) Open the desktop pager settings",
+        "2) Set you want 1 desktop row",
+        "3) Set you want 5 desktops total",
+        "4) Click OK",
+        "5) Reboot and log in again",
+        "6) Go to the first desktop",
+        "7) Open a wwindow and place it to the bottom-left corner of the screen.",
+        "8) Cycle through desktops, to see results."
+    ],
+    "278240": [
+        "1 Install a comic,",
+        "2 enable it",
+        "3 remove it"
+    ],
+    "278696": [
+        "1. install kde 4.7.0",
+        "2. remove the dolphin and browser launcher shortcuts from taskbar"
+    ],
+    "278710": [
+        "1) click the button",
+        "2) activities chooser opens at the bottom of the screen (not parallel to the vertical panel, but okay)",
+        "3) move the mouse over the screen, touch another window"
+    ],
+    "278771": [
+        "1. Zoom a large comic by pressing the middle button  (SMBC has many of those).",
+        "2. Scroll to the bottom.",
+        "3. Now select another comic, which is smaller.",
+        "4. Zoom."
+    ],
+    "278910": [
+        "1. Add at least one launcher to the task manager",
+        "2. Increase the height of the panel",
+        "3. Open the task manager applet settings",
+        "4. Set the number of rows to 2 or more",
+        "5. Set \"force row settings\" to true"
+    ],
+    "279316": [
+        "1. Connect wire modem to wireless router",
+        "2. Connect to wireless router",
+        "3. Hang the modem (I don't know what it exactly means, but it causes 1 or 2 red lights to blink on the router)"
+    ],
+    "279361": [
+        "1) Set taskbar row count to 2.",
+        "2) Open 4 windows"
+    ],
+    "279367": [
+        "1) Open \"Desktop settings\" dialog which appears by clicking \"Desktop settings\" menu entry in the popup menu that appears when you right-click on the plasma desktop.",
+        "2) Choose a new background image, and press \"apply\".",
+        "3) Before the fading in/out completes, click \"ok\" button."
+    ],
+    "279427": [
+        "1. Set a non UTC timezone as your timezone",
+        "2. Add an event to korganizer",
+        "3. Set Calendar/Clock widget to show events"
+    ],
+    "279434": [
+        "1. set locale to Zh_CN.UTF-8",
+        "2. start plasma-desktop."
+    ],
+    "279536": [
+        "1. Add a microblogging widget",
+        "2. Configure a twitter account",
+        "3. Log-out / Log-in"
+    ],
+    "279564": [
+        "1. Mount a slow USB storage device",
+        "2. Copy a large file to it",
+        "3. As soon as the copy finishes, click on Safely Remove"
+    ],
+    "279689": [
+        "1. Open kickoff (Alt+F1)",
+        "2. Press Right (or hover mouse ober Applications tab)",
+        "3. Use up/down keys to navigate select items in menu"
+    ],
+    "279935": [
+        "1- Insert CD-live of Kubuntu 11.04",
+        "2- Choose Try Kubuntu 11.04",
+        "3- \"K\" Kickoff Application Launcher / System Settings / Application Appearance / Fonts / General : /  Choose : set it to 22"
+    ],
+    "279979": [
+        "1. Setup dual monitors  (1920x1080 (vga, left of dvi, main/primary) + 1680x1050 (dvi))",
+        "2. Setup 2nd taskbar on the dvi monitor (unknown if necessary step)",
+        "3. logout -> crash of plasma"
+    ],
+    "280222": [
+        "1. Add Digital Clock to panel",
+        "2. Click the Digital Clock (open expander)",
+        "3. Open Digital Clock settings ",
+        "4. In Calendar section: disable all calendars and uncheck show events.",
+        "5. Drag the extender out of place and release it over firefox (for example)"
+    ],
+    "280223": [
+        "1. Plug laptop to AC",
+        "2. Manually reduce brightness.",
+        "3. Click battery widget placed in the panel."
+    ],
+    "280748": [
+        "1. Make a notification display.",
+        "2. While the first is displaying, cause another notification to occur."
+    ],
+    "280877": [
+        "1. Enable display of events in the plasma widget",
+        "2. Go to KOrganizer and delete a recurring event"
+    ],
+    "281280": [
+        "1. Unplug laptop.",
+        "2. Wait for battery to almost run out (5% = 0 bars displayed for example).",
+        "3. Plug laptop",
+        "4. Wait for 1 bar to appear"
+    ],
+    "281372": [
+        "1. Look at the Documents section of the Recently Used tab of Kickoff.",
+        "2. Right-click in that section.",
+        "3. Click on the \"Clear Recent Documents\" item."
+    ],
+    "281406": [
+        "1/ Log into desktop",
+        "2/ Watch your systray"
+    ],
+    "281788": [
+        "1. Disable nepomuk/strigi at all",
+        "2. Reboot computer",
+        "3. Wait 2 mins for 2 warning notifications come up crying because of disabled nepomuk"
+    ],
+    "281954": [
+        "1. mount a nfs share ",
+        "2. from nfs server simply stop nfs service or shutdown  the server"
+    ],
+    "282574": [
+        "1. Open the cashew.",
+        "2. Click on the \"Lock Widgets\" (\"Unlock Widgets\") element a couple of times in a row."
+    ],
+    "283063": [
+        "1. Move the panel to the left edge",
+        "2. Logout",
+        "3. Login"
+    ],
+    "283181": [
+        "1) Log in to a clean desktop session with no programs displayed in the task manager (if necessary).",
+        "2) Enable System Settings -> Workspace Behavior -> Screen Edges -> Switch desktop on edge: Only When Moving Windows.",
+        "3) Launch Dolphin on desktop 1.",
+        "4) Drag Dolphin to desktop 2.",
+        "5) Close Dolphin.",
+        "6) Go back to desktop 1 and launch another instance of Dolphin.  You will notice a space to the left of Dolphin's taskbar entry."
+    ],
+    "283282": [
+        "1. Open a program, for example Geany or Vuze.",
+        "2. Right-click on the application in the taskbar, choose \"Show a launcher for Geany when it is not running.\"",
+        "3. Close the application. The launcher appears on the Taskbar.",
+        "4. Click on the launcher. Enjoy the error message."
+    ],
+    "283285": [
+        "1. Open Freemind or Google Earth.",
+        "2. Right click on the application on the taskbar, select advanced.",
+        "3. There is no option to show a launcher."
+    ],
+    "283453": [
+        "1. Have a widget on your desktop, e.g. folderview, note, \u2026",
+        "2. Open some window and place it so it halfway covers the right half of the widget",
+        "3. Hover over the widget and then move your mouse to that window without leaving the widget"
+    ],
+    "283653": [
+        "1) Customize your current activity, for example change wallpaper and add plasmoids.",
+        "2) Open systemsettings.",
+        "3) Go to \"Workspace Behavior | Virtual Desktops\", check \"Different widgets for each desktop\", and apply changes."
+    ],
+    "283795": [
+        "1. Edit Lancelot configuration",
+        "2. Try to let lancelot open application sections itself."
+    ],
+    "283949": [
+        "1. set up akregator to display tray icon, make this tray icon always visible",
+        "2. set up at least 2 virtal desktops",
+        "3. force akregator on second virtual desktop",
+        "4. run akregator",
+        "5. make sure at least one taskmanager widget is available on current setting and is is configured as in bug details",
+        "6. switch to 1st virutal desktop",
+        "7. open 5 konsole instances",
+        "8. click on akregator systray icon, you should be moved to 2nd VD",
+        "9. click on akregator systray icon, akregator should get hidden",
+        "10. switch to 1st virtual desktop, taskbar should have one empty rectangle at begining",
+        "11. repeat 8-9-10 to make this effect more visible"
+    ],
+    "284116": [
+        "1. Open Digital Clock Settings.",
+        "2. Select the \"General\" page.",
+        "3. Set \"Speak time\" to 1 or 2."
+    ],
+    "284345": [
+        "1. Configure more than one desktop in the pager or \"System Settings\" > \"Workspace Behavior\" > \"Virtual Desktops\".",
+        "2. Configure a window rule in \"System Settings\" > \"Window Behavior\" > \"Window Rules\". For example, let Firefox forced to open on Desktop 2.",
+        "3. Switch to the other desktop which is not specified in step 2.",
+        "4. Open new windows. (For example, run Firefox several times)"
+    ],
+    "284350": [
+        "1. Open konqueror web browser from the KE menu",
+        "2, Create a task launcher from the taskbar right-click menu",
+        "3. Click on it",
+        "1. Click on the default browser task launcher (on a fresh system)"
+    ],
+    "284422": [
+        "1. Connect external monitor and get its xrandr name.",
+        "2. export EXTERNAL=<name of the external output>",
+        "3. Find out resolution of external monitor",
+        "4. xrandr  --output $EXTERNAL --auto --pos 0x0 \\",
+        "5. Ensure you have a top panel on internal output",
+        "5. Maximize a window on internal output"
+    ],
+    "284628": [
+        "1. Start konqueror launcher.",
+        "2. Close konqueror.",
+        "3. Start konqueror launcher again."
+    ],
+    "285116": [
+        "1. Open Kontact",
+        "2. Open firefox",
+        "3. Open a couple of xterms",
+        "4. Open a few emacs (or something else that will group)",
+        "5. Open a new mail message from kontact."
+    ],
+    "285355": [
+        "1. set your clock on the (bottom)panel right",
+        "2. set a theme like bluesore or fredo ",
+        "3. click on the clock widget to open the calendar"
+    ],
+    "285362": [
+        "1. Start the System",
+        "2. Click one of your clocks in the panel"
+    ],
+    "285401": [
+        "1. Open Kickoff menu.",
+        "2. Go to some of submenus.",
+        "3. Notice that there's no Back button at the left side of the menu anymore."
+    ],
+    "285436": [
+        "1) Use digital clock in default format (hh:mm, no seconds).",
+        "2) Suspend, wait some time (2 minutes is ok).",
+        "3) Resume. You should resume on time, when the minute just begins, but you can just do several random tries.",
+        "4) Look at the time the digital clock shows.",
+        "5) Hower the clock with mouse. Look at the time in the tooltip."
+    ],
+    "285626": [
+        "1. open the activities list",
+        "2. drag a task from the task manager to the activities list",
+        "3. drop the task on an activity"
+    ],
+    "285861": [
+        "1. Click the cashew on the taskbar and select from \"Add Widgets --> Categories --> Environment and Weather\"",
+        "2. Click 'n drag the \"weather forecast plasmoid\" on to the desktop"
+    ],
+    "285956": [
+        "1. Set Window Behavior: Window Behavior: Focus: Policy to \"Focus Strictly Under Mouse\"",
+        "2. Set focus delay to non-zero value",
+        "3. Click the plasma logo on any panel",
+        "4. Click More Settings",
+        "5. Mouse over the More Settings Menu"
+    ],
+    "286201": [
+        "1. Add the timer widget to the desktop or dashboard.",
+        "2. Right click the widget."
+    ],
+    "286394": [
+        "1. Open Get New Themes from Get New Themes Button",
+        "2. Install any theme.",
+        "3. once the theme is installed it will display Uninstall button at that moment press \"Close\"",
+        "4. try to find theme in the list. the new theme is not there"
+    ],
+    "286426": [
+        "1. Open one application several times, such that the windows are grouped in the task bar.",
+        "2. Left click on the group",
+        "3. Then right click on the window you want to move",
+        "4. Select Move"
+    ],
+    "286765": [
+        "1. Be in the \"Search and Launch\" activity.",
+        "2. Be sure that the center mouse button is configured to \"Paste\" in the Plasma Desktop Shell.",
+        "3. Click the center button anywhere on the desktop background."
+    ],
+    "286937": [
+        "1. Open a program (e.g. firefox)",
+        "2. Close the program",
+        "3. Program instance still in taskbar after close"
+    ],
+    "287377": [
+        "1) launch thunderbird with italian locale",
+        "2) right click on taskbar entry"
+    ],
+    "287902": [
+        "1. Unlock the widgets",
+        "2. Pop up the kde menu",
+        "3. Right-click a folder menu-item (top-level like \"Tools\", or sub-menu like",
+        "4. Hit the \"Add to Panel\" item",
+        "5. Check the functionality of the panel item thus created"
+    ],
+    "287927": [
+        "1. Have at least two activities running.",
+        "2. Start Chromium on one activity.",
+        "3. Make sure Chromium has the \"Use system title bar and borders\" option deactivated.",
+        "4. Switch from one activity to another."
+    ],
+    "288195": [
+        "1. Right-click --> Configure any widget in the System Tray (Network Manager widget, Battery Monitor or New Device Notifier are all in the tray by default)",
+        "2. Click, \"Shortcut\"",
+        "3. Set a shortcut for the widget, click, \"OK\"",
+        "4. Test the shortcut",
+        "5. Restart plasma-*",
+        "6. Test the shortcut again"
+    ],
+    "288253": [
+        "1. Place widget to monitor RAM on panel",
+        "2. Resize (change width) the panel or turn off/on the effects"
+    ],
+    "288857": [
+        "1) kill plasma-desktop",
+        "2) restart plasma-desktop again",
+        "3) try to logout/reboot/shutdown"
+    ],
+    "289101": [
+        "1. Log to fresh KDE4",
+        "2. Add new panel at the top",
+        "3. Add to this panel Main menu, some app luncher, some spaces, Folder View, clock and tray",
+        "4. Set this panel to auto hide",
+        "5. Log out and log in",
+        "6. Open Dolphin, Opera or Gimp"
+    ],
+    "289139": [
+        "1. Run Plasma with x-test.",
+        "2. Add Icon-only task manager into panel or desktop.",
+        "3. Go into its settings."
+    ],
+    "289211": [
+        "1. Use x-test",
+        "2. Add Icon-only task manager",
+        "3. Go into its settings"
+    ],
+    "289523": [
+        "1. Right click desktop.",
+        "2. Press \"Add widgets\".",
+        "3. Try to type something."
+    ],
+    "289563": [
+        "1. Plug some device (e.g. usb thumb drive). Mount it or not isn't matter. Popup would be showed.",
+        "2. Wait for two minutes. Popup is shown again. (But no ne devices has been plugged)",
+        "3. Repeat step 2 ;)"
+    ],
+    "289647": [
+        "1. Copy the following text (it ends in a whitespace)",
+        "2. Paste it using the 'kde' engine to the pastebin applet",
+        "3. It works",
+        "4. Add a single character to the previous text, so copy the following text:",
+        "4. Paste it using the 'kde' engine to the pastebin applet"
+    ],
+    "289696": [
+        "1. Discharge the battery of your mobile computer",
+        "2. Connect the power cord",
+        "3. Watch on the KDE battery monitor widget after an amount of time"
+    ],
+    "289705": [
+        "1.) Open System Settings",
+        "2.) Open \"Workspace Behavior\"",
+        "3.) Click on \"Virtual Desktops\"",
+        "4.) Enable \"Different Widgets for each desktop\"",
+        "5.) All your plasmoids are now deleted from all workspaces/activities",
+        "6.) Go to add a plasmoid, and notice the ones that were cleared still have a checkmark as if they are still there"
+    ],
+    "289868": [
+        "1.) Set up desktop to folder view/desktop folder.",
+        "2.) Try to manually arrange an icon, it won't let you."
+    ],
+    "289943": [
+        "1. add lancelot-shelf or notes plasma applet to panel",
+        "2. assign hotkey to applet (like Alt+F9)",
+        "3. press 'Alt+F9'"
+    ],
+    "290026": [
+        "1. Create a launcher for an application (e.g. Google Chrome)",
+        "2. Click the launcher"
+    ],
+    "290063": [
+        "1) fresh install kubuntu 11.10 32bit",
+        "2) log in with the netbook workspace mode",
+        "3) click the lock screen button on the top bar OR ctr+alt+L OR right click+lockscreen",
+        "4) screen lock does not work"
+    ],
+    "290095": [
+        "1. With Grouping Desktop installed and blur enabled, select \"Add panel | Grouping panel\" in your desktop context menu.",
+        "2. Move a window behind a normal panel. The window contents will be blurred.",
+        "3. Move the same window behind the newly created Grouping Panel. The window contents won't be blurred."
+    ],
+    "290229": [
+        "1. insert usb hard disk",
+        "2. mount via device notifier",
+        "3. press \"safely remove\" in the notifier"
+    ],
+    "290368": [
+        "1. Go to an application on the K menu and drag it to the desktop, or",
+        "2. Right-click on an application on the K menu and choose \"Add to Desktop\"."
+    ],
+    "290616": [
+        "1. Make sure the widget\u2019s hide policy is set to Auto",
+        "2. Clear your notification history",
+        "3. Open krunner and type \u201ckdialog --passivepopup \"test\"\u201d"
+    ],
+    "290666": [
+        "1. Mount a folder with NFS",
+        "2. put a *.desktop file into it",
+        "3. open the folder with dolphin"
+    ],
+    "290694": [
+        "1. Have a folder view on your desktop.",
+        "2. Apply a new desktop theme, or modify any of the theme items related to folder views (translucent background, widget background, color scheme...)"
+    ],
+    "290862": [
+        "1, Insert a LUKS encrypted USB memory stick",
+        "2. Click mount button on device notifier pop-up",
+        "3. Enter password to unencrypt device",
+        "4. Device is mounted, and mount button changes to an eject button. Tooltip says not safe to remove device (OK so far...)",
+        "5. Click eject button on device notifier menu",
+        "6. Device notifier shows a blue tick suggesting device has been ejected, but device entry remains on the pop-up menu with an eject button, tooltip says not safe to remove device and *Device is not unmounted*"
+    ],
+    "290885": [
+        "1. With the Air theme applied, insert or connect a USB device or an optical disc.",
+        "2. Remove the device.",
+        "3. Insert or connect the device again."
+    ],
+    "291221": [
+        "1) Right click desktop, unlock widgets if locked",
+        "2) Choose \"Add widget\" from context menu",
+        "3) \"Add widget\" bar appears. Notice the blinking cursor in the search field in the upper left corner",
+        "4) type something -> nothing happens",
+        "5) left-click the search field",
+        "6) type something -> normal search behaviour"
+    ],
+    "291856": [
+        "1. Start firefox.",
+        "2. Install a new GUI program using urpmi (it happens with \"urpmi manaplus\" for example.)",
+        "3. Return to the existing Firefox or start one in a new virtual desktop."
+    ],
+    "292105": [
+        "1 - Buy two monitors with different resolutions :)",
+        "2 - Activate dashboard with independent elements.",
+        "3 - Add elements to the dashboard.",
+        "5 - profit :)"
+    ],
+    "292718": [
+        "1) open dolphin",
+        "2) drag a folder on the plasma desktop (in an area with no widgets)",
+        "3) plasma offers 'Folder View' or 'Icon', choose 'Folder View'",
+        "4) crash"
+    ],
+    "292798": [
+        "1) set non default wallpaper",
+        "2) set non default kdm theme"
+    ],
+    "292886": [
+        "1. open plasmoid",
+        "3. profit"
+    ],
+    "292929": [
+        "1. Add the \"Konqueror Profiles\" plasmoid onto desktop",
+        "2. Choose any profile, say, \"Web Browsing\""
+    ],
+    "293061": [
+        "1. Create a directory shortcut by dragging a directory from Dolphin to the desktop background and choose \"icon\" on pop-up menu presented when doing so. ",
+        "2. Click on the icon just created."
+    ],
+    "293168": [
+        "1. Configure the workspace to provide multiple virtual desktops.",
+        "2. Configure shortcut keys to switch between them.",
+        "3. Work for a while in one desktop and then switch to another using shortcut"
+    ],
+    "293805": [
+        "1. Open Firefox",
+        "2. Open Kopete",
+        "3. Open Konsole",
+        "4. Close Konsole"
+    ],
+    "293847": [
+        "1. Add the calculator widget to the desktop.  I usually set mine to a somewhat narrow width, but I'm not sure if this makes a difference or not.  Observe how the buttons appear.",
+        "2. Log out and back in."
+    ],
+    "293857": [
+        "1. Create two activity",
+        "2. stop one of them and re-login",
+        "3. start the stopped activity.",
+        "4. stop the activity again."
+    ],
+    "293989": [
+        "1. Have some window that has focus",
+        "2. Right click on the desktop"
+    ],
+    "294256": [
+        "1) Plag in usb flash drive",
+        "2) Open dolphin through device notifier"
+    ],
+    "294345": [
+        "1. Start Desktop Settings/Grouping Desktop Settings/ Grid Dsktop Settings/or whatever.",
+        "2. Open a new image to set as wallpaper.",
+        "3. Press Apply button.",
+        "4. Press OK button."
+    ],
+    "297878": [
+        "1. Share plasmoid (for example now playing) on remote host",
+        "2. Browse with dolpin to remote host",
+        "3. Click on remote plasmoid"
+    ],
+    "297920": [
+        "1.Put the auto hide option in the panel",
+        "2.Play a full screen youtube video",
+        "3.Try to modify the volume or exit full screen..."
+    ],
+    "297995": [
+        "1. Add an app to your favorites in kicker",
+        "2. Uninstall it",
+        "3. Check kicker's favorites."
+    ],
+    "298262": [
+        "1. Open gmail-widget for configuration",
+        "2. It doesn't save and close when Ok is selected",
+        "3. Nothing happens"
+    ],
+    "298531": [
+        "1. Set Folderview as your desktop layout",
+        "2. Put some icons (maybe this is happeing only if you arrange the icons starting with top-left corner to downside?)",
+        "3. Log out and then log in"
+    ],
+    "298805": [
+        "1. Start an MSOffice 2007 app, e.g. Word2007",
+        "2. Notice that you cannot use the titlebar to reach the context menu to change activity",
+        "3. Right click the app on the panel. There is possibility to change virtual desktop, but no chance to change activity",
+        "4. Change activity. The app is still visible. It is on all activities."
+    ],
+    "298835": [
+        "1. Play a song with Amarok",
+        "2. Click on the 'next song' button"
+    ],
+    "298906": [
+        "1. Change some window settings from the Settings panel",
+        "2. Logout",
+        "3. Login again"
+    ],
+    "299255": [
+        "1. log into kde",
+        "2. lock screen, leave system idle for a time period",
+        "3. unlock screen"
+    ],
+    "299263": [
+        "1. Open System Tray preferences.",
+        "2. Go to Entries.",
+        "3. Set all entries to hidden.",
+        "4. After some time of usage, see how some items are superseding others."
+    ],
+    "299290": [
+        "1.Setup 2 activities 'A' and 'B'",
+        "2) Open two apps X and Y in activity 'A'",
+        "3) Right click on taskbar icon of 'X' and select 'Show launcher when not running' ",
+        "4)Close the app.and allow Y running",
+        "4) Switch to activity 'B'"
+    ],
+    "299593": [
+        "1.click",
+        "2.type",
+        "3.enjoy"
+    ],
+    "299612": [
+        "1. Add new comic widget",
+        "2. Add two comix ",
+        "3. Enable \"Actual si\u017ce\" for the first one",
+        "4. Resize the widget to fit the comic strip",
+        "5. Switch to the seccond comic",
+        "6. Switch back to the first comic"
+    ],
+    "299965": [
+        "1. Choose a folder to display in the bookmark widget",
+        "2. Sort bookmarks via keditbookmarks"
+    ],
+    "299978": [
+        "1.Start KDE",
+        "2.Enter userid and password",
+        "3.click OK"
+    ],
+    "300005": [
+        "1.crash plasma-desktop",
+        "2.run again plasma-desktop"
+    ],
+    "300299": [
+        "1. Got OSX Gtk+ theme installed and selected. http://gnome-look.org/content/show.php/OSX-Tiger+theme?content=56577",
+        "2. Cairo-dock installed",
+        "3. I don't know."
+    ],
+    "300772": [
+        "1. hit alt+f2 for \"run command\"",
+        "2. type something",
+        "3. background is black, font is black -- illegible and hard to use"
+    ],
+    "300840": [
+        "1. Right-click device notifier in system tray and choose Configure Device Notifier",
+        "2. Go to Removable Devices tab",
+        "3. Check \"Enable automatic mounting of removable devices\" and click Ok",
+        "4. Open the configuration dialog of the device notifier again and check the Removable Devices tab"
+    ],
+    "301192": [
+        "1. have some notification",
+        "2. use the applet to show the list of notification history",
+        "3. drag one of them above the \"title bar\""
+    ],
+    "301236": [
+        "1. Have a battery",
+        "2. Have KDE 4.9 Beta 1",
+        "3. Have the battery applet  (in systray here)"
+    ],
+    "301374": [
+        "1. Add the Now Playing widget to your desktop",
+        "2. Resize it in a way that it's taller than wide"
+    ],
+    "301382": [
+        "1. Add a panel to the bottom of your screen",
+        "2. Right click on the desktop and click \"Add Widget\"",
+        "3. Try to use the scrollbar in the widget explorer"
+    ],
+    "301402": [
+        "1. Add the device notifier widget to your desktop",
+        "2. Insert a device (e.g. a USB key) and wait for it to appear on the widget",
+        "3. Resize the widget",
+        "4. Inner box doesn't have the correct width",
+        "5. Unplug the device (and any other devices that might show up in the widget) and plug it in again",
+        "6. The box has the correct size again"
+    ],
+    "301425": [
+        "1.Resize",
+        "2.Resize",
+        "3.Keep going!"
+    ],
+    "301427": [
+        "1. Add the Now Playing widget to your desktop",
+        "2. Play a song in Amarok",
+        "3. Stop it using the stop button on the Now Playing widget",
+        "4. Track should slowly start fading out, but you won't notice it for the first few seconds",
+        "5. Click the button a second time",
+        "6. Track stops immediately"
+    ],
+    "301430": [
+        "1.Make the applet smaller",
+        "2.Until is looks strange",
+        "3.Keep going until it is gone"
+    ],
+    "301431": [
+        "1.Make a vertical panel",
+        "2.Add a activity bar plasmoid"
+    ],
+    "301459": [
+        "1. filter category",
+        "2. search ",
+        "3. search again for a diff widget that's in a diff category"
+    ],
+    "301467": [
+        "1. Add the NowPlaying widget to your desktop",
+        "2. Resize the widget to the minimal size",
+        "3. Hover above  with the mouse"
+    ],
+    "301522": [
+        "1. Add the widget to your desktop or a horizontal panel",
+        "2. Resize the widget (or the panel, respectively) vertically to make it taller.",
+        "3. Try to switch activities by clicking on the lower part of a button on the widget"
+    ],
+    "301527": [
+        "1. Add Activities widget to the desktop",
+        "2. Scale it down as much as possible"
+    ],
+    "301531": [
+        "1. Add the comics widget to your desktop",
+        "2. Add a few comics",
+        "3. Select a comic which is not as wide as the tab bar with the comic names"
+    ],
+    "301656": [
+        "1. Open the widget explorer with \"Add Widgets...\"",
+        "2. Browse the widgets"
+    ],
+    "301659": [
+        "1. Place plamsa panel at left edge and set it to autohide",
+        "2. activate kwin Desktop grid with 2+ desktop (in one line)",
+        "3. activate swith desktop on edge always enable",
+        "4. navigate between desktops and windows",
+        "5. try to access the panel by touching the screen edge"
+    ],
+    "301660": [
+        "1.Browse the widgets in the widget explorer",
+        "2.Find an applet with \"Uninstall\" button in its tooltip",
+        "3.Click on \"Uninstall\""
+    ],
+    "301668": [
+        "1.press kdebutton in the left bottom corner",
+        "2. type 'ter' into the search field",
+        "3. press the down arrow key"
+    ],
+    "301673": [
+        "1. Add Task Manager widget to your desktop",
+        "2. Scale it down as much as possible"
+    ],
+    "301674": [
+        "1. Add the Binary Clock widget to your desktop",
+        "2. Scale it down as far as possible"
+    ],
+    "301676": [
+        "1. Add the File Watcher widget to your desktop",
+        "2. Scale it down as far as possible"
+    ],
+    "301706": [
+        "1. Open enought firefox instances in order to create a group. On each instance browse to a website.",
+        "2. Right-click on the group on the task manger."
+    ],
+    "301779": [
+        "1.Place the Leave a Note applet on the desktop",
+        "2.Scale it down"
+    ],
+    "301815": [
+        "1. Right-click on battery icon.",
+        "2. Select Battery Monitor Settings.",
+        "3. Check the box for \"Show Time Remaining.\""
+    ],
+    "301877": [
+        "1. update to 4.9 beta 2",
+        "2. put the battery plasmoid in system tray",
+        "3. reduce the size of the panel until the battery icon stops scaling"
+    ],
+    "301904": [
+        "1. Add Microblogging widget to your desktop",
+        "2. Click the Configure button",
+        "3. Enter your Twitter credentials",
+        "4. Grant access to KWallet"
+    ],
+    "301971": [
+        "1.link a file to a specific activity",
+        "2.add folderview to that activity",
+        "3.setup folderview to only show activity-related files (the one file show up)",
+        "4.perform system restart",
+        "5.system starts in the last activity and folderview is empty",
+        "6.switch to another activity",
+        "7.switch back and you will see the file show up again"
+    ],
+    "302100": [
+        "1. Configure device notifier icon to \"auto hide\"",
+        "2. Remove any hotplug devices"
+    ],
+    "302106": [
+        "1. Add a digital clock widget to your panel",
+        "2. Open the System Settings and change something (doesn't really matter what)",
+        "3. Click the clock widget to bring up the calendar table"
+    ],
+    "302198": [
+        "1. Before upgrading to 4.8.90, add xkcd as one of the comics.",
+        "2. Upgrade to 4.8.90",
+        "3. Select xkcd in the comic widget"
+    ],
+    "302231": [
+        "1. Fiddle with apps that add/remove icons to the system tray.",
+        "2. Remove system tray applet from the panel.",
+        "3. Add system tray applet to the panel. Repeat steps 2-3 to see the system tray grow."
+    ],
+    "302260": [
+        "1. Open \"Add widgets\"",
+        "2. Start typing"
+    ],
+    "302267": [
+        "1. Configure the microblogging applet with the twitter account credentials",
+        "2. Refresh the timeline"
+    ],
+    "302282": [
+        "1. Start KDE with single screen.",
+        "2. Move the default panel from the bottom edge to the right edge (and set it to \"always visible\" if it wasn't already).",
+        "3. Connect another screen to your computer.",
+        "4. Configure the second screen to expand your desktop on the right (with system settings or xrandr).",
+        "5. Maximize a window on the screen where the panel is."
+    ],
+    "302331": [
+        "1.link a file to an activity",
+        "2.add folderview widget to the desktop of this activity",
+        "3.setup folderview to show files of current activity"
+    ],
+    "302347": [
+        "1. Add the battery applet to systray",
+        "2. Configure it to be auto-hidden (should be the default) ",
+        "3. Charge it 100%"
+    ],
+    "302383": [
+        "1. Click 'New Activity' button from desktop",
+        "2. Try pressing 'ESC' key to dismiss the context menu or cancel the process",
+        "3. Or try clicking other area of the screen"
+    ],
+    "302515": [
+        "1. Click on button in the top-right corner of the screen (not sure about the name, but you know what I mean)",
+        "2. Select \"Activities\"",
+        "3. Click on the wrench icon next to an activity to be edited",
+        "4. Click on activity icon, a window to select new icon will popup",
+        "5. Select any icon, selected icon will be shown in the edit state of the activity",
+        "6. Now click on the apply button"
+    ],
+    "302636": [
+        "1. click toolbox (cashew) from panel",
+        "2. click 'add widgets' button",
+        "3. search for 'black board' widget by mouse scrolling"
+    ],
+    "302645": [
+        "1. Move the Cashew to the top-right",
+        "2. Lock widgets",
+        "3. Resize the screen (or switch to an external one)"
+    ],
+    "302890": [
+        "1. notify-send - 'a >'",
+        "2. notify-send - '&gt; &lt;'",
+        "3. notify-send - '&gt;'"
+    ],
+    "302900": [
+        "1. Make sure your window focus is set to follow the mouse, instead of being activated my click only.",
+        "2. Right-click on the desktop, select 'Add widgets' entry.",
+        "3. Widget list appears on the bottom",
+        "4. Move the mouse cursor to any open application"
+    ],
+    "302914": [
+        "1. Press Alt-F1 to open kickoff",
+        "2. enter a search term",
+        "3. try arrow-down / arrow-up"
+    ],
+    "302958": [
+        "1. Add a calendar (or a digital clock) widget",
+        "2. Open config dialog and go to the Calendar tab",
+        "3. Make any change and click OK"
+    ],
+    "303088": [
+        "1.  Add new music to a folder scanned by Amarok --- e.g. in my case, music transferred from an mp3 device to /home/user/Music",
+        "2.  Launch the Now Playing widget",
+        "3.  Open Amarok, update your local music collection, and begin playing any of the new tracks from an album whose artwork is automatically detected.  Do NOT select the artwork manually."
+    ],
+    "303132": [
+        "1. Open Kickoff",
+        "2. Enter some search terms",
+        "3. Try up/down arrow keys to navigate the results"
+    ],
+    "303162": [
+        "1.Install dolphin emulator",
+        "2.Add only task widget to the plasma desktop",
+        "3.Add a launcher for dolphin (file manager) and a launcher for dolphin emulator on only task widget",
+        "4.Click over any of them, the other one will disappear."
+    ],
+    "303325": [
+        "1. Digital Clock Settings -> Time Zones -> select \"Berlin\"",
+        "2. Select \"Clock defaults to\" equals \"Local\"",
+        "3. hold mouse over digital clock"
+    ],
+    "303500": [
+        "1. Klick on the Kickstarter -> Application",
+        "2. Right Klick on a sub menu like \"Graphics\" and choose \"add to panel\"",
+        "3. Click on the new button and the application menu pop's up"
+    ],
+    "303519": [
+        "1. Activate grouping by program name, open kmail and a composer window so they become grouped in the taskbar",
+        "2. Try to drag a file from dolphin to the composer task item in the group task popup"
+    ],
+    "303533": [
+        "0. Use a netbook or any other device with a TN display. Look from different angles. Try looking a little from top (common case for notebooks).",
+        "1. Use default colorscheme and plasma theme in KDE 4.8.97.",
+        "2. Open kate full-screen.",
+        "3. Change the volume using keyboard shortcuts.",
+        "4. Open any other plasmoid tooltip with a meter (like networkmanager)."
+    ],
+    "303561": [
+        "1.  Create project that uses library that also uses keywords like slots etc. (for example QtGstreamer) ",
+        "2. Add Plasma::ToolButton",
+        "3. Try to compile it"
+    ],
+    "303846": [
+        "1. Set Focus Follows Mouse",
+        "2. Open the list of Activities",
+        "3. Activities list/panel disappears"
+    ],
+    "303847": [
+        "1. Start Amarok in an Activity",
+        "2. Open a new Activity",
+        "3. Try to open Amarok in the new activity and I am pulled into the old one"
+    ],
+    "303874": [
+        "1. Open Kickoff",
+        "2. Start search",
+        "3. Press down to select the relevant entry"
+    ],
+    "303884": [
+        "1. Install Kubuntu 12.04 and modify activities (and symbols)",
+        "2. Upgrade all packages",
+        "3. Try to modify activity-symbols"
+    ],
+    "303920": [
+        "1. Set panels to auto hide",
+        "2. Run any application in full screen mode",
+        "3. Try to opereate on the window in full screen in areas dedicated for panels to show."
+    ],
+    "304019": [
+        "1. Add a new activity (e.g. \"Empty Desktop\")",
+        "2. Switch back to the old activity and stop the new one",
+        "3. Click \"Delete\" on the new one, but don't confirm directly by clicking \"Remove\". Instead watch what's happening"
+    ],
+    "304091": [
+        "1. System Settings \u2192Input Devices \u2192 Layouts \u2192Show layout indicator (and \"Show for single layout\" if necessary).",
+        "2. Right click on system tray \u2192 System Tray Settings \u2192 Keyboard Layout."
+    ],
+    "304459": [
+        "1. Upgrade to 4.9.0",
+        "2. Start plasma-desktop",
+        "3. wait some time"
+    ],
+    "304510": [
+        "1. Start KDE",
+        "2. Click on battery symbol in system tray",
+        "3. Battery plasmoid with battery info slides out"
+    ],
+    "304702": [
+        "1. install aquarium",
+        "2. let it work a while",
+        "3. errors start to happen"
+    ],
+    "304706": [
+        "1. Suspend laptop with automatic screen locking;",
+        "2. Resume."
+    ],
+    "304845": [
+        "1. Create a new activity.",
+        "2. Go to another activity.",
+        "3. Try to remove the activity created in (1)."
+    ],
+    "304941": [
+        "1. Plug in USB flash drive & mount it",
+        "2. Open device notifier via its system tray icon",
+        "3. Click the eject button for the USB flash drive"
+    ],
+    "305008": [
+        "1. Easiest way: downsize panel to something close to 24px",
+        "2. Go to systray setting and toggle visibility of device-notifier icon (always/never)"
+    ],
+    "305049": [
+        "1. Put a DVD in the drive",
+        "2. Mount it, use it... no matter",
+        "3. Click the unmount button on the device notifier"
+    ],
+    "305055": [
+        "1. Play a movie with vlc in fullscreen mode in one of the monitors.",
+        "2. Click on a program's Task Manager icon/title on the other monitor to open/maximize the program.",
+        "3. Try to minimize the program clicking on the same spot (not the minimize/maximize/close icons in the right upper corner of the program)."
+    ],
+    "305497": [
+        "1. Activate panel autohide",
+        "2. Launch application in fullscreen mode",
+        "3. Click on place where panel should be"
+    ],
+    "305744": [
+        "1. suspend",
+        "2. resume"
+    ],
+    "305973": [
+        "1. click on the digital clock widget",
+        "2. click into the date field (dd/MM/YY) on the bottom of the calendar",
+        "3. type in '14' as value for the year in the date field"
+    ],
+    "306414": [
+        "1. add a pager to desktop",
+        "2. make it larger",
+        "3. restart plasma"
+    ],
+    "306738": [
+        "1. add widget-pager",
+        "2. restart KDE 4.8.5"
+    ],
+    "306753": [
+        "1. Switch to a locale other than English.",
+        "2. Log out.",
+        "3. Log in."
+    ],
+    "306762": [
+        "1. Add a new clock to the panel",
+        "2. Open its configuration window",
+        "3. Disable showing the calendar events",
+        "4. Hit \"Ok\"",
+        "5. Click the clock."
+    ],
+    "306797": [
+        "1. Open a few windows (you can just open several Dolphin instances.)",
+        "2. Open a LibreOffice application (like Writer.)",
+        "3. Close the LibreOffice application."
+    ],
+    "306798": [
+        "1. Click on a desktop icon.",
+        "2. Click on an application window."
+    ],
+    "306866": [
+        "1. Put the FolderView widget onto the panel.",
+        "2. Change in settings of it /home folder for any othed folder with big number of items.",
+        "3. See the displaying of this folder."
+    ],
+    "306885": [
+        "1. Create a directory \"$HOME/Desktop/games\"",
+        "2. Copy the shortcut of a game into that directory (for example KMines).",
+        "3. Create a \"gaming\" activity and switch to it.",
+        "4. Create a folder view on the desktop.",
+        "5. Configure the folder view to point to \"$HOME/Desktop/games\" instead of the regular desktop folder"
+    ],
+    "306952": [
+        "1. Suspend to ram",
+        "2. Wake the laptop up"
+    ],
+    "307271": [
+        "1. Add a comic widget and setup up xkcd for it (default settings for the rest)",
+        "2. Log out",
+        "3. Log back in",
+        "4. Hover the comic widget"
+    ],
+    "307506": [
+        "1.Create a QML plasmoid which main Item is a TextArea",
+        "2.Assign the following properties:",
+        "3. Run it"
+    ],
+    "307823": [
+        "1. Open Kickoff menu",
+        "2. Start typing something (like \"konso\")",
+        "3. Press \"Down Arrow\" key."
+    ],
+    "307891": [
+        "1. Open the activitymanager.",
+        "2. Look at the right edge: \"Create activity...\" and \"Add widgets\""
+    ],
+    "307927": [
+        "1. Set the network management icon to \"hidden\" in the system tray settings settings.",
+        "2. Log off and back into KDE.",
+        "3. Click the system tray expander to see the hidden tray icons."
+    ],
+    "307998": [
+        "1. Put Analog Clock Widget on desktop",
+        "2. Reboot or logout",
+        "3. Notice that it is gone"
+    ],
+    "307999": [
+        "1. Add an analog clock widget to your desktop.",
+        "2. Try resizing slowly until the noted problem occurs."
+    ],
+    "308024": [
+        "1. Setup a panel on the right side of the primary output, set it to \"always visible\"",
+        "2. Add a second output to the right side of the the primary output (so that the panel is at the common edge)",
+        "3. Maximize a window on each output"
+    ],
+    "308028": [
+        "1. Configure notifications to show jobs",
+        "2. Start a job (e.g. file transfer)",
+        "3. Look at the popup"
+    ],
+    "308100": [
+        "1. Install ksuperkey",
+        "2. Press to bring up Launcher menu while using Classic style",
+        "3. Press second time to hide launcher menu"
+    ],
+    "308134": [
+        "1. The blur effect is active",
+        "2. open cashew menu"
+    ],
+    "308723": [
+        "1. Let picture frame load landscape oriented picture",
+        "2. Let picture frame load portrait oriented picture"
+    ],
+    "308989": [
+        "1. Configure the notifications in Plasma *not* to show the file transfers",
+        "2. Start a file transfer"
+    ],
+    "309115": [
+        "1. Add analog clock widget to desktop. Set show seconds hand.",
+        "2. Logout/in."
+    ],
+    "309530": [
+        "1. Create xorg.conf containing \"Virtual\" directive",
+        "2. Start KDE"
+    ],
+    "309903": [
+        "1. Remove a launcher from the taskbar",
+        "2. Reboot (or logout + login)"
+    ],
+    "310166": [
+        "1. Open kickstart menu",
+        "2. Navigate using arrows.",
+        "3. Go to list end in \"Applications\" using up or down arrow."
+    ],
+    "310167": [
+        "1. Have multihead setup.",
+        "2. Disconnect primary monitor."
+    ],
+    "310282": [
+        "1. new shelf widget",
+        "2. add folder"
+    ],
+    "310473": [
+        "1. Open Wolfram Mathematica (or any program that creates windows with NULL X11 res_class) ",
+        "2. Right-click on the window's icon on icon-only task manager plasmoid and select \"Show A launcher when not running\"",
+        "3. Close the window",
+        "4. Reopen the program"
+    ],
+    "310475": [
+        "1. Configure the Pager to have 2 rows and to show applications' icons.",
+        "2. Drag an application from one desktop to the other, using the pager."
+    ],
+    "310489": [
+        "1.put the systray plasmoid in a horizontal panel",
+        "2.reduce the panel height"
+    ],
+    "310587": [
+        "1. Have entry in the systray with auto-hide on  (battery and notification are good candiates)",
+        "2. Either set a keyboard shortcut or other way to open the popup without clicking on the icon",
+        "3. Open the popup"
+    ],
+    "310589": [
+        "1. Have notification in system tray",
+        "2. Create a random notification",
+        "3. Create a second one"
+    ],
+    "310595": [
+        "1. Set room type to folder view",
+        "2. Go to tab view and set midle icons size",
+        "3. Sort icons on your desktop",
+        "4. Try to increase/decrease icons size",
+        "5. Icons will be piled up"
+    ],
+    "310762": [
+        "1. Open kickoff and drag any application, such as systemsettings or dolphin, onto your workspace (make sure widgets are unlocked)",
+        "2. Click the icon that got created"
+    ],
+    "310875": [
+        "1. Have a large (rendered-screen-estate-wise) html file with a http-equiv=refresh set to a few seconds.",
+        "2. Load it in webslice."
+    ],
+    "311010": [
+        "1.from battery-widget in taskbar change brightness to 20",
+        "2.wait for about 20 seconds "
+    ],
+    "311052": [
+        "1. Change to using Air plasma theme.",
+        "2.  Do any operation.",
+        "3.  Try reading the answer."
+    ],
+    "311053": [
+        "1. Put  calculator in panel.",
+        "2. Launch the calculator.",
+        "3. Try to read the buttons."
+    ],
+    "311169": [
+        "1. install kde 4.10beta2",
+        "2. login with your user"
+    ],
+    "311413": [
+        "1. kdialog --passivepopup \"test\"",
+        "2. Click the X on the resulting popup"
+    ],
+    "311436": [
+        "1.Do something that causes a notification to appear",
+        "2.Click on the 'x'"
+    ],
+    "311502": [
+        "1. Install the new Air theme by updating git",
+        "2. Show tooltips as in default settings",
+        "3. Hover with the mouse on an app in the task manager",
+        "4. Tooltip appears",
+        "5. Leave the tooltip with the mouse"
+    ],
+    "311842": [
+        "1. Add a FolderView widget to the desktop",
+        "2. Resize it and position it somewhere on the screen",
+        "3. Restart"
+    ],
+    "311892": [
+        "1.open a website in konqueror",
+        "2. drag the favicon to the desktop and select icon. Now we have a shortcut.",
+        "3. click it."
+    ],
+    "311900": [
+        "1. Select a background image",
+        "2. Click OK (preferably with the keyboard to do it fast) while the new image is fading in."
+    ],
+    "311961": [
+        "1. Get an application to put an icon in the systray (easy ones: kmail or kteatime)",
+        "2. Try several mouse actions like hovering or clicking"
+    ],
+    "311989": [
+        "1. Start one or more applications with System Tray icons, like Kmix and Klipper",
+        "2. Induce a crash in plasma (in my case, the crashes seem to be related to my starting and stopping of activties using the Miniweb plasmoid: http://opendesktop.org/content/show.php?content=138924)"
+    ],
+    "312002": [
+        "1.open many window in at least two applications",
+        "2. look at the taskbar"
+    ],
+    "312031": [
+        "1. Pin Dolphin to task manager (create task launcher)",
+        "2. Open some windows until task manager adds new row",
+        "3. See task launcher occupies too much space for button"
+    ],
+    "312056": [
+        "1. I already",
+        "2. described",
+        "3. it."
+    ],
+    "312075": [
+        "1. Unlock widgets",
+        "2. Add Paste to the system Tray",
+        "3. Log out",
+        "4. Log in"
+    ],
+    "312227": [
+        "1. Start KDE Without the battery inserted",
+        "2. Insert the battery"
+    ],
+    "312234": [
+        "1. start kopete or any application that generates a notification popup. in case of kopete, wait till one of your buddies goes online.",
+        "2. try to move/drag the notification popup."
+    ],
+    "312352": [
+        "1. start a application",
+        "2. change the activity",
+        "3. start another application"
+    ],
+    "312596": [
+        "1. Turn on your PC",
+        "2. You can work as much as you want or go to the step \"3\" right away.",
+        "3. Copy any file and try to paste it on your desktop ONLY using keypad: CTRL+V"
+    ],
+    "312647": [
+        "1. Use new air theme",
+        "2. Have pager applet in your panel (or desktop) ",
+        "3. Switch to any virtual desktop"
+    ],
+    "312684": [
+        "1. set number of virtual desktops to 1",
+        "2. windows and desktop outline is not shown in widget",
+        "3. adding additional virtual desktop restores correct widget display (with two or more virtual desktops), removing all but one leads always to this bug "
+    ],
+    "312792": [
+        "1. Launch a wine-based application",
+        "2. Create a launcher in the task manager using the \"Show a launcher when not running\" in the application's entry's context menu",
+        "3. Quit the application",
+        "4. Click the newly created launcher"
+    ],
+    "312920": [
+        "1.disable filetransfers and jobs in the notifiaction widget configuration",
+        "2.kquitapp plasma-desktop",
+        "3.plasma-desktop"
+    ],
+    "313065": [
+        "1. Add \"IM Presence status widget on plasma panel\"",
+        "2. Move cursor to the widget an wait until tooltip appears"
+    ],
+    "313259": [
+        "1. Open several Dolphin instances (e.g.: 5)",
+        "2. Go to Task Manager Settings > General > Grouping and Sorting",
+        "3. Unchek \"Only when the taskbar is full\" and Apply"
+    ],
+    "313319": [
+        "1. Create a new Search & Launch activity",
+        "2. Open the activity manager"
+    ],
+    "313367": [
+        "1. Put a \"Now playing\" widget on a panel with a small vertical height.",
+        "2. Open the widget preferences and untick \"Display artist\" and \"Display album\"."
+    ],
+    "313408": [
+        "1. Click on kickoff menu",
+        "2. Right click on submenu games",
+        "3. Select add to panel"
+    ],
+    "313440": [
+        "1. open amarok and play a song",
+        "2. when the notificationpopup pops up, change the track "
+    ],
+    "313534": [
+        "1. Choose Air theme with oxygen decoration.",
+        "2. From panel settings, locate the panel on the top edge of the screen.",
+        "3. Open up an application and move it under the screen."
+    ],
+    "313631": [
+        "1. Add a PopupApplet to the system tray (example: printer applet from print-manager)",
+        "2. Set as many icons as possible in the system tray to status \"Hidden\""
+    ],
+    "313657": [
+        "1. Open a dozen or so programs to fill the task bar.",
+        "2. Set the panel height to be just big enough to trigger two rows of icons.",
+        "3. Lock widgets. Look at the task manager entry for the window which is currently active."
+    ],
+    "313663": [
+        "1. Create a systray plasma applet",
+        "2. Through the System Tray Widget Settings dialog add a Device Notifier in the Extra Items area",
+        "3. In the same window, switch to Entries and set Device Notifier to Hidden"
+    ],
+    "313696": [
+        "1. create a new Photo Activity",
+        "2. click \"run selected\""
+    ],
+    "313729": [
+        "1. Install an OS with KDE4.",
+        "2. Try to set a gradient and then picture/slideshow or other second feature on it."
+    ],
+    "313734": [
+        "1. Define some profiles in konsole",
+        "2. place the \"konsole profiles\" widget into the main panel.",
+        "3. Define a hotkey to open the widget in the \"konsole profiles\" widget Settings.",
+        "4. Open the widget via the hotkey and open a konsole window with any of the profiles by pressing return.",
+        "5. Open the widget via the hotkey and open a konsole window with any of the profiles by left clicking it with the mouse.",
+        "6. Open the widget via the hotkey. The highlighting bar has disappeared. You do not see which menu item is active (at least as long the mouse cursor is not hovering above the widget menu).",
+        "7. If it cannot be reproduced retry 4. - 7."
+    ],
+    "313803": [
+        "1. Start xrestop",
+        "2. Notice the plasma-desktop \"Pxm mem\" and/or \"Total\" values, observe them to be steady",
+        "3. Start VMWare and launch a VM (in my case, Windows 7 Pro 64-bit, but happens on a Windows XP 32-bit image, or even just sitting in the 'BIOS' screen you get from F2 before the OS loads)",
+        "4. Observe the xrestop fields again, and notice that they are increasing (in my case, ~4 KB/sec)"
+    ],
+    "313870": [
+        "1. Unlock desktop widgets",
+        "2. Add now playing plasmoid to a panel",
+        "3. See that there isn't buttons and check the play/pause issue"
+    ],
+    "313922": [
+        "1. Have a notification appear (e.g. copy a file large enough to make a notification appear.)",
+        "2. When the notification comes up, close it with the X in the upper right corner."
+    ],
+    "313940": [
+        "1. Create a folderview gadget (by default no title is shown)",
+        "2. Enter settings -> Display tab.",
+        "3. Choose a title viewing option (e.g. Default)",
+        "4. Click Apply or OK."
+    ],
+    "313951": [
+        "1.Install all the 9999   kde-meta package ",
+        "2.start kdm"
+    ],
+    "314071": [
+        "1. Create an empty \"packages\" directory in $KDEHOME/share/apps/plasma",
+        "2. Restart Plasma",
+        "3. Open the Widgets Explorer"
+    ],
+    "314172": [
+        "1. Log in to desktop with classic menu enabled",
+        "2. Open the menu and browse a submenu, hover on an item",
+        "3. Wait"
+    ],
+    "314207": [
+        "1. insert more than one battery.",
+        "2. Select \"show percentage for each battery installed\""
+    ],
+    "314220": [
+        "1.play track Amarok",
+        "2. click next track button"
+    ],
+    "314480": [
+        "1. Translate kde-workspace/plasma_package_org.kde.desktop.activitymanager. po file",
+        "2. Build and install translations",
+        "3. Click on activity selector button next to Kickoff Launcher"
+    ],
+    "314683": [
+        "1. Make notification bubble appear(via notify-send or any other way)",
+        "2. Right click on it, to move"
+    ],
+    "314702": [
+        "1. Have a systray at the bottom on a naked desktop",
+        "2. Hover Mouse over tray icons, see where the popup appears",
+        "3. Start a Terminal maximize it",
+        "4. Hover Mouse over tray icons again see where the popups appear"
+    ],
+    "314703": [
+        "1. Have a systray at the bottom on a naked desktop",
+        "2. Hover Mouse over tray icons, see where the popup appears",
+        "3. Start a Terminal maximize it",
+        "4. Hover Mouse over tray icons again see where the popups appear"
+    ],
+    "314708": [
+        "1. Close all windows and applikations on the desktop.",
+        "2. In a standard bottom panel, hover a systemtray-icon like Klipper or KMix with the mouse.",
+        "3. Watch their tooltips going to the top of the screen."
+    ],
+    "314814": [
+        "1. Right-click desktop and click and \"Add Widgets\"",
+        "2. Add the lock/logout widget",
+        "3. Right click the widget and click \"Lock/Logout settings\"",
+        "4.  Make sure the following are ticked...",
+        "5. Press OK",
+        "6. Click suspend button on widget."
+    ],
+    "314839": [
+        "1.Start Amarok (or DeadBeef) and play some music or change tracks.",
+        "2.Click on notification popup (showing track info etc) and try to snap it to desktop corners."
+    ],
+    "314881": [
+        "1. Tick \"Only show tasks from the current activity\" in Task Manager settings.",
+        "2. Log out.",
+        "3. Log in."
+    ],
+    "314905": [
+        "1. Add the lockout plasmoid to the desktop/panel.",
+        "2. Configure to show the Sleep (suspend to RAM) button.",
+        "3. Click the button."
+    ],
+    "314919": [
+        "1. Start some application ((he)xchat for example) that has blinking systray icon.",
+        "2. Make the icon blink",
+        "3. Watch plasma-desktop memory usage in xrestop."
+    ],
+    "314973": [
+        "1. Start KDE",
+        "2. Click on \"show hidden icons\" button in system tray"
+    ],
+    "315065": [
+        "1. Attach a USB pen drive",
+        "2. Wait for device notifier to pop up with the usual options",
+        "3. Nothing happens"
+    ],
+    "315119": [
+        "1. Put the \"Memory Status\" widget and the \"System Load Viewer\" widget in a panel.",
+        "2. Reboot"
+    ],
+    "315399": [
+        "1. Click on the arrow to show hidden icons",
+        "2. Don't move your mouse"
+    ],
+    "315402": [
+        "1. Use \"search and run\" as desktop layout",
+        "2. restart"
+    ],
+    "315483": [
+        "1. log in with battery in laptop",
+        "2. remove battery while charging",
+        "3. log out the user",
+        "4. log in with no battery (only AC)",
+        "5. reinsert the battery"
+    ],
+    "315551": [
+        "1. Add the Calendar widget and LCD Weather Widget that comes with Linux Mint 14 KDE version. This is important that those are installed and running first so you can see how it corrupts the boarders after update.",
+        "2. Upgrade Linux Mint 14 KDE version to KDE 4.10 using the steps in http://forums.linuxmint.com/viewtopic.php?f=109&t=124912#p684113",
+        "3. Reboot and then try to resize the calendar widget, hover over the Kickoff button, click the Kickoff button and you'll see again, the borders are a problem.",
+        "4. Remove the Kickoff button from the bottom panel and re-add it. Click on the Kickoff button and the borders are ok. But hover over the button and the borders are corrupt.",
+        "5. Remove and re-add the calendar widget. Now remove the daily notifications and then go to your country and select \"none\" for the type of calendar in the bottom scroll box. This makes the calendar just the monthly calendar. Now try to resize it. You'll see there is corruption on the corners and it becomes more transparent."
+    ],
+    "315608": [
+        "1. Turn  desktop effects on, make sure transparency  and desktop grid effects are enabled.",
+        "2. Change theme to one with transparent osd background",
+        "3. Adjust volume or screen brightness to make OSD appear.",
+        "4. Show desktop grid."
+    ],
+    "315739": [
+        "1. Run non-kde applications",
+        "2. Switch in between activities"
+    ],
+    "315935": [
+        "1. Place the KDE calculator widget on the desktop",
+        "2. Try to compute \"60*60*24=\"",
+        "3. Press AC",
+        "4. Try to compute \"1+2+4+5\""
+    ],
+    "316013": [
+        "1. Launch Libreoffice Writer in K menu (of any other program from Libreoffice)",
+        "2. right-click on icon of this program on taskbar (panel) and check Show A Launcher When Not Running.",
+        "3. Close Libreoffice. LibreOffice Writer's icon appears near other icons in the left bottom corner of a screen.",
+        "4. Click on this icon - Writer not launched but appears a window with suggestion to choose a program to open a file /usr/lib64/libreoffice/program/soffice.bin"
+    ],
+    "316108": [
+        "1. 2 monitors connected. a plasma panel on each monitor. a task manager on each panel.",
+        "2. enable \"only show tasks from current screen\" in both task manager settings.",
+        "3. open a window on each screen and maximize it. ",
+        "4. see that both windows are listed in each task manager.",
+        "5. resize the windows to make the msmaller. ",
+        "6. see that the windows are listed correctly in the task managers (1 window in its correspondent task manager.)"
+    ],
+    "316135": [
+        "1. Create a vertical panel",
+        "2. Add the color picker widget",
+        "3. Look at its placement"
+    ],
+    "316193": [
+        "1. enable paste-plugin in the system tray",
+        "2. restart plasma-desktop, should fail, black screen",
+        "3. disabling paste plugin in plasma-desktop-appletsrc",
+        "4. restart plasma-desktop, should work"
+    ],
+    "316577": [
+        "1. Access pager settings (right click on any Pager \u2192 Pager settings)",
+        "2. Check 'Display icons' and click OK"
+    ],
+    "316847": [
+        "1. Go to Pager settings -> Virtual desktops",
+        "2. Set only one virtual desktop",
+        "3. Apply"
+    ],
+    "317135": [
+        "1. Add \"Activity Bar\" to a KDE panel.",
+        "2. Switch between two activty",
+        "3. Notice that the widget expands up to use all available space"
+    ],
+    "317304": [
+        "1.Start the Laptop",
+        "2.Login",
+        "3.ta-da!"
+    ],
+    "317547": [
+        "1. Create side panel with notification icon.",
+        "2. Trigger notification."
+    ],
+    "317615": [
+        "1. Log into KDE.",
+        "2. The file icons from folder view may be absent"
+    ],
+    "317678": [
+        "1. Mount a NFS share",
+        "2. Copy a large file to the share"
+    ],
+    "317680": [
+        "1. Create shelf with favorite applications",
+        "2. Open shelf and launch one application"
+    ],
+    "317684": [
+        "1. Make sure that the Notifications widget is in the KDE plasma system tray",
+        "2. At a command prompt, use 'notify-send' to generate a notification in your session. (e.g. notify-send \"Testing Popup Bug\")",
+        "3. When the popup appears, click the X to dismiss it."
+    ],
+    "317727": [
+        "1. Open console.",
+        "2. Execute:"
+    ],
+    "318000": [
+        "1. Start laptop, unplug AC",
+        "2. Suspend",
+        "3. Resume"
+    ],
+    "318127": [
+        "1.Take a look at Xorg cpu usage",
+        "2. start big file transfer that results in little spinning thing in systray",
+        "3. take a look at Xorg cpu usage"
+    ],
+    "318504": [
+        "1. Set default value of entry of type Color to 0,0,0,50 or #10000000;",
+        "2. Load this value to KColorButton that has enabled alpha channel."
+    ],
+    "318539": [
+        "1. Click Kickoff application launcher.",
+        "2. Drop an application to the desktop."
+    ],
+    "318542": [
+        "1.Open Kadu.",
+        "2.Open Spotify Client.",
+        "3.Open Some other app - example web browser. Wait for crash. "
+    ],
+    "318636": [
+        "1. Install xrestop",
+        "2. start xrestop",
+        "3. search for plasma and write down the number of \"Pxms\" used by plasma",
+        "4. quit xrestop (q)",
+        "5. Trigger a Plasma tooltip by e.g. hovering over the clock",
+        "6. start xrestop again",
+        "7. compare number of \"Pxms\" with the previous one. It should have increased by eight"
+    ],
+    "318849": [
+        "1. Switch to a free desktop.",
+        "2. Open an app that can be switched to the fullscreen mode (i tried konsole, QtCreator and VLC).",
+        "3. Switch to another desktop.",
+        "4. Do some stuff with the panel (just one click on it is enough).",
+        "5. Switch back to the desktop with the fullscreened app."
+    ],
+    "318892": [
+        "1. Look at pager on the taskbar.",
+        "2. Verify that \"Display icons\" is set."
+    ],
+    "318976": [
+        "1. Place a Memory widget and a System Load Viewer widget on your desktop.",
+        "2. Make sure that the memory widget is positioned above the load viewer and to its right.",
+        "3. Shut down the plasma-desktop process and start it up again"
+    ],
+    "319231": [
+        "1. Add two or more virtual desktops in settings",
+        "2. Add pager widget into Panel"
+    ],
+    "319510": [
+        "1. Reboot the box",
+        "2. Log in on a different terminal and startx",
+        "3. Connect to the internet and the plasma-desktop is automatically restored on the first terminal",
+        "4. Restart the linux box",
+        "5. On boot up, the KDE plasma-desktop crashes."
+    ],
+    "319677": [
+        "1. Run with laptop screen.",
+        "2. plug HDMI display. Correctly is laptop screen disabled and HDMI display is main.",
+        "3. Get some notification"
+    ],
+    "319840": [
+        "1. Set up two monitors with different resolution",
+        "2. Set the monitors to be aligned at the bottom, rather than the top",
+        "3. Configure a control panel in \"always visible\" mode to be shown at the top edge of the smaller screen.",
+        "4. Open a window on the smaller screen",
+        "5. Maximize that window"
+    ],
+    "320115": [
+        "1. Add an 2nd panel",
+        "2. Set it to a vertical position",
+        "3. Overlapping occurs in the 1st panel"
+    ],
+    "320183": [
+        "1. Add a panel to the top.",
+        "2. Set that panel to auto-hide.",
+        "3. Launch Firefox and get in fullscreen mode (F11).",
+        "4. Try to access the tabs bar. (Not expected)",
+        "5. Now remove the auto-hide feature on the KDE panel.",
+        "6. Repeat 3 and 4. (Expected)"
+    ],
+    "320332": [
+        "1. Login to KDE",
+        "2. Pager invisible with a space where it should appear",
+        "3. Right-click then add or remove VD.",
+        "4. VD Pager widget reappears and is operable"
+    ],
+    "320342": [
+        "1. create a note plasmoid with some text",
+        "2. check that setting \"Use theme color\" is set",
+        "3. change plasma theme to one with a different text color"
+    ],
+    "320350": [
+        "1. set a plasma theme with a bright textbutton color, f.e. Produkt",
+        "2. create a notes plasmoid on the desktop"
+    ],
+    "320472": [
+        "1. Copy a large file to your machine",
+        "2. The notification window should appear",
+        "3. Check gpu usage using powertop",
+        "4. Check again after the copying has finished"
+    ],
+    "320534": [
+        "1.  books ",
+        "2. agriculture",
+        "3.  about orchids  a chat"
+    ],
+    "320659": [
+        "1. Right click the Launcher Icon (usually located in lower left corner of task bar)",
+        "2. Choose \"Edit Applications...\"",
+        "3. Try to find where a program is located in the hierarchical list"
+    ],
+    "320702": [
+        "1. Set properly the right-click behavior on the desktop",
+        "2. Right-click on the desktop"
+    ],
+    "320889": [
+        "1. Start dragging a file from an app",
+        "2. Move your mouse over a window in the task bar"
+    ],
+    "320893": [
+        "1.hold left mouse button on task maneger element or file/folder in a file manager",
+        "2.\"accidently\" move you cursor for several pixels, but within the element",
+        "3.release the button"
+    ],
+    "321181": [
+        "1. Right click on any open application in task manager",
+        "2. Select option for the \"Show a launcher when not running\"",
+        "3. Close the application"
+    ],
+    "321303": [
+        "1. Add the \"Leave A Note\" widget to the desktop.",
+        "2. Leave a note, e.g. \"Hello world!\".",
+        "3. Try to read the delivered note."
+    ],
+    "321334": [
+        "1. Add a launcher to the Task Manager",
+        "2. Launch a different application",
+        "3. Compare the two items in the Task manager"
+    ],
+    "321434": [
+        "1. Upgrade to 4.10.80 with kde-unstable Arch Linux packages, log-out, log-in, enable the battery widget in system tray settings to get attachment 1 & 2.",
+        "2. Force \"hidden\" visibility for the battery widget to get attachment 3."
+    ],
+    "321756": [
+        "1. Download the testcase attached and give it execution permissions. You'll need PyQt4 in order to run it.",
+        "2. Create a new entry in K menu to launch the testcase application.",
+        "3. Launch the testcase from K menu.",
+        "4. While it's starting up, focus another application. You can do it several times.",
+        "5. After some seconds, the testcase will have been launched and it will be blinking in taskbar. Wait for it to stop blinking and click on it."
+    ],
+    "321823": [
+        "1. change brightness from battery widget",
+        "2. after clicking on the slider, pop-up widet closes"
+    ],
+    "321849": [
+        "1. Check the Force row setting",
+        "2. Reduce the taskbar height"
+    ],
+    "321889": [
+        "1. Switch system language to rtl language (Arabic or Hebrew).",
+        "2. Restart the window manager to apply the changes.",
+        "3. Open some applications (two or three).",
+        "4. Try to drag and drop the elements of Task Manager"
+    ],
+    "322121": [
+        "1. Move file from one location to another",
+        "2. In the notification widget, press the pause button, to suspend the job "
+    ],
+    "322405": [
+        "1. turn computer on",
+        "3. try to minimize by clicking the focused window"
+    ],
+    "322490": [
+        "1. open kickoff",
+        "2. drag app X over launcher Y in tasksbar qml",
+        "3. hold it over launcher y"
+    ],
+    "322526": [
+        "1. Set different widgets on every desktop (System Settings -> Workspace Behavior  -> Virtual Desktops -> Different widgets for every desktop.",
+        "2. Set the backgrounds of some of the desktops to something else.",
+        "3. Put some application icons/launchers on.",
+        "4. Upgrade KDE from 4.10.x to 4.10.95."
+    ],
+    "322685": [
+        "1.$ touch ~/.kde/Autostart/extension-important.txt",
+        "2.logout and login"
+    ],
+    "322767": [
+        "1. select wallpaper image",
+        "2. Click Apply",
+        "3. Click OK"
+    ],
+    "323017": [
+        "1. Sets Plasma Desktop Folder View",
+        "2. Press F2",
+        "3. Put empty name",
+        "4. Press Enter"
+    ],
+    "323067": [
+        "1. Right click on a item.",
+        "2. use keyboard to navigate to \"Close\"",
+        "3. Press enter"
+    ],
+    "323085": [
+        "1. Open some windows on desktop A",
+        "2. Switch to an empty desktop B",
+        "3. Open a window",
+        "4. Switch back to desktop A"
+    ],
+    "323109": [
+        "1. Open Battery Monitor widget from hidden icons.",
+        "2. Move Screen Brightness slider."
+    ],
+    "323347": [
+        "1. plug in a usb device and wait for it to be mounted",
+        "2. click on the device notifier icon in the system tray",
+        "3. click on your usb device"
+    ],
+    "323592": [
+        "1. Start any application.",
+        "2. Start a second application.",
+        "3. Observe task bar."
+    ],
+    "323597": [
+        "1. In settings, choose workspace = netbook",
+        "2. Pick some apps as favorites (click on gold star) so that their icon is placed in upper section of 'Search and Launch' screen.",
+        "3. Reboot or logout/in."
+    ],
+    "323607": [
+        "1. Add the microblogging plasmoid",
+        "2. Configure it with the service URL for Twitter (https://api.twitter.com/1/)",
+        "3. Entering my Twitter username and password.",
+        "4. Click OK"
+    ],
+    "323695": [
+        "1. Log out if KDE-4.11.0",
+        "2. Log back in to KDE-4.11.0."
+    ],
+    "323839": [
+        "1. Install KDE 4.11",
+        "2. Login in the operating system",
+        "3. Wait for the loading of the KDE desktop"
+    ],
+    "323849": [
+        "1.Add quicklaunch widget",
+        "2.select \"Show a Launcher When Not Running\" for any program",
+        "3.Close that program"
+    ],
+    "323903": [
+        "1. Start machine",
+        "2. Log in"
+    ],
+    "323928": [
+        "1. Login",
+        "2. Wait"
+    ],
+    "323933": [
+        "1. Add favourite apps to the top bar of the Search And Launch desktop",
+        "2. Log out and log back in"
+    ],
+    "324311": [
+        "1. active Plasma Search and Launch",
+        "2. Put Applications on top bar",
+        "3. Reboot or Logout/Login"
+    ],
+    "324374": [
+        "1. Start up Plasma",
+        "2. Set to Grid or Grouping Desktop",
+        "3. Hover over any widget"
+    ],
+    "324391": [
+        "1. Create a taskbar widget on a panel, right click on it and open the taskbar settings.",
+        "2. Set \"Sorting\" to \"Manually\" and close the dialog.",
+        "3. Open at least two (non-modal) windows that show up on the taskbar",
+        "4. click the right-most and drag it to the left"
+    ],
+    "324583": [
+        "1. Disable notifications for File transfer and jobs",
+        "2. Wait until you get a notification"
+    ],
+    "324593": [
+        "1. Steps desktop to folder view.",
+        "2. Add a softlink to a personal folder.",
+        "3. Change the icon to a custom one.",
+        "4. Logout and logon again."
+    ],
+    "324612": [
+        "1. Start a few applications",
+        "2. Click on a task in the taskbar whose window is obscured by another window"
+    ],
+    "324621": [
+        "1. Start 2 applications",
+        "2. Focus and bring formward app 1",
+        "3. Click taskbar button for app 2"
+    ],
+    "324650": [
+        "1. Right-click desktop, click settings",
+        "2. Click \"Get New Wallpapers...\"",
+        "3. In Search box, enter \"strange nature 5\"",
+        "4. In the results list, click \"Details\".",
+        "5. Click the Install button.  A drop down list appears.  Click any size."
+    ],
+    "324661": [
+        "1. Add Widget \"Icon-Only Task Manager\" to main panel",
+        "2. Open any application and application icon appears on the bar",
+        "3. Click \"Show A Launcher When Not Running\" from context menu opened from icon task widget",
+        "4. Open context menu again and \"Show A Launcher When Not Running\" is not checked",
+        "5. Close application"
+    ],
+    "324783": [
+        "1. Select icon on main menu e.g. Internet/Kmail",
+        "2. Press \"gold star\" of drag icon to quick launch panel",
+        "3.  Logout ",
+        "4. Login",
+        "5. No icons on quick launch panel"
+    ],
+    "324821": [
+        "1. use 2 (external?!) monitors and \"focus follows mouse\".",
+        "2. lock screen.",
+        "3. move the cursor to the monitor without the focus and start typing"
+    ],
+    "324847": [
+        "1. Log into KDE, but do not connect e.g. a wireless mouse device",
+        "2. After KDE and the widget has been loaded, turn on device",
+        "3. Check in battery monitor"
+    ],
+    "324854": [
+        "1. Choose \u201eslideshow\u201c in Workspace settings",
+        "2. Add a custom folder which contains only one picture. Other options like Systemwallpapers arent active.",
+        "3. Click \u201eapply\u201c",
+        "4. Wait till the time goes by, which you set the change of pictures"
+    ],
+    "324881": [
+        "1. Make sure you're using Icon-only Taskbar.",
+        "2. Launch a program.",
+        "3. Right click in the running program in the taskbar.",
+        "4. Click on \"Show A Launcher When Not Running\"."
+    ],
+    "324910": [
+        "1. Create a vertical plasma panel",
+        "2. Add a taskbar widget to that panel",
+        "3. Configure the taskbar widget to allow manual sort of the task buttons",
+        "4. Open several tasks, creating several task buttons on the taskbar widget",
+        "5. Try to drag one of the buttons to the first (top) position of the taskbar widget. You will be able to move it up only until it reaches the second positon, but not to the top position. You can then move the top button to the second position, forcing the other button to move to the top position."
+    ],
+    "324934": [
+        "1. Click the star when widgets are unlocked to add a favorite to the bar",
+        "2. Do anything that restarts Plasma"
+    ],
+    "324988": [
+        "1. Enable manual sorting for the taskbar",
+        "2. Click on a taskbar entry and move the mouse 1 pixel."
+    ],
+    "325028": [
+        "1.Install KDE SC 4.11.1 from Ubuntu KDE backports",
+        "2.Open Comic Applet",
+        "3.Attempt to install a comic"
+    ],
+    "325511": [
+        "1.Add a TaskManager and a Pager Widget to a Panel",
+        "2.Start an Application to create an Entry within the TaskManager Widget",
+        "3.Grab this Entry and hover over one virtual Desktop of the Pager Widget till the Desktop switches",
+        "4.Release the grabbed Item on the free space of the workspace"
+    ],
+    "325527": [
+        "1.Insert some removable media",
+        "2.Click it in device notifier"
+    ],
+    "325787": [
+        "1. Set the Task Manager sorting to Manual",
+        "2. Try switching between running application from the task manager widget using the touch screen"
+    ],
+    "326020": [
+        "1. Create a additional bar with shortcuts",
+        "2. Set it \"auto-hide\"",
+        "3. Set in task-bar settings two rows and force rows set",
+        "4. Between whiles show a hidden bar on top  "
+    ],
+    "326279": [
+        "1. Configure the task bar to group windows.",
+        "2. Open enough windows of one kind so that they are grouped in the task manager.",
+        "3. Hold down the ctrl key and left click on the grouped item inside the task manager."
+    ],
+    "326431": [
+        "0. Set Plasma Desktop Layout to Folder.",
+        "1. Place a symlink on the desktop.",
+        "2. Change the icon to a custom one.",
+        "3. Logout & Login"
+    ],
+    "326457": [
+        "1. Set the task manager to Sorting: Manually.",
+        "2. Open Audacious, go to Preferences -> Plugins -> General and enable the \"Status Icon\".",
+        "3. Quit Audacious",
+        "4. Have at least one other program open on your desktop.",
+        "5. Start Audacious."
+    ],
+    "326648": [
+        "1. Plug in extension battery pack.",
+        "2. Run upower to cross-check."
+    ],
+    "326813": [
+        "1. Boot with user configuration into KDE desktop. (guest account with default configuration boots normally.)",
+        "2. Error message appears indicating that the plasma desktop has crashed. Ctrl-Alt-Del will still bring up a restart/shutdown/logout menu with the correct appearance settings."
+    ],
+    "327065": [
+        "1. Move mouse over battery monitor icon",
+        "2. use mouse wheel"
+    ],
+    "327130": [
+        "1. click on Activity Manager in the taskbar-widget/panel",
+        "2. click on \"add widgets\""
+    ],
+    "327276": [
+        "1. open an application multiple times (e.g. konsole or kate)",
+        "2. configure the taskbar to group windows of the same application",
+        "3. mouse the mouse cursor on the group taskbar entry.",
+        "4. turn the mouse wheel up or down"
+    ],
+    "327425": [
+        "1. on the panel put the mouse over the volume icon",
+        "2. a box opens just above th icon showing \"Volume at %\"",
+        "3. mimimize all windows to show only the background",
+        "4. putting the mouse over the volume icon the box \"Volume at %\" is going to the top of the screen"
+    ],
+    "327479": [
+        "1. Add trashcan widget to panel or desktop",
+        "2. Click on trashcan widget (double-click if on desktop)"
+    ],
+    "327508": [
+        "1. open Add Widget explorer",
+        "2. write something"
+    ],
+    "327543": [
+        "1. Click the big white K on blue background button (lower-left corner of plasma panel)",
+        "2. Hover the mouse cursor over the rightmost red-on-white \"Quit\" button",
+        "3. Several choices appear including Disconnect (end session: downward white arrow on light blue background), Restart (white curvy arrow on orange background) and Turn off computer (white symbol on red background) appear",
+        "4. Click one of those 3 choices"
+    ],
+    "327580": [
+        "1. Right click your desktop and select \"Desktop Settings\". Make sure you are in the \"View\" tab.",
+        "2. Set \"Wallpaper\" to Slideshow, disable \"System wallpapers\" and \"My downloaded wallpapers\", then add one or more custom folders. Click OK to exit.",
+        "3. Repeat step 1 and go back into the \"Desktop Settings\" window."
+    ],
+    "327606": [
+        "1. hide certain widgets",
+        "2. try to access"
+    ],
+    "327608": [
+        "1. Right click the taskbar and select \"Task Manager Settings\". Make sure that Grouping is set to \"By Program Name\" and \"Only when taskbar is full\" is enabled.",
+        "2. Make sure you don't have any windowed programs taking up space on the taskbar, and open two applications of the same type (Dolphin is easiest)."
+    ],
+    "327762": [
+        "1. Login using KDE",
+        "2. Click on KDE menu to pop-up listings",
+        "3. Select logout, or shutdown, or restart"
+    ],
+    "327841": [
+        "1. Add a trash can widget in desktop plasma.",
+        "2. double-click it to open"
+    ],
+    "327948": [
+        "1. Launch google chrome from menu.",
+        "2. Right-click on chrome icon and select \"Show A Launcher When Not Running\"",
+        "3. Close google chrome.",
+        "4. Click on chrome icon to launch."
+    ],
+    "327989": [
+        "1.Remove the standard task manager widget from the panel",
+        "2.Add Icon-only task manager widget",
+        "3.Open multiple windows of the same program"
+    ],
+    "328458": [
+        "1. set task manager to only show tasks from the current desktop",
+        "2. logout with apps open more than one desktop",
+        "3. login"
+    ],
+    "328470": [
+        "1. add plasma-widget icontasks to your panel",
+        "2. start a mediaplayer like amarok2",
+        "3. hover the icon of amarok in icontasks as long as the tooltip appears"
+    ],
+    "328775": [
+        "1. drag an icon of a running application from task manager to pager widget (changing desktop)",
+        "2. release that icon over the desktop (not over pager widget)"
+    ],
+    "328993": [
+        "1. Change sorting in task manager to ",
+        "2. Start using the system",
+        "3. Eventually windows stop being sorted by desktop and seem to just get added onto the end."
+    ],
+    "329339": [
+        "1. open an application, like dolphin",
+        "2. rightclick this app on the taskbar - choose \"show launcher, when not rinning\"",
+        "3. close this app",
+        "4. make your panel bigger to see that all other applicationicons are displayed ina bigger size"
+    ],
+    "329518": [
+        "1. Install KDE distro on device with high DPI screen;",
+        "2. boot up and log in;",
+        "3. squint."
+    ],
+    "329657": [
+        "1.Log in KDE",
+        "2.Fastly, while music of the start is playing, press right click on desktop, select exit and then logout.",
+        "3.Plasma will crash"
+    ],
+    "329914": [
+        "0. Configure the taskbar to show only the windows on the active virtual desktop (check the \"Only show tasks from the current desktop\" in Task Manager Settings)",
+        "1. Start a few windows (for example a browser) until they get grouped on virtual desktop 1",
+        "2. Switch to a different virtual desktop",
+        "3. Switch back to virtual desktop 1"
+    ],
+    "330068": [
+        "1. Use TaskManager widget (here: always-visible panel at bottom edge)",
+        "2. Configure TaskManager with: \"Group by Program Name\", \"Highlight Windows\" active",
+        "3. Click on a task with multiple windows (pop-up hint arrow visible)"
+    ],
+    "330229": [
+        "1. log out -- I shut down or reboot to be precise.",
+        "2. start up and log back in"
+    ],
+    "330576": [
+        "1. Open several windows (e.g. multiple Kopete chats) so that they become grouped in the panel.",
+        "2. Left-click on the panel button that represents the group. A list of these groped windows appears.",
+        "3. In that list, right-click on any line. This will bring up the context menu related to that window.",
+        "4. In that context menu, select Close."
+    ],
+    "331130": [
+        "1.Right click on current desktop",
+        "2.Move mouse pointer out of popup menu",
+        "3.Use wheel to change desktop"
+    ],
+    "331250": [
+        "1.Click on the digital clock time, on the taskbar. (Opens up the calendar and Notifications)",
+        "2.Click somewhere else.",
+        "3.The popup doesn't exit."
+    ],
+    "331280": [
+        "1. Login into KDE (Taskbar notifications must be enabled)",
+        "2. Open a window (ex. Dolphin)"
+    ],
+    "331518": [
+        "1.Expand autohide systry ",
+        "2.Select new devices",
+        "3.Artefact on clock"
+    ],
+    "331670": [
+        "1.  Open application",
+        "2.  Bring another application up in front of it"
+    ],
+    "331923": [
+        "1. Set \"Slideshow\" as Wallaper, in Desktop Settings dialog.",
+        "2. Add a folder using the \"Add folder...\" button",
+        "3. Save the settings",
+        "4. Reopen the Desktop Settings dialog"
+    ],
+    "332193": [
+        "1. Configure the classic taskmanager in a panel on the bottom side of the screen",
+        "2. Configure the panel to automatically hide",
+        "3. See a fullscreen youtube video",
+        "4. Try to pause video, set mute, change quality, etc..."
+    ],
+    "332419": [
+        "1.Install KDE",
+        "2.Open Battery Indicator",
+        "3. Change screen brightness"
+    ],
+    "332766": [
+        "1.Set desktop as folder",
+        "2.Unset \"click to visualize\" in icons menu, on settings",
+        "3.browse folsders, right click on a video_ts folder and select \"open with vlc\" "
+    ],
+    "333059": [
+        "1. turn on the PC",
+        "2. introduce the username and password"
+    ],
+    "333108": [
+        "1. Log out of the desktop session, then log back in.",
+        "2. Use the main menu or krunner (Alt+F2) to launch one of the applications listed above.",
+        "3. Wait.  You may use the application, but don't launch any others."
+    ],
+    "333278": [
+        "1. Press the button in the panel",
+        "2. Try to do anything else"
+    ],
+    "333405": [
+        "1.Mouse over a non-empty folder on Desktop",
+        "2.Clock on it to see its contents",
+        "3.Right click on any file and select Open with->Other.Then choose a program by pressing Ok or just Cancel."
+    ],
+    "334998": [
+        "1) Without \"force row settings\", you can add any number of task and they are always have all of them in one row.",
+        "2) With \"force row settings\", this is quicker as the second task is put in a new column instead of a new row."
+    ],
+    "335094": [
+        "1. Add fuzzy clock widget to panel.",
+        "2. Set fuzziness to level 1 or 2.",
+        "3. Wait till the end of the current hour."
+    ],
+    "335115": [
+        "1. Set plasma to use slideshow (Right click on the wallpaper > Default desktop settings)",
+        "2. Set it up as you like (add folders)",
+        "3. Close config, open it once again"
+    ],
+    "335247": [
+        "1. Application Launcher in \"Advanced Mode\", Look up an item from \"Favorites\" (e.g. \"Amarok\")",
+        "2. Find that item in Launcher: Left-click on Launcher, left-click on group (e.g. \"Multimedia\");",
+        "3. Right-click on that item (e.g. \"Amarok\", click \"Remove from Favorites\""
+    ],
+    "335315": [
+        "1. Click on panel clock (\"Digital clock\" widget).",
+        "2. Calendar will be displayed.",
+        "3. Click on application or desktop or press \"Alt+tab\"."
+    ],
+    "335610": [
+        "1. Add the comic widget to your plasma desktop",
+        "2. Click on \"Configure\"",
+        "3. Click on \"Download new Comics\" (or similar, my system language is German)",
+        "4. Select one or more comics to install. I tried \"Calvin and Hobbes\", \"xkcd\" and \"NASA Astronomy Picture of the Day\"."
+    ],
+    "335851": [
+        "1. on a workstation with losts of RAM (32GiB) i copy Data to a  32GB-USB-Stick",
+        "2. in notification i expand the view for the graf and i see vast speed and a copy-process doing well",
+        "3. some while after the copy seems finished ( speed dropped to null, process up to 100%) it takes quite some time for the buffers to write out (still slow usbstick). so this copy-process seems to hand to an unexperienced user."
+    ],
+    "336266": [
+        "1. Be on activity A and virtual desktop 1.",
+        "2. Switch to activity B, then switch to virtual desktop 2.",
+        "3. Switch back to activity A."
+    ],
+    "336551": [
+        "1. Add the System Load Viewer widget to the panel.",
+        "2. Configure it to show all processors",
+        "3. Configure its update interval to 500ms",
+        "4. Watch the plasma-desktop process cpu usage."
+    ],
+    "336977": [
+        "1. Setup KDE to restore your session.",
+        "2. Set taskbar switcher filter settings to filter windows by current virtual desktop and current activity.",
+        "3. Open several windows on several virtual desktops.",
+        "4. Restart your KDE session.",
+        "5. Check the contents shown on taskbar."
+    ],
+    "338848": [
+        "1. Reboot",
+        "2. KDE Login"
+    ],
+    "338915": [
+        "1. Open several Gvim windows",
+        "2. Group Gvim windows together using Attach as tab to",
+        "3. Resize one of the Gvim windows to make it smaller in the Y dimension",
+        "4. Resize another Gvim window in the same group in both dimensions",
+        "5. Switch to other windows such that the Gvim window group is completely covered by other windows",
+        "6. Switch to Gvim using panel"
+    ],
+    "339812": [
+        "1. Open up a non-kde application, like Firefox",
+        "2. Switch between activities."
+    ],
+    "339885": [
+        "1.set screen edge prevent screen locker",
+        "2.move cursor edge"
+    ],
+    "340037": [
+        "1. Hold down FN",
+        "2. Press F2, or...",
+        "3. Press F3"
+    ],
+    "340060": [
+        "1.Add a panel to the left and enable \"Autohide panel\" option",
+        "2.Launch Digikam and choose some images folder",
+        "3.Put Digikam at fullscreen (Ctrl+Shift+F)",
+        "4.Try to click with mouse pointer in some left side toolbar menu button"
+    ],
+    "340188": [
+        "1. Put system into \"sleep\" mode",
+        "2. Wake it up"
+    ],
+    "340498": [
+        "1. Copy /usr/bin/xterm to /usr/bin/${some_other_name}-xterm",
+        "2. Run /usr/bin/${some_other_name}-xterm",
+        "3. Instances of /usr/bin/${some_other_name} group in the taskbar with instances of xterm ."
+    ],
+    "340689": [
+        "1. Hover an item in the taskbar with HTML tags in the title",
+        "2. A preview with the window's miniature appear along with the window's title"
+    ],
+    "341262": [
+        "1. Click on a file to open it while the programm associated to the file is already opened.",
+        "2. Take a look at KDE panel."
+    ],
+    "341325": [
+        "1. Panel with \"Windows can cover\" option",
+        "2. Put the mouse in the border of the panel"
+    ],
+    "341664": [
+        "1. Set auto hide: Right-click panel -> Panel options -> Panel Settings -> More settings -> click Auto hide",
+        "2. Panel should be at the bottom of the screen (didn't try any other location)",
+        "3. Start eg. Firefox and press F11 to enter full screen mode"
+    ],
+    "342719": [
+        "1. Get a high DPI monitor",
+        "2. Configure more than one keyboard layout",
+        "3. Look in the panel at the widget for selecting between layouts"
+    ],
+    "344219": [
+        "1. put a panel where you like and set it auto hide",
+        "2. open a full-screen application ",
+        "3. click the area where the panel hide "
+    ],
+    "344945": [
+        "1. Open activities",
+        "2. Close apps in activities",
+        "3. Stop activities"
+    ],
+    "347661": [
+        "0. Have three screens and 8 desktops. ",
+        "1. Often program on desktop 6",
+        "2. Change to desktop 3"
+    ]
+}

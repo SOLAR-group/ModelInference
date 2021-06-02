@@ -1,0 +1,22 @@
+.DS_Store
+venv/
+env/
+.idea/
+__pycache__/
+data/kate/
+data/Vibe/
+data/krita/
+data/LibreOffice/
+data/Firefox OS/
+data/Firefox for Android/
+data/SeaMonkey/
+data/Thunderbird/
+data/Calendar/
+data/BIRT/
+data/Performance Indicator
+data/boxplots
+Lib/
+Scripts/
+err.txt
+out.txt
+pyvenv.cfg

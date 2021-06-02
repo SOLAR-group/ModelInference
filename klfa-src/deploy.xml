@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="deploy" name="Deploy KLFA">
+    <!--ANT 1.7+ is required                                        -->
+    <!-- This file should not be released with the software -->
+	
+	
+<target name="deploy">
+	<echo>Deploying manual</echo>
+	
+	
+	<exec executable="scp" dir=".">
+		<arg value="${pathToManualPDF}"/>
+		<arg value="root@ltasrv1.lta.disco.unimib.it:/var/www/downloads/tools/klfa/"/>
+	</exec>
+	
+	<echo>Deploying zip distribution</echo>
+	<exec executable="scp" dir="dist">
+		<arg value="${klfaZip}" />
+		<arg value="root@ltasrv1.lta.disco.unimib.it:/var/www/downloads/tools/klfa/"/>
+	</exec>
+	
+	<!--
+	<scp file="${pathToManualPDF}" todir="root@ltasrv1.disco.unimib.it:/var/www/downloads/tools/klfa/" />
+	<scp file="${klfaZip}" todir="root@ltasrv1.disco.unimib.it:/var/www/downloads/tools/klfa/" />
+	-->
+	
+</target>	
+	
+</project>

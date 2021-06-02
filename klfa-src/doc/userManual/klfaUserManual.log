@@ -1,0 +1,832 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.8.26)  19 NOV 2012 13:41
+entering extended mode
+ %&-line parsing enabled.
+**klfaUserManual.tex
+(./klfaUserManual.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, ku
+rmanji, latin, latvian, lithuanian, mongolian, mongolian2a, bokmal, nynorsk, po
+lish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, span
+ish, swedish, turkish, ukenglish, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen105
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Option `hyperindex' set `true' on input line 2864.
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/local/texlive/2009/texmf/tex/latex/html/url.sty
+Package: url 1999/03/02  ver 1.4  Verb mode for urls, email addresses, and file
+ names
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count91
+\Field@Width=\dimen106
+\Fld@charsize=\dimen107
+\Field@toks=\toks15
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count92
+\c@Item=\count93
+\c@Hfootnote=\count94
+)
+*hyperref using driver hpdftex*
+(/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count95
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/thumbpdf/thumbpdf.sty
+Package: thumbpdf 2008/04/16 v3.10 Inclusion of thumbnails (HO)
+
+
+Package thumbpdf Warning: Thumbnail data file `klfaUserManual.tpt' not found.
+
+) (/usr/local/texlive/2009/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2009/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count96
+\U@D=\dimen108
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Landscape pages in PDF (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/ltxmisc/framed.sty
+Package: framed 2007/10/04 v 0.95: framed or shaded text with page breaks
+\fb@frw=\dimen109
+\fb@frh=\dimen110
+\FrameRule=\dimen111
+\FrameSep=\dimen112
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen113
+\extrarowheight=\dimen114
+\NC@list=\toks16
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+\everycr=\toks17
+\minrowclearance=\skip45
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen115
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2009/07/09 v1.1 Suppress page numbers and headings on empty 
+pages
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count97
+\rotFPtop=\skip46
+\rotFPbot=\skip47
+\rot@float@box=\box26
+\rot@mess@toks=\toks18
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip48
+\f@ncyO@elh=\skip49
+\f@ncyO@erh=\skip50
+\f@ncyO@olh=\skip51
+\f@ncyO@orh=\skip52
+\f@ncyO@elf=\skip53
+\f@ncyO@erf=\skip54
+\f@ncyO@olf=\skip55
+\f@ncyO@orf=\skip56
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/psnfss/newcent.sty
+Package: newcent 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/acronym/acronym.sty
+Package: acronym 2009/01/25 v1.34 Support for acronyms (Tobias Oetiker)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5 Variant command support
+)
+\AC@clearlist=\toks19
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count98
+\ST@wd=\dimen116
+\ST@rightskip=\skip57
+\ST@leftskip=\skip58
+\ST@parfillskip=\skip59
+\ST@pageleft=\dimen117
+\ST@headht=\dimen118
+\ST@tailht=\dimen119
+\ST@pagesofar=\dimen120
+\ST@pboxht=\dimen121
+\ST@lineht=\dimen122
+\ST@stretchht=\dimen123
+\ST@prevht=\dimen124
+\ST@toadd=\dimen125
+\ST@dimen=\dimen126
+\ST@pbox=\box27
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip60
+\LTright=\skip61
+\LTpre=\skip62
+\LTpost=\skip63
+\LTchunksize=\count99
+\LTcapwidth=\dimen127
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count100
+\LT@rows=\count101
+\c@LT@tables=\count102
+\c@LT@chunks=\count103
+\LT@p@ftn=\toks20
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count104
+\lst@gtempboxa=\box32
+\lst@token=\toks21
+\lst@length=\count105
+\lst@currlwidth=\dimen128
+\lst@column=\count106
+\lst@pos=\count107
+\lst@lostspace=\dimen129
+\lst@width=\dimen130
+\lst@newlines=\count108
+\lst@lineno=\count109
+\lst@maxwidth=\dimen131
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count110
+\lst@skipnumbers=\count111
+\lst@framebox=\box33
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2009/02/07 v0.4g Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count112
+\calc@Bcount=\count113
+\calc@Adimen=\dimen132
+\calc@Bdimen=\dimen133
+\calc@Askip=\skip64
+\calc@Bskip=\skip65
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count114
+\calc@Cskip=\skip66
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2006/07/14 v1.1d eso-pic (RN)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2009/02/07 v0.4g Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box34
+\AM@toc@title=\toks22
+\c@AM@survey=\count115
+\AM@templatesizebox=\box35
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write3
+\openout3 = `klfaUserManual.idx'.
+
+
+Writing index file klfaUserManual.idx
+(/usr/local/texlive/2009/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2007/08/08 v1.62 (Daniel Flipo)
+\c@DefaultLines=\count116
+\DefaultFindent=\dimen134
+\DefaultNindent=\dimen135
+\DefaultSlope=\dimen136
+\L@lbox=\box36
+\L@tbox=\box37
+\c@L@lines=\count117
+\L@Pindent=\dimen137
+\L@Findent=\dimen138
+\L@Nindent=\dimen139
+\L@lraise=\dimen140
+\L@first=\dimen141
+\L@next=\dimen142
+\L@slope=\dimen143
+\L@height=\dimen144
+\LettrineWidth=\dimen145
+
+Loading lettrine.cfg
+(/usr/local/texlive/2009/texmf-dist/tex/latex/lettrine/lettrine.cfg))
+(./klfaUserManual.aux (./cover.aux)
+
+LaTeX Warning: Label `fig:failureAnalysis' multiply defined.
+
+)
+\openout1 = `klfaUserManual.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Try loading font information for T1+pnc on input line 109.
+ (/usr/local/texlive/2009/texmf-dist/tex/latex/psnfss/t1pnc.fd
+File: t1pnc.fd 2001/06/04 font definitions for T1/pnc.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count118
+\scratchdimen=\dimen146
+\scratchbox=\box38
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen147
+\MPnumerator=\count122
+\everyMPtoPDFconversion=\toks24
+)
+Package hyperref Info: Link coloring OFF on input line 109.
+ (/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count123
+)
+LaTeX Info: Redefining \ref on input line 109.
+LaTeX Info: Redefining \pageref on input line 109.
+
+(./klfaUserManual.out) (./klfaUserManual.out)
+\@outlinefile=\write4
+\openout4 = `klfaUserManual.out'.
+
+\AtBeginShipoutBox=\box39
+\c@lstlisting=\count124
+
+ABD: EveryShipout initializing macros
+\openout2 = `cover.aux'.
+
+ (./cover.tex
+LaTeX Font Info:    Font shape `T1/pnc/bx/sc' in size <20.74> not available
+(Font)              Font shape `T1/pnc/b/sc' tried instead on input line 19.
+LaTeX Font Info:    Font shape `T1/pnc/bx/sc' in size <10.95> not available
+(Font)              Font shape `T1/pnc/b/sc' tried instead on input line 20.
+ [1
+
+
+
+{/usr/local/texlive/2009/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2])
+LaTeX Font Info:    Font shape `T1/pnc/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/pnc/b/n' tried instead on input line 122.
+ (./klfaUserManual.toc
+LaTeX Font Info:    Font shape `T1/pnc/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/pnc/b/n' tried instead on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+)
+\tf@toc=\write5
+\openout5 = `klfaUserManual.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.123     \clearpage
+                    {\pagestyle{empty}\cleardoublepage} [1
+
+
+
+
+
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.123 ...earpage{\pagestyle{empty}\cleardoublepage
+                                                  } [2
+
+
+] (./intro.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `T1/pnc/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/pnc/b/n' tried instead on input line 1.
+
+Overfull \hbox (1.17381pt too wide) in paragraph at lines 7--8
+[]\T1/pnc/m/n/10.95 Experimental re-sults show the ef-fec-tive-ness of the tech
+-nique in sup-port-ing de-vel-op-ers and testers
+ []
+
+<images/approach.pdf, id=106, 542.025pt x 243.75465pt>
+File: images/approach.pdf Graphic file (type pdf)
+
+<use images/approach.pdf>
+<images/approach2.pdf, id=107, 511.52705pt x 396.4973pt>
+File: images/approach2.pdf Graphic file (type pdf)
+
+<use images/approach2.pdf>) (./install.tex [3
+
+] [4 <./images/approach.pdf> <./images/approach2.pdf>]
+Chapter 2.
+LaTeX Font Info:    Font shape `T1/pnc/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/pnc/b/n' tried instead on input line 3.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 8.
+(/usr/local/texlive/2009/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+) [5
+
+]
+Overfull \hbox (16.7656pt too wide) in paragraph at lines 67--67
+[]\T1/pcr/m/n/10.95 it.unimib.disco.lta.alfa.klfa.LogTraceAnalyzer [options] <a
+nalysisType> <phase>[] 
+ []
+
+
+Overfull \hbox (38.907pt too wide) in paragraph at lines 101--104
+[]\T1/pnc/m/n/10.95 The com-mand will cre-ate the KLFA dis-tri-bu-tion zip in t
+he dist folder. e.g. \T1/pcr/m/n/10.95 /home/fabrizio/Programs-
+ []
+
+
+LaTeX Warning: Reference `sec:installKlfa' on page 6 undefined on input line 10
+6.
+
+[6]
+LaTeX Font Info:    Try loading font information for OMS+pnc on input line 114.
+
+ (/usr/local/texlive/2009/texmf-dist/tex/latex/psnfss/omspnc.fd
+File: omspnc.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pnc/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 114.
+)
+(./tools.tex [7] [8
+
+]
+Chapter 3.
+<images/modelGeneration.pdf, id=364, 505.89pt x 722.7pt>
+File: images/modelGeneration.pdf Graphic file (type pdf)
+
+<use images/modelGeneration.pdf> [9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10 <./images/modelGeneration.pdf>]
+<images/failureAnalysis.pdf, id=382, 505.89pt x 542.025pt>
+File: images/failureAnalysis.pdf Graphic file (type pdf)
+
+<use images/failureAnalysis.pdf>) (./examples.tex [11 <./images/failureAnalysis
+.pdf>] [12]
+Chapter 4.
+LaTeX Font Info:    Font shape `T1/pnc/bx/n' in size <12> not available
+(Font)              Font shape `T1/pnc/b/n' tried instead on input line 20.
+
+Overfull \hbox (65.46184pt too wide) in paragraph at lines 26--29
+[]\T1/pnc/m/n/10.95 The log files were recorded with the de-fault log ver-bosit
+y. Log files are stored in folder \T1/pcr/m/n/10.95 examples/glassfish-
+ []
+
+[13
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
+[]\T1/pnc/m/n/10.95 In or-der to do this we de-scend into folder
+ []
+
+
+Overfull \hbox (12.60274pt too wide) in paragraph at lines 45--49
+[]$ \T1/pnc/m/n/10.95 and run RegexBase-dRaw-EventsSep-a-ra-tor with
+ []
+
+
+Overfull \hbox (178.9394pt too wide) in paragraph at lines 59--61
+[]\T1/pnc/m/n/10.95 From \T1/pcr/m/n/10.95 examples/glassfishForumUserIssue/ana
+lysis/ \T1/pnc/m/n/10.95 you can sim-ply run \T1/pcr/m/n/10.95 ../bin/runRawEve
+ntsSeparationTraning.sh\T1/pnc/m/n/10.95 . 
+ []
+
+[14]
+Overfull \hbox (251.20932pt too wide) in paragraph at lines 125--127
+[]\T1/pnc/m/n/10.95 From \T1/pcr/m/n/10.95 examples/glassfishForumUserIssue/ana
+lysis/ \T1/pnc/m/n/10.95 you can sim-ply run \T1/pcr/m/n/10.95 ../bin/runCompon
+entLevelEventsDetectionTraining.sh\T1/pnc/m/n/10.95 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+[]|\T1/pnc/m/n/10.95 -replacement ".*/do-main-s/-do-main1/config/"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+[]|\T1/pnc/m/n/10.95 -replacement "ser-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+\T1/pnc/m/n/10.95 vice:jmx:rmi:///jndi/rmi://.*:8686/jmxrmi"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+[]|\T1/pnc/m/n/10.95 -replacement "ser-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+\T1/pnc/m/n/10.95 vice:jmx:rmi:///jndi/rmi://.*:8686/jmxrmi"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--190
+[]|\T1/pnc/m/n/10.95 Generates com-po-nent files in folder
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+[]|\T1/pnc/m/n/10.95 -componentsDefinitionFile com-po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--193
+[]|\T1/pnc/m/n/10.95 save com-po-nents ids to file
+ []
+
+[15] [16] [17] [18] [19]
+File: images/failureAnalysis.pdf Graphic file (type pdf)
+ <use images/failureAnalysis.pdf> [20]
+Overfull \hbox (62.75554pt too wide) in paragraph at lines 426--426
+[]\T1/pcr/m/n/10.95 it.unimib.disco.lta.alfa.preprocessing.eventTypesDetection.
+AutomatedEventTypesDetector[] 
+ []
+
+[21]
+Overfull \hbox (62.75554pt too wide) in paragraph at lines 452--452
+[]\T1/pcr/m/n/10.95 it.unimib.disco.lta.alfa.preprocessing.eventTypesDetection.
+AutomatedEventTypesDetector[] 
+ []
+
+[22]
+Overfull \hbox (3.00127pt too wide) in paragraph at lines 522--522
+[]|\T1/pnc/m/n/10.95 Line| 
+ []
+
+
+Overfull \hbox (7.06355pt too wide) in paragraph at lines 522--522
+[]|\T1/pnc/m/n/10.95 State| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+[]|\T1/pnc/m/n/10.95 State
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\T1/pnc/m/n/10.95 Original
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
+[]|\T1/pnc/m/n/10.95 5_R0064
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
+[]|\T1/pnc/m/n/10.95 0_R0052)
+ []
+
+
+Overfull \hbox (4.58063pt too wide) in paragraph at lines 531--531
+[]|\T1/pnc/m/n/10.95 GLOBAL| 
+ []
+
+
+Overfull \hbox (4.43564pt too wide) in paragraph at lines 531--531
+[]|\T1/pnc/m/n/10.95 q109| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--532
+[]|\T1/pnc/m/n/10.95 21
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--532
+\T1/pnc/m/n/10.95 14,R0020,java-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+[]|\T1/pnc/m/n/10.95 21
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+\T1/pnc/m/n/10.95 14,R0020,java-
+ []
+
+
+Overfull \hbox (7.01968pt too wide) in paragraph at lines 537--537
+[]|\T1/pnc/m/n/10.95 4,289331648| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+[]|\T1/pnc/m/n/10.95 4_-1628344215)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T1/pnc/m/n/10.95 4_R0073)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T1/pnc/m/n/10.95 4_1573705168
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--541
+[]|\T1/pnc/m/n/10.95 17,-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
+[]|\T1/pnc/m/n/10.95 3,-
+ []
+
+
+Overfull \hbox (3.9757pt too wide) in paragraph at lines 543--544
+\T1/pnc/m/n/10.95 1648356848| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--545
+[]|\T1/pnc/m/n/10.95 3_R0032)
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 546--546
+[]|\T1/pnc/m/n/10.95 New Com-
+ []
+
+
+Overfull \hbox (9.56978pt too wide) in alignment at lines 520--548
+[][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1.70761pt too wide) in paragraph at lines 519--549
+[][] 
+ []
+
+[23] [24] [25]
+Overfull \hbox (8.1618pt too wide) in paragraph at lines 655--662
+[]\T1/pnc/m/n/10.95 Anomaly 8 in-di-cates that a new com-po-nent ap-peared. If 
+we open \T1/pcr/m/n/10.95 components.-fail.-properties
+ []
+
+
+Overfull \hbox (52.3728pt too wide) in paragraph at lines 655--662
+\T1/pnc/m/n/10.95 we see that com-po-nent id 23 cor-re-spond to com-po-nent \T1
+/pcr/m/n/10.95 com.sun.org.-apache.commons.-modeler.Registry\T1/pnc/m/n/10.95 .
+
+ []
+
+) (./klfaUserManual.bbl [26]
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+[]\T1/pnc/m/n/10.95 Glassfish user fo-rum.  Glass-fish con-fig-u-ra-tion is-sue
+.
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 33--36
+[]\T1/pnc/m/n/10.95 Sun, vis-ited in 2010.  Glass-Fish v3 Ap-pli-ca-tion Server
+ Ad-min-is-tra-tion Guide.
+ []
+
+) [27
+
+] (./klfaUserManual.aux (./cover.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7584 strings out of 493848
+ 110038 string characters out of 3149207
+ 200766 words of memory out of 3000000
+ 10595 multiletter control sequences out of 15000+200000
+ 39093 words of font info for 49 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 38i,15n,43p,490b,472s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2009/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
+ive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2009/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2009/
+texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2009/texmf-d
+ist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2009/texmf-dist/fon
+ts/type1/urw/ncntrsbk/uncb8a.pfb></usr/local/texlive/2009/texmf-dist/fonts/type
+1/urw/ncntrsbk/uncr8a.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/urw/n
+cntrsbk/uncri8a.pfb>
+Output written on klfaUserManual.pdf (29 pages, 438564 bytes).
+PDF statistics:
+ 538 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 500000)
+ 149 words of extra memory for PDF output out of 10000 (max. 10000000)
+

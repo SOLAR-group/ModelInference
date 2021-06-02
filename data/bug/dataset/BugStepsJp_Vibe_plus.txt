@@ -1,0 +1,3526 @@
+{
+    "479761": [
+        "1. Login Teaming (http://TeamingServer:8080) ",
+        "2. Click Personal Workspaces link,then click Add user",
+        "3. In the opened page,don't enter any values,then click OK"
+    ],
+    "479780": [
+        "1. Login Teaming (http://TeamingServer:8080) ",
+        "2. Click Personal Workspaces,then Add user",
+        "3. Enter 'test1' to Login Name field,and i18n chars(e.g.'\u00e4\u00f6')to Password field",
+        "4. Then click OK,"
+    ],
+    "480287": [
+        "1. Login Teaming (http://TeamingServer:8080) and click My Workspace",
+        "2. Go to Discussion folder,create a discussion entry",
+        "3. The new entry is shown in Bold and has an icon as an unread entry.",
+        "4. Click it to open,then close",
+        "5. Check the entry item"
+    ],
+    "481700": [
+        "1. Install teaming in a non-default path",
+        "2. Verify the files were extracted into the right path."
+    ],
+    "482138": [
+        "1. Login in Teaming.",
+        "2. Go to a folder and share it with a user.",
+        "3. Open the mail received and click on the shared folder\u2019s link."
+    ],
+    "482158": [
+        "1. Login as admin.",
+        "2. Create a new user.",
+        "3. Click on \u2018Personal Workspaces\u2019 and then click on the just created user.",
+        "4. Click on \u2018Sign Out\u2019 link from Masthead."
+    ],
+    "482169": [
+        "1. Login in Teaming.",
+        "2. Click on the Miniblog link from the sidebar."
+    ],
+    "482275": [
+        "1. Login Teaming (http://TeamingServer:8080) with a user whose locale is German",
+        "2. Create a entry in any folder,for example: Blog",
+        "3. Open the created entry,click Report-->Workflow History"
+    ],
+    "482601": [
+        "1. Add an accessory to a workspace.",
+        "2. Copy the workspace to another location.",
+        "3. Verify the accessory was copied together with the workspace."
+    ],
+    "482624": [
+        "1. Log in Teaming.",
+        "2. Go to the File folder and add a file through the Applet application."
+    ],
+    "482709": [
+        "1. Login Teaming (http://TeamingServer:8080) with a valid user",
+        "2. Go to MiniBlog section of the Sidebar",
+        "3. Enter the blow special chars,then OK"
+    ],
+    "483291": [
+        "1. Login Teaming (http://TeamingServer:8080) with an admin user whose locale is German",
+        "2. Go to Site Administration-->Reports-->License Report",
+        "3. Click OK,the report is created "
+    ],
+    "483731": [
+        "1. Login Teaming (http://TeamingServer:8080) with admin user",
+        "2. Click Manage-->Site Administration-->Form and View Designers",
+        "3. Expand Entry Definitions,select one Entry(e.g. Blog Entry)",
+        "4. Expand Entry Form Definition,and select Form",
+        "5. Click Add,add one element(e.g. Text)",
+        "6. Enter the Caption and Data Name,then click OK",
+        "7. Check the Form Preview"
+    ],
+    "484152": [
+        "1. Login Teaming,and add a user which full name contain some special chars",
+        "2. User is added successfully",
+        "3. Sign out and Sign in using the added user with special chars"
+    ],
+    "484198": [
+        "1. Login Teaming using IE7,go to My Workspace",
+        "2. Click Manage-->Add New Folder,check the radio button for Milestone Folder,then OK",
+        "3. Click the Milestone folder,and click Add Milestone",
+        "4. Fill in values for required field and others,then click OK"
+    ],
+    "484433": [
+        "1. Log in Teaming with Admin rights.",
+        "2. Go to Home Workspace ? Manage ? Modify This Workspace",
+        "3. Into the Landing Page section, add the \u2018Navigation Tree\u2019 Utility element.",
+        "4. Click on OK button and also close the Modify This Workspace page clicking on OK button.",
+        "5. Verify the utility element was added into the landing page."
+    ],
+    "484469": [
+        "1. Log in Teaming with Admin rights.",
+        "2. Go to Home Workspace --> Manage --> Modify This Workspace",
+        "3. If you have any element added into the Landing Page section, try to modify it. If don\u2019t, add one element, close the page, go back and try to modify it."
+    ],
+    "484584": [
+        "1. Login Teaming with a user whose locale is non-English(e.g. German)",
+        "2. Click the 'Send E-Mail' link at the left panel to open the Send E-Mail page."
+    ],
+    "484591": [
+        "1. Login Teaming with a user whose locale is non-English(e.g. German)",
+        "2. Click one folder of workspace",
+        "2. Click the help icon at the right-top cornor to enter the help mode",
+        "3. Click Help topics"
+    ],
+    "484597": [
+        "1. Login Teaming with a user whose locale is non-English(e.g. German)",
+        "2. Go to the Calendar folder,and click Add Calendar Entry"
+    ],
+    "485016": [
+        "1. Login Teaming with a user whose locale is non-English(e.g. German)",
+        "2. Click the 'Send E-Mail' link at the left panel to open the Send E-Mail page."
+    ],
+    "485048": [
+        "1. Login Teaming with a user whose locale is German",
+        "2. Expand the Tag This Workspace section of left panel"
+    ],
+    "485053": [
+        "1. Login Teaming with a valid user.",
+        "2. Go to the Calendar folder,click Add Calendar Entry",
+        "3. Fill in Title,Location and Description",
+        "4. Clear the Start and End fields to empty,then OK"
+    ],
+    "485075": [
+        "1. Login Teaming with a valid user",
+        "2. Under My Workspace,create a new workspace without workspace folder",
+        "2. Go to the Blog folder,create a blog entry and add two comments",
+        "3. Click Manage,select copy this folder",
+        "4. Select the new workspace created in step2,then OK",
+        "5. Go to the workspace of step2",
+        "6. The blog folder is copied successfully,click the copied blog"
+    ],
+    "485500": [
+        "1. Login Teaming with a valid user",
+        "2. Go to My Workspace,and click Accessory Panel-->Add an Accessory",
+        "3. Select 'Personal Accessory for This Page Only' and 'Task Summary',then OK",
+        "4. Enter the title and enter some chars in the field '# of Results to be shown',then Apply-->Close"
+    ],
+    "485522": [
+        "1. Login Teaming with an admin user",
+        "2. Click Personal Workspaces link,then Manage-->Modify This Workspace",
+        "3. Modify the title with i18n chars(e.g Personal Workspaces_\u00e4\u00f6\u00df\u00dc-German_??-Chinese),then OK",
+        "4. Go to My Workspace,click Manage-->Activity Reports,check the check box of current user's workspace,then OK.",
+        "5. Save the report.csv to locale",
+        "6. Open the report.csv"
+    ],
+    "485791": [
+        "1. Download the 20090313135249-beta1 build.",
+        "2. Extract files and install Teaming.",
+        "3. After installation is finished, start up Tomcat:"
+    ],
+    "486400": [
+        "1. Login Teaming with a valid user ",
+        "2. Go to the MiniBlog folder,click the link 'E-mail Notification' in tool bar",
+        "3. In the opened page,select a user for 'Message Suitable for Text Messaging',then OK",
+        "4. Add a miniblog",
+        "5. Check the user's mail using mail client"
+    ],
+    "486678": [
+        "1. Login Teaming with a valid user ",
+        "2. In the left sidebar,hover the mouse onto the icons(They are font of Recent Places,Workspace,Folder Options and so on.)"
+    ],
+    "486743": [
+        "1. Open the entry created before",
+        "2. Add a attachment",
+        "3. Click Advanced to search",
+        "4. In Create Dates field,select the date before today,then Search"
+    ],
+    "487652": [
+        "1. Login Teaming with a valid user ",
+        "2. Go to one folder,create an entry and add the attachment(.txt or .doc and the length of file name is more than 155)",
+        "3. Open the entry,click the VIEW link of attachments,the content displayed well",
+        "4. Click the EDIT link,MS Word is opened,enter the username and password in the puped up window"
+    ],
+    "487661": [
+        "1. Login Teaming with a valid user ",
+        "2. Go to a folder,and add an entry(eg.Blog)",
+        "3. In description section,click the 'Inserts a new table' icon and go to Advanced page."
+    ],
+    "490522": [
+        "1. Login Teaming with a user whose locale is non-English(e.g. German)",
+        "2. In Sidebar of left panel,click the 'plus' icon of Personal Preferences"
+    ],
+    "490529": [
+        "1. Login Teaming with a valid user",
+        "2. Click the link of 'Personal Workspaces' behind the 'Home Workspace'"
+    ],
+    "490581": [
+        "1. Login Teaming with a user whose locale is German",
+        "2. Expand the Personal Preferences on sidebar",
+        "3. Click the Change Color Theme"
+    ],
+    "491049": [
+        "1. Login Teaming with a valid user",
+        "2. Enter some values to MiniBlog section on the Sidebar,then click OK",
+        "3. The MiniBlog is added and displayed",
+        "4. Click the MiniBlog link on the Sidebar to open the MiniBlog page."
+    ],
+    "491398": [
+        "1. Login Teaming and add a user with the long full name(about more than 25 characters) ",
+        "2. Logout and login using the just added user"
+    ],
+    "491435": [
+        "1. Login Teaming and add a MiniBlog folder",
+        "2. Go to the MiniBlog folder and create a MiniBlog entry ",
+        "3. Click the date to view the MiniBlog entry",
+        "4. Click Modify in the view page"
+    ],
+    "492754": [
+        "1. Login Teaming with a user and this user has the valid E-Mail address",
+        "2. Go to one of the folders",
+        "3. Click the link 'E-Mail Notification' from tool bar on the top",
+        "4. Select the address for any one of the types,then OK",
+        "5. Click the link 'E-Mail Notification' again"
+    ],
+    "493175": [
+        "1. Login Teaming with a user",
+        "2. Go to My Workspace,and click Manage-->Form and View Designers-->New-->Entry Definitions",
+        "3. In Caption or Name field enter the chars more than 64,then OK "
+    ],
+    "493752": [
+        "1. Go to a blog folder and click on an entry to open it in a frame.",
+        "2. Click on the Print icon inside the frame.",
+        "3. Select the option \u201cAs laid out on screen\u201d.",
+        "4. Print the page.",
+        "1. Go to a blog folder and click on an entry to open it in a frame.",
+        "2. Click on the Print icon outside the frame (in the upper right-hand corner)",
+        "3. Leave the settings as default and print the page.",
+        "1. Go to a blog folder and click on an entry to open it in a frame.",
+        "2. Click on the Print icon outside the frame (in the upper right-hand corner)",
+        "3. Leave the settings as default and print the page."
+    ],
+    "494259": [
+        "1. Login Teaming using IE6 browser and go to My Workspace",
+        "2. Expand the 'Tag This Workspace',and add a tag",
+        "3. Click the link of just added tag "
+    ],
+    "494607": [
+        "1. Using IE6,login Teaming with a user whose locale is non-English(e.g. Russia)",
+        "2. Go to the File folder,add file entry and upload a file which name includes i18n chars (e.g. ??????????_Unicode.txt)",
+        "3. Open the file entry,and click modify",
+        "4. Upload the same file again,the new version has been created",
+        "5. Expand the link 'Previous Versions',then click the link 'Version 1'"
+    ],
+    "495028": [
+        "1. Using IE6 login Teaming",
+        "2. Click the Advanced link to ope Advanced Search page",
+        "3. Navigate to Entry Attributes field,click the drop down arrow,all the entry types displayed"
+    ],
+    "495040": [
+        "1. Login Teaming with a user",
+        "2. Go to the Photo folder,and click Add Photo Entry",
+        "3. Enter a title,insert an image in description field and add another image in Photo field,then OK"
+    ],
+    "495348": [
+        "0. Configure Incoming mail settings in Teaming 1.0.3",
+        "1. Upgrade Teaming 1.0.3 to 2.0",
+        "2. Login as Admin",
+        "3. Go to Site Administration > Configure E-Mail (enable or disable incoming and outgoing e-mail)"
+    ],
+    "495541": [
+        "1. Activate Self-registration option.",
+        "2. Click on \u201cCreate new account\u201d link.",
+        "3. Click on \u2018Get a new image\u2019 icon to get a new text verification image."
+    ],
+    "498717": [
+        "1. Log in Teaming with a user.",
+        "2. Go to \"My workspace -> File Folder\".",
+        "3. Click \"Add File Entry\" and browse to select a .odt or .doc file of which file name includes local characters. Then click \"OK\" button.",
+        "5. Click the new added file, in \"View\" window, click the file name to open it with Openoffice or Word."
+    ],
+    "499059": [
+        "1. Login Teaming.",
+        "2. Go to a File folder and configure the e-mail notifications so you can receive the new entries in your mail (WITHOUT attachments).",
+        "3. Upload a file with a filename containing special characters (you can use the attached example).",
+        "4. Wait until you receive the notification in your inbox.",
+        "5. Open the notification and click in the attachment link.",
+        "6. Enter you credentials."
+    ],
+    "501210": [
+        "1. select a workspace",
+        "2. click the workspace title once on the workspace page"
+    ],
+    "505583": [
+        "1. Upload an example.doc file with a word \"test\" in the \"File Folder\".",
+        "2. Check that OO Converter running and [VIEW] shows \"test\".",
+        "3. Choose \"Manage\" > \"Site Administration\" > \"Manage the Search Index\" and re-index the \"File Folder\".",
+        "4. Search for \"test\"."
+    ],
+    "506287": [
+        "1. Go to Log In screen",
+        "2. Using JAWS, set focus to screen and use command Insert+F6 to show a list of input fields."
+    ],
+    "506288": [
+        "1. Go to Log In screen",
+        "2. Tab to Places edit field",
+        "3. Enter the letter 'a'",
+        "4. When the drop list appears try to use the down arrow on the keyboard to move into the list."
+    ],
+    "506289": [
+        "1. Go to the Log In screen.",
+        "2. Use the mouse to hover over the Guest, Guest Workspace and the N and notice the change in visual color.",
+        "3. Use the keyboard to tab to these elements and set focus to them."
+    ],
+    "506290": [
+        "1. Log in",
+        "2. Wait a period of time and then try to use the site. (I don't have a solid time period to wait)"
+    ],
+    "506291": [
+        "1. Log In",
+        "2. Select the MY Workspace link",
+        "3. Make sure the sidebar is displayed",
+        "4. Using the mouse hover over the Micro Blog field and other sections of the sidebar and notice the visual indication",
+        "5. Using the mouse hover over the tabs in the main workspace and notice the visual indication ",
+        "6. Tab to these locations using only the keyboard."
+    ],
+    "506293": [
+        "1. Log In",
+        "2. Go to My Workspace",
+        "3. Tab to the Favorites link and press Enter",
+        "4. Tab into the pop up dialog.",
+        "5. Try to close the dialog using only the keyboard."
+    ],
+    "506295": [
+        "1. Log In",
+        "2. Select My Workspace",
+        "3. Select the Overview tab",
+        "4. Tab to the Move up or Move down graphics for a section in the main content area"
+    ],
+    "506296": [
+        "1. Log In",
+        "2. Select My Workspace",
+        "3. Tab to the Profile tab and select it",
+        "4. Focus is now back at the top of the page, tab to the main content"
+    ],
+    "506493": [
+        "1. Log in",
+        "2. Select the My Workspace link",
+        "3. View source and search for mastheadHelp.png or any of the other listed in this bug."
+    ],
+    "506500": [
+        "1. Disable scripts in browser",
+        "2. Log in",
+        "3. Select Log Out or try to expand the tree branches for the Personal Workspace or select the blog or calendar links, etc."
+    ],
+    "506522": [
+        "1. Log in",
+        "2. Select Blog",
+        "3. Select Add Blog Entry",
+        "4. Enter a title",
+        "5. Tab to the edit field and start entering a blog post.",
+        "6. Tab to the OK button to save the post."
+    ],
+    "506531": [
+        "1. Log in",
+        "2. Select Blog",
+        "3. Select Add Blog Entry",
+        "4. Enter a title",
+        "5. Tab to the edit field and start entering a blog post.",
+        "6. Using the shift key and the arrow key highlight (select) some of the text",
+        "7. Tab to the Attachements edit field or the Browse button."
+    ],
+    "508388": [
+        "1. Configure a Micro-Blog so it can get incoming mail entries.",
+        "2. Send a mail to this micro-blog.",
+        "3. Verify the entry is posted into the micro-blog.",
+        "4. Verify the Profile was updated with this entry."
+    ],
+    "508399": [
+        "1. Clear all private data from your FF3 browser.",
+        "2. Close and launch FF3 browser.",
+        "3. Login Teaming as admin.",
+        "4. When Firefox asks you to remember your password, choose Remember.",
+        "5. Go to Site Administration page to add a new user. Click in \"Add user\" option."
+    ],
+    "508510": [
+        "1. Send an e-mail to the File folder with a file with extended characters in the filename (russian, chinese, etc).",
+        "2. Verify the file is posted into the folder and is accessible (able to download, edit, view, etc)."
+    ],
+    "508639": [
+        "1- create a new wiki entry in teaming",
+        "2- copy the content of a groupwise message be it in html or text format",
+        "3- paste content into the wiki page",
+        "4- system crashes with the following error \"the application \"Geko\" has quit unexpectedly\"",
+        "5- Screen capture attached"
+    ],
+    "510140": [
+        "1.\tLog in",
+        "2.\tGo to Workspace then to Overview tab, or any other section of the site",
+        "3.\tSelect the Permalinks link at the bottom of the page",
+        "4.\tWhen the section expands find the X in the upper right corner of the section."
+    ],
+    "510142": [
+        "1.\tLog in",
+        "2.\tGo to Workspace then to Overview tab, or any other section of the site",
+        "3.\tSelect the Permalinks link at the bottom of the page",
+        "4.\tWhen the section expands tab to the X in the upper right corner of the section."
+    ],
+    "510144": [
+        "1.\tLog in",
+        "2.\tGo to any page in the site",
+        "3.\tIf you are using JAWS on the page press Insert+F6 for a list of headings.",
+        "4.\tIf you are not using JAWS look at the source of the page and search for header elements \u201c<H1> to <H5>, etc."
+    ],
+    "510147": [
+        "1.\tLog In",
+        "2.\tStart JAWS",
+        "3.\tSelect the Calendar link",
+        "4.\tUsing JAWS navigate down the page to the calendar. Select any of the views.",
+        "5.\tTry navigating the calendar to find an appointment.",
+        "6.\tOnce an appointment is found try to determine, without looking, what day and time that appointment is for."
+    ],
+    "510150": [
+        "1.\tLog In",
+        "2.\tStart JAWS",
+        "3.\tSelect the Task Folder link",
+        "4.\tTo get a list of  form controls in JAWS press Insert+F5",
+        "5.\tScroll down to the radio buttons (see result A below)",
+        "6.\tClose the form control list dialog",
+        "7.\tWith JAWS running tab to the View radio buttons (see result B below)"
+    ],
+    "510154": [
+        "1.\tStart JAWS",
+        "2.\tGo to log in page (or any other page this frame is used)",
+        "3.\tPress Insert+F9 to open a list of frames"
+    ],
+    "510155": [
+        "1.\tLog In",
+        "2.\tStart JAWS",
+        "3.\tGo to the Blog, Guestbook or Wiki page. ",
+        "4.\tInvoke the add comment; sign the guestbook or other commands within frame.",
+        "5.\tRefresh JAWS by selecting Insert+ESC",
+        "6.\tView the list of frames by selecting Insert+F9"
+    ],
+    "510158": [
+        "1.\tLog in",
+        "2.\tGo to Wiki",
+        "3.\tSelect Upload Single File"
+    ],
+    "510160": [
+        "1.\tLog in",
+        "2.\tStart JAWS",
+        "3.\tGo to the File Folder page",
+        "4.\tSelect the Accessory Panel link",
+        "5.\tSelect Add an Accessory",
+        "6.\tWhen the accessory panel opens navigate down through the Accessory Type radio button."
+    ],
+    "510162": [
+        "1.\tLog In",
+        "2.\tStart JAWS",
+        "3.\tGo to the Calendar page",
+        "4.\tTab to the Show All Entries by: combo box"
+    ],
+    "510164": [
+        "1.\tLog In",
+        "2.\tStart JAWS",
+        "3.\tSelect My Workspace",
+        "4.\tIn the Side Bar select Tag This Workspace",
+        "5.\tUsing JAWS navigate down to the Add Personal Tag edit filed and the Add Community Tag edit field."
+    ],
+    "510208": [
+        "1. User1: Create a blog and make some entries.",
+        "2. Restrict access to anybody so only YOU can read those entries (All Users can be 'Participants' but not 'Visitors').",
+        "3. Upgrade to 2.0",
+        "4. User2: Access to user1's blog to verify if you can read the entries (you can't read them).",
+        "5. User1: Allow access to All Users to see entries (as 'Visitors').",
+        "6. User2: Access again to user1's blog to verify if you can read the entries."
+    ],
+    "511025": [
+        "1.\tLook at the source for a page that contains the masthead.",
+        "2.\tLook at the part that contains Print and Help graphics. (See Result A)",
+        "3.\tLook the source for the Discussion page, or any other page that makes use of tables",
+        "4.\tLook at the width of the cells. (See result B)"
+    ],
+    "511029": [
+        "1.\tLog in",
+        "2.\tIn the sidebar select either Send Email or Share This Workspace."
+    ],
+    "511031": [
+        "1.\tLog in",
+        "2.\tIn the main menu select anything under the Manage selection or select Who Has Access or Modify Profile."
+    ],
+    "511032": [
+        "1.\tLog in",
+        "2.\tGo to any of the main pages. Blog, Tasks, Guestbook, etc.",
+        "3.\tSelect the Add New Entry link for those pages."
+    ],
+    "511040": [
+        "1.\tDisable scripting",
+        "2.\tLog in",
+        "3.\tTry using any of the page elements that require scripting, such as many links."
+    ],
+    "511741": [
+        "1.\tLog in",
+        "2.\tGo to the Calendar page",
+        "3.\tUsing only the keyboard set focus to the Work Day drop list and press Enter",
+        "4.\tWhen the list opens use the down arrow to cycle through the list."
+    ],
+    "511748": [
+        "1.\tLog in",
+        "2.\tGo to the Wiki page",
+        "3.\tUsing only the keyboard set focus to the Sort By drop list and press Enter",
+        "4.\tWhen the list opens use the tab key arrow to cycle through the list."
+    ],
+    "512117": [
+        "1. Log into your Teaming Server (http://172.22.xx.xx:8080) ",
+        "2. The 1st Page that opens is the Users Profile Page.",
+        "3. From the Tools section on the right click on Workspace, and then click on GuestBook."
+    ],
+    "512118": [
+        "1. Log into your Teaming Server (http://172.22.xx.xx:8080) ",
+        "2. The 1st Page that opens is the Users Profile Page.",
+        "3. From the Tools section on the right click on Workspace, and then click on GuestBook."
+    ],
+    "512120": [
+        "1. Log into your Teaming Server (http://172.22.xx.xx:8080) ",
+        "2. The 1st Page that opens is the Users Profile Page.",
+        "3. From the Tools section on the right click on Workspace, and then click on Task Folder."
+    ],
+    "512123": [
+        "1. Click on the Task Folder, Observe Screen",
+        "2. Click on the 'Add Task Entry' button, Task Entry Screen will open, Observe Screen",
+        "3. Enter a Title, Description, Start - End Time Period, check the Priority, Status and Completed in drop down list, Click OK",
+        "4. Check the Text that appears above the Task Enteries 'Priorities (All Enteries) and Status (All Enteries)"
+    ],
+    "512200": [
+        "1. Log into your Teaming Server.",
+        "2. The 1st Page that opens is the Users Profile Page."
+    ],
+    "512214": [
+        "1. Log into your Teaming Server.",
+        "2. The 1st Page that opens is the Users Profile Page.",
+        "3. Click on the Overview (\u00dcbersicht) Tab.",
+        "4. Click on the Accessory Panel (Zubeh\u00f6rbereich9 link > Click Add an Accessory (Zubeh\u00f6relement hinzuf\u00fcgen). Accessory Panel will open.",
+        "5. With 'Personal Accessory for this Page only' (Pers\u00f6nliches Zubeh\u00f6relement nur f\u00fcr diese Seite) selected choose 'Formatted Text' (Formatierter Text) from the 'Accessory Type' (Zubeh\u00f6relementart) section and click OK."
+    ],
+    "512221": [
+        "1. Log into your Teaming Server.",
+        "2. The 1st Page that opens is the Users Profile Page.",
+        "3. Click on the Tasks and Calendar (Aufgaben und Kalender) Tab."
+    ],
+    "512224": [
+        "1. Log into your Teaming Server.",
+        "2. The 1st Page that opens is the Users Profile Page.",
+        "3. Click on the Micro Blogs and Shared Items (Mikro-Blogs und freigegebene Elemente) tab."
+    ],
+    "512227": [
+        "1. Log into your Teaming Server.",
+        "2. From the Tools section on the left click on Workspace (Arbeitsbereich) > Blogs."
+    ],
+    "512231": [
+        "1. Log into your Teaming Server.",
+        "2. From the Tools section on the left click on Workspace (Arbeitsbereich) > Blogs.",
+        "3. click on the Add Blog Entry (Blog-Eintrag hinzuf\u00fcgen) button."
+    ],
+    "512234": [
+        "1. Log into your Teaming Server.",
+        "2. From the Tools section on the left click on Workspace (Arbeitsbereich) > Blogs.",
+        "3. click on the Add Blog Entry (Blog-Eintrag hinzuf\u00fcgen) button.",
+        "4. Scroll down the page and expand the Subscribe To This Entry (Diesen Eintrag abonnieren) section. The last of the items in this section is mistranslated."
+    ],
+    "512237": [
+        "1. Log into your Teaming Server.",
+        "2. From the Tools section on the left click on Workspace (Arbeitsbereich) > "
+    ],
+    "512270": [
+        "1. Log into your Teaming Server.",
+        "2. From the Tools section on the left click on Workspace (Arbeitsbereich) > Calendar.",
+        "3. Click the 1-day Calendar View button."
+    ],
+    "512276": [
+        "1. Log into your Teaming Server.",
+        "2. From the Tools section on the left click on Workspace (Arbeitsbereich) > ",
+        "3. Click the 1-day Calendar View button."
+    ],
+    "512296": [
+        "1. Log into your Teaming Server.",
+        "2. From the Tools section on the left click on Workspace (Arbeitsbereich) > Calendar.",
+        "3. Click the 1-day Calendar View button."
+    ],
+    "512298": [
+        "1. Log into your Teaming Server.",
+        "2. From the Tools section on the left click on Workspace (Arbeitsbereich) > Calendar.",
+        "3. Click the 1-day Calendar View button.",
+        "4. Select 'Weekly' (W\u00f6chentlich) from the 'Repeat' (Wiederholen) drop-down."
+    ],
+    "512312": [
+        "1. Log into your Teaming Server.",
+        "2. From the Tools section on the left click on Workspace (Arbeitsbereich) > Calendar.",
+        "3. Click on the 'Add Calendar Entry' (Kalendereintrag hinzuf\u00fcgen) button.",
+        "4. Select 'Monthly' (Monatlich) from the 'Repeat' (Wiederholen) drop-down."
+    ],
+    "512326": [
+        "1. Log into your Teaming Server.",
+        "2. From the Tools section on the left click on Workspace (Arbeitsbereich) > File Folder.",
+        "3. Click on the 'Add Files to Folder' (Dateien zu Ordner hinzuf\u00fcgen) button."
+    ],
+    "512334": [
+        "1. Log into your Teaming Server.",
+        "2. From the Tools section on the left click on Workspace (Arbeitsbereich) > Task Folder.",
+        "3. Click on the 'Add Files to Folder' (Dateien zu Ordner hinzuf\u00fcgen) button."
+    ],
+    "512341": [
+        "1. Log into your Teaming Server.",
+        "2. From the Tools section on the left click on Workspace (Arbeitsbereich) > Task Folder.",
+        "3. Enter a Title, Description, Start - End Time Period, etc. > Click OK"
+    ],
+    "512388": [
+        "1. Log into your Teaming Server.",
+        "2. Under Workspace in the Tools section click on your user > click on a Wiki (you may need to create one if one does not already exist).",
+        "3. Click 'Add a Wiki Entry' (Wiki-Eintrag hinzuf\u00fcgen) and enter all data required to create a new Wiki entry > click OK.",
+        "4. Click on Delete (L\u00f6schen) to delete the Wiki entry. A confirmation prompt appears."
+    ],
+    "512398": [
+        "1. Log into your Teaming Server.",
+        "2. Under Workspace in the Tools section click on your user > click on a discussion folder.",
+        "3. Click Manage (Verwalten) > Configure (Konfigurieren). The Configure Defaults (Standardwerte konfigurieren) screen appears."
+    ],
+    "512402": [
+        "1. Log into your Teaming Server.",
+        "2. Under Workspace in the Tools section click on your user > click on a discussion folder.",
+        "3. Click Manage (Verwalten) > Delete This Folder (Diesen Ordner l\u00f6schen). A deletion confirmation message window appears."
+    ],
+    "512414": [
+        "1. Log into your Teaming Server.",
+        "2. Click on the 'Share this Folder' (Diesen Ordner freigeben) button."
+    ],
+    "512422": [
+        "1. Log into your Teaming Server.",
+        "2. At the top of the Page above the Search box click on the 'Advanced' (Erweitert) link."
+    ],
+    "513443": [
+        "1. Create Wiki record",
+        "2. Insert a link to another Teaming page",
+        "3. Press [Change]",
+        "4. Type something in Russian"
+    ],
+    "513708": [
+        "1.log into teaming.innerweb.novell.com",
+        "2.access a file folder",
+        "3.upload a jpg file"
+    ],
+    "513732": [
+        "1. Login Teaming as Admin.",
+        "2. Go to Manage > Site Administration > Reports > License Report",
+        "3. Enter a 5-digit year (ie, 20091). Click OK."
+    ],
+    "514106": [
+        "1. Change workspace type Landing page",
+        "2. Add item List (or URL)",
+        "3. Type Title in Russian, for example \"\u041c\u0435\u043d\u044e\" (Menu)",
+        "4. Click OK"
+    ],
+    "515357": [
+        "1. Start JAWS",
+        "2. Log In",
+        "3. Select Milestone link",
+        "4. Select a current milestone in the list to display its details",
+        "5. When the details of the milestone are displayed refresh the JAWS view (Insert+ESC)",
+        "6. Arrow down and try to read the details (See result A)",
+        "7. Move to the bottom of the page (Ctrl+End)",
+        "8. Arrow up through the page and listen to JAWS (See result B)"
+    ],
+    "517496": [
+        "1. Log In",
+        "2. Start JAWS",
+        "3. Select the Task Folder link",
+        "4. Navigate to an existing task and arrow through the priority graphics.",
+        "5. Now arrow through the status graphics."
+    ],
+    "517502": [
+        "1. Create a new user",
+        "2. Log in to the new user account",
+        "3. Expand the Personal Preferences section",
+        "4. Look at the Tooltips setting"
+    ],
+    "517504": [
+        "1. Log in",
+        "2. Select a Video Tutorial"
+    ],
+    "518539": [
+        "1. Create and synchronize a mirrored folder.",
+        "2. Then delete the source folder from the drive.",
+        "3. Synchronize again the mirrored folder in Teaming.",
+        "4. Try to add a new file into the mirrored folder in Teaming."
+    ],
+    "518866": [
+        "1. Login Teaming as admin.",
+        "2. Create a zone.",
+        "3. Access that zone.",
+        "4. Login Teaming again as admin in the default zone.",
+        "5. Delete the created zone in step 2.",
+        "6. Try to access that zone."
+    ],
+    "521870": [
+        "1. Install and Launch Teaming ",
+        "2. Click on the Blue Question mark in the top Right of the Browser",
+        "3. Yellow icons and a Novell Teaming Help Mode Dlg will open ",
+        "4. On the Novell Teaming Help Mode Dlg click on the Link 'Help Topics'",
+        "5. From the List that appears click on Footer Toolbar (Last Option)",
+        "6. Untwist the Options and under the option 'Entry Footer Toolbar' there is some unlocalised Text appearing"
+    ],
+    "523896": [
+        "1. Create a Folder View and add to its Folder Form a User List element.",
+        "2. Create an Entry Definition and add to it a User List Selectbox element; In the \"Source User List Element from the Parent Folder\" field of this element type the data name of the User List element created in step 1.",
+        "3. Create a Workflow Process and configure one of the States with a \"Transition Out of This State\" access so that it uses the User List Selectbox element in the Entry Definition created in step 2.",
+        "4. Configure a Folder in Teaming with the Entry Definition, Folder View, and Workflow created in the previous steps.",
+        "5. Log into Teaming without administrative privileges and test the form and workflow."
+    ],
+    "527634": [
+        "1. Create a new file entry",
+        "2. Add multiple attachments",
+        "3. View file folder"
+    ],
+    "529237": [
+        "1. Create a file in Excel or Word and save it protected with a password.",
+        "2. Login Teaming and upload the file in a File folder.",
+        "3. Click in the uploaded file, or click in the VIEW link"
+    ],
+    "529471": [
+        "1.Search for any user in teaming",
+        "2.Select their avatar with the left mouse button",
+        "3.select Add to your email contacts"
+    ],
+    "532282": [
+        "1.Search for any user in teaming",
+        "2.Select their avatar with the left mouse button",
+        "3.select Add to your email contacts"
+    ],
+    "537929": [
+        "1. Go to a wiki folder and create an entry.",
+        "2. Insert a link to another Teaming page.",
+        "3. Apply format to that link (Bold or Italics).",
+        "4. Save the changes and attempt to access to the link clicking on it."
+    ],
+    "542373": [
+        "1. Create 3 tasks with the same priority and status.",
+        "2. Change the status to 1 of them.",
+        "3. Refresh the chart."
+    ],
+    "542374": [
+        "1. Create a filter for a folder.",
+        "2. In the dates boxes, enter invalid date intervals, I mean, an older initial date.",
+        "3. Click OK."
+    ],
+    "542408": [
+        "1. Modify a workspace: Manage > Modify This Workspace",
+        "2. In the Branding section, upload a file which contains special characters in the filename (for instance: \u201c+dog.gif\u201d). You can use the attached file.",
+        "3. Click OK."
+    ],
+    "547807": [
+        "1. Set a file folder to post incoming mail entries.",
+        "2. Send a mail to that folder with just a file.",
+        "3. Send again the same mail with the same file to create a duplicated entry."
+    ],
+    "547809": [
+        "1. Go to a blog and create a blog entry.",
+        "2. Before submitting it, expand the \u201cSend E-Mail When Entry is Submitted\u201d panel.",
+        "3. Hover the mouse over the \u201cSend to Teams\u201d textbox."
+    ],
+    "549072": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"English\",then click OK button;",
+        "4.Unwrap \"Manage\" in the Workspace toolbar;",
+        "5.There are 10 options in drop-down list;",
+        "6.Change \"Locale\" to \"Simplified Chinese/Russian/German\",then click OK button;",
+        "7.Unwrap \"Manage\" in the Workspace toolbar."
+    ],
+    "549074": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"English\",then click OK button;",
+        "4.Unwrap \"Manage\" in the Workspace toolbar;",
+        "5.There are 10 options in drop-down list;",
+        "6.Change \"Locale\" to \"Simplified Chinese/Russian/German\",then click OK button;",
+        "7.Unwrap \"Manage\" in the Workspace toolbar."
+    ],
+    "550005": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Japanese\",then click OK button;",
+        "4.Go to \"My Workspace\";",
+        "5.Click on \"What's New(Teams,Tracked Places,Site)Tab;",
+        "6.Click on \"Tracked Places\" radio button;",
+        "7.Some tracked folders are displayed in \"Tracked Folders and Workspaces\" section;",
+        "8.Hover mouse on \"Delete\" icon."
+    ],
+    "550263": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Japanese\",then click OK button;",
+        "4.Go to \"Personal Workspace\";",
+        "5.Click on \"Add User\";",
+        "6.Enter \"User Id\" and leave \"Password\" null;",
+        "7.Click on OK button."
+    ],
+    "550325": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Japanese\",then click OK button;",
+        "4.Go to \"Manage->Add New Workspace\";",
+        "5.Enter a title for the Landing page;",
+        "6.Select the \"Landing Page\" option,then click on OK button.",
+        "7.Modify this landing page workspace."
+    ],
+    "550358": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Japanese\",then click OK button;",
+        "4.Go to \"Calendar\" Folder -> \"Add Calendar entry\";",
+        "5.Type Title, Location, Description and all the fields;",
+        "6.In the Repeat field choose daily, weekly Monthly or Yearly;",
+        "7.In the\u201cevery\u201d field type a decimal (i.e. 0.5);",
+        "8.Click OK button."
+    ],
+    "550609": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Japanese\",then click OK button;",
+        "4.Go to \"Calendar\" Folder -> \"Add Calendar entry\";",
+        "5.Click \"Insert/edit image\" button in \"Description\" section;",
+        "6.Click \"Appearance\" tab in \"Insert/edit image\" window;",
+        "7.Check \"Alignment\" drop-down list."
+    ],
+    "550714": [
+        "1. Add a parallel workflow thread.",
+        "2. Add a workflow question to a state, and transitions on response.",
+        "3. Make the parallel thread start entering a state, and then stop it, entering another state."
+    ],
+    "551148": [
+        "1. Click Manage > Activity Reports.",
+        "2. Select Report Workspace or Folder Activity (view, add, modify, delete).",
+        "3. Check Break Down Activity by Team Member.",
+        "4. Choose the folders and click OK."
+    ],
+    "551252": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Japanese\",then click OK button;",
+        "4.Login Mobile Teaming with admin;",
+        "5.Click \"Actions\" menu."
+    ],
+    "553045": [
+        "1. Go to a Landing Page",
+        "2. Go to Manage > Modify this Workspace",
+        "3. Grab an Element by its icon. Drop it on the layout."
+    ],
+    "553136": [
+        "1. From 'My Workspace' go to 'Workspace' in the Sidebar.",
+        "2. Under your user click on 'Calendar' option from this section, check this page for any truncations, corruption, unlocalised text, Date format, also check any drop down list available."
+    ],
+    "553148": [
+        "1. From 'My Workspace' go to 'Workspace' in the Sidebar.",
+        "2. Under your user click on 'Calendar' option from this section, check this page for any truncations, corruption, unlocalised text, Date format, also check any drop down list available.",
+        "3. On the Calendar Page click on the different options on the menu bar ( 1 day, 3 Days. 5 Days, 1 Week, 2 Weeks and 1 Month ) verify that the Calendar changes and displays in the option you choose."
+    ],
+    "553156": [
+        "1. From 'My Workspace' go to 'Workspace' in the Sidebar.",
+        "2. Under your user click on 'Calendar' option from this section, Click on the 'Add Calendar Entry' option, the Calendar Entry page will open check this page for any truncations, corruption, unlocalised text, Date format is correct for the locale being tested."
+    ],
+    "553163": [
+        "1. From 'My Workspace' go to 'Workspace' in the Sidebar.",
+        "2. Under your user click on 'Calendar' option from this section, Click on the 'Add Calendar Entry' option, In the Event Start/End Date and Time boxes click in these and check the dialogs that opens for any issues."
+    ],
+    "553193": [
+        "1. Login into Teaming.",
+        "2. In your workspace, go to 'File Folder' link.",
+        "3. Click on 'Add File entry'., Check dialog that appears for any localisation issues",
+        "4. Type a description using L10n characters to the file to upload .",
+        "5. Create a text file on your Desktop with L10N characters. Click on Browse button.",
+        "6. Select a file created above and click on Open button.",
+        "7. Click OK, You will be brought back to the File Folder, check this page for any issues, mouse over icons to check tooltips, check date format is correct for locale being tested."
+    ],
+    "553488": [
+        "1. Go to a Landing Page to modify it.",
+        "2. Add a List element to the layout.",
+        "3. Attempt to add an element inside the list."
+    ],
+    "553553": [
+        "1. Using IE browser, go to a Landing Page to modify it.",
+        "2. Add a table with 1 column, with 100% width.",
+        "3. Add an entry inside the table. The entry must contain text.",
+        "4. Save the changes and display the landing page."
+    ],
+    "553619": [
+        "1. Install Teaming 1.0.3",
+        "2. Login Teaming and verify it was installed correctly. Add some entries, users, etc.",
+        "3. Shutdown tomcat.",
+        "4. Copy the 1.0.3's installer.xml to the folder with Teaming 2.1 installation files.",
+        "5. If you wish, update manually the DB running the proper scripts (in this case, I run the \u201cupdate-sqlserver.sql\u201d script from both Update-1.0.0-2.0.0 and Update-2.0.0-2.1.0 folders).",
+        "6. Launch the Teaming 2.1 Installer and follow the instructions. Specify that the DB was already updated. Finish the installation.",
+        "7. Go to the C:\\icecore\\apache-tomcat-6.0.18\\bin  folder and execute Startup.bat file."
+    ],
+    "553683": [
+        "1.Login as a user from pre-steps (on setup tab)",
+        "2.Click 'Share This Workspace' in left pane.",
+        "3.Check 'Who would you like to share this with?' dialog."
+    ],
+    "553800": [
+        "1. Create a folder that uses Russian capital letters (e.g. ??????) on your hard drive.",
+        "2. Reconfigure Teaming and use the folder created above as the Title in the Mirrored Folder Resource Driver Configuration. Finish the reconfig and restart Teaming.",
+        "3. Create a Mirrored Folder. Modify the folder so that the Resource Root Path is / and the Resource Path Relative to the Root Path is the folder name created above.",
+        "4. Synchronize the folder manually."
+    ],
+    "553990": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Chinese(Taiwan)\",then click OK button;",
+        "4.Go to \"My Workspace\"->\"Manage\"->\"New Discussion Folder\";",
+        "5.Add a new discussion entry;",
+        "6.Reply this entry with long tile,then click OK button."
+    ],
+    "554072": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "3.Add a user's quota setting,then this setting is displayed under ",
+        "4.Select this check box,then click OK button;"
+    ],
+    "554203": [
+        "1. Login Teaming and delete an entry.",
+        "2. Go to the Trash folder."
+    ],
+    "554441": [
+        "1. Login Teaming with admin;",
+        "2. Create a user named test01;",
+        "3. Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "4. Select \"Enable Data Quotas\" check box,then set:",
+        "5. Login Teaming with test01;",
+        "6. Go to \"My Workspace\"->\"File Folder\"->\"Add File Entry\";",
+        "7. Upload a file about 7MB.It can be uploaded successfully;",
+        "8. Repeat step6,click \"Browse\" button;",
+        "9. Error message box \"Your disk quota has been exceeded....\" pops up.",
+        "10.Go to \"My Workspace\"->\"Profile\" tab."
+    ],
+    "554455": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"What's New(My Teams,Tracked Places,Web)\" tab",
+        "3.Login Mobile Teaming with admin;",
+        "4.Check What's New in \"My Teams\",\"Tracked Places\",\"Site Web\" and \"Micro-"
+    ],
+    "554464": [
+        "1.Login Mobile Teaming with admin;",
+        "2.Click \"Search\" button on right top corner of page;",
+        "3.In \"FIND\" dialog box,select \"Places\",then click OK button.      "
+    ],
+    "554754": [
+        "1. Go to a folder and delete several entries.",
+        "2. Go to the Trash can and check one item.",
+        "3. Uncheck the item and check another one."
+    ],
+    "554782": [
+        "1. Go to a wiki folder, create an entry and set it as the Wiki Home Page.",
+        "2. Delete the entry.",
+        "3. Refresh the page."
+    ],
+    "554828": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Add New Folder\";",
+        "3.Create a new mirrored file folder;",
+        "4.Modify this folder,then set \"Resource Driver\" as \"dr01\";",
+        "5.Go to this folder,then click \"Add Mirrored File Entry\" button;",
+        "6.Select a file to upload,then click OK button;",
+        "7.General error message box \"Cannot create/update/delete mirrored file through ",
+        "8.Click \"Close\" button."
+    ],
+    "555022": [
+        "1. Login Teaming and go to Manage -> Access Control",
+        "2. Click the \"Add a User\" link in the left column of the table.",
+        "3. In the \"Add a User\" field, begin typing the name of the user that you want to add."
+    ],
+    "555037": [
+        "1. Upload several types of files to a File folder.",
+        "2. Click in the DOWNLOAD link.",
+        "3. Choose \"Save\" in the dialog, select a location and click Save."
+    ],
+    "555043": [
+        "1. Using IE browser, create a wiki folder.",
+        "2. Go to the wiki folder."
+    ],
+    "555062": [
+        "1. Open IE browser window and login Teaming, to file folder and click on one file previously added.",
+        "2. Click on 'Delete'."
+    ],
+    "555369": [
+        "1. Install Teaming, assign jvm heap size 1GB.",
+        "2. Finish installation without errors.",
+        "3. Start Teaming server.",
+        "4. Open browser and Sign in Teaming.",
+        "5. Create users, folders, WS, use the applet to Add files to folder, move folders, etc.",
+        "6. Perform several actions with different users (add files, photos, folder, groups, etc.)"
+    ],
+    "555425": [
+        "1. Go to the Calendar folder and schedule an appointment assigned to you for Today.",
+        "2. Track the calendar.",
+        "3. Go to the Relevance Tabs and open the \u2018Tasks and Calendars\u2019 tab."
+    ],
+    "555718": [
+        "1. Login Teaming with admin;",
+        "2. Create a user named user01 and set his \"Locale\" to English;",
+        "3. Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "4. Select \"Enable Data Quotas\" check box,then set:",
+        "5. Login Teaming with user01;",
+        "6. Go to \"My Workspace\"->\"File Folder\"->\"Add File Entry\";",
+        "7. Upload a file about 7MB.It can be uploaded successfully;",
+        "8. Go to \"My Workspace\"->\"Profile\" tab;",
+        "9. On the left bottom corner,correct quota information can be displayed;",
+        "10.Change \"Locale\" to non English,then go to \"My Workspace\"->\"Profile\" tab."
+    ],
+    "555862": [
+        "1. In a Boulder system, set a Landing Page with Folder elements inside a table.",
+        "2. Upgrade the system to Cortez.",
+        "3. Go to the Manage > Modify this Workspace menu.",
+        "4. Without making any change, click OK."
+    ],
+    "555866": [
+        "1. Go to a Blog folder and modify its description adding some images.",
+        "2. Go to a Landing Page and add a Folder element. Set it to show the blog"
+    ],
+    "556034": [
+        "1. Add an entry containing a date field",
+        "2. Create several entries filling the date field.",
+        "3. Try to find the entries using the date field as entry attribute in advanced search."
+    ],
+    "556311": [
+        "1. Go to a user\u2019s workspace and fill it with blog/file entries, workspaces, etc.",
+        "2. Export it. Verify it\u2019s exported successfully.",
+        "3. Go to another location (another workspace inside the same user, or another user\u2019s workspace) and import the zip file.",
+        "4. Verify it\u2019s imported successfully."
+    ],
+    "556398": [
+        "1. Log in Teaming as Admin.",
+        "2. Go to Manage > Site Administration > Manage Data Quotas and enable the Data quotas. Set the default data quotas as 20 MB.",
+        "3. Also, search for the Admin user into the \u2018Add users and groups\u2019 section and add it. Set a quota of 20 MB for it. Click OK.",
+        "4. Verify the Admin user is displayed into the \u2018Current User Quota Settings\u2019 section at the bottom of the page.",
+        "5. Click Close.",
+        "6. Go to the Admin\u2019s profile tab and verify the Data Quota."
+    ],
+    "556401": [
+        "1. Log in Teaming as Admin.",
+        "2. Go to Manage > Site Administration > Manage Data Quotas and enable the Data quotas. Set the default data quotas as 20 MB.",
+        "3. Also, search for the Admin user into the \u2018Add users and groups\u2019 section and add it. Set a quota of 20 MB for it. Click OK.",
+        "4. Verify the Admin user is displayed into the \u2018Current User Quota Settings\u2019 section at the bottom of the page.",
+        "5. Click Close.",
+        "6. Go to the Admin\u2019s profile tab and verify the Data Quota.",
+        "7. Upload several files to change the data quota used.",
+        "8. Go to Manage > Site Administration > Manage Data Quotas and disable the Data Quota functionality.",
+        "9. Click OK.",
+        "10. Without leaving the page, enable back the Data Quota functionality.",
+        "11. Click OK."
+    ],
+    "556776": [
+        "1. Login Teaming as admin.",
+        "2. Set Data Quota by default for all users as 10MB.",
+        "3. Set a Data Quota specifically for one user as 15MB.",
+        "4. Run the \"Data Quota Exceeded Report\"."
+    ],
+    "556779": [
+        "1. Login Teaming as a normal user.",
+        "2. Exceed your data quota.",
+        "3. Configure a Mirrored folder and synchronize it."
+    ],
+    "556791": [
+        "1.Login Mobile Teaming with admin;",
+        "2.In \"Home\" page,check \"Navigation\" button."
+    ],
+    "556816": [
+        "1. Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Chinese(Taiwan)\",then click OK button;",
+        "4.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "5.Chose a .xml file to add a new extension;",
+        "6.Check the interface."
+    ],
+    "557066": [
+        "1. Login Teaming as a normal user.",
+        "2. Upload several files so the data quota gets exceeded.",
+        "3. Edit a file in place. Save the changes.",
+        "4. Repeat step 3 several times.",
+        "5. Access the folder via WebDav.",
+        "6. Edit a file. Save the changes."
+    ],
+    "557108": [
+        "1.In Web browser, specify the following URL \"http://hostname\" to login Teaming;",
+        "2.In login page,input some I18N chars (like\"\u671d\u641e\u7b11\") in \"Search\" field on left top ",
+        "3.Click \"Search\" button,then check result page."
+    ],
+    "557161": [
+        "1.Login Teaming with admin;",
+        "2.Change \"Locale\" to \"Chinese(Taiwan)\",then click OK button;",
+        "3.Create a new mirrored file folder of this driver;",
+        "4.Go to this folder,then add a mirrored file entry;",
+        "5.Select this file entry,then add a comment with a title and description;",
+        "6.Click \"Upload a Single File\" button to upload an attachment;",
+        "7.Select a file,then click OK button."
+    ],
+    "557285": [
+        "1.In a folder or workspace, click Manage > Modify This Folder/Workspace",
+        "2.I the Description section, in the TinyMCE editor, click the YouTube link.",
+        "3.Insert a YouTube video into the Description section, then click OK.",
+        "4.Click the Manage drop-down list."
+    ],
+    "557421": [
+        "1. Login Teaming.",
+        "2. Upload several files into a File folder so the quota gets exceeded.",
+        "3. Access the File folder via WebDAV and attempt to upload another file."
+    ],
+    "557485": [
+        "1.Navigate to a landing page.",
+        "2.Click Modify This Workspace.",
+        "3.In the Description section, type a description of the workspace, then click OK to save your changes."
+    ],
+    "557694": [
+        "1.Click \"install-teaming.linux\" to install Teaming server;",
+        "2.Select \"Advanced\" installation type;",
+        "3.Set \"Software location\" as \"/opt/novell/untitle folder\";",
+        "4.Leave default to complete installation;",
+        "5.In a terminal window, enter the following command:"
+    ],
+    "557697": [
+        "1.Click \"install-teaming.linux\" to install Teaming server;",
+        "2.Select \"Advanced\" installation type;",
+        "3.Set \"Software location\" as \"/opt/novell/untitledfolder 2!@#$%^&*()_+[]\\;'{}",
+        "4.Leave default to finish installation."
+    ],
+    "557805": [
+        "1. Create a Landing Page.",
+        "2. Add a List element.",
+        "3. Add a Table element inside the list element.",
+        "4. Attempt to add an element inside the Table."
+    ],
+    "557851": [
+        "1. Having an existing Teaming system that you want to replace (install from zero), launch Installer and select \u201cNew Installation\u201d option.",
+        "2. Follow the instructions and go to the \u201cDatabase Selection\u201d page.",
+        "3. Select \u201cCreate the database during installation\u201d."
+    ],
+    "557869": [
+        "1. Go to Manage > Site Administration > Manage Data Quotas and Enable data quotas.",
+        "2. At the \u201cAdd users and groups\u201d section, set a specific quota for a user.",
+        "3. At the \u201cCurrent User Quota Settings\u201d section, check the \u201cEdit Quota\u201d checkbox and click OK."
+    ],
+    "557977": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Danish\",then click OK button;",
+        "4.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "5.Add a user's quota setting,then this setting is displayed under ",
+        "6.Please check the \"Data Quota Used\" string."
+    ],
+    "558052": [
+        "1.Navigate to a workspace",
+        "2.Click Manage > Activity Reports.",
+        "3.Select the workspace that you want to generate the report for, then click OK."
+    ],
+    "558291": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Danish\",then click OK button;",
+        "4.Go to \"File Folder\" folder,then update a file;",
+        "5.Check \"Activity Date\" of this file,it is \"25-11-09 00:38\".Please see ",
+        "6.Go to \"Calendar\" folder -> \"Add Calendar entry\";",
+        "7 Check \"Start:\" and \"End:\" fields."
+    ],
+    "558398": [
+        "1. Login Teaming.",
+        "2. Export a complete Personal WS.",
+        "3. Go to a File folder and import the exported personal WS.",
+        "4. Check catalina file."
+    ],
+    "558630": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "3.Please see attachment about user's quota settings;",
+        "4.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Reports\"->",
+        "5.Click OK to open this report.csv."
+    ],
+    "558642": [
+        "1.Login Teaming with admin;",
+        "2.Create a user whose name is \"?? ?\" in \"Simplified Chinese\";",
+        "3.Login Teaming with this user;",
+        "4.Open \"Simplified Chinese\" input method on right bottom corner of Desktop;",
+        "5.Click the mouse in \"Find People\" field,then press \"Enter\" key or \"Down\" key;",
+        "6.No responding.But it should list all users;",
+        "7.Close input method,repeat step5,then it list all users;Please see attachment;",
+        "8.Input \"?\" with Simplified Chinese input method in \"Find People\" field."
+    ],
+    "558738": [
+        "1. Go to a Blog folder.",
+        "2. Create a new entry or open an existing one to modify it.",
+        "3. Click on the \"Insert a Link to Another Teaming Page\" icon.",
+        "4. Click on the \"[Change]\" link.",
+        "5. Enter a folder name and select it."
+    ],
+    "558758": [
+        "1. Create a Blog entry than contains a link pointing to a file entry contained into a File folder on the same Teaming box.",
+        "2. Export the Blog folder.",
+        "1. Import the zip file.",
+        "2. Go to the Blog folder than contains the link to the non exported file.",
+        "3. Without opening the entry, click on the link."
+    ],
+    "558846": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Add New Folder\";",
+        "3.Create a new mirrored folder of this resource driver;",
+        "4.Upload a file entry to this mirrored folder;",
+        "5.Stop Teaming server,then re-configure mirrored folder resource driver;",
+        "6.Uncheck \"Enable\" check box of this resource driver;",
+        "7.Start Teaming server;",
+        "8.Login Teaming with admin,then click this mirrored folder."
+    ],
+    "559121": [
+        "1.Login Teaming with a user who has no specified Resource Driver ;",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Add New Folder\";",
+        "3.Select \"Mirrored File Folder\" radio box,then click OK button;",
+        "4.Go to \"My Workspace\"->\"Manage\"->\"Modify This Folder\";",
+        "5.There is no options in \"Resource Driver\" drop-down list box;",
+        "6.Click OK button."
+    ],
+    "559413": [
+        "01.Login Teaming with admin;",
+        "02.Create a \"File Folder\" named \"filefolder 01\";",
+        "03.Create a \"Mirrored File Folder\" named \"mirroredfolder 01\"",
+        "04.Modify \"mirroredfolder 01\",then set it's resource driver to \"dr01\";",
+        "05.Upload a file entry to \"mirroredfolder 01\",then click \"Manually Synchronize\";",
+        "06.Go to \"filefolder 01\",then click \"Delete This Folder\";",
+        "07.Don't check \"Purge folder immediately\" check-box,then click OK button;",
+        "08.Go to \"Trash\",then click \"Purge\" or \"Purge All\" to delete \"filefolder 01\";",
+        "09.Click OK in popped \"Do you really want to purge the selected items from ",
+        "10.Pop up \"Do you want purge the source contents of any folders or sub-folders ",
+        "11.Click OK button,then go to server check,the source contents are deleted;",
+        "12.Repeat step2-step6,check \"Purge folder immediately\" check-box;",
+        "13.Click OK button,then go to server check source contents."
+    ],
+    "559430": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Danish\",then click OK button;",
+        "4.Login Mobile Teaming with admin;",
+        "5.Go to \"My Workspace\"->\"Calendar Folder\"->\"Add:Calendar Entry\";",
+        "6.Input some chars in \"Title\" and \"Location\" field;",
+        "7.Change time format to \"2387:00:27\",then click OK button."
+    ],
+    "559437": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Danish\",then click OK button;",
+        "4.Login Mobile Teaming with admin;",
+        "5.Go to \"My Workspace\"->\"Calendar Folder\"->\"Add:Calendar Entry\";",
+        "6.Input some chars in \"Title\" and \"Location\" field;",
+        "7.Change time format to \"87:00:27\",then click OK button."
+    ],
+    "559836": [
+        "1.Login Teaming with a user;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Simplified Chinese\",then click OK button;",
+        "4.Create a landing page workspace;",
+        "5.Modify this workspace;",
+        "7.Drag and drop the elements \"Custom JSP\" onto the workspace layout area;",
+        "8.Input a wrong JSP name,then click OK button;",
+        "9.Click this landing page to view."
+    ],
+    "560132": [
+        "1. Login Teaming as Admin.",
+        "2. Upload the attached example file (with Russian contents) into a File folder.",
+        "3. Export the folder.",
+        "4. Go to another location (folder, workspace or even another Zone) and import the zip file."
+    ],
+    "560202": [
+        "1. Create a Landing Page workspace.",
+        "2. Modify it and add a Link (URL) element.",
+        "3. In the title, use a single quote, something like: Novell's website",
+        "4. Enter the desired URL. Click OK.",
+        "5. Click OK to accept the changes.",
+        "6. Now attempt to modify again the Landing Page. Go to Manage > Modify This Workspace"
+    ],
+    "560263": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Simplified Chinese\",then click OK button;",
+        "4.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Reports\"->",
+        "5.Open report.csv,there are 5 columns.The last column \"Default Data Quota (MB)\"",
+        "6.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Reports\"->",
+        "7.Open report.csv,there are 5 columns.The last column \"Default Data Quota (MB)\""
+    ],
+    "561517": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"Task Folder\";",
+        "3.Create some tasks;",
+        "4.Click \"Assigned Task\" radio button in \"Show\" section,the tasks are listed;",
+        "5.Click column \"Location\"."
+    ],
+    "561816": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Danish\",then click OK button;",
+        "4.Login Mobile Teaming with admin;",
+        "5.Go to \"My Workspace\"->\"Calendar Folder\"->\"Add:Calendar Entry\";",
+        "6.Select \"- -\" in \"Day\" drop-down list,then click OK button. "
+    ],
+    "564237": [
+        "1. Configure Teaming with HA Lucene server functionality using 3 boxes (1 Tomcat, 1 LuceneA, 1 LuceneB).",
+        "2. Start up properly both Lucene servers and Tomcat.",
+        "3. Login Teaming.",
+        "4. Take down one Lucene server (LuceneA).",
+        "5. Upload a file to Teaming",
+        "1. After doing steps from the first scenario, go to Site Administration > Manage the Search Index > Nodes",
+        "2. Select \u201cApply Deferred Update Log Records to the Index\u201d option (see first screenshot).  Click Apply."
+    ],
+    "564251": [
+        "1. Go to a workspace that is *not* a team workspace.",
+        "2. From the menu, select Manage -> Activity Report",
+        "3. Select: Break Down Activity by Team Member",
+        "4. Select a folder or two",
+        "5. Run the report."
+    ],
+    "565941": [
+        "1. Go to Teaming Login page but don't log in",
+        "2. Enter localized characters for your language in 'Search' box ",
+        "3.Click Search icon"
+    ],
+    "566368": [
+        "1.In Web browser, specify the following URL \"http://hostname\" to login Teaming;",
+        "2.The sentence \"@2007-2009 Novell,Inc.All rights reserved.\" under dialog box is",
+        "3.Click \"N\" icon on top right corner of \"Login\" page."
+    ],
+    "566899": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "3.Login Teaming with this user,then upload some files to make his",
+        "4.Go to \"My workspace\"->\"Modify Profile\",check prompted message under \"Browse\""
+    ],
+    "566900": [
+        "1.Login Teaming with admin;",
+        "2.Click \"Modify Profile\" in the Workspace toolbar;",
+        "3.Change \"Locale\" to \"Japanese\",then click OK button;",
+        "4.Go to \"My workspace\"->\"Modify Profile\",check \"Cancel\" button."
+    ],
+    "566903": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "3.Select \"Enable Data Quotas\" check box;",
+        "4.Click \"Add a group\" to add a group's quota setting;",
+        "5.Click this group to modify quota setting,but no corresponding window pops up;",
+        "6.Click \"Add a user\" to add a user's quota setting;",
+        "7.Click this group."
+    ],
+    "567286": [
+        "1.Login Teaming with \"useren\"(anna wang);",
+        "2.Click \"Micro-Blog\" in left top corner of \"Sidebar\";",
+        "3.Click \"anna wang\" in popped \"Micro-Blog\" window;",
+        "4.Click \"Modify Profile\" in popped workspace page of \"anna wang\";",
+        "5.Make some change,then click OK button."
+    ],
+    "567480": [
+        "1.Login Teaming with admin first time and don't add other users;",
+        "2.Click \"Modify Profile\",then change \"Locale\" to \"English(United States)\",then ",
+        "3.Go to \"My Workspace\"->\"Manage\",then add a new landing page workspace;",
+        "4.Modify this landing page;",
+        "5.Drag and drop \"Link to Folder/Workspace\" to the workspace layout areas;",
+        "6.In \"Link to Folder/Workspace Properties\" dialog box,input \"a\" in",
+        "7.It list matched folder/workspace,then delete \"a\"."
+    ],
+    "567484": [
+        "1.Login Teaming with admin first time and don't add other users;",
+        "2.Click \"Modify Profile\",then change \"Locale\" to \"Japanese\",then click OK button;",
+        "3.Go to \"My Workspace\"->\"Manage\",then add a new landing page workspace;",
+        "4.Modify this landing page;",
+        "5.Drag and drop \"Link to Folder/Workspace\" to the workspace layout areas;",
+        "6.In \"Link to Folder/Workspace Properties\" dialog box,input \"a\" in",
+        "7.It list matched folder/workspace,then delete \"a\";",
+        "8.Error message box \"The search failed with the following error.The call failed"
+    ],
+    "567488": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"File Folder\",then click \"Add File Entry\";",
+        "3.Click \"Browse\" button,then select the prepared file;",
+        "4.Click \"Open\" button.Please see attachment."
+    ],
+    "567658": [
+        "1.Login Teaming with admin and set his \"Locale\" to \"Japanese\";",
+        "2.In the main sidebar,in the Personal Preferences section,then click",
+        "3.Hover mouse on exclamation mark icon.Please see attachment."
+    ],
+    "568401": [
+        "1.Navigate to a landing page.",
+        "2.Click Modify This Workspace.",
+        "3.In the Description section, type a description of the workspace, then click OK to save your changes."
+    ],
+    "568539": [
+        "1.Login Teaming with admin and set his \"Locale\" to \"Japanese\";",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "3.New a Workspace view \"wk001\";",
+        "4.Click \"wk001\" to open it;",
+        "5.Click \"Title\" under \"Workspace Add/Modify Form\",then click \"Modify\" button;",
+        "6.Input some \"Japanese\" chars in \"Cation\" filed and check \"Required\" checkbox;",
+        "7.Click OK button;",
+        "8.Then click OK button in left bottom corner."
+    ],
+    "568808": [
+        "1.Login Teaming with admin and set his \"Locale\" to \"Japanese\";",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "3.Click \"Import\" button,then select \"test.doc\" and \"test.odt\";",
+        "4.Click OK button.Error message is displayed on the top;"
+    ],
+    "568814": [
+        "1.Login Teaming with admin and set his \"Locale\" to \"Japanese\";",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "3.Select a workspace view to export,then save definition.zip;",
+        "4.Click \"Import\" button and uncheck \"Replace\" checkbox;",
+        "5.Click OK button."
+    ],
+    "568931": [
+        "1. Log in Teaming as Admin.",
+        "2. Create a zone (i.e., www.test.com).",
+        "3. Create another zone with the same info (www.test.com)"
+    ],
+    "569072": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "3.Click \"New Entry Definitions\" to create a new definition;",
+        "4.Input \"aa&bb\" in \"Name\" field,then click OK button;",
+        "5.Click \"Modify the Properties of This Definition\"."
+    ],
+    "569075": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "3.Click \"New Entry Definitions\" to create a new definition;",
+        "4.Leave blank in \"Name\" field,then select a \"Family\" and a",
+        "5.Click OK button."
+    ],
+    "569089": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "3.Click \"New Folder Template\" to create a new folder template;",
+        "4.Input \" \"<> \" in \"Name\" and \"Template Title\" field,then click OK button;",
+        "5.Click this template,then modify it."
+    ],
+    "569095": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"Manage\"->\"Site Administration\"->\"Administration\"->",
+        "3.Click \"New Workspace Template\" to create a new workspace template \"wk_tep01\"; ",
+        "4.Click this template,then add a folder template \"File Folder\";",
+        "5.Click \"File Folder\",then add a folder template \"Blog\";",
+        "6.Click \"wk_tep01\",then export this template;",
+        "7.Save this \"wk_tep01.zip\".Please see attachment about this zip file;",
+        "8.Delete \"wk_tep01\",then import \"wk_tep01.zip\";",
+        "9.Click imported \"wk_tep01\" to open it."
+    ],
+    "570171": [
+        "1. In any workspace, select Manage > Form and View Designer.",
+        "2. Select New > Entry Definitions and setup a default form.",
+        "3. Add a Fieldset element to the form.",
+        "4. Select the Fieldset created in step 4, and add a Date element inside of it."
+    ],
+    "570387": [
+        "1.In a folder or workspace, click Manage > Modify This Folder/Workspace",
+        "2.In the Description section, in the TinyMCE editor, click the YouTube link.",
+        "3.Insert a YouTube video into the Description section, then click OK.",
+        "4.Click the Help icon in the upper-right corner of the page.",
+        "5.Click a helpspot that is located just above the YouTube video, such as the helpspot next to Manage."
+    ],
+    "570488": [
+        "1. Log in Teaming using SSL (https://hostname:443)",
+        "2. Create a Mirrored Folder.",
+        "3. Access the MF thru WebDAV. Enter the credentials."
+    ],
+    "570538": [
+        "1.In a folder or workspace, click Manage > Modify This Folder/Workspace",
+        "2.In the Description section, in the TinyMCE editor, click the YouTube link.",
+        "3.Insert a YouTube video into the Description section, then click OK.",
+        "4.Click the Help icon in the upper-right corner of the page.",
+        "5.Click a helpspot that is located just above the YouTube video, such as the helpspot next to Manage."
+    ],
+    "571829": [
+        "1.Login Teaming with admin;",
+        "2.Go to \"My Workspace\"->\"File folder\";",
+        "3.Click \"Add File Entry\",then select the file \"\u05dd\u05e9\u05df\u05da\u05e9\u05dd\u05e2\u05dd\u05de\u05e2.txt \" (Hebrew chars)",
+        "4.This file is listed in \"File folder\";",
+        "5.Click this file,\"View\" window pops up;",
+        "6.Close \"View\" window,then click this file second time."
+    ],
+    "572051": [
+        "1. Go to Form and View Designers.",
+        "2. Select New > Entry Definitions and setup a default form.",
+        "3. Add a Text element and use \"action\" as the data name.",
+        "4. Enter some text in the text element just created.",
+        "5. Click OK."
+    ],
+    "572866": [
+        "1. In Zone A, create a deep structure in Admin workspace with several files/folders/workspaces.",
+        "2. Export it.",
+        "3. In Zone B, import the zip file (you can use the attached zip file).",
+        "4. After importing finishes, purge the imported workspace.",
+        "5. Go to the main Teaming system and attempt to delete the Zone B."
+    ],
+    "573395": [
+        "1.  Get a *really* big workspace (lots of child workspaces/folders)",
+        "2. try to move it from the global workspaces to team workspaces",
+        "3. click on the OK button to do the move (selecting the destination workspace)",
+        "4. for a few seconds it seems like maybe you didn't click right on the button?"
+    ],
+    "573397": [
+        "1.  Get a *really* big workspace (lots of child workspaces/folders)",
+        "2. try to move it from the global workspaces to team workspaces",
+        "3. click on the OK button to do the move (selecting the destination workspace)",
+        "4. for a few seconds it seems like maybe you didn't click right on the button?"
+    ],
+    "574478": [
+        "1. Configure a mirrored folder.",
+        "2. Modify a file from the source folder.",
+        "3. Synchronize the mirrored folder."
+    ],
+    "576694": [
+        "1. Go to the Calendar folder and schedule an appointment assigned to you for Today.",
+        "2. Track the calendar.",
+        "3. Go to the Relevance Tabs and open the \u2018Tasks and Calendars\u2019 tab (Note: make sure you weren\u2019t located at this tab previously).",
+        "4. Navigate between tabs to verify the tab is not automatically updated."
+    ],
+    "578301": [
+        "1. Having 1 Blog entry, create a Wiki entry with a link pointing to that entry.",
+        "2. Delete the Blog entry (send it to trash).",
+        "3. Go back to the Wiki and click on the link of the deleted entry."
+    ],
+    "578325": [
+        "1. In the Full view, post a Micro-blog entry from the sidebar. Verify the user\u2019s status is changed.",
+        "2. In the Mobile view, go to the Micro-blog folder and click New.",
+        "3. Enter a Description and click OK.",
+        "4. Go back to the Full view and verify the user\u2019s status was automatically changed to the just posted micro-blog entry."
+    ],
+    "578437": [
+        "1. Go to a folder and add it to your Favorites.",
+        "2. Purge the folder.",
+        "3. Go to your Favorites list and click on the just purged place."
+    ],
+    "578515": [
+        "1. Go to a Calendar and post an entry:",
+        "2. Verify the entry was created in the correct day (Feb 9).",
+        "3. Verify the entry is NOT listed one day before (Feb 8)."
+    ],
+    "578634": [
+        "1. Add calendar accessory to a folder",
+        "2. Hide the accessory",
+        "3. Modify an existing document in the folder"
+    ],
+    "579153": [
+        "1. Go to (or create) a workspace (Team, Discussion, Landing Page, whatever).",
+        "2. Go to Manage >> Configure and define a URL for that workspace. Close the window.",
+        "3. Open the \"Workspace Permalinks\" section at the bottom of the page."
+    ],
+    "583577": [
+        "1. Add entry with broken HTML, f.e.:",
+        "2. Look at entry, Layout gets broken, it's particularly visible in Blog view"
+    ],
+    "583579": [
+        "1. Send email from MS Outlook to Blog in Teaming",
+        "2. Look at blog: all links are underlined"
+    ],
+    "583582": [
+        "1. Modify user profile, as skype name put text: ",
+        "2. Save changes.",
+        "3. Click on user's body icon."
+    ],
+    "585424": [
+        "1. Place a select box into a form, tick \"Allow per-user values\" check box",
+        "2. Create a HTML container in view (for example, <div></div>) and place the select box inside the container.",
+        "3. Create an entry, using the form."
+    ],
+    "587592": [
+        "1.\tLog in Teaming with user account",
+        "2.\tGo to a Survey Folder",
+        "3.\tOpen a Survey Entry."
+    ],
+    "587637": [
+        "1.\tLog in Teaming with user account",
+        "2.\tGo to a Workspace.",
+        "3.\tEnter Manage >>  Modify this Workspace."
+    ],
+    "587683": [
+        "1.\tLog in Teaming as Admin and activate a Workflow for a Blog folder.",
+        "2.\tGo to a Blog Folder.",
+        "3.\tAdd a new entry.",
+        "4.\tClick on Workflow link and choose one that you prefer."
+    ],
+    "587690": [
+        "1. Login Teaming using a mobile interface.",
+        "2. Navigate to the folder where you want to see new items.",
+        "3. Select Actions > New in This Folder."
+    ],
+    "587714": [
+        "1. Using FF, copy and paste in a Wiki entry a table from Excel containing special format (color in fonts, in cells, etc)",
+        "2. Repeat the same but using IE."
+    ],
+    "588034": [
+        "1. Login Teaming as User1.",
+        "2. Click on Manage > Access Control  and unselect \"All Users\" as \"Visitors\" (this means that Nobody will be able to visit his workspace).",
+        "3. Click Save Changes, then Close.",
+        "4. Log out and Log in Teaming back as User2.",
+        "5. Click Personal Workspaces.",
+        "6. Navigate through the workspaces list."
+    ],
+    "588043": [
+        "1. Navigate to a Landing Page. Click Manage > Modify This Workspace.",
+        "2. Add a picture in the Attachment(s) section at the bottom of the page. Click OK.",
+        "3. Click Manage > Modify This Workspace.",
+        "4. Drag a Graphic element and drop it onto the LP canvas.",
+        "5. Select the graphic that you want to display. Click OK.",
+        "6. Click OK to close the page."
+    ],
+    "588045": [
+        "1. Navigate to a Landing Page and click Manage > Modify This Workspace.",
+        "2. Drag a Graphic element and drop it onto the LP canvas.",
+        "3. Select the graphic that you want to display and DON\u2019T SELECT the \u201cShow border\u201d option.",
+        "4. Click OK.",
+        "5. Repeat steps 2 to 4 but now SELECT the \u201cShow border\u201d option.",
+        "6. Close the page"
+    ],
+    "588050": [
+        "1. Login Teaming as admin.",
+        "2. Click Manage > Site Administration > Manage Data Quotas",
+        "3. Enable Data Quotas and set a specific quota for a user."
+    ],
+    "588068": [
+        "1. Navigate to a Landing Page and click Manage > Modify This Workspace.",
+        "2. Add a picture in the Attachment(s) section at the bottom of the page. Click OK.",
+        "3. Click Manage > Modify This Workspace.",
+        "4. Insert the picture in the Branding section (use the \"Select an Attached Image File\" option). Click OK to close the page.",
+        "5. Click Manage > Modify This Workspace.",
+        "6. Insert again the same picture in the Branding section to be displayed twice (use the \"Select an Attached Image File\" option). Click OK to close the page."
+    ],
+    "588328": [
+        "1. Deploy attached example extension.",
+        "2. Configure Landing page",
+        "3. Add custom JSP on landing page: simpleimage/jsp/showimage.jsp",
+        "4. Look at image URL: URL build with extensionURL is wrong and image is not visible"
+    ],
+    "590204": [
+        "1.set the \"can only see members of groups I am in\" bit on",
+        "2.log in as a non-admin and go to the personal workspace page",
+        "3.other users won't show up",
+        "4.but now expand the personal workspaces breadcrumb and you see the list of all the other users' workspaces. Or, search in \"places\" and you will see them as well.",
+        "5.turn off the All Users visitor right from the personal workspaces page",
+        "6.repeat the above steps; now other users don't show up in the list",
+        "7.now try to modify your own profile; you get an error denying you the right to see or submit the profile page for yourself."
+    ],
+    "590477": [
+        "1. Create a form, add a userlist, mark the \"Required\" checkbox",
+        "2. Start creating an entry using the form",
+        "3. Add a user to the userlist",
+        "4. Delete the user from the userlist",
+        "5. Submit the form (using the \"Ok\" button)"
+    ],
+    "590779": [
+        "1. Pin an entry",
+        "2. Try to unpin it",
+        "3. Refresh the page"
+    ],
+    "593286": [
+        "1.Open a new topic",
+        "2.Join a big file",
+        "3.Click on Ok"
+    ],
+    "593623": [
+        "1.Go to folder where add survey is authorized",
+        "2.Choose Add survey"
+    ],
+    "593636": [
+        "1.Several people create a tag with the same name",
+        "2.the entries are mixed or deleted"
+    ],
+    "593717": [
+        "1.Go to a folder where it's possible to add surveys",
+        "2.enter a survey",
+        "3.click on Ok"
+    ],
+    "597529": [
+        "1. Log in as User1.",
+        "2. Navigate to his Blog folder and hide it from All Users (Manage > Access Control > All Users, unselect \u201cVisitor\u201d)",
+        "3. Create an entry in there and allow it to be read by User2 (Access Control > Set an Entry ACL > Add a User > User2 > select \u201cRead\u201d",
+        "4. Send the entry\u2019s link to User2 using the \u201cSend to Friend\u201d link.",
+        "4. Also, copy the entry\u2019s permalink.",
+        "5. Log out and log in as User2.",
+        "6. Copy the permalink into the browser."
+    ],
+    "599733": [
+        "1.\tEnter as Administrator in Durango ",
+        "2.\tGo to Manage>Site Administration ",
+        "3.\tClick on Configure LDAP",
+        "4.\tEnter required fields",
+        "5.\tIn LDAP attribute that uniquely identifies a user or group, write an invalid attribute",
+        "6.\tSet valid attribute for LDAP used for Teaming and Base DN",
+        "7.\tSelect Run immediately checkbox",
+        "8.\tSelect all checkboxes for  Users and Groups",
+        "9.\tClick on Apply"
+    ],
+    "600230": [
+        "1. Logged as Admin, click Manage > Site Administration > Access Control for Zone",
+        "2. Add User1 to \"Can Only See Members of Group I Am In\" role.",
+        "3. Save changes and close.",
+        "4. Log in as User1.",
+        "5. Navigate to his Blog folder and create an entry."
+    ],
+    "600291": [
+        "1.\tLog in Teaming as User1",
+        "2.\tNavigate to File Folder and create several Entries",
+        "3.\tEnter to an Entry and click on Access control",
+        "4.\tGive \u201cDelete\u201d rights to User2 ",
+        "5.\tLog out ",
+        "6.\tLog in as User2",
+        "7.\tGo to User1 workspace",
+        "8.\tClick on Entry with access control modified",
+        "9.\tDelete Entry without purging it"
+    ],
+    "600551": [
+        "1.\tLog in Teaming as User1",
+        "2.\tGo to File Folder and create an Entry",
+        "3.\tLeave Default options of Folder ACL",
+        "4.\tEnter to an Entry and click on Access control",
+        "5.\tUnselect Include Folder ACL checkbox",
+        "6.\tSave changes"
+    ],
+    "600658": [
+        "1.\tLog in Teaming as User1",
+        "2.\tCreate a new Wiki Folder and create an Entry for that folder.",
+        "3.\tGive \"change ACL\" rights to \"All Users\"",
+        "4.\tSave changes and log out",
+        "5.\tLog in as user2",
+        "6.\tGo to wiki folder that you recently created and click on the entry",
+        "7.\tClick on Access control and click \"Delete this ACL\""
+    ],
+    "602094": [
+        "1.\tLog in Teaming as User1",
+        "2.\tGo to Task folder",
+        "3.\tCreate an entry",
+        "4.\tClick on the new entry and click Access Control",
+        "5.\tSet \"All Users\" group with \"Write\" rights.",
+        "6.\tSave changes and close ",
+        "7.\tLog out and Login as user2",
+        "8.\tOpen entry recently created on User1 workspace",
+        "9. \tClick on Tag"
+    ],
+    "602117": [
+        "1.\tLog in Teaming as User1\t",
+        "2.      Go to  Calendar Folder and create a new entry",
+        "3.\tAccess to new entry and click Access Control",
+        "4.\tSet \"All Users\" group with \"Change ACL\" rights",
+        "5.\tSave changes and close ",
+        "6.\tLog out and log in as User2",
+        "7.\tGo to Calendar Folder of user1 and click on the entry",
+        "8.\tGo to Access Control and click \"Delete this ACL\""
+    ],
+    "603499": [
+        "1. Logged as User1, create 2 blog entries.",
+        "2. Open an entry and give Read rights to User2.",
+        "3. Click Manage > Activity Reports > Entry Access Report "
+    ],
+    "603951": [
+        "1. Log in Teaming as User1 and navigate to CV folder.",
+        "2. Upload a file.   (The file is moved automatically to Revision folder).",
+        "3. Navigate to Revision folder and open the file entry."
+    ],
+    "605348": [
+        "1.Install 2.1 Lucene VM",
+        "2.Install MySQL VM",
+        "3.Install TC1 VM",
+        "4 Install TC2 VM",
+        "5 Verify functionality",
+        "6 Shutdown TC1, TC2, Lucene",
+        "7 Install/Start Node 2 Lucene",
+        "8 Run reconfig TC1, TC2",
+        "9 Mirror 2 node Lucene config on each server.",
+        "10 Start Node1 and Node2 Lucene",
+        "11 Start TC1 and TC2",
+        "12 Browser login as Admin"
+    ],
+    "606826": [
+        "1.\tLog in Teaming as User1",
+        "2.\tCreate a Team Workspace in his personal workspace with a Blog inside.",
+        "3.\tHave User1 and User2 as team members.",
+        "4.\tlog out",
+        "5.\tLog in as user2",
+        "6.\tGo to Blog on Team workspace and create an entry",
+        "7.\tOpen Entry and click on Access Control"
+    ],
+    "606971": [
+        "1.\tLog in Teaming as User1",
+        "2.\tCreate a File folder",
+        "3.\tCreate an entry",
+        "4.\tClick on the new entry and click Access Control",
+        "5.\tDeselect \"Visitor\" rights to All users",
+        "6.\tSave changes and close ",
+        "7.      Go to entry created and click Access Control ",
+        "8.      Give \"read\" rights to user2 ",
+        "9.      Save changes and close",
+        "10.     Copy permalink of that entry on a notepad or just CTRL+C",
+        "11.     Log out user1 and Log in as user2",
+        "12.     Paste permalink on browser"
+    ],
+    "613067": [
+        "1.    Log in Teaming",
+        "2.    Go to a file folder and click Folder>Access Control",
+        "3.    Click Close button"
+    ],
+    "614207": [
+        "1. Log in Teaming as User1.",
+        "2. Navigate to Open File folder and add an attachment to the existing file entry.",
+        "3. Log in Teaming as User3.",
+        "4. Navigate to Open File folder and open the existing file entry.",
+        "5. Click the Attachments tab."
+    ],
+    "614216": [
+        "1. Log in Teaming.",
+        "2. Click Profile link beside user name."
+    ],
+    "614425": [
+        "1.log in",
+        "2.go to my workspace->what's new",
+        "3.choose \"site wide\""
+    ],
+    "614532": [
+        "1. Log in Teaming.",
+        "2. Click Profile link next to user name."
+    ],
+    "614565": [
+        "1. Log in Teaming.",
+        "2. Update your status (micro-blog).",
+        "3. Wait some minutes and refresh the page."
+    ],
+    "614581": [
+        "1. Log in Teaming using IE.",
+        "2. Click Workspace menu in toolbar."
+    ],
+    "614804": [
+        "1.\tLog in as user1",
+        "2.\tGo to Global Workspace and enter to File Folder",
+        "3.\tAdd files to file folder",
+        "4. \tGo to user2 workspace and access to file folder",
+        "5. \tAdd files to file folder ",
+        "6.\tGo to user1 personal workspace and add 2 entries to his own file folder",
+        "7.\tGo to user1 profile "
+    ],
+    "614883": [
+        "1.\tLog in Teaming as User1.",
+        "2.\tGo to a File folder.",
+        "3.\tClick Folder> Access Control and UNSELECT \"All Users\" as \tVisitors.",
+        "4.\tSave changes and close.",
+        "5.\tOpen an existing entry and click Access Control, then click \"Set an Entry ACL\u2026\" ",
+        "6.\tAdd User2 and select \"Read\" right.",
+        "7.\tSave changes and close",
+        "8.\tClick \"Entry Permalink\" at the entry's footer toolbar.",
+        "9.\tCopy the permalink.",
+        "10.\tLog out Teaming and log in as User2.",
+        "11.\tPaste the permalink in the web address field of the browser."
+    ],
+    "614925": [
+        "1. Log in Teaming as any user (e.g. User4)",
+        "2. Navigate to another user\u2019s profile (e.g. User1)"
+    ],
+    "614943": [
+        "1. Log in Teaming as User1.",
+        "2. Edit the profile and enter: http://www.google.com    in Website field.",
+        "3. Click OK.",
+        "4. See User1\u2019s profile."
+    ],
+    "614945": [
+        "1. Log in Teaming as User1.",
+        "2. Navigate to his own profile.",
+        "3. Edit it, and click OK."
+    ],
+    "614953": [
+        "1. Log into Teaming",
+        "2. Do a basic search for the word 'aging'",
+        "3. Do an advanced search for the word 'aging'"
+    ],
+    "615097": [
+        "1. Send email from Teaming",
+        "2. Look at emails source code"
+    ],
+    "615169": [
+        "1.\tLog in Teaming as Admin and go to global workspace",
+        "2.\tCreate a Discussion Folder and set Group A and Group B as participants and set user2 and user3 as participants too",
+        "3.      Log out Teaming and log in as each user and create 1 entry each one in the Discussion Folder (user1,user2,user3,user4,user5)",
+        "4.      Log in as user1 and go to discussion folder and enter to an entry of a different group user (user3 or user4)",
+        "5.      Click on Actions and go to Access control..."
+    ],
+    "615225": [
+        "1.     Log in Teaming as user1",
+        "2      Go to File Folder and Add a file with java applet make sure that its extension is .txt (in this case)",
+        "3.     Go to entry's ACL and unselect \"Include the Folder ACL\" and save changes then close the ACL window",
+        "4.     Log out user1 and log in as user2",
+        "5.     Go to user1 File Folder",
+        "6.     Add the same file or a different file that contains the same name with java applet"
+    ],
+    "615620": [
+        "1.    Install Cortez in SLES11 machine",
+        "2.    Do an Advanced installation with proper information in each window",
+        "3.    Add a Mirrored Folder",
+        "4.    Continue with installation until finishing",
+        "5.    Run Teaming and open Catalina.out log",
+        "6.    Open browser and access Teaming",
+        "7.    Add some users with populated profiles and create some entries",
+        "8.    Log out Teaming and close IE7",
+        "9.    Copy installer.xml to Durango's Folder",
+        "10.   Run the Teaming Installer as Update and Advanced Mode",
+        "11.   Leave set values for Advanced Features",
+        "12.   Delete Temporary Files, history, cache, cookies, saved passwords, and web information.",
+        "13.    Run Teaming and open Catalina.out log",
+        "14.    Open browser and access Teaming"
+    ],
+    "617243": [
+        "1.    Have Teaming installed (no upgrade)",
+        "2.    Have a cleared cache browser",
+        "3.    Log in as admin",
+        "4.    Go to Administration",
+        "5.    Click on Manage Application Group"
+    ],
+    "617531": [
+        "1.      Log in as user1",
+        "2.      Open an existing entry and click Access Control, then click \"Set an Entry ACL\u2026\" ",
+        "3.      Add User2 and select \"Read\" right.",
+        "4.      Make sure that \"Include the Folder ACL\" option is SELECTED.",
+        "5.      Have changes and close.",
+        "6.      Open a visible file entry (for user2) .",
+        "7.      Copy the permalink.",
+        "9.      Log out Teaming and log in as User2.",
+        "10.     Paste the permalink in the web address field of the browser."
+    ],
+    "617591": [
+        "1. Have a client computer in the same domain as the one used by Teaming for authentication with a valid user in the domain as well as in the LDAP configuration in Teaming",
+        "2. Configure the necessary settings to enable browser to automatically use your Win Account Credentials, as described in Design doc either for IE and FF.",
+        "3. Log in a workstation with a user from the domain with access to Teaming.",
+        "4. Using FF, access the Teaming site."
+    ],
+    "617987": [
+        "1. Log in teaming as a non-admin user.",
+        "2. Go to a blog entry",
+        "3. Click on Tag icon",
+        "4. Type One tag. Notice that the following warning is displayed.",
+        "5. Try to add the tag as One_tag"
+    ],
+    "618925": [
+        "1.  Log in Teaming",
+        "2.  Open search options and type an space",
+        "3.  Erase the space"
+    ],
+    "620626": [
+        "1. Log in Teaming through Windows Authentication.",
+        "2. Click  Sign Out."
+    ],
+    "621006": [
+        "1.  Log in Teaming as admin",
+        "2.  Go to Landing Page in Global Workspace",
+        "3.  Click on Workspace>Access Control...",
+        "4.  Unselect \"Visitor\" and \"Participant\" to allUsers group",
+        "5.  Click on \"Add a user\" and select user1, give \"visitor\" rights to him",
+        "6.  Save changes and close",
+        "7.  Log out and log in as user2"
+    ],
+    "621664": [
+        "1.Modify an entry.",
+        "2.Click the Entry History tab."
+    ],
+    "621665": [
+        "1.Add some text to an entry and delete some of the existing text.",
+        "2.Click the Entry History tab.",
+        "3.Select the two versions of the entry that you want to compare.",
+        "4.Click Compare."
+    ],
+    "621913": [
+        "1.  Log in teaming",
+        "2.  Go to Profile and upload an jpg image to set it as avatar, see image that I used on this example on attachments and screenshot1.jpg will be the result",
+        "3.  Upload another image"
+    ],
+    "622646": [
+        "1.  Log in Teaming",
+        "2.  Move cursor on Administrator icon and move it over the other icons (Personal Preferences, Teaming Feed, Log out, Help)"
+    ],
+    "623573": [
+        "1. Log in Teaming.",
+        "2. Navigate to a Blog folder.",
+        "3. Click Add Blog Entry.",
+        "4. Enter first a Description and then write a title.",
+        "5. Being placed in Title field, hit Enter."
+    ],
+    "623600": [
+        "1. Log in as admin",
+        "2. Go to Team Workspace and create a Team with user1 in it, select checkbox to add a file folder",
+        "3. Click ok",
+        "4. Go to file folder inside Team workspace that you recently created and copy the folder permalink",
+        "5. Log out and log in as user2",
+        "6. Paste permalink on browser"
+    ],
+    "623656": [
+        "1. Logged as admin, navigate to Personal Workspaces.",
+        "2. Click over an existing user workspace.",
+        "3. From the Profile page, click Delete.",
+        "4. Don't select \"Also delete the user workspace...\" option. Click OK.",
+        "5. Access again to the (pre-)deleted user workspace.",
+        "6. Close the error dialog.",
+        "7. From the Profile page, click Delete.",
+        "8. Now Select \"Also delete the user workspace...\" option. Click OK."
+    ],
+    "623954": [
+        "1. Log in Teaming as admin.",
+        "2. Upload a file.",
+        "3. Create several versions of the file.",
+        "4. Create several blog entries with a large amount of text.",
+        "5. Go to Administration > Management > Search Index",
+        "6. Select the Home Workspace and click OK",
+        "7. Verify the log file created in Lucene box."
+    ],
+    "624048": [
+        "1. Log in Teaming as admin.",
+        "2. Create a group.",
+        "3. Add a user to the group and click Apply."
+    ],
+    "624119": [
+        "1. Log in as admin.",
+        "2. Create a folder (any kind) into Global Workspaces.",
+        "3. Set All Users group as Team Member (Folder > Edit Team).",
+        "4. Then, click Folder > E-mail Team to send an email to All Users group.",
+        "5. Click OK."
+    ],
+    "624378": [
+        "1.   Log in teaming",
+        "2.   Create a blog entry",
+        "3.   Type a title and description, click OK ",
+        "4.   Modify entry previously created",
+        "5.   A side of the description that you gave, type a different sentence",
+        "6.   Go to Entry History and compare those entries (see screenshot1)",
+        "7.   Modify the entry again and continue typing in the same line some numbers ",
+        "8.   Compare the last 2 entries (see screenshot2)"
+    ],
+    "625454": [
+        "1. Simply upload Excel file to Teaming folder.",
+        "2. Try to edit this file on the system with OpenOffice only."
+    ],
+    "625720": [
+        "1. Click Workspace > New Folder   or   New Workspace",
+        "2. Select a type, (and fill the required fields, if necessary). ",
+        "3. Click OK."
+    ],
+    "626142": [
+        "1. Click Administration > System > Form/View Designers.",
+        "2. Expand the Profile View list.",
+        "3. Click on a Profile View from the list."
+    ],
+    "626341": [
+        "1.   Log in as admin",
+        "2.   Go to Administration> Add Users",
+        "3.   Fill the user and password fields ",
+        "4.   Click ok"
+    ],
+    "626429": [
+        "1. Upload some files to a File folder.",
+        "2. Using IE, open an entry."
+    ],
+    "626447": [
+        "1. Upload a file into a File folder.",
+        "2. Create a new version of the file.",
+        "3. Open the entry and click on the File Versions tab",
+        "4. Click on the Print icon in the right upper corner."
+    ],
+    "626817": [
+        "1. Log in as admin",
+        "2. Go to Administration > Configure Guest Access"
+    ],
+    "626826": [
+        "1. Log in Teaming",
+        "2. Click Administration > system > Form/View Designers > Workflow Processes",
+        "3. Click on any existing workflow.",
+        "4. Click \"Delete This Definition\""
+    ],
+    "627530": [
+        "1. Log in Teaming",
+        "2. Go to Blog, Survey, Calendar, File Folder or Guestbook folder and add an entry"
+    ],
+    "627548": [
+        "1. Log in Teaming",
+        "2. Go to a Wiki folder",
+        "3. Add an entry",
+        "4. Go to entry created and click on Actions>Access Control"
+    ],
+    "627622": [
+        "1. Log in as admin",
+        "2. Go to Global Workspace and create a Landing Page",
+        "3. Add the Utility/Sign-in Form to the landing page",
+        "4. Go to Workspace>configure and create a \"Simple URL\" for that workspace",
+        "5. You might leave the first part of the URL \"blank\" and use \"home\" as the second part of the URL. This would make the URL look like http://youTeamingHost.com/teaming/home.",
+        "6. Go to the server system and open \"webapps/teaming/WEB-INF/web.xml\" in an editor",
+        "7. Change \"/ssf/a/\" to be \"teaming/home\" (omit the trailing '/'  i.e. teaming/home/)",
+        "8. Save the file and restart the Teaming ",
+        "9. Log in as admin and then log out"
+    ],
+    "627892": [
+        "1. Logged as User1, select a file from one of your WebDAV connections at your desktop machine",
+        "2. Drag/drop the file from one to the other WebDAV connection.",
+        "3. Go to Teaming and verify the file recently moved"
+    ],
+    "628488": [
+        "1. Create a user",
+        "2. Login as the new user",
+        "3. Logout",
+        "4. Login as Admin",
+        "5. Browser to the user's profile page",
+        "6. Select the Delete button ",
+        "7. Don't check delete the workspace option",
+        "8. Click ok"
+    ],
+    "628922": [
+        "1. Log in Teaming as admin.",
+        "2. Go to Administration > Management > Workspace and Folder Templates",
+        "3. Click in any existing template.",
+        "4. Click Manage This Template > Modify This Template"
+    ],
+    "631600": [
+        "1. Log in Teaming as ADMIN",
+        "2. Go to a blog folder and create a blog page",
+        "3. Move cursor over cancel button"
+    ],
+    "632041": [
+        "1. Navigate to User\u2019s Profile page.",
+        "2. Click Browse button at bottom to upload a picture.",
+        "3. Select a picture and click Upload."
+    ],
+    "632073": [
+        "1. Having a user with several avatars uploaded, navigate to Profile page.",
+        "2. Click on a picture, then click Set as default avatar."
+    ],
+    "632609": [
+        "1. Log in as User1",
+        "2. Go to a Folder and copy the permalink in a notepad to use it later",
+        "3. In the folder, go to Folder > Access Control",
+        "4. Deselect \"Participant\" rights to All Users, the folder must be unaccessible for all users but not for the owner",
+        "5. Save changes and close",
+        "6. Log out and log in as user2",
+        "7. Paste permalink in to the browser"
+    ],
+    "632913": [
+        "1. Log in Teaming as admin.",
+        "2. Go to Administration > Management > Workspace and Folder Templates",
+        "3. Click in any existing template.",
+        "4. Click Manage This Target > Access Control...",
+        "5. Make some changes or simply click Close."
+    ],
+    "632934": [
+        "1. Start Teaming",
+        "2. Log in as admin"
+    ],
+    "634192": [
+        "1. Set a status (micro-blog).",
+        "2. Click in his own Presence icon, to open the Profile Quick View."
+    ],
+    "634514": [
+        "1. Log in Teaming as admin.",
+        "2. Navigate to Administration > System > Form/View Designers > Profile View > User (_user)",
+        "3. Click on any of the form definitions:"
+    ],
+    "635259": [
+        "1. Log in Teaming as User1.",
+        "2. Navigate to File folder and click Folder > Email Team",
+        "3. Click OK."
+    ],
+    "636027": [
+        "1. Log in Teaming and upload some files and make some searches.",
+        "2. Shut down the Read and Write node.",
+        "3. Upload more files and make some searches."
+    ],
+    "636825": [
+        "1. Log in Teaming as User1.",
+        "2. Navigate to Team Workspace.",
+        "3. Click Workspace > View Team",
+        "4. Click on a \u2013Secured\u2014 user name."
+    ],
+    "637096": [
+        "1. Log in as User1",
+        "2. Go to a Folder and copy the permalink in a notepad to use it later",
+        "3. In the folder, go to Folder > Access Control",
+        "4. Deselect \"Participant\" rights to All Users, the folder must be unaccessible for all users but not for the owner",
+        "5. Save changes and close",
+        "6. Log out and log in as user2",
+        "7. Paste permalink in to the browser"
+    ],
+    "637383": [
+        "1. Log in Teaming as User1.",
+        "2. Navigate to Discussion folder and click Folder > Email Team",
+        "3. Click OK."
+    ],
+    "637620": [
+        "1. As User1, create an appointment in GW, with User1 and User2 as attendees. Set it to 3:00PM, during 1 hr.",
+        "2. As User2, accept the appt in GW and export the Calendar containing only this appt.",
+        "3. Log in Teaming as User2 and import the iCal file."
+    ],
+    "637819": [
+        "1. Login to teaming.",
+        "2. Create a new blog/Discussion/wiki entry.",
+        "3. Add a table."
+    ],
+    "637820": [
+        "1. Login to teaming.",
+        "2. Create a new blog.",
+        "3. Add a table."
+    ],
+    "637910": [
+        "1. As User1, create a full-day appointment in GW.",
+        "2. Export it as an iCal file.",
+        "3. Log in Teaming as User1 and import the iCal file."
+    ],
+    "637919": [
+        "1. Log in Teaming.",
+        "2. Click Workspace > Share this Workspace\u2026"
+    ],
+    "637932": [
+        "1. Log in Teaming and navigate to a folder.",
+        "2. Click on the Trash icon from the Pane.",
+        "3. Click on the folder\u2019s name from the upper route path (not the breadcrumbs)."
+    ],
+    "638535": [
+        "1. Log in Teaming as admin.",
+        "2. Change the Locale into the Edit Profile page. Click OK."
+    ],
+    "638612": [
+        "1. As admin, navigate to Personal Workspaces page.",
+        "2. Click Workspace > Configure and define an URL. ",
+        "3. Click on the footer link."
+    ],
+    "638963": [
+        "1. Log in Teaming and navigate to Home Workspace > Team Workspaces",
+        "2. Click \u201cAdd a Team Workspace\u201d",
+        "3. Still with the \u201cAdd a Team Workspace\u201d page opened, click the Logout button from Masthead."
+    ],
+    "640335": [
+        "1. Start the Text based Installer",
+        "2. Enter the JDK /usr/share/java/jdk1.6.0_21",
+        "3. Then I get this error"
+    ],
+    "641143": [
+        "1. Install latest Durango build.",
+        "2. Log in Teaming.",
+        "3. Try to navigate to another place (My Workspace, Personal Workspaces, Home Workspace)"
+    ],
+    "642883": [
+        "1. Log in Teaming and create several entries.",
+        "2. Tag some entries with a personal tag, and tag other entries with a different tag.",
+        "3. Navigate to Recent tab from My Workspace."
+    ],
+    "642913": [
+        "1. Log in Teaming and create a Wiki folder.",
+        "2. Create 2 entries.",
+        "3. Add 3 comments to each entry. IMPORTANT: You have to use the same comments\u2019 titles in both entries.",
+        "4. Delete the Wiki folder (send it to Trash).",
+        "5. Restore the Wiki folder."
+    ],
+    "642955": [
+        "1. Log in Teaming as User1.",
+        "2. Click in the Site Wide option from the left-side What\u2019s New pane (optional)."
+    ],
+    "643218": [
+        "1. Log in Teaming as User1.",
+        "2. Navigate to the Team Workspace and open an entry created by admin.",
+        "3. Hover the mouse over --Secured-- (in Created or Modified fields)."
+    ],
+    "643944": [
+        "1. As Admin, grant rights to Guest user to see his personal workspace.",
+        "2. Access Teaming as Guest.",
+        "3. Navigate to Admin personal workspace."
+    ],
+    "644785": [
+        "1. Create 2 blog entries.",
+        "2. Copy the permalink of one entry.",
+        "3. Modify the another entry and insert a link using the chainlink icon. Set the Target to Open the link in the same window.",
+        "4. Click Insert, then click OK to save the changes.",
+        "5. Click on the link."
+    ],
+    "645073": [
+        "1. Log in Teaming as User1 for the first time.",
+        "2. Create a blog entry.",
+        "3. Open the blog entry."
+    ],
+    "645138": [
+        "1. Log in Teaming as admin and create a Workflow and an Entry Definition.",
+        "2. Navigate to a folder where you want to enable the definition and workflow.",
+        "3. Click Folder > Configure.",
+        "4. In the Default Entry Types section, select the new Entry Type. Click Apply.",
+        "5. In the Workflow Associations section, in the Entry Types section, click the drop-down list next to the new Entry Type, then select the new Workflow. Click Apply.",
+        "6. In the Allowed Workflows section, select the new Workflow.",
+        "7. Click Apply, then click Close.",
+        "8. Create an entry using the new Entry Type.",
+        "9. Open the entry.",
+        "10. Stop the workflow.",
+        "11. Attempt to start it again."
+    ],
+    "647537": [
+        "1.  Log in as admin",
+        "2.  Create user1 and user2",
+        "3.  Go to Team Workspace",
+        "4.  Create a workspace with user1 and user2 as team members and a File Folder",
+        "5.  Log out and log in as user1",
+        "6.  Go to File folder (inside workspace recently created)",
+        "7.  Add some files using \"Add file\" button(in this example I used 15 files)",
+        "8.  Log out and log in as user2",
+        "9.  Repeat steps 6 and 7 with less files (I used 5 files with this user)",
+        "10. Log out and Log in as admin again",
+        "11. Go to Personal Workspace and click on User1",
+        "12. Click on \"Delete\" button and select \"Also delete the user workspace, all of its folders, sub-folders and entries including source content if any folders or sub-folders are mirrored folders.\"",
+        "13. Click Ok",
+        "14. Click What's New from Action toolbar "
+    ],
+    "647549": [
+        "1. Have a Cortez system with several users with their profile populated.",
+        "2. Upgrade Teaming to Durango (Beta 5).",
+        "3. Log in as admin and perform post-upgrade tasks (reset Templates, Form/Views and perform Search Index).",
+        "4. Open his Profile page."
+    ],
+    "647788": [
+        "1. Log in Teaming and create a Calendar Summary accessory. Don\u2019t select any folder so it searches in the whole site.",
+        "2. Click Apply, then Close.",
+        "3. Change the view to \u201cView 2 weeks\u201d. Hover the mouse over the content area.",
+        "4. Change back the view to \u201cView 1 month\u201d.",
+        "5. Hover the mouse over the calendar."
+    ],
+    "647872": [
+        "1. Logged as admin, create an appointment for All Users group.",
+        "2. Log in Teaming as User1.",
+        "3. Navigate to his Calendar folder.",
+        "4. Select \"Assigned Events\" from Show drop-down list."
+    ],
+    "648119": [
+        "1. Using Mobile mode, log in Teaming.",
+        "2. Create a full-day appointment.",
+        "3. Click the day which you created the appointment in."
+    ],
+    "649415": [
+        "1. Go to a Wiki folder.",
+        "2. Create a wiki page.",
+        "3. Open the wiki page.",
+        "4. Hover the mouse over the Folder\u2019s title."
+    ],
+    "650290": [
+        "1. Make 5 searches and save them in this order: Search1, Search2, Search3, Search4 and Search5.",
+        "2. Click \"Saved Searches\" from the Action Toolbar."
+    ],
+    "650312": [
+        "1. As User1, follow admin, User2, User3 and User4.",
+        "2. As admin, don't follow any user.",
+        "3. As User1, navigate to admin's profile page."
+    ],
+    "650591": [
+        "1. Using IE, log in as User3 (a user with no restrictions of visibility).",
+        "2. Navigate to Discussion folder from Team Workspace (at this point, User3 can see all users\u2019 names in the system).",
+        "3. Click in the \u201cPermalinks, E-Mail Addresses, RSS Links, and WebDAV URL\u201d link from footer toolbar.",
+        "4. Click on the RSS or Atom URL to open the feeds in a new window (in IE)."
+    ],
+    "650867": [
+        "1. Log in.",
+        "2. Create a 15-level folder structure.",
+        "3. Try to expand all the levels."
+    ],
+    "652507": [
+        "1. Subscribe to a file folder.",
+        "2. Add a file entry so you get the notification.",
+        "3. Open the mail notification received."
+    ],
+    "653411": [
+        "1. Subscribe to a file folder (individual message, no attachments).",
+        "2. Add a file entry (where the name of the uploaded file contains space) so you get the notification.",
+        "3. Open the mail notification received."
+    ],
+    "653807": [
+        "1. Create 2 wiki pages (Wiki1 and Wiki2).",
+        "2. Copy the permalink of the page Wiki1.",
+        "3. Edit Wiki2 and insert a link to Wiki1 using the chainlink icon. Set it to be opened in the same window.",
+        "4. Save the changes.",
+        "5. Delete (send to Trash) Wiki1.",
+        "6. Open Wiki2.",
+        "7. Click in the link inside the page."
+    ],
+    "654032": [
+        "1. Navigate to a Wiki folder.",
+        "2. Click Folder > Configure to allow more than 1 default entry types.",
+        "3. Close the page.",
+        "4. Click \u201cNew\u201d into the Wiki page."
+    ],
+    "654130": [
+        "1. Install Vibe with a Guest license.",
+        "2. Startup Vibe and log in as admin.",
+        "3. Grant Visitor rights to Guest user on Guest workspace.",
+        "4. Set \u201cHome Workspace\u201d binder as the default Home Page for All Users.",
+        "5. Set \u201cGuest workspace\u201d as the Default Guest Home Page.",
+        "6. Log out and verify the Guest workspace is accessible.",
+        "7. Shutdown Vibe server and replace existing license by a No-Guest license.",
+        "8. Launch installer.",
+        "9. Finish installation process.",
+        "10. Startup Vibe and log in as admin."
+    ],
+    "654449": [
+        "1. Log in Vibe as User1.",
+        "2. Follow admin.",
+        "3. Log in as admin and set role \u201cCan Only See Members Of\u2026\u201d to User1.",
+        "4. Log in as User1.",
+        "5. Navigate to his Profile page."
+    ],
+    "655353": [
+        "1. Log in as admin.",
+        "2. Navigate to a User\u2019s profile page.",
+        "3. Click Delete button (not purge).",
+        "4. Navigate to this deleted workspace."
+    ],
+    "655540": [
+        "1. Create a blog entry with and insert an image.",
+        "2. Send the entry to a friend.",
+        "3. Open the received mail."
+    ],
+    "655554": [
+        "1. Log in as admin,",
+        "2. Navigate to Administration > Workspace and Folder Templates > Import",
+        "3. Select a Template to import and click on OK button."
+    ],
+    "655560": [
+        "1. Create a Mirrored Files folder with several subdirectories.",
+        "2. Copy one subdirectory to a Files folder.",
+        "3. Purge the copied folder (from the Files folder).",
+        "4. Go to the MF subdirectory that you chose to be copied, and upload a file."
+    ],
+    "656331": [
+        "1. Login as Admin",
+        "2. Click on Administration icon in taskbar",
+        "3. Go to Reports section. Check dialog",
+        "4. Click on 'XSS Report'. Check dialog"
+    ],
+    "658295": [
+        "1. ubuntu 10.04 64 bit",
+        "2. Virtual Machine",
+        "3. Problems to run \"java -version\" -> this is becauce of the virtual Storage.",
+        "4. If I run the follwing: \"./java -Xmx1024m -version\" It works",
+        "5. Java Installation from a bin file (Direct download from oracle)",
+        "6. Some tricks I have to do to get it work with Sun Java 1.6.0.22",
+        "7.  It works",
+        "1. same configuration as you can reed above",
+        "2. During installation Process",
+        "3.  Installation failed Detailed Installation failure in the details"
+    ],
+    "662223": [
+        "1.Configure a Main branding",
+        "2.Then configure a workspace branding, with only an other text color"
+    ],
+    "662225": [
+        "1.Configure a Main branding",
+        "2.Then configure a workspace branding, with only an other text color"
+    ],
+    "664072": [
+        "1.Open web browser with Smart Phone .. Go to your Vibe Portal. Login",
+        "2.After login try to sign out.",
+        "3.Reopen wap Browser and go back to the site. I will never prompt for login. "
+    ],
+    "667881": [
+        "1. Add entry task",
+        "2. By submitting form change field value \"Completed\" to \"bla\" (you can use f.e. Tamper Data Extension for FireFox) ",
+        "3. Try to open task folder",
+        "4. Entries in task folder are not visible any more."
+    ],
+    "678673": [
+        "1. Log in as a user.",
+        "2. Create a Landing Page. ",
+        "3. At the Landing Page created, click on Workspace > Edit workspace. ",
+        "4. Drag and drop an HTML item in the canvas.",
+        "5. Click on the yellow toggle button in the HTML Editor header to show the toolbar.",
+        "6. Click on the tree image to add an image. ",
+        "7. In the General tab of the window displayed, upload any image you want. ",
+        "8. Click Insert.",
+        "9. Click OK to close the HTML editor.",
+        "10. Click OK again in the Workspace editor. "
+    ],
+    "681356": [
+        "1.Create a Workflow",
+        "2.Add 2-3 states",
+        "3. Somewhere in the worklfow transition from State A to B using \"Transition after time elapsed\".",
+        "4.Set the time to 1 min",
+        "5.Configure a folder with the workflow and kick off an entry.",
+        "6.Wait.... and wait... and wait."
+    ],
+    "681900": [
+        "1. Stop the Evergreen and reconfigure with Access Gateway setting.",
+        "2. Enable Access Gateway and provide access gateway address,details.",
+        "3. Complete the installation and start the Evergreen."
+    ],
+    "682350": [
+        "1. Enter vibe with admin. ",
+        "2. Go to Administration > System > Configure E-Mail. "
+    ],
+    "683006": [
+        "1. Open evergreen with LAG address(http://lag1.gmc.com/teaming) and login .",
+        "2. Goto blog folder and open permalinks  and copy the same.",
+        "3. Open new tab/new window on firefox and paste above copied permalink."
+    ],
+    "683670": [
+        "1.Install Wireshark",
+        "2.Trace LDAP Authentification Traffic",
+        "3.DerefAliases is always set to \"always\"",
+        "4.Change catalina.sh, add Java Option -Djava.naming.ldap.derefAliases=never",
+        "5. Restart Vibe"
+    ],
+    "684073": [
+        "1. Creat an entry",
+        "2. Add some Subsections like: [[Entry Title]]",
+        "3. Save the entry",
+        "4. click on edit of a subsection",
+        "5. do not edit anything. Only click OK",
+        "6. Now ther are some curious HTML Tags"
+    ],
+    "684075": [
+        "1. Go to an entry, wich size is large than your screen",
+        "2. Go down to Tags",
+        "3. click on the \"Tags...\" button",
+        "4. The first line is selected"
+    ],
+    "685107": [
+        "01. Log into Vibe (http://ip_of_server)",
+        "02. The Whats New page will be opened.",
+        "03. The Close buttons text is not wrapped correctly"
+    ],
+    "685230": [
+        "1.Set sweden as language",
+        "2.Open calendar in week view, seven days",
+        "3.Current day is Tuesday",
+        "4.Press arrow to move one week backwards"
+    ],
+    "685909": [
+        "1. Log into Vibe",
+        "2. Create a New Bolg, and follow it.",
+        "3. Click on the Add Commnt link.",
+        "4. Enter a description and change the Font."
+    ],
+    "686210": [
+        "1. Log into Vibe",
+        "2. Creat some photos in Photo Album Folder.",
+        "3. Click My WorkSpace button, click Accessories button, check Photo Album in the bottom."
+    ],
+    "686220": [
+        "01. Log into Vibe. ",
+        "02. Close the Whats New page.",
+        "03. From the Options on the left click on the Blog Folder.",
+        "04. Click on the New Blog Entry button.",
+        "05. Enter a Title and enter in the content page long enough string, without spaces, Click OK",
+        "06. Verify that the Blog characters display. "
+    ],
+    "686930": [
+        "1. Log in as a user and navigate to a Wiki folder.",
+        "2. Create an entry.",
+        "3. Open entry and click on the Entry History tab.",
+        "4. Set a Community Tag named \u201cUSER2\u201d (Tags tab > Add Tab...).",
+        "5. Verify the tag works (click on it, search for it)"
+    ],
+    "687618": [
+        "1. Start Installation",
+        "2. During the Installation vibe exits the Installer"
+    ],
+    "687784": [
+        "1. Expand Graphs by clicking on 'Graphs' in the context of a Task folder.",
+        "2. Press 'Refresh Graphs'"
+    ],
+    "689297": [
+        "1. Create around 5 entries in discussions folder.",
+        "2. Pin some of them.",
+        "3. Click \"Goto first page\" icon."
+    ],
+    "689441": [
+        "1. Create few entries in discussions folder",
+        "2. Click any of the pagination icons."
+    ],
+    "689771": [
+        "1. Import the BEFORE definition attached here to a Vibe 3.0 install.",
+        "2. Try to submit an entry using IE. Required checks are broken.",
+        "3. Now import the FIXED definition and try the same. The form is now fixed since the fieeldset is delete."
+    ],
+    "689803": [
+        "1. Created a discussion entry.",
+        "2. Pin it.",
+        "3. Create 4 replies to this pinned entry."
+    ],
+    "692804": [
+        "1. Create a task.",
+        "2. Copy the contents of the attached text file.",
+        "3. Place copied text in task description.",
+        "4. Change text color to Red."
+    ],
+    "693317": [
+        "01. Launch Teaming Vibe and Log in.",
+        "02. Create a New Survey Folder (Click File - New Folder - Survey)",
+        "03. Click on the New Survey button.",
+        "04. Give the new survey a title and description.",
+        "05. Now if you click on the buttons 'Multiple Choice: Multiple Answers and Multiple Choice: Single Answer or Written Reply' a section should open on the page that the user can fill out Survey questions but nothing happens when the buttons are clicked ."
+    ],
+    "693342": [
+        "01. Launch Teaming Vibe and Log in.",
+        "02. Click Workspace - Branding.",
+        "03. The Workspace/Folder Branding dialog will open.",
+        "04. Beside the field 'Use Advanced Branding' click on the Advanced button.",
+        "05. In the Three drop down lists there is Placeholder text appearing "
+    ],
+    "695078": [
+        "1. Take A picture with a Resolution above 2000 px",
+        "2. Upload it as a Profil Image",
+        "3. Go to the Profif",
+        "4. Click on the Pictue"
+    ],
+    "695402": [
+        "1. Send text (multilines) only email into Vibe",
+        "2. Open new created entry in Vibe"
+    ],
+    "698119": [
+        "1. Create a Task in a Task folder",
+        "2. Create a sub-task for the above task",
+        "3. Copy the folder to another location i.e. another workspace or into another folder"
+    ],
+    "698120": [
+        "1. Create a Folder A in workspace 1",
+        "2. Create another Folder A in workspace 2",
+        "3. Copy Folder A from workspace 1 to workspace 2 - It fails and gives an error message with an option to go \"Back\"",
+        "4. Click on \"Back\". "
+    ],
+    "705778": [
+        "1. create a wiki entry",
+        "2. open the wiki entry",
+        "3. above the entry there is no print button"
+    ],
+    "707904": [
+        "1. Create 2 tasks and their sub-tasks",
+        "2. Select and try to move around tasks and or sub-tasks "
+    ],
+    "714573": [
+        "1.Configure the SSO for Vibe through NAM 3.1.3 ( MAG-DBmH).",
+        "2.Configure the Session timeout for Vibe is less than NAM IDP Session timeout.",
+        "3.Login to Vibe through NAM with valid credentials.",
+        "4.Wait until the Vibe session timeout happens ( here its 2mins).",
+        "5.Click on any link/entry in Vibe.",
+        "1.As SSO Configured for Vibe, it should not redirect to login page. It should work normally without redirecting to login page.",
+        "2. Even after providing the credentials in Vibe login page, its not working as usual. Its showing a blank page."
+    ],
+    "714912": [
+        "1. Login to Vibe with valid credentials.",
+        "2. Brand the workspace masthead by providing customize background & text colors.",
+        "3. Export the recently created workspace with customized masthead.",
+        "4. Login to Vibe with different user name and import the workspace which is  "
+    ],
+    "715789": [
+        "0. UI Language must be german",
+        "1. Create a Entryform",
+        "2. Add a \"Form-Button\" to the Form",
+        "3. in the dialog that pops up there is the wrong translation."
+    ],
+    "725141": [
+        "1. Create team",
+        "2. Create task",
+        "3. Try to add subtask to task created by other user"
+    ],
+    "728584": [
+        "1. Create Wiki Entry and Save.",
+        "2. Go to view Wiki entry.",
+        "3. Look for Print button in upper-right corner."
+    ],
+    "732606": [
+        "1. Create around several entries in discussions folder.",
+        "2. Pin some of them.",
+        "3. From your \"Personal Preferences\", set \"Entries per Folder Page:\" in such a way that entries now span across multiple pages.",
+        "3. Click \"Go to Next Page\" OR \"Go to Last Page\" icon."
+    ],
+    "740533": [
+        "1) Create a team workspace with a space at the end (\"Test \")",
+        "2) Add a user to the team workspace",
+        "3) Make a request to the search_getTeams web service API as a user in the team."
+    ],
+    "742018": [
+        "1. Create a form (entry form and entry view definition) with a Selectbox form element and a User List element",
+        "2. Add some Selections",
+        "3. Create a workflow with a start status and an end status",
+        "4. In the start status create an immediate transition to the end state and a On Exit entry with a notification containing the following text body: {{vibe:data|DATANAME}}",
+        "5. Replace DATANAME with the data name of the Selectbox",
+        "6. Process the form (select a selection in the drop down) and enter a recipient in the User List"
+    ],
+    "743093": [
+        "1. login as admin",
+        "2. Configure LDAP and specify t=tree as the basedn",
+        "3. synchronise",
+        "4. Logout",
+        "5. Atempt to log in"
+    ],
+    "745248": [
+        "1. Create an email address for posting to your micro-blog folder.",
+        "2. Compose a short email with HTML content and a hyper-link",
+        "3. Mail it to the folder's email id."
+    ],
+    "745249": [
+        "1. Use Insert a Link... feature and add a link to entry A in the Description field (TinyMCE editor) of entry B.",
+        "2. Move the entry A to another folder.",
+        "3. View entry B and now click on the link for entry A."
+    ],
+    "746252": [
+        "1. Modify group on eDirectory.",
+        "2. Login to Vibe admin console.",
+        "3. Synchronize Vibe with LDAP. Ensure that the following are checked:",
+        "4. Check group membership in Vibe, click on Groups under the Management category.",
+        "5. View the members listed in the group changed in (1) against the eDirectory."
+    ],
+    "748430": [
+        "0. open edit mode on any object that utilizes TinyMCE",
+        "1. type \"test\" into the TinyMCE editor and highlight",
+        "2.Click insert/edit link in the TinyMCE toolbar",
+        "3.type google.com/$ as the url (nothing at this location, but just a simple test)",
+        "4.click Insert",
+        "6.click OK at the bottom to attempt to save"
+    ],
+    "748620": [
+        "1.build a new form baed on an existing one",
+        "2.german evironment"
+    ],
+    "748673": [
+        "1.Create wiki document with a few paragraphs of text",
+        "2a.Resize window to very narrow",
+        "3a.Click print icon.",
+        "2b. Resize window to very wide",
+        "3b. Click print icon"
+    ],
+    "751896": [
+        "1. Log in to Vibe as user of landing page",
+        "2. Go to user's landing page",
+        "3. Click on My Workspace>Edit Workspace...",
+        "4. Drag and drop a \"Table\" element onto workspace layout area",
+        "5. Leave Number of rows and columns as default",
+        "6. Set Column 1 width = 20 px, Column 2 width: 500px",
+        "7. Click \"OK\"",
+        "8. Drag and drop a \"Graphic\" Element onto Column 1 of table created.",
+        "9. Select an image and Check \"Set image size\" option",
+        "10. Set Width: 20 px and click \"OK\" button",
+        "11. Repeat step 8 to 10 but this time drop the element onto Column2 and image With: 500 px",
+        "12. Click \"OK\" button"
+    ],
+    "754638": [
+        "1- Login as user1.",
+        "2- Go to the Files folder. ",
+        "4- Go to Folder /Configure Views, URLs and Controls.",
+        "5- Go to the Manage Entry Types tab.",
+        "6- From the drop-down list under \"Select the Entry To Be Changed\" select \"File Entry\".",
+        "7- Select \"Task Entry\" from the drop-down list below (in \"Select the New Entry Type\").",
+        "8- Click OK."
+    ],
+    "754875": [
+        "1. Install Teaming and log into Teaming as Admin.",
+        "2. 'Whats New' page will appear. Check text that appears on fist logon.",
+        "3. Go to your personal workspace by clicking 'My Workspace' in toolbar",
+        "4. Click 'Blog' in left pane. Check text 'No entries in this folder' appears correctly for your language. Click 'Trash'. Check text 'No entries in the trash' appears correctly for your language"
+    ],
+    "754921": [
+        "1. Install Teaming and log into Teaming as Admin.",
+        "2. 'Whats New' page will appear. A 'Compatibility' error may appear. click OK(This error only appears in IE browser).",
+        "3. Go to your personal workspace by clicking 'My Workspace' in toolbar.",
+        "4. Click 'Trash'."
+    ],
+    "755122": [
+        "1. Login to Teaming Server (http://ip_of_server).",
+        "2. Choose 'My Workspace' link' and click on your user.",
+        "3. Click 'Permalinks' link at bottom of dialog."
+    ],
+    "759169": [
+        "1-Log in as user with Landing Page. and navigate to the landing page",
+        "2-Click on Workspace >Edit Workspace. ",
+        "3-Drag and Drop a Folder element. ",
+        "4-Search for the Folder with description and check all options \"Show Title Bar, Show Folder Description, Show Entries opened\".",
+        "5-Set a number of entries to be displayed. ",
+        "6-Click Ok twice."
+    ],
+    "759672": [
+        "1. Log in as User or Admin.",
+        "2. Go to a files folder that contains items that have been read.",
+        "3. Click on >View >What's Unread in Folder."
+    ],
+    "763746": [
+        "1. add or edit an event to a calendar, make sure title is longer than what can be displayed in the month view of calendar for a day (easier and more likely to get problem if you make a one day or less event with a title of several words yet reasonable length)",
+        "2. go to same calendar and view as 30 days (month), place cursor on event - no bubble pops up",
+        "3. change view to any other but the 30 days (month) view, place cursor on event - bubble pops up"
+    ],
+    "764586": [
+        "1. create a few workspaces with their own branding",
+        "2. create a site level branding",
+        "3. remove workspace branding",
+        "4. configure to use only site level branding"
+    ],
+    "768850": [
+        "1.Create a Survey, add three multi/single questions Q1, Q2, Q3 with answers Q[1|2|3]Yes,Q[1|2|3]No",
+        "2.Save the survey",
+        "3.Modify the survey",
+        "4.Add another multi/single question Q4 with Q4Yes/Q4No as answers",
+        "5.click the up-arrow twice, so the header of the new question says \"Question 2/4\"",
+        "6.Save the Survey",
+        "7. Try to fill out the survey, answering all questions"
+    ],
+    "769599": [
+        "1. Take a file and name it like 110623 Cradle to Cradle & Materials Pooling - Douglas Mulhall.ppt ",
+        "2. Upload the file thoug the Java applet.",
+        "3. Go to the entry",
+        "4. try to download the file"
+    ],
+    "787218": [
+        "1. Create an Entry",
+        "2. Modify it a few times",
+        "3. Try to revert to an old version of this entry (look at the version number which is displayed by clicking on promote to current! Its always the last one not the selected one!)"
+    ],
+    "789244": [
+        "1. create task - all day - with an end date",
+        "2. set the timezone from a user to GMT+1 (or more)",
+        "3. look at the task table from this user"
+    ],
+    "789254": [
+        "1. Disable activity.stream.on.login",
+        "2. Setup a default landing page",
+        "3. Login with a user"
+    ],
+    "794232": [
+        "1. export a sub tree which has workspaces with landing pages with custom JSPs associated to folders/entries contained within the elements being exported",
+        "2. import this sub tree",
+        "3. check the custom JSPs and compare those exported with those imported"
+    ],
+    "794233": [
+        "1.export a sub-tree",
+        "2.import it back at the same level"
+    ],
+    "794234": [
+        "1. don't assign start and end dates to a critical task",
+        "2. view folder (summary)"
+    ],
+    "794237": [
+        "1. do a simple search (top right search box)",
+        "2. from results, click a found binder ... any one",
+        "3. do workspace/folder and modify (ok and return to that binder",
+        "4. now do a 'back' to the search result page",
+        "5. pick an other binder",
+        "6. go to workspace/folder and modify",
+        "7. WO minute ... t's not the expected workspace/folder !!!",
+        "8. return to step 4 to try an other binder - same surprise",
+        "9. redo the same search and pick the second, third or any of your previous picks",
+        "10 . go to modify this binder",
+        "11. TADA ... It's the right one "
+    ],
+    "808686": [
+        "1.Upload a ppt file to any entry on Vibe",
+        "2.select the file to be opened (not edit)",
+        "3.The file will prompt you to login to login to WebDAV"
+    ],
+    "821421": [
+        "1. Install Kablink Vibe Community",
+        "2. Create users (user1,user2,user3)",
+        "3. Create groups (group1,group2)",
+        "4. Add user1 to group1, add user1 to group2 ",
+        "5. Delete group1",
+        "6. Add user1 to group3,group4 "
+    ],
+    "831794": [
+        "1. Workspace > View Team",
+        "2. Folder > View Team"
+    ],
+    "839666": [
+        "1. log on to a HTTPS Vibe server",
+        "2. try to use a HTTPS-youtube link",
+        "3. save the entry"
+    ],
+    "847903": [
+        "1.Create a simple entry form",
+        "2. Create a workflow with a start and stop state",
+        "3.Add a modify transition to go to the stop state",
+        "4. Add a modify access control to the stop state and don't select anything",
+        "5. Associate the form and the workflow and enable them in a folder",
+        "6. As a regular user, create an entry",
+        "7. Modify the entry and verify that it is in the stop state"
+    ],
+    "855452": [
+        "1. Select an event that spans more than one day",
+        "2. E-mail notification goes to recipient and only says the first day of the event."
+    ],
+    "859684": [
+        "1.create or add new role",
+        "2.select 'add folders' to the role",
+        "3.add the role to a user for a certain workspace",
+        "4. try to create a new folder"
+    ],
+    "869201": [
+        "1.Create a filter in a folder that has entries associated with a workflow",
+        "2. Filter on one or more states.",
+        "3. Save the filter",
+        "4. Modify the filter"
+    ],
+    "869583": [
+        "1.You can navigate through graphical menus created in a Wiki. (attach photo (3)) This menu is included on all landing pages.",
+        "2.click the link and the files should appear"
+    ],
+    "869588": [
+        "1. log in",
+        "2. branding missing"
+    ],
+    "871112": [
+        "1. Sync runs",
+        "2. controlling group membership",
+        "3. Group not updated"
+    ],
+    "877851": [
+        "1. Create a filter on a folder",
+        "2. Activate the filter.",
+        "3. Open an entry.",
+        "4. Click the button on the top of the entry to move to either the next or previous"
+    ],
+    "883885": [
+        "1. add a calendar summary accessory to a folder",
+        "2. add a second calendar summary accessory to the same folder"
+    ],
+    "891988": [
+        "1. Create a folder and edit Team, add a group to the Team",
+        "2. Create a WF on that folder with a Transition on Response from one state to another",
+        "3. Set WF Question Responders to \"Team\"",
+        "4. Create new entry, Start Workflow (if not started automatically)",
+        "5. Test with a user that is member of the group that's in the team"
+    ],
+    "916828": [
+        "1.Log in to the Filr Web as admin",
+        "2.Expand \"<user_name>\" link in the upper right corner of the page",
+        "3.Click the \"Administration Console\" link",
+        "4.Under Management, click \"Administrators\"",
+        "5.Click \"Add\"",
+        "6.Type admin to the field",
+        "7.Select \"admin(admin)\" user",
+        "8.Error message display  "
+    ],
+    "917029": [
+        "1. Log in to the Vibe WebApp as admin",
+        "2. Click Administrator link in the upper right corner of the page, then "
+    ],
+    "917040": [
+        "1. Launch web browser",
+        "2.Open Vibe WebApp URL at https://<vibe_server_name>.mtetesting.com"
+    ],
+    "917052": [
+        "1. Launch tested browser",
+        "2. Open Vibe Web URL at https://<LOC_vibe_server_name>.mtetesting.com\t    ",
+        "3. Log in to the Vibe Web as <AD_user_from_matrix>",
+        "4. Click \"My Workspace\"",
+        "5. Click \"settings\" (cogwheel) next to your user name in left pane",
+        "6. Click \"New Folder\"",
+        "7. Enter \"Personal Files <LanguageCharacters>\" to \"Folder Title\" field, click ok.",
+        "8. Click \"Personal Files <LanguageCharacters>\" folder you created in left pane ",
+        "9. Click \"New > New Folder...\"",
+        "10. Name folder as \"docs\" and upload all files from \"LibreOffice_OpenOffice\" and \"MSOffice\" folders to \"docs\" folder",
+        "11. In Vibe WebApp and open \"Personal Files > docs\" folder again",
+        "12. Click drop-down next to file edited in previous steps",
+        "13. Click \"View Details\""
+    ],
+    "917055": [
+        "1. Log in to the Filr Web as admin",
+        "2. Under Management, click Workspaces and Folder Templates",
+        "3. Click \"New > Folder\"",
+        "4. The \"Add Templates\" page appears"
+    ],
+    "917241": [
+        "1. Log in to the Novell Vibe Web as admin",
+        "2. Expand \"<user_name>\" link in the upper right corner of the page",
+        "3. Click the \"Administration Console\" link"
+    ],
+    "917243": [
+        "1.Log in to the Filr Web as admin",
+        "2.Expand \"<user_name>\" and click the \"Administration Console\" link",
+        "3.Under System, click LDAP",
+        "4.Select the \"LDAP Server\" tab and click \"add\"",
+        "5.Select \"users\" tab and click \"add\""
+    ],
+    "917263": [
+        "1.Launch web browser",
+        "2.Open Vibe WebApp URL at https://<vibe_server_name>.mtetesting.com",
+        "3.Log in to the Vibe Web as admin",
+        "4.Expand \"<user_name>\" link in the upper right corner of the page",
+        "5.Click the \"Administration Console\" link",
+        "6.Under Management, click Weekends and Holidays",
+        "7.The \"Configure Weekends and Holidays Schedule\" dialog opens"
+    ],
+    "917573": [
+        "1.Log in to the Filr Web as admin",
+        "2.Expand \"<user_name>\" link in the upper right corner of the page",
+        "3.Click the \"Administration Console\" link",
+        "4.Under Management, click \"Administrators\"",
+        "5.Click \"Add\"",
+        "6.Type admin to the field",
+        "7.Select \"admin(admin)\" user",
+        "8.Error message display "
+    ],
+    "917969": [
+        "1. Log into Vibe WinPhone App",
+        "2. Open valid site home screen",
+        "3. Tap \"My Workspace\"",
+        "4. Tab any folder, e.g.: Blog",
+        "5. Tap \"...\" button from upper toolbar",
+        "6. The \"xxx Entry\" screen appears",
+        "7. Scroll down the screen"
+    ],
+    "917971": [
+        "1. Log into Vibe WinPhone App",
+        "2. Open valid site home screen",
+        "3. Tap \"My Workspace\"",
+        "4. Tab any folder, e.g.: Blog",
+        "5. Tap \"+\" button from upper toolbar",
+        "6. The \"xxx Entry\" screen appears",
+        "7. Enter title and description then save it",
+        "8. Tap the entry title created in previously steps",
+        "9. Tap \"delete\" icon",
+        "10. The \"Do you really want to delete...\" screen appears"
+    ],
+    "918015": [
+        "1.Tap App icon and log in",
+        "2.Tap Search icon in the top right corner",
+        "3.The \"Search\" dialog appears"
+    ],
+    "918045": [
+        "1.Tap App icon and log in",
+        "2.Tap Search icon in the top right corner",
+        "3.The \"Search\" dialog appears"
+    ],
+    "918055": [
+        "1. Log into Vibe WinPhone App",
+        "2. Open valid site home screen",
+        "3. Tap \"My Workspace\"",
+        "4. Tap \"Calendar\" folder",
+        "5. The \"Calendar\" screen appears",
+        "6. Tap any date"
+    ],
+    "918056": [
+        "1. Log into Vibe WinPhone App",
+        "2. Open valid site home screen",
+        "3. Tap \"My Workspace\"",
+        "4. Tap \"Calendar\" folder",
+        "5. The \"Calendar\" screen appears",
+        "6. Tap \"+\" icon",
+        "7. The \"Calendar Event\" screen appears"
+    ],
+    "918127": [
+        "1. Log into Vibe WinPhone App",
+        "2. Open valid site home screen",
+        "3. Tap \"My Workspace\"",
+        "4. Tap \"Calendar\" folder",
+        "5. The \"Calendar\" screen appears",
+        "6. Tap any date"
+    ],
+    "919443": [
+        "01.Log in to Vibe \"http://vibe_hostname:8080\" as the Vibe administrator;",
+        "02.Set locale to \"Simplified Chinese\";",
+        "03.Click \"Administration Console\"->\"System\"->\"Configure E-Mail\";"
+    ],
+    "922455": [
+        "1. Log into Vibe Web as AD_user",
+        "2. Click \"My Workspace\" from top toolbar",
+        "3. Click \"Configure this Workspace\" (cogwheel) button next to user name in top left corner",
+        "4. Click \"Share this Workspace\"",
+        "5. Start typing any valid username",
+        "6. User was found > select this user ",
+        "7. The Shared info appears",
+        "8. Click \"i\" icon next to \"Access Right\"",
+        "9. The \"Access Rights\" dialog opens"
+    ],
+    "922854": [
+        "1. Copy the Windows build and license xml to the Desktop",
+        "2. Unzip Windows build",
+        "3. Copy the license-key.xml into the unpacked build",
+        "4. Run the installer:  ",
+        "5. The EULA screen appears"
+    ],
+    "922889": [
+        "1.Launch web browser",
+        "2.Open Vibe WebApp URL at https://<vibe_server_name>.mtetesting.com and Log in to the Vibe Web as admin",
+        "3.Click \"Browse\" icon in top left corner (next to \"Up\" arrow)",
+        "4.Click > in front of \"Home Workspace\"",
+        "5.Click Team Workspaces",
+        "6.The \"Teams\" page opens",
+        "7.Click \"Configure this Workspace\" (cogwheel) button next to \"Teams\"",
+        "8.Click \"New Workspace...\"",
+        "9.The \"New Workspace\" dialog opens"
+    ],
+    "922916": [
+        "1. Log into Vibe Web as admin",
+        "2. Expand \"<user_name>\" link in the upper right corner of the page",
+        "3. Click the \"Change Password\" link",
+        "4. The \"Change Password\" dialog displays",
+        "5. Enter correct \"Current Password\"",
+        "6. Enter and confirm P@ssword-1 as new password",
+        "7. Click OK"
+    ],
+    "922935": [
+        "1. Log into Vibe Web as admin",
+        "2. Click \"Browse\" icon in top left corner (next to \"Up\" arrow)",
+        "3. Click > in front of \"Home Workspace\"",
+        "4. Click Team Workspaces",
+        "5. The \"Teams\" page opens",
+        "6. Click \"Configure this Workspace\" (cogwheel) button next to \"Teams\""
+    ],
+    "923086": [
+        "0. AD_user has been added any created workspace",
+        "1. Log in to Vibe web as AD_user",
+        "2. Click \"My Teams\"",
+        "3. Click the workspace created before",
+        "4. Click \"Surveys\" from left pane",
+        "5. The \"Surveys\" page opens in right pane",
+        "6. Click \"Survey\" button",
+        "7. The \"Survey\" dialog opens",
+        "8. Scroll down the dialog"
+    ],
+    "923089": [
+        "1. Launch web browser",
+        "2. Log in to the vibe Web as admin",
+        "3. Set up LDAP to import users",
+        "4. Click \"Sync All\" button under \"LDAP Servers\" tab"
+    ],
+    "923102": [
+        "1. Go to desktop OS",
+        "2. Launch web browser",
+        "3. Open Vibe WebApp URL at https://<vibe_server_name>.mtetesting.com",
+        "4. Log in to the Vibe Web as admin",
+        "5. Expand \"<user_name>\" link in the upper right corner of the page",
+        "6. Click the \"Administration Console\" link",
+        "7. Under Management, click \"Administrators\"",
+        "8. The \"Manage Administrators\" dialog displays",
+        "9. Click \"Add\" button",
+        "10. Type admin to the field",
+        "11. Select \"admin (admin)\" user",
+        "12. The error message display"
+    ],
+    "923133": [
+        "1. Copy the Windows build and license xml to the Desktop",
+        "2. Unzip Windows build",
+        "3. Copy the license-key.xml into the unpacked build",
+        "4. Run the installer:  ",
+        "5. The EULA screen appears"
+    ],
+    "923135": [
+        "1. Unzip Windows build",
+        "2. Open the unpacked build",
+        "3. Go to \"docs -> language_folder\"",
+        "4. Open \"readme.txt\" file"
+    ],
+    "923137": [
+        "1. Copy the Linux build and license xml to the Desktop",
+        "2. Open Terminal, navigate to Desktop folder and type:",
+        "3. Vibe installation program opens"
+    ],
+    "923139": [
+        "1. Unzip Linux Server build",
+        "2. Open the unpacked build",
+        "3. Go to \"docs -> language_folder\"",
+        "4. Open \"readme.txt\" file"
+    ],
+    "923151": [
+        "0. Launch Firefox browser",
+        "1. Log in to Vibe Web as admin",
+        "2. Expand \"<user_name>\" link in the upper right corner of the page",
+        "3. Click the \"Administration Console\" link",
+        "4. Under \"Management\", click \"Search Index\"",
+        "5. Select \"Optimize Search Index\" tab"
+    ],
+    "923307": [
+        "1. Go to desktop OS",
+        "2. Launch web browser",
+        "3. Open Vibe Web URL at https://<Vibe_server_name>.mtetesting.com",
+        "4. Log in to the Vibe Web as admin",
+        "5. Expand \"<user_name>\" link in the upper right corner of the page",
+        "6. Click the \"Administration Console\" link",
+        "7. Under \"System\", click \"LDAP\""
+    ],
+    "923613": [
+        "1. Log in to Vibe WebApp as admin",
+        "2. Open Administration Console",
+        "3. Click \"Management > Workspace and Folder Templates\"",
+        "4. Click any standard template",
+        "5. Click \"Manage This Target > Configure Views...\"",
+        "6. Click \"Quotas\""
+    ],
+    "924421": [
+        "1. Go to desktop OS",
+        "2. Launch web browser",
+        "3. Open Vibe WebApp URL at https://<vibe_server_name>.mtetesting.com",
+        "4. Log in to the Filr Web as admin",
+        "5. Expand \"<user_name>\" link in the upper right corner of the page",
+        "6. Click the \"Administration Console\" link",
+        "7. Under System, click KeyShield SSO",
+        "8. The \"KeyShield SSO Configuration\" dialog opens"
+    ],
+    "924617": [
+        "1. Unzip Server build",
+        "2. Open the unpacked build",
+        "3. Go to \"docs\" folder"
+    ],
+    "924657": [
+        "1. Launch browser and open Vibe Web URL",
+        "2. Log into Vibe WEB as admin",
+        "3. Create any user",
+        "4. Click the workspace tree icon",
+        "5. Click \u201cHome Workspace\u201d",
+        "6. Click \u201cPersonal Workspace\u201d",
+        "7. Click username created earlier e.g \u201cJulio Chavez\u201d in \u201cPeople\u201d page",
+        "8. The \u201cJulio Chavez\u201d dialog display"
+    ],
+    "952763": [
+        "1.Go to desktop OS",
+        "2. Launch web browser",
+        "3. Open Vibe Web URL at https://<filr_server_name>.w2k12ad.com",
+        "4. Log in to the Vibe Web as admin",
+        "5. Expand \"<user_name>\" link in the upper right corner of the page",
+        "6. Click the \"Administration Console\" link ",
+        "7. Under System, click Email"
+    ],
+    "952771": [
+        "1. Log into Vibe web as admin",
+        "2. Expand \"<user_name>\" link in the upper right corner of the page",
+        "3. Click the \"Administration Console\" link",
+        "4. Click \"Share Settings\" under \"System\"",
+        "5.The \"Share Settings\" dialog is displayed"
+    ],
+    "953054": [
+        "1.Under System, click LDAP",
+        "2.The \"LDAP Configuration\" dialog displays",
+        "3.The \"LDAP Server\" tab is selected",
+        "4.Click Add",
+        "5.The \"LDAP Server Configuration\" dialog appears",
+        "6.Observe the dialog"
+    ],
+    "953056": [
+        "1. Log in to the Vibe Web as admin .",
+        "2.Expand \"<user_name>\" link in the upper right corner of the page",
+        "3.Click the \"Administration Console\" link",
+        "4.Under System, click LDAP.",
+        "5.The \"LDAP Configuration\" dialog displays."
+    ],
+    "953257": [
+        "1. log in vibe web page with admin",
+        "2. Expand \"<user_name>\" link in the upper right corner of the page",
+        "3. Click the \"Administration Console\" link",
+        "4. Under Management, click \"Limit User Visibility\"",
+        "5. The \"Limit User Visibility\" dialog "
+    ],
+    "953259": [
+        "1. Log in to the Vibe Web as admin",
+        "2. Expand \"<user_name>\" link in the upper right corner of the page",
+        "3.Click the \"Administration Console\" link",
+        "4.Under System, click \"KeyShield SSO\"",
+        "5.The \"KeyShield SSO Configuration\" dialog displays"
+    ],
+    "953298": [
+        "1. Log into Vibe Web",
+        "2. Click \"My Workspace\"",
+        "3. Click \"settings\" (cogwheel) next to your user name in left pane",
+        "4. Click \"New Folder\"",
+        "5. Enter \"docs_\u00fc\u00f6\u00e4\u00f3\u00f1\u00e9\u00e0\u00f4\u00e8\u00ea\u00e1\u00ed\u00e9\u010d\u00e1\u00e9\u00fa\u00e1\u017e\u041d\u043e\u0432\u0430\u044f\u65b0\u5efa\u6587\u65b0\u8cc7\u30eb\u30c0\" to \"Folder Title\" field",
+        "6. Click OK",
+        "7. Click \"docs...\" folder in left pane",
+        "8. Click \"settings\" (cogwheel) next to \"docs...\" folder in left pane",
+        "9. Click \"Download Folder Contents as CSV file\"",
+        "10. The \"Select the CSV Delimiter to Use\" dialog appears",
+        "11. Leave default selection (,) and click OK",
+        "12. Go to \"Downloads\" folder and check the downloaded CSV file name"
+    ],
+    "953478": [
+        "1. Log in to the Vibe Web.",
+        "2. Click \"My Workspace\"",
+        "3. Click any folder in left pane. eg:Photo Album",
+        "4. Click \"settings\" (cogwheel) icon next to \"Photo Album\" in left pane"
+    ],
+    "953493": [
+        "1. Log into Vibe Web as admin",
+        "2. Expand \"username\" drop-down",
+        "3. Click the \"Administration Console\" link",
+        "4. Click LDAP under System",
+        "5. The \"LDAP Configuration\" dialog displays",
+        "6. Click Add in the \"LDAP Server\" tab",
+        "7. The \"LDAP Server Configuration\" dialog appears"
+    ],
+    "953506": [
+        "1. Log in to Vibe Web as admin",
+        "2. Expand \"<user_name>\" link in the upper right corner of the page",
+        "3. Click the \"Administration Console\" link",
+        "4. Under \"Management\", click \"Search Index\"",
+        "5. Select \"Optimize Search Index\" tab"
+    ],
+    "953540": [
+        "1. Launch tested browser",
+        "2. Click username menu",
+        "3. Click \"Download Vibe Desktop App\""
+    ],
+    "953738": [
+        "1.  Log into Vibe web as admin",
+        "2. Expand \"<user_name>\" link in the upper right corner of the page",
+        "3. Click the \"Administration Console\" link",
+        "4. Click \"Share Settings\" under \"System\"",
+        "5. The \"Share Settings\" dialog is displayed",
+        "6  Select \"Whitelist / Blacklist\" tab"
+    ],
+    "953744": [
+        "1.  Log into Vibe web as admin",
+        "2. Expand \"<user_name>\" link in the upper right corner of the page",
+        "3. Click the \"Administration Console\" link",
+        "4.Under System, click \"Desktop Application\"",
+        "5.The \"Configure Desktop Application\" dialog displays"
+    ],
+    "953756": [
+        "1. Log into Vibe web as admin",
+        "2.Click \"Close\" in the top left corner to close Administration Console",
+        "3.Click \"Browse Hierarchy\" icon in top left corner (next to \"Up\" arrow)",
+        "4.Click > in front of \"Home Workspace\"",
+        "5.Click Team Workspaces",
+        "6.The \"Teams\" page opens",
+        "7.Click \"Configure this Workspace\" (cogwheel) button next to \"Teams\"",
+        "8.Click \"New Workspace...\"",
+        "9.The \"New Workspace\" dialog opens"
+    ],
+    "953926": [
+        "0. SLES 12 must be totally (via YaST) switched to Dutch (NL-NL) before starting installer of Vibe. SLES12 MUST BE RESTARTED AFTER CHANGING LANGUAGE IN YAST!",
+        "1. Perform steps as per attached DOCX files, please replace domain names, IP addresses, host names, usernames etc. with the proper names valid for your configuration",
+        "2. Copy the Linux build and license xml to the Desktop",
+        "3. Open Terminal, navigate to Desktop folder and type:",
+        "4. Accept the EULA and click Next",
+        "5. The \u201cInstallation Options\u201d screen appears",
+        "6. Choose \u201cNew Installation\u201d and click Next",
+        "7. The \u201cChoose Installation Type\u201d screen appears",
+        "8. Select \u201cAdvanced\u201d and click Next",
+        "9. The \u201cInstall location\u201d screen appears",
+        "10. Click Next",
+        "11. The \u201cLocation of TrueType\u2026\u201d screen appears",
+        "12. Click Next",
+        "19. The \u201cAdditional Extension for View as HTML\u201d screen appears",
+        "20. Do not change default settings",
+        "21. Click Next",
+        "22. The \u201cDefault Locale for Novell Vibe\u201d screen appears",
+        "23. Select from \u201cTime Zone\u201d drop-down:",
+        "24. Click Next",
+        "25. The \u201cUser ID for Novell Vibe\u201d screen appears",
+        "26. Enter following:",
+        "27. Click Next",
+        "28. The \u201cBuilt-in Administrator\u2026\u201d screen appears",
+        "29. Do not change default settings (admin)",
+        "30. Click Next",
+        "31. The \u201cNetwork information\u201d screen appears",
+        "32. Enter following",
+        "33. Click Next",
+        "34. The \u201cWebDAV...\u201d screen appears",
+        "35. Click Next",
+        "36. The \u201cDatabase selection\u201d screen appears",
+        "38. Select \u201cMySql\u201d from \u201cDatabase type\u201d drop-down",
+        "39. Leave default Username (root) and enter novell as Password",
+        "40. Click Next",
+        "41. The \u201cRequests and Connections Configuration\u201d screen appears",
+        "42. Click Next",
+        "43. The \u201cJava JDK location\u201d screen appears",
+        "44. Click \u201cBrowse\u201d button",
+        "45. Choose following directory:",
+        "46. Leave other setting as default",
+        "47. Click Next",
+        "49. The \u201cJava Cryptography Extension\u2026\u201d message appears",
+        "50. Click OK to continue",
+        "51. Do not change setting in any further dialog, just click Next until you get to \u201cReady to install\u201d dialog",
+        "52. Click Install ",
+        "53. When the \u201cInstallation complete\u201d appears click Finish",
+        "54. Open Terminal and type:",
+        "55. File \u201cmysql-liquibase.properties\u201d opens in gedit",
+        "56. Replace localhost in \u201curl\u201d and \u201creferenceUrl\u201d with <IP_address_of_Vibe_Server>",
+        "57. Replace root in \u201cpassword\u201d and \u201creferencePassword\u201d with novell",
+        "58. Save and close file \u201cmysql-liquibase.properties\u201d",
+        "59. Still in the same Terminal type:",
+        "60. Updating of database commences",
+        "61. Success message appears once update has finished",
+        "62 On the same Terminal (root) type:"
+    ],
+    "966823": [
+        "1.Open Vibe Web URL at https://<LOC_vibe_server_name>.w2k12ad.com",
+        "2.Login Vibe Web with a user.",
+        "3.Click \"My Workspace\" from top toolbar",
+        "4.Click \"Calendar\" from left pane",
+        "5.Click \"View 1 day\" in the right pane"
+    ],
+    "988138": [
+        "01.Log in to Vibe \"http://vibe_hostname\" as a user whose Local setting is ",
+        "02.Create a blog entry;",
+        "03.In the \"Description\" section of the Entry form,click the \"Expand\" icon ",
+        "04.Input some chars,like \"test\",in \"Page name to link to:\" field;",
+        "05.Click \"Insert\" link;",
+        "06.Click OK button;",
+        "07.View this blog entry,then click \"test\" link,it pop up Error message box."
+    ],
+    "988140": [
+        "01.Log in to Vibe \"http://vibe_hostname\" as a user;",
+        "02.Edit user's profile;",
+        "03.In the \"Responsibilities\" section,input some chars then set font size",
+        "04.Click OK button,then view profile."
+    ],
+    "988151": [
+        "01.Log in to Vibe \"http://vibe_hostname\";",
+        "02.Click \"Guestbook\",then click \"Sign the guestbook\";",
+        "03.In the \"Description\" section,click the \"Expand\" icon in the HTML editor,",
+        "04.Input some chars in \"Page name to link to:\" field;",
+        "05.Click \"Insert\" link;",
+        "06.Click OK button,then view this entry."
+    ],
+    "989874": [
+        "1. Launch web browser",
+        "2.Open Vibe Web URL at https://<vibe_server_name>.w2k12ad.com, e.g. https://Vibe1.w2k12ad.com",
+        "3.The log in page displays"
+    ],
+    "989889": [
+        "1. Log in to Vibe Web URL at https://<LOC_vibe_server_name>.w2k12ad.com",
+        "2.Click \"My Workspace\"",
+        "3.Click \"Photo Album\" in left pane",
+        "4.Click \"settings\" (cogwheel) icon next to \"Photo Album\" in left pane",
+        "5.Select \"Delete Folder\"",
+        "6.The \"Delete\" dialog appears",
+        "7.Select \"Move to trash\" option (should be selected by default)",
+        "8.Click OK",
+        "9.Click \"Trash\" in left pane"
+    ],
+    "989906": [
+        "1. Launch web browser",
+        "2.Open Vibe Web URL at https://<vibe_server_name>.w2k12ad.com, e.g. https://Vibe1.w2k12ad.com",
+        "3.Log in to the Vibe Web as admin (password should be admin)",
+        "4.Under System, click \"Desktop Application\"",
+        "5.The \"Configure Desktop Application\" dialog displays"
+    ],
+    "990617": [
+        "1.Open Vibe WebApp URL at https://<vibe_server_name>.w2k12ad.com, e.g. https://vibe1.w2k12ad.com",
+        "2.Log in as admin",
+        "3.Click \"My Workspace\"",
+        "4.Click \"My Files\"",
+        "5.Click \"Add Files\" and upload some picture file to Vibe",
+        "6.Click drop-down next to any file",
+        "7.Click \"Share Entry...\"",
+        "8.Click \"mail\" icon next to \"Add a user...\" field",
+        "9.Enter following email address:",
+        "10.Click OK",
+        "11.Select \"Viewer\" role and click OK",
+        "12.Log out admin",
+        "13.Open new tab in web browser, go to http://mail.yahoo.com and log in with email you shared file with in previous steps (password is P@ssword-1), e.g. nsl80esus@yahoo.com",
+        "14.You should receive email from Vibe admin",
+        "15.Open this email",
+        "16.Click link to the shared file",
+        "17.The \"A file or folder has been shared...\" login screen appears"
+    ],
+    "990624": [
+        "1.Open Vibe WebApp URL at https://<vibe_server_name>.w2k12ad.com, e.g. https://vibe1.w2k12ad.com",
+        "2.Log in as admin",
+        "3.Click \"My Workspace\"",
+        "4.Click \"My Files\"",
+        "5.Click \"Add Files\" and upload some picture file to Vibe",
+        "6.Click drop-down next to any file",
+        "7.Click \"Share Entry...\"",
+        "8.Click \"mail\" icon next to \"Add a user...\" field",
+        "9.Enter following email address:",
+        "10.Click OK",
+        "11.Select \"Viewer\" role and click OK",
+        "12.Log out admin",
+        "13.Open new tab in web browser, go to http://mail.yahoo.com and log in with email you shared file with in previous steps (password is P@ssword-1), e.g. nsl80esus@yahoo.com",
+        "14.You should receive email from Vibe admin",
+        "15.Open this email",
+        "16.Click link to the shared file",
+        "17.The \"A file or folder has been shared...\" login screen appears",
+        "18.Enter the first name, last name, password",
+        "19.Click \"Register\"",
+        "20.The \"A Confirmation email...\" message appears"
+    ],
+    "994304": [
+        "1.Open Vibe Web URL at https://<LOC_vibe_server_name>.w2k12ad.com",
+        "2.Log in to the Vibe Web as <AD_user_from_matrix>",
+        "3.Click \"My Workspace\" from top toolbar",
+        "4.Click \"Configure this Workspace\" (cogwheel) button next to user name in top left corner",
+        "5.Click \"Share this Workspace\"",
+        "6.Share workspace to user you're logged in to Vibe on other system",
+        "7.Open email box of the user you shared the file with in previous steps and verify you received notification email",
+        "8.Open this email",
+        "9.There is a link to shared file in this email"
+    ],
+    "994316": [
+        "1. Configuring Vibe server email server to Yahoo",
+        "2. Open Vibe Web URL at https://<Vibe_server_name>.w2k12ad.com",
+        "3. Login as admin",
+        "4. Share a file with external user, e.g.: nsl80esus@yahoo.com",
+        "5. Log out admin",
+        "6. Open new tab in web browser, go to http://mail.yahoo.com and log in with email you shared file with in previous steps, e.g. nsl80esus@yahoo.com",
+        "7. Open the email \"admin has invited you to access an item (xxx)\" ",
+        "8. Click link to the shared file",
+        "9. The \"A file or folder has been shared...\" login screen appears"
+    ],
+    "994531": [
+        "1.  Configuring Vibe server email server to Yahoo",
+        "2. Open Vibe Web URL at https://<Vibe_server_name>.w2k12ad.com",
+        "3. Login as admin",
+        "4. Share a file with external user, e.g.: nsl80esus@yahoo.com",
+        "5. Log out admin",
+        "6. Open new tab in web browser, go to http://mail.yahoo.com and log in with email you shared file with in previous steps, e.g. nsl80esus@yahoo.com",
+        "7. Open the email \"admin has invited you to access an item (xxx)\" ",
+        "8. Click link to the shared file",
+        "9. The \"A file or folder has been shared...\" login screen appears"
+    ],
+    "994533": [
+        "1.  Configuring Vibe server email server to Yahoo",
+        "2. Open Vibe Web URL at https://<Vibe_server_name>.w2k12ad.com",
+        "3. Login as admin",
+        "4. Share a file with external user, e.g.: nsl80esus@yahoo.com",
+        "5. Log out admin",
+        "6. Open new tab in web browser, go to http://mail.yahoo.com and log in with email you shared file with in previous steps, e.g. nsl80esus@yahoo.com",
+        "7. Open the email \"admin has invited you to access an item (xxx)\" ",
+        "8. Click link to the shared file",
+        "9. The \"A file or folder has been shared...\" login screen appears"
+    ],
+    "994548": [
+        "1.Open Vibe WebApp URL at https://<vibe_server_name>.w2k12ad.com",
+        "2.Login as admin",
+        "3.Open \"Administration Console\" (admin > Administration Console)",
+        "4.Click \"System > Reports\"",
+        "5.Select \"External User Report\" from \"Run a Report\" drop-down list",
+        "6.Enter \"guest\" to \"People\"",
+        "7.The user was found",
+        "8.Click \"Create Report\"",
+        "9.Save the .csv file and open it"
+    ],
+    "997228": [
+        "1. Copy the build and license xml to the Desktop",
+        "2. Unzip build",
+        "3. Copy the license-key.xml into the unpacked build",
+        "4. Run the installer:  ",
+        "5. The EULA screen appears"
+    ]
+}

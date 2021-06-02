@@ -1,0 +1,30 @@
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.rss.RSSMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.ImageMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.AttachMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.FormMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.FieldMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.StyleMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.plugin.graphviz.GraphVizMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.plugin.svg.SVGMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.plugin.charts.ChartingMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.LinkMacro
+- PluginLoader Loaded plugin class org.radeox.macro.MailToMacro
+- PluginLoader Loaded plugin class org.radeox.macro.QuoteMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.TableMacro
+- PluginLoader Loaded plugin class org.radeox.macro.ApiMacro
+|
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.rss.RSSMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.ImageMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.AttachMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.FormMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.FieldMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.StyleMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.plugin.graphviz.GraphVizMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.plugin.svg.SVGMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.plugin.charts.ChartingMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.LinkMacro
+- PluginLoader Loaded plugin class org.radeox.macro.MailToMacro
+- PluginLoader Loaded plugin class org.radeox.macro.QuoteMacro
+- PluginLoader Loaded plugin class com.xpn.xwiki.render.macro.TableMacro
+- PluginLoader Loaded plugin class org.radeox.macro.ApiMacro
+|

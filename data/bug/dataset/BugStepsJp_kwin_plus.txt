@@ -1,0 +1,3428 @@
+{
+    "150647": [
+        "1. open a terminal",
+        "2. cd to a directory (that changes the titlebar text length)",
+        "3. cd back"
+    ],
+    "150650": [
+        "1. Set translucency for active windows and inactive windows differently",
+        "2. Move a window from one desktop to another",
+        "3. Change focus away from moved window"
+    ],
+    "161753": [
+        "1.run krusader,opera,jabbim,ktorrent in sys.tray and amarok",
+        "2.wait a few second",
+        "3.kwin crashed"
+    ],
+    "187586": [
+        "1.enable KWin desktop effects",
+        "2.Open Opera, enable mail notification",
+        "3.Recieve mail"
+    ],
+    "193094": [
+        "1. Start application in systray using ksystraycmd. Use command \"ksystraycmd --hidden --window \"- Evolution\" evolution\"",
+        "2. Click evolution systray icon repeatedly."
+    ],
+    "198106": [
+        "1. Apply shade option as shown in screenshots;",
+        "2. Shade-unshade any window and press print screen 1-2 times to capture desktop screens."
+    ],
+    "208059": [
+        "1. Create 6 virtual desktops.",
+        "2. Bind Alt+1,Alt+2, Alt+3, Alt+4, Alt+5, Alt+6 for switch them.",
+        "3. Switch them quickly, and switch between application inside desktops at",
+        "4. Keyboard stop working sometimes."
+    ],
+    "223648": [
+        "1) you need two screens",
+        "2) open some window and maximize it",
+        "3) click (and hold) on top of the window, for example on window title",
+        "4) when still clicked move mouse in direction to the second window"
+    ],
+    "240995": [
+        "1) Go to System Settings/Window Behavior/Window Behavior/Window Actions",
+        "2) Set \"Left button\" to \"Activate, Raise & Pass Click\"",
+        "3) Go to System Settings/Appearance/Windows/Window Decoration",
+        "4) Set the window decoration to Oxygen",
+        "5) Check \"Enable animations\" (now you should see the tilebar animation when you activate an inactive window)",
+        "6) Open a window and make it inactive",
+        "7) Click on something \"useful\" in this window"
+    ],
+    "241094": [
+        "1. Start gmplayer",
+        "2. Move it arround by clicking on a non-functional area and move the mouse"
+    ],
+    "242217": [
+        "0. Use click-to-focus.",
+        "1. Start xvkbd or a similar application (e. g. dasher) whose window remains always inactive, even if you click in it.",
+        "2. Shade the window.",
+        "3. Move the mouse over the title to unshade it.",
+        "4. Move the mouse back to the window which was active before unshading."
+    ],
+    "243038": [
+        "1. open konsole",
+        "2. move mouse to any icon in system tray",
+        "3. it will show up like messed2.png",
+        "4. move mouse to kickoff launcher",
+        "5. it will show up like messed3.png"
+    ],
+    "243208": [
+        "1. Connect an external monitor, set up multihead (not mirror), and drag windows into the external monitor.",
+        "2. Go to display settings and disable the external monitor"
+    ],
+    "243423": [
+        "1. shade a window",
+        "2. maximize that window",
+        "3. restore/unmaximize that window"
+    ],
+    "243693": [
+        "1. Enable Desktop Effects.",
+        "2. Enable Blur plugin.",
+        "3. Enable Magic Lamp plugin.",
+        "4. For convenience, set the magic lamp's animation duration to something very large, like 3000 ms.",
+        "5. Minimize a window.",
+        "6. Watch where the window borders used to be."
+    ],
+    "243991": [
+        "1. Enable TwinView",
+        "2. Start KDE workspace with opengl compositing and desktop effects enabled or activate it later"
+    ],
+    "244214": [
+        "1) add a second activity",
+        "2) open some apps (call them A and B) in the same virtual desktop.",
+        "3) set A to be displayed on the first activity and B on the second",
+        "4) activate the desktop grid on the first activity",
+        "5) click on an empty space (which could contain the B app if you would have activated the grid on the second activity)"
+    ],
+    "244627": [
+        "1. Enable Desktop Effects, Shadows, and Blur",
+        "2. Open Dolphin (an arbitrary example)",
+        "3. Click File",
+        "4. Move mouse over \"Create New\"",
+        "5. Move mouse further down in the main File menu to close the submenu"
+    ],
+    "244719": [
+        "1- Set amarok window to maximised",
+        "2- Click the systray icon to hide it",
+        "3- Click again to make it appear back ( so that the window has been created already maximised)",
+        "4- Drag it to un-maximise it (click the title bar or any inactive part of the window (KDE 4.5))"
+    ],
+    "245744": [
+        "1. Use desktop zoom for some period of time.",
+        "2. Wait 20 minutes to an hour.",
+        "3. Try to use desktop zoom again. Sometimes it works, sometimes it doesn't."
+    ],
+    "245747": [
+        "1. Open some windows, e.g. konsole, kate and xterm.",
+        "2. Group these windows and select any tab (e.g. konsole).",
+        "3. Click the \"shade\" button -> only the tabs bar is visible.",
+        "4. Select another tab (e.g. xterm).",
+        "5. Click the \"shade\" button again to expand the window"
+    ],
+    "247366": [
+        "1. Set up a keyboard shortcut to \"window pack right\".",
+        "2. Select a window of a kde application (let's say konversation).",
+        "3. Type the keyboard shortcut set in step 1."
+    ],
+    "247973": [
+        "1) Configure multi-monitor system.",
+        "2) Enable tiling. I use \"column\" layout.",
+        "3) Open some applications on one monitor. They should tile properly.",
+        "4) Open an application on the other monitor, using the Application Launcher or Krunner. "
+    ],
+    "249137": [
+        "1) enable the desktop grid plugin with the \"Use present windows effect to layout the windows\" option enabled.",
+        "2)add 3 virtual desktop (lets assume the bottom right one is blank).",
+        "3) open up at least one window",
+        "4) drag the desktop containing the window over the blank space to the bottom right(by clicking and dragging on the background of the virtual desktop).",
+        "5) watch with dismay as your window borders disappear and screen flickers (kwin crashing)."
+    ],
+    "249325": [
+        "1) Open at least one window",
+        "2) Use keyboard shortcut to enter Desktop Grid",
+        "3) Start dragging the window",
+        "4) While dragging, press the shortcut again (unclean Desktop Grid exit)",
+        "5) Close the window you were dragging in Desktop Grid",
+        "6) Activate Desktop Grid again",
+        "7) Enjoy the crash"
+    ],
+    "249337": [
+        "1) enable Present Windows effect activated (not tested w/o it)",
+        "2) open a window and force its position with window-specific settings",
+        "3) activate Desktop Grid",
+        "4) try moving the window to another desktop"
+    ],
+    "249795": [
+        "1. Login",
+        "2. Logout"
+    ],
+    "250988": [
+        "1. Start an app (appears e.g. in top left corner)",
+        "2. Press Meta+Right (not a default shortcut yet) to call KWin Pack Window Right",
+        "3. Window is gone",
+        "4. Maximize + unmaximize it via Taskbar",
+        "5. It's visible again (with borked/default size)"
+    ],
+    "252929": [
+        "1. open a konqueror",
+        "2. hide it to the dock",
+        "3. open another konqueror. ",
+        "1. open a konqueror",
+        "2. switch to another worplace (i.e. Strg-F3)",
+        "3. open another konqueror. "
+    ],
+    "253041": [
+        "1. Configure KDE to use the fade desktop animation.",
+        "2. Open a window.",
+        "3. Open another window and maximize it.",
+        "4. Switch desktops"
+    ],
+    "254044": [
+        "1) open 2 windows, activate one of them",
+        "2) start Desktop Grid",
+        "3) drag one window outside its desktop and back again",
+        "4) drop it on the source desktop",
+        "5) finish Desktop Grid with hotkey or by clicking on the desktop (not on any window)"
+    ],
+    "254809": [
+        "1) bind a hotkey to Desktop Grid effect (I use Alt+`)",
+        "2) enable Present Windows effect in Desktop Grid settings",
+        "3) hold it for 1-2 seconds"
+    ],
+    "254898": [
+        "1. Shade a Chrome or Firefox window.",
+        "2. Hover the window to unshade it.",
+        "3. Trigger an alert.",
+        "4a. Move the mouse to the alert.",
+        "4b. Move the mouse out of the window."
+    ],
+    "255105": [
+        "1) activate Blur effect",
+        "2) activate Magic Lamp effect",
+        "3) minimize/restore windows"
+    ],
+    "255106": [
+        "1) activate Blur effect",
+        "2) set the panel to hide itself",
+        "3) move the mouse to the edge of the screen to show the panel"
+    ],
+    "255107": [
+        "1) enable Blur effect",
+        "2) use window-specific-settings set some window class to be always 80% transparent"
+    ],
+    "255110": [
+        "0) Activate Slide effect",
+        "1) Switch to desktop 1",
+        "2) Open a window (window1), make it visible on all desktops",
+        "3) Switch to desktop 2",
+        "4) Open another window (window2)",
+        "5) Activate window1",
+        "6) Switch to desktop 1",
+        "7) Switch to desktop 2"
+    ],
+    "255129": [
+        "1. Turn on desktop effects.",
+        "2. Watch something in Kaffeine or Youtube.",
+        "3. Move the mouse to the bottom of the screen, and try using the controls there."
+    ],
+    "255590": [
+        "1. Create a Window",
+        "2. Map it",
+        "3. Set both MAXIMIZED_VERT and MAXIMIZED_HOTZ",
+        "4. Call XMoveResizeWindow on the window"
+    ],
+    "257428": [
+        "1. Select any Aurorae based theme as a window decoration.",
+        "2. Select thin border in theme config window. Hit apply",
+        "3. Open new window"
+    ],
+    "258097": [
+        "1. start a KDE session",
+        "2. run Okular or other application",
+        "3. minimize Okular window",
+        "4. log out",
+        "5. log on again"
+    ],
+    "258522": [
+        "1. Enable Glide Effect",
+        "2. Enable Show Dashboard Effect",
+        "3. Press Ctrl+F12 or call plasma dashboard in any way"
+    ],
+    "258971": [
+        "1. Start KDE.",
+        "2. Use nvidia-settings to disable laptop screen and enable external LCD monitor.",
+        "3. Use VLC or any other player to play a video file.",
+        "4. Tearing occurs."
+    ],
+    "259640": [
+        "1. Activate desktop switching using desktop cube.",
+        "2. Activate \"Use pager layout for animation\" option in desktop cube settings.",
+        "3. (optional) Activate \"Start animation when moving windows towards screen edges\" option in desktop cube settings.",
+        "4. Switch the active desktop."
+    ],
+    "259797": [
+        "1. Activate dashboard plugin, enable \"Apply blur effect to background\" option.",
+        "2. Activate widget dashboard.",
+        "3. Deactivate widget dashboard",
+        "4. Activate the widget dashboard again:",
+        "5. The results will be the same whenever you activate the dashboard after this - it's as if the blur option has been disabled.",
+        "6. Restart compositing",
+        "7. Go to step 2."
+    ],
+    "260316": [
+        "1. Minimize application.",
+        "2. Run another instance of the application.",
+        "3. Switch to newly opened window.",
+        "4. Move cursor to the titlebar."
+    ],
+    "260690": [
+        "1. Go to the Present Window mode",
+        "2. Try to select any window without leaving the Present Window mode"
+    ],
+    "261704": [
+        "1) Open a window on screen N, and set it to fullscreen (Alt+F3->Advanced->Fullscreen)",
+        "2) Alt+Drag it to another screen, M, so it snaps on",
+        "3) Disable Fullscreen"
+    ],
+    "261799": [
+        "1. Open one konsole in the full-screen mode on one (1) screen.",
+        "2. Open another konsole on another (2) screen (also launch any other window).",
+        "3. Try to switch to any other window on screen 2."
+    ],
+    "262672": [
+        "1. Open 'kcmshell kwindecoration'",
+        "2. Click on 'Configure Buttons...'",
+        "3. Add/remove/move buttons",
+        "4. Click 'OK'",
+        "5. Click 'Apply'",
+        "6. Look at the button positions in the window titlebar"
+    ],
+    "263409": [
+        "1) press Alt+Print to add a screenshot of the current window to the clipboard",
+        "2) paste from clipboard in OpenOffice Writer"
+    ],
+    "265568": [
+        "1. Open an xterm.",
+        "2. Maximize it."
+    ],
+    "265571": [
+        "1. Spawn 4 desktops: W,X,Y,Z.",
+        "2. Spawn 2 activities: A,B.",
+        "3. Open up 5 windows: 1,2,3,4,5.",
+        "4. Associate 1,2,3 with A; 4,5 with B.",
+        "5. In B, trigger desktop grid; toss 4 into W, 5 into X.",
+        "6. Stop B activity",
+        "7. In A, trigger desktop grid; move 1,2,3 into Y."
+    ],
+    "266182": [
+        "1. enable desktop effects",
+        "2. enable desktop cube effect",
+        "3. press CTRL+F11 and rotate the cube",
+        "4. press 'space' to get back the workspace"
+    ],
+    "266783": [
+        "1. open some window and enable tiling",
+        "2. place a window to another activity"
+    ],
+    "266784": [
+        "1. enable tiling",
+        "2. open some windows.",
+        "3. move a float window and toggle the float property in other screen."
+    ],
+    "268660": [
+        "1) I open KrandRTray",
+        "2) I activate the external monitor extending the desktop (not in clone mode)",
+        "3) I open a window and place it in the \"external\" display",
+        "4) I minimize the window",
+        "5) Using KrandRTray I disable the external monitor",
+        "6) I click on the minimized window and it is restored in the (now absent) external monitor."
+    ],
+    "269059": [
+        "1 open any window",
+        "2. resize window with a small size.",
+        "3. maximize the window",
+        "4. unmaximize the window."
+    ],
+    "269359": [
+        "1. Enable window tiling.",
+        "2. Open two windows.  Note that they take up the left and right columns.",
+        "3. Group the two windows.  Note that they now only occupy one column.",
+        "4. Open a new window.  Note that there are only two \"windows\" on the screen, but the tiling is laid out as if for three windows."
+    ],
+    "270092": [
+        "1) Set up the system: With an open window press Alt-F3 and place the cursor over the option \"Shade\" (but do not click it). Now press Esc to close the options popup.",
+        "2) Real-world example: Press Alt-F3 to open the Windows options dialogue.",
+        "3) Try to navigate the dialogue using the Up- and Down-Arrow keys."
+    ],
+    "270396": [
+        "1. Begin a KDE session with desktop effects enabled. I have enabled Sharpen, Looking Glass, Blur, Dashboard, Fade, Glide, Highlight Window, Login, Logout, Magic Lamp, Minimize Animation, Mouse Mark (my favorite, by the way; when stupid Blizzard exposes the stupid OpenGL renderer in stupid Starcraft 2, Kwin should soon become the window manager of choice among esports casters because they can Draw Stuff On The Screen without Paying for Useless Software and Impress People With Awesome Desktop Cubes.), Screenshot, Shadow, Sliding Popups, Taskbar Thumbnails, Thumbnail Aside, Translucency, Wobbly Windows, Startup Feedback, Dialog Parent, Dim Screen for Administrator Mode, Slide Back, Desktop Cube, Desktop Cube Animation, Desktop Grid, and Present Windows.",
+        "2. Use OpenGL compositing with the mode Texture from Pixmap.",
+        "3. Direct rendering must be enabled (if it's disabled, switching between compositing and non-compositing works just fine and dandy.)",
+        "4. Press Alt-Shift-F12 twice, once to disable compositing and once to reenable it."
+    ],
+    "271023": [
+        "1) enable snapping (default), snap windows to the panel and its shadow.",
+        "2) set placement option to Smart, add a panel on the left edge of the screen, close all windows, open an unmaximized window."
+    ],
+    "271888": [
+        "1. Open 10+ windows",
+        "2. Activate the presentwindows effect",
+        "3. Click on a inactive window"
+    ],
+    "272053": [
+        "1) Go System Settings -> Desktop Effects. Set \"Effect for window switching\" to FlipSwitch. ",
+        "2)Open a few windows. Press and hold Alt-Tab. Everything works.",
+        "3)Press Alt-Tab momentarily several times. Everything hangs."
+    ],
+    "273002": [
+        "1. Upgrade to 4.6.3",
+        "2. Change names of virtual desktops",
+        "3. Logout",
+        "4. Login"
+    ],
+    "273169": [
+        "1  Go to system settings. Choose Locale, Numbers, and edit the negative numbers sign to a arbitrary character, e.g. X.",
+        "2  Go to desktop effects and enable the Window Geometry effect.",
+        "3  Resize a window to make it smaller than it was."
+    ],
+    "274174": [
+        "1. Watch a movie in fullscreen mode",
+        "2. Make a notification to appear (e.g. by running \"sleep 3 && notify-osd \"test\")"
+    ],
+    "274303": [
+        "1. disable temporarily desktop effects",
+        "2. disable permanently desktop effects and apply this settings",
+        "3. try to enable permanently desktop effects"
+    ],
+    "274533": [
+        "1) system settings -> window begavior -> titlebar actions -> titlebar wheel event: \"shade/unshade\"",
+        "2) group some windows e.g. konsole and dolphin into one window",
+        "3) shade into small strip",
+        "4) doubleclick on titlebar",
+        "5) kwin crushed"
+    ],
+    "274710": [
+        "1. Connect to a page which takes long to load in FF4 (I tried 4.0.1)",
+        "2. Watch CPU loads of FF4 and kwin rise (e.g. with top)",
+        "3. Stop connecting to that page",
+        "4. Watch CPU loads of FF4 and kwin drop"
+    ],
+    "275088": [
+        "1) Turn off compositing",
+        "2) Group two windows (e.g. open two KWrite windows with auto-grouping turned on)",
+        "3) Move the group using the titlebar"
+    ],
+    "275089": [
+        "1) Group two windows (e.g. open two KWrite windows with auto-grouping enabled)",
+        "2) Try to move the window group using the left tab",
+        "3) Move the window group using the right tab",
+        "4) Close the right tab"
+    ],
+    "275235": [
+        "1. Make sure you have Logoff and that Plasma extenders (don\u2019t know its exact name) effect enabled.",
+        "2. Click on Logout/Restart/Shutdown in Kickoff\u2019s leave section"
+    ],
+    "276159": [
+        "1. Launch a Java Web Start application using fullscreen mode in command line by",
+        "2. Click on the button \"Ok\" once (with Oracle Java) or 3 times on the button"
+    ],
+    "276392": [
+        "1. Turn Desktop zoom on",
+        "2. Initiate Desktop zoom"
+    ],
+    "276837": [
+        "1) Enable desktop effects",
+        "2) In Composition Type, select XRender",
+        "3) Launch GTK2 or GTK3 application",
+        "4) Summon popup-menu"
+    ],
+    "277613": [
+        "1. Enable desktop effects",
+        "2. Enable the oxygen-gtk theme",
+        "3. Open firefox",
+        "4. Click on a menu",
+        "5. Hover your mouse over a tab"
+    ],
+    "277784": [
+        "1. Activate the WindowGeometry effect",
+        "2. Move a window, EffectFrames are shown",
+        "3. magic happens, window gets closed while moving (why am I not surprised that this happened with a Java client?)"
+    ],
+    "277951": [
+        "1) Set window placement policy to \"Smart\"",
+        "2) Open a new window (e.g. Konqueror)",
+        "3) Change to another Activity",
+        "4) Open a new window on that activity"
+    ],
+    "278024": [
+        "1. Enable Amarok's notification system, either OSD or KNotify.",
+        "2. Enter a fullscreen application, for example, a Flash video.",
+        "3. Change the track or wait for the current one to finish."
+    ],
+    "278953": [
+        "1) Add a panel to the upper side of the screen",
+        "2a) Move a window next to the panel",
+        "2b) Maximize window",
+        "3) Ensure focus on that window"
+    ],
+    "278965": [
+        "1. Select an aurorae theme with centered title alignment (see below)",
+        "2. Create a group of ~6 or 7 windows",
+        "3. Activate each tab at least once",
+        "4. Remove one of the windows",
+        "5. Try to activate each tab",
+        "6. See kwin crash."
+    ],
+    "278998": [
+        "1) Enable desktop effects.",
+        "2) Chose XRender as \"Compositing type\" in \"Advanced\" tab.",
+        "3) Make sure that panel is visible and not set to autohide.",
+        "4) Maximize any window.",
+        "5) See how panel shadow overlap maximized window."
+    ],
+    "279051": [
+        "1. launch any GUI application and wait for its window to open.",
+        "2. middle-click the window's Maximize button.",
+        "3. move the window to a different display, to a different position on that display than the position it had on the previous display.",
+        "4. middle-click the window's Maximize button."
+    ],
+    "280508": [
+        "1. Use a Smplayer with clocked compositing",
+        "2. Press Alt+Shift+F12"
+    ],
+    "281186": [
+        "1) Make sure Oxygen is the window decorator and kwin desktop effects are enabled.",
+        "2) Open Dolphin (although any program should do).",
+        "3) Resize Dolphin using the window borders so that it takes up the entire desktop, from the top of the screen down to the panel.",
+        "4) Click the maximize button."
+    ],
+    "283309": [
+        "1. Create second activity.",
+        "2. Open any application.",
+        "3. Click on the window icon (left top corner), expand the activity submenu and make sure it is assotiated with the current activity only. If not, select it and repet step 3.",
+        "4. Now imagine you want to move the window to another activity.",
+        "5. Click on the window icon and select another activity."
+    ],
+    "283481": [
+        "1. Activate presentwindow effect",
+        "2. Hover to a small window and it will scaled up by the highlighting",
+        "3. Select that window and all the windows moving back to the original position"
+    ],
+    "283818": [
+        "1. Open systemsettings",
+        "2. Select desktop effects"
+    ],
+    "284291": [
+        "1) Open Dolphin.",
+        "2) Click the desktop to make Dolphin an inactive window.  Click on Dolphin to make it the active window.  You will observe a delay under Kubuntu 11.10 when performing this step.  To see this effect easier, you may want to disable animations and enable \"outline active window title\" in the Oxygen decoration settings.",
+        "3) From Dolphin's \"Help\" menu, select \"About Dolphin\".  When the about window appears, you will see the window decoration sluggish to appear around the newly-created window contents."
+    ],
+    "284808": [
+        "1. Open a window on the right screen",
+        "2. Right click on decoration"
+    ],
+    "286444": [
+        "1. Kill plasma-desktop.",
+        "2. Try to Alt-Tab. Everything is ok.",
+        "3. Minimize all windows.",
+        "4. Try to Alt-Tab again."
+    ],
+    "286655": [
+        "1. go to http://docs.kde.org",
+        "2. enter KWin in search box",
+        "3. click open"
+    ],
+    "286828": [
+        "1. run krdc in fullscreen mode on the second screen",
+        "2. open a application on your first screen and minimize it",
+        "3. click the application taskbar icon on the first screen",
+        "4. the window should appear",
+        "5. click the application taskbar icon again to minimize the window"
+    ],
+    "287067": [
+        "1. Deactivate both \"Glide\" and \"Sliding popups\" effects.",
+        "2. Invoke a plasma popup (e.g. calendar, kickoff menu or Lancelot). It should appear without any effect.",
+        "3. Now enable \"Sliding popups\" first, hit \"Apply\" and then \"Glide\" and \"Apply\" again (order matters!). The plasma popup should appear with the effect \"Sliding popups\", normal windows should appear with the effect \"Glide\".",
+        "4. Try it the other way round, first activate \"Glide\", then \"Sliding popups\" (again, press \"Apply\" after each individual activation). This time also the plasma popup should appear with the effect \"Glide\" instead of \"Sliding popups\", although it is activated.",
+        "5. Deactivate both again, then activate \"Sliding popups\" and then \"Glide\" so that plasma popups appear with the effect \"Sliding popups\".",
+        "6. Restart KDE.",
+        "7. Plasma popups now appear again with the effect \"Glide\", regardless of the order in which you activated them before."
+    ],
+    "287428": [
+        "1. Create and run two activities, X and Y.",
+        "2. Turn on auto tab similar apps in system settings.",
+        "3. Switch to activity Y. Open an app. The app is now part of activity Y.",
+        "4. Switch to activity X. Open an app."
+    ],
+    "287602": [
+        "1. reset effect to default",
+        "2. check slide popup is enabled.",
+        "3. open kickoff"
+    ],
+    "287682": [
+        "1. Enable tiling with default settings (Spiral, Raise/Lower All Floating Windows)",
+        "2. Open several new windows (I have tested with terminals, konqueror windows, kopete, kmail and amarok)"
+    ],
+    "288212": [
+        "1. Open several windows and use Alt+Tab to switch between them, remember what swticher is used.",
+        "2. Open \"Configure window behaviour\" configuraion window.",
+        "3. Select \"Present windows\" in Task switcher/Main and save window.",
+        "4. Use Alt+Tab to swtich between windows. \"Present windows\" swticher is used.",
+        "5. Open \"Configure window behaviour\" configuraion window.",
+        "6. \"Cover Switch\" is selected in Task swticher/Main tab - not what I've used."
+    ],
+    "288416": [
+        "1. Switch to XRender",
+        "2. Open one or more dolphin windows",
+        "3. Trigger present windows"
+    ],
+    "288586": [
+        "1. Right click window title bar",
+        "2. Click on Advanced",
+        "3. Click on Special Application Settings"
+    ],
+    "288767": [
+        "1, Enable tiling",
+        "2, Start KOrganizer in whatever way you like."
+    ],
+    "288948": [
+        "1) Work as usual and monitor kwin cpu usage.",
+        "2) When is kwin cpu usage high, restart kwin (ALT+F2 and kwin --replace)",
+        "3) Kwin cpu usage is low again."
+    ],
+    "288974": [
+        "1. Create a kwin rule: Autogroup by ID: project_name.",
+        "2. Start multiple gvim windows w/ --role project_name.",
+        "3. Repeat steps 1, 2 a couple of times.",
+        "4. Try moving the last window to a middle slot.",
+        "5. Rinse and repeat until window refuses to reorder (See attached SS)."
+    ],
+    "289336": [
+        "1. Turn on Zoom effect (don't use the \"Mouse Pointer: Hide\"!), and in order to ease reproduction, also turn on Cover Switch effect, and Taskbar Thumbnails effect.",
+        "2. Zoom in",
+        "3. Switch windows by either:",
+        "4. Your mouse cursor should be gone now",
+        "5. If you completely zoom out, the cursor should become visible again"
+    ],
+    "289945": [
+        "1. click on a track on the collection",
+        "2. drag to playlist"
+    ],
+    "289964": [
+        "1) Go to the global shortcuts settings",
+        "2) change the shortcut for \"Walk through windows (reverse)\" to [Shift]+[Meta]+[Tab]"
+    ],
+    "290522": [
+        "1) enable compositing",
+        "2) show a pop-up",
+        "3) hide it"
+    ],
+    "290523": [
+        "1. Have a narrow window, such as Kopete contact list",
+        "2. have lots of windows open",
+        "3. Hover the Kopete contact list window"
+    ],
+    "290633": [
+        "1. Have two (or more) screens",
+        "2. Have windows on all of them",
+        "3. Select Present Windows as TabBox effect",
+        "4. Start Alt+Tab and Tab to window which is actually on other screen"
+    ],
+    "290887": [
+        "1. Bind Present Windows to the bottom left screen corner",
+        "2. Attach a second monitor with a greater resolution of the primary one which is on configured \"Right of\"",
+        "3. Throw your mouse in the bottom left corner"
+    ],
+    "290990": [
+        "1.) Open an application, for example, Dolphin.",
+        "2.) Drag it to the right side of the screen, to make it snap to the right half of the desktop and release.",
+        "3.) Do not move the app away from being docked, leave it there. Close the application.",
+        "4.) Open the application again. Notice that it will open the same size it was when docked to the right side of the screen.",
+        "5.) Manually resize the application border to something sensible. ",
+        "6.) Close the application, and reopen it. Notice that it will now ALWAYS open the size of the entire half of the desktop."
+    ],
+    "291078": [
+        "1. Enable compositing, the Blur effect, and the Blank Screen screensaver.",
+        "2. Lock the screen.",
+        "3. Move the mouse to call up the password dialog.",
+        "4. Click the cancel button (or wait for the password dialog to time out)"
+    ],
+    "291141": [
+        "1) Configure automatically hidden panel",
+        "2) Use desktop as usual",
+        "3) Check hidden panel, whether it shows when mouse is in the panel area"
+    ],
+    "291161": [
+        "1) Enable scale in effect.",
+        "2) Open some KDE (Qt) application.",
+        "3) Navigate through menus (file, edit, view etc) back and forth."
+    ],
+    "291275": [
+        "1) Play a movie in mplayer using VDPAU and HW accelerated codec (mplayer -vo vdpau -vc ffh264vdpau -fs -zoom somemovie.mp4)",
+        "2) Change volume/open yakuake/toggle between fullscreen a window few times"
+    ],
+    "291390": [
+        "1) Uncheck \"use opengl2 shades\"",
+        "2) Enable \"explosion\" effect"
+    ],
+    "291916": [
+        "1) Open the window switcher",
+        "2) Attempt to switch windows with the arrow key"
+    ],
+    "291967": [
+        "1.) Have multiple windows open",
+        "2.) Use exclusively Alt+Tab for a day",
+        "3.) Next day use Alt+Tab with clicking on the taskbar mixed"
+    ],
+    "292785": [
+        "1. open several windows;",
+        "2. minimize them all;",
+        "3. log out;",
+        "4. log in;"
+    ],
+    "293011": [
+        "1) Configure desktop switching by screen edges, with a single-row pager so only left and right edges trigger a desktop switch.",
+        "2) Start a virtualbox guest that has mouse integration (from the Guest Additions) and switch to full screen.  VBox mini toolbar is briefly visible before it auto-hides.",
+        "3) Move mouse to the mini toolbar.  Mouse pointer changes to host appearance before the mini toolbar is triggered.  Move the mouse to left or right screen edge--desktop switches as expected.",
+        "4) Disable screen edge desktop switching.  Mini toolbar now pops out when the mouse touches the top edge."
+    ],
+    "293265": [
+        "0. make sure all Konsole windows are closed",
+        "1. switch to an empty virtual desktop",
+        "3. launch Konsole through krunner( let's call that Konsole window as Konsole #1)",
+        "4. (optionally)change the tab title format of the only tab in Konsole #1 to \"#1\", so that its title bar becomes #1 for better recognition.",
+        "5. use \"File -> New Window\" to get another Konsole window( call it Konsole #2)",
+        "6. launch dolphin",
+        "7. set Konsole #1 as fullscreen mode",
+        "8. use Alt+Tab to switch between Konsole #1, #2 and dolphin. No problem at the moment.",
+        "9. set Konsole #2 as fullscreen mode, too",
+        "10. use Alt+Tab to switch between Konsole #1, #2 and dolphin."
+    ],
+    "293518": [
+        "1.Use KDE 4.8",
+        "2.Setup skype to open minimized window on new chat",
+        "3.Receive a chat message"
+    ],
+    "293657": [
+        "0. have a program with window title with some html",
+        "1. make the program to hang (while (1) do something)",
+        "2. try to close it and wait for the termination warning dialog"
+    ],
+    "293831": [
+        "1. Start some application which opens a window and closes it after a while. Pretty much any application will do - in my case it's a software manager which opens a window showing package database refreshing progress.",
+        "2. Switch to another application that covers that window (e.g. a browser).",
+        "3. Wait until the covered window closes."
+    ],
+    "295055": [
+        "1/ checkout the code (and compile)",
+        "2/ use oxygen window decoration (in principle there should be no issue)",
+        "3/ edit kde-workspace/kwin/clients/oxygen/oxygenfactory.cpp"
+    ],
+    "295056": [
+        "1/ checkout the code (and compile)",
+        "2/ look at previews in window decorations kcm"
+    ],
+    "295176": [
+        "1. Install LibreOffice (if it isn't already).",
+        "2. Remove the KDE integration package (libreoffice-kde on Kubuntu).",
+        "3. Install the GTK/GNOME integration packages (libreoffice-gtk & libreoffice-gnome).",
+        "4. I'm not sure if this matters, but I have the following line added to my /etc/profile: OOO_FORCE_DESKTOP=gnome",
+        "5. Set the window decoration to QtCurve or an Aurorae theme.",
+        "6. Make sure desktop effects are enabled.",
+        "7. Launch LibreOffice Writer.  Try moving windows or opening the Help > About LibreOffice window."
+    ],
+    "295254": [
+        "1.Enable OpenGL compositing (XRender doesn't appear to have the problem)",
+        "2.Open any application with menus and start displaying the menus."
+    ],
+    "295417": [
+        "1. Maximize a window.",
+        "2. Move it partially off-center.",
+        "3. Drag it to the top screen edge."
+    ],
+    "295418": [
+        "1. Snap a window to cover the entire screen.",
+        "2. Start resizing the window and make it smaller.",
+        "3. Quickly move the cursor to a corner of the screen."
+    ],
+    "295449": [
+        "1. Set \"BorderlessMaximizedWindows=true\" in kwinrc, and build a setup that allows you to properly control the maximized window through Plasma.",
+        "2. Press the \"Restore\" button.",
+        "3. Maximize again, and repeat."
+    ],
+    "296096": [
+        "1. Have two windows open, one of them with at least 2 tabs.",
+        "2. Use Switch to Window... action to switch between them (Meta-Alt-arrowkeys by default)"
+    ],
+    "296097": [
+        "1. Have a window with at least 2 tabs",
+        "2. Maximize the window (border disappears)",
+        "3. Switch to other tab (border reappears)",
+        "4. Use maximize again (ie to restore original size/pos)"
+    ],
+    "296289": [
+        "1. Set tab switcher to use thumbnails (System Settings > Window behavior > \"Layout Based Switcher\" > \"Thumbnails\"",
+        "2. Alt-tab between windows"
+    ],
+    "298208": [
+        "1. Enable Present windows under settings -> desktop effects",
+        "2. Hit CTRL+F9 or go upper left with the mouse cursor if you have this effect's sfortcut enabled",
+        "3. Try to lock the screen using CTRL+ALT+L or suspending the computer"
+    ],
+    "298376": [
+        "1. Turn on Desktop Effects.",
+        "2. Open a window."
+    ],
+    "298402": [
+        "1.Open a shade window or a long horizontal window",
+        "2.\"Use Present Windows\""
+    ],
+    "298405": [
+        "1. The windows must overlap themselve.",
+        "2. Click on the windows to switch between them"
+    ],
+    "298646": [
+        "1. Drag an application window to the left or right border to automatically maximize it to the left- or right-half of the screen (using the magic-borders functions)",
+        "2. Press mouse on the middle of window decoration (title bar) and drag it."
+    ],
+    "298979": [
+        "1. Start the OS.",
+        "2. Enter the account.",
+        "3. Click with left mouse button on lamp icon in a tray."
+    ],
+    "299095": [
+        "1. Set a flashy kwin effect to desktop switching.",
+        "2. Open the widget dashboard.",
+        "3. Switch desktops. I used a keyboard shortcut, but any other means probably work too."
+    ],
+    "299358": [
+        "1. use Oxygen window decoration",
+        "2. use Compositing",
+        "3. Verify that shadows are rendered",
+        "4. close window"
+    ],
+    "299398": [
+        "1. Login to your session",
+        "2. Press mute",
+        "3. Observe wrong shadow the first time you press mute"
+    ],
+    "299426": [
+        "1. Use OpenGL 1 backend",
+        "2. Activate e.g. Invert effect"
+    ],
+    "299429": [
+        "1. Minimize a window",
+        "2. Set effect speed to very slow",
+        "3. go to any desktop",
+        "4. use fade desktop effect for desktop switching",
+        "5. switch back to the desktop with the minimized windows"
+    ],
+    "299647": [
+        "1. Maximize a window vertically",
+        "2. Change window width",
+        "3. Repeat the maximize action to restore original height"
+    ],
+    "299869": [
+        "1. Use OpenGL 2 backend",
+        "2. Use Cube Effect",
+        "3. Trigger window thumbnails"
+    ],
+    "299901": [
+        "1.Grab title of window",
+        "2. move to border"
+    ],
+    "300396": [
+        "1. Open Kickoff menu.",
+        "2. Choose the tab \"Exit\"(\"\u0412\u044b\u0445\u043e\u0434\" in russian).",
+        "3. Press \"ShutDown\"(\"\u0412\u044b\u043a\u043b\u044e\u0447\u0438\u0442\u044c\" in russian)."
+    ],
+    "300545": [
+        "1. log in to KDE 4.6 (in my case)",
+        "2. switch desktops - no problem",
+        "3. reconfigure kpager by eg. changing one unimportant item and close the configuration",
+        "4. switch desktops using the \"cube\" animation - the configuration window keeps flashing up (see attachments)"
+    ],
+    "300878": [
+        "1. Create a window rule to disable window borders, like that one",
+        "2. Open a new window"
+    ],
+    "301078": [
+        "1. qt graphic system: native for kwin",
+        "2. pull a window to the edge"
+    ],
+    "301142": [
+        "1. On fresh booting a icon of a yellow incandescent light bulb shows up on the task bar.",
+        "2. Clicking it shows a black band of 2 and 1/2 inches comes on the screen with \"Update Information - KDE Daemon\" text on the bottom panel.",
+        "3. Right  clicking & closing makes it goes away till next reboot."
+    ],
+    "301291": [
+        "1. In System Settings, in Workspace Behavior/Screen Edges set \"Switch desktop on edge\" to \"Always Enabled\".",
+        "2. Drag&drop e.g. piece of text to edge of screen."
+    ],
+    "301316": [
+        "1. Configure a shortcut to switch to a window based on direction",
+        "2. Open multiple windows",
+        "3. Try pressing the shortcut keys associated with this action"
+    ],
+    "301729": [
+        "1.Open multiple windows (e.g. kmail and open one additional email)",
+        "2.activate PresentWindow Effect (e.g. by moving mouse to upper left corner of the screen)",
+        "3.hover over the shown windows"
+    ],
+    "301730": [
+        "1.use windows switcher gridview and compositing shadow",
+        "2.open 6 windows or more",
+        "3. alt+tab"
+    ],
+    "302101": [
+        "1.Set a rule to force window to a specific virtual desktop",
+        "2.Go on another virtual desktop as the one define in the rule",
+        "3.Open the application for the previsously defined rule"
+    ],
+    "302164": [
+        "1,Moving the window.",
+        "1.Open a video in smplayer",
+        "2.Trigger \"Cover switch\" and watch the video through the effect.",
+        "1.Trigger \"Present windows\"",
+        "2.Select a window and watch the window title before the effect ended."
+    ],
+    "302244": [
+        "1. Open Kwrite",
+        "2. press Alt + F3",
+        "3. select Activities -> All Activities"
+    ],
+    "302248": [
+        "1. Invoke Show Desktop",
+        "2. Launch KRunner with Alt-F2",
+        "3. Watch not only KRunner pop up but the other windows as well that were there before Show Desktop was invoked."
+    ],
+    "302507": [
+        "1. Place the window at the top of the screen. (The problem happens wherever the window is, but it's clearer if it's at the top.)",
+        "2. Change the screen/display size.",
+        "3. You'll find the window is moved to slightly lower."
+    ],
+    "302712": [
+        "1.Open an arbitrary window",
+        "2.Make it non-maximized",
+        "3.Now resize it horizontally and vertically so that it touches (snaps to) the edges of the screen/panel on all sides"
+    ],
+    "302716": [
+        "1.Maximize a window",
+        "2.Drag it around"
+    ],
+    "302784": [
+        "1.open window or menu",
+        "2.minimize window"
+    ],
+    "303083": [
+        "1. Open system settings",
+        "2. Go to Global Keyboard Shortcuts",
+        "3. Select KWin KDE component",
+        "4. Scroll down to 'Window to .....' area"
+    ],
+    "303135": [
+        "1. Start Konsole and any selection of other applications.",
+        "2. Place the Konsole window such that more than half of it lies on the secondary monitor.",
+        "3. Have the Konsole window on the top.",
+        "4. Try to bring any window to the top of the Konsole window by clicking its title bar or the respective entry in the task bar."
+    ],
+    "303185": [
+        "1. Create new window rule with window title matching and some visible changes (disabling window decorations sound good). I have attached example rule to this bug report.",
+        "2. Apply changes. All windows matching criteria will be changed.",
+        "3. Open new window that matches criteria. It will not be changed."
+    ],
+    "303891": [
+        "1. Open any window",
+        "2. Minimize it",
+        "3. Close it by using the right click menu on the task bar item"
+    ],
+    "304375": [
+        "1. open kate or a webbrowser with a typing field.",
+        "2. zoom in via the kwin zoom effect"
+    ],
+    "304404": [
+        "1. enable track mouse effect, e.g. setting the modifier keys CTRL and META as shortcut",
+        "2. press CTRL+META"
+    ],
+    "304479": [
+        "1. Enable \"Slide Back\" effect",
+        "2. Try to switch between few windows for a while"
+    ],
+    "304527": [
+        "1.select an Aurorae decoration",
+        "2.set system settings>window behavior>window behavior>titlebar tab>titlebar whell event>to shade unshade",
+        "3.try it "
+    ],
+    "304564": [
+        "1. Make sure the blur effect is enabled for the dashboard background.",
+        "2. Start a fresh login to the KDE desktop.",
+        "3. Bring up the dashboard.  The first time (at least on my system) there is no blur effect on the background.",
+        "4. Close the dashboard and bring it up again... the blur effect now works!"
+    ],
+    "304746": [
+        "1. Set settings as above in details (FFM, medium focus stealing, no auto raise, 0 delay focus, no click to raise).",
+        "2. Start xterm or konsole.",
+        "3. From xterm or konsole window, type \"kmines\" or \"konqueror\"."
+    ],
+    "304799": [
+        "1. Get on a notebook with touchpad and kde 4.9. Enable two-finger vertical and horizontal scroll in the touchpad settings.",
+        "2. Install a bunch of kwin themes, more than default four ones. kdeartwork-styles will do.",
+        "3. Open kwindecoration kcm. Try to scroll it up and down."
+    ],
+    "304870": [
+        "1. add BorderlessMaximizedWindows=true to kwinrc",
+        "2. use an aurorae theme",
+        "3. maximize a window by clicking the maximize button"
+    ],
+    "304984": [
+        "1. Enable the logout effect.",
+        "2. Set a screenshot delay to take a picture of the logout dialog (Countdown will be at the top of the screen) OR",
+        "3. Run Conky in the background"
+    ],
+    "305097": [
+        "1.Make sure that current r300g driver is installed.",
+        "2.Configure desktop effect to use opengl and raster engine also check option \"use opengl 2 shaders...\"",
+        "3.See logs."
+    ],
+    "305242": [
+        "1. Set Focus Policy to \"Focus Follows Mouse\"",
+        "2. Activate \"Raise, with the following Delay\"",
+        "3. Activate SlideBack effect",
+        "4. Move the mouse to pass focus and raise windows"
+    ],
+    "305336": [
+        "1. Set up dual monitor with two different resolutions (eg: 1920x1080+0+0, 1680x1050+1920+0) so that there is a void space.",
+        "2. Assign a hot corner to the corner in the void space (lower right in the above example) and try to activate it.",
+        "3. Try to drag a windows down to a virtual desktop below on the second screen."
+    ],
+    "305360": [
+        "1. open Gimp or Eclipse (Firefox 14its OK)",
+        "2. Open menu",
+        "3. Look the menus :/"
+    ],
+    "305367": [
+        "1.attach external monitor and turn it on",
+        "2.system settings>desktop effects",
+        "3.turn on desktop cube and desktop cube animation",
+        "4.press F11"
+    ],
+    "305445": [
+        "1. Update KDE to version 4.9.",
+        "2. Open Systemsettings > Application appearance > Fonts.",
+        "3. Try to change the title window font.",
+        "4. Look that title window font never changes."
+    ],
+    "305449": [
+        "1. Open a few windows",
+        "2. minimize all open windows",
+        "3. kquitapp plasma-desktop - there should now be no active window",
+        "4. invoke Alt+Tab"
+    ],
+    "305589": [
+        "1. set \"show unmanaged windows on\" to \"Display 1\" (Configure Desktop -> Display and Monitor -> Multiple Monitors -> Show unmanaged windows on), and press \"apply\". ",
+        "2. restart session (however, it makes no difference whether you do that or not)",
+        "3. start application through alt-f2, or with mouse click"
+    ],
+    "305656": [
+        "1. Ensure desktop effects are enabled",
+        "2. Turn off \"Fade\" effect",
+        "3. Pick an application with lot of menus items, my favourite is Krusader",
+        "4. Make it fullscreen (it might happens more frequent on bigger windows)",
+        "5. Move the mouse over the menu bar and check if every menu pops up right way",
+        "5b. right click to open local popup menu"
+    ],
+    "305737": [
+        "1. Turn on Deskop Switch On-Screen Display Animation in Virtual Desktops Settings",
+        "2. Switch the desktop"
+    ],
+    "305875": [
+        "1. Compile latest kde-workspace, git master",
+        "2. re-login"
+    ],
+    "305920": [
+        "1. launch netbeans",
+        "2. launch system monitor (Ctrl + Esc) ",
+        "3. move mouse pointer at netbeans line"
+    ],
+    "306079": [
+        "1. Set left upper hot corner to open grid view",
+        "2. Move your mouse to the top left corner"
+    ],
+    "306164": [
+        "1. Browser crashes",
+        "2. I start the browser again"
+    ],
+    "306187": [
+        "1. First set Global Keyboard Shortcut for getting \"Walk Through Desktop\"",
+        "2. Open some applications on different desktops.",
+        "3. Then do use this shortcut keys to check that icons are not present in desktop list."
+    ],
+    "306195": [
+        "1. Enable Desktop effects.",
+        "2. Open a gtk application with Clearlooks theme (e.g. Firefox, CodeBlocks) or a Qt one (e.g. KVIRC.)",
+        "3. Try to navigate across the dropdown menus."
+    ],
+    "306259": [
+        "1. use oxygen window decoration",
+        "2. use window thumbnails for task switcher"
+    ],
+    "306260": [
+        "1. KRunner -> task switcher -> check \"All other desktops\"",
+        "2. Try to navigate between windows"
+    ],
+    "306275": [
+        "1. Check \"Include Show Desktop icon\" in the Task Switcher settings",
+        "2. Open Kwrite",
+        "3. Open Konsole",
+        "4. Press Alt+Tab and focus to the Desktop",
+        "5.  Press Alt+Tab and try to move to KWrite"
+    ],
+    "306281": [
+        "1. Enable focus-follows-mouse and autoraise",
+        "2. Open three windows, A, B, C.  Have B and C partially overlap. Place A over C.  Establish stacking order: A (focused) -> B -> C.",
+        "3. Move the mouse into A.  Close window A using a keyboard shortcut (typically Alt-F4).",
+        "4. Result: Window B will receive focus (according to stacking order), but window C will be raised over B (because the mouse will now be over C).",
+        "1. Enable focus-follows-mouse and autoraise",
+        "2. On workspace 1, open two windows, A and B.  Focus and raise A.",
+        "3. Switch to workspace 2 using a keyboard shortcut (typically Ctrl-F2).",
+        "4. Move the mouse so that it is over window B when switching back to workspace 1.",
+        "5. Switch to workspace 1 using a keyboard shortcut (typically Ctrl-F1).  Now window A will (correctly) remain focused , but window B will be raised."
+    ],
+    "306285": [
+        "1. Log in to KDE",
+        "2. Hover mouse pointer to any of the plasma panel component",
+        "3. the tooltip or task manager preview thumbnail is the same as the one when desktop effects are disabled"
+    ],
+    "306303": [
+        "1. Turn on cube effect with hovering windows",
+        "2. Put a sticky window atop of a non-sticky window by activating it",
+        "3. Turn on cube (CTRL-F11) and move it"
+    ],
+    "306348": [
+        "1. Choose the \"cover switch\" effect for switching window",
+        "2. go to an empty virtual desktop and press Alt+Tab"
+    ],
+    "306580": [
+        "1. Open a full screen window. (e.g. Watch a video on Kaffeine, VLC, or run Virtual Box VMs in fullscreen mode)",
+        "2. Switch to the other desktop using Pager.",
+        "3. A popup window arises. (e.g. http://forum.kde.org/viewtopic.php?f=215&t=101043)",
+        "4. Switch back to the desktop where the full screen window resides.",
+        "5. Then, panels become foreground."
+    ],
+    "307088": [
+        "1.  Link Virtualbox to one activity",
+        "2. Open a virtual machine, linked to the same activity.",
+        "3. Switch to fullscreen (or start it as fullscreen, no difference)."
+    ],
+    "307125": [
+        "1.Enable Desktop EffectsInstall",
+        "2. install and start AWN or Docky",
+        "3.open and close a programm"
+    ],
+    "307365": [
+        "1. Install Chrome Drak theme (for example) - https://github.com/warvariuc/chrome-dark",
+        "2. Apply in KDE 4.8.5 and in KDE 4.9.1",
+        "3. Maximize a window and see the difference"
+    ],
+    "307533": [
+        "1. Go to plasma-netbook interface",
+        "2. Launch an app, e.g. dolphin, make sure it gets automatically maximized",
+        "3. Check that maximize checkbox is set in taskbar context menu for the app",
+        "4. Press Unmax button in Current Application Control plasmoid",
+        "5. See window remain in the same state",
+        "6. Check taskbar context menu to see that maximized state is cleared",
+        "7. Now try pressing max button again, and pressing unmax button again",
+        "8. See the button no longer working at all (maximize checkbox stays cleared)"
+    ],
+    "307633": [
+        "1. Group two windows",
+        "2. Close the _left_ window-tab"
+    ],
+    "307736": [
+        "1. Fresh login",
+        "2. Open a window",
+        "3. Alt+Tab - Cover switch"
+    ],
+    "307965": [
+        "1.start kde",
+        "2.drag a window horizontally accross the top part of the screen"
+    ],
+    "307996": [
+        "1. Configure desktop effects",
+        "2. Set alt+tab window switch to Cover Switch",
+        "3. Hitting alt+tab to switch windows"
+    ],
+    "308000": [
+        "1. Open KDE control module, go to virtual desktop settings, switching tab.",
+        "2. Turn on Desktop Switch On-screen Display. ",
+        "3. Try moving across virtual desktops."
+    ],
+    "308042": [
+        "1. uncheck \"Desktop navigation wraps around\"",
+        "2. desktop effect animation -> desktop cube",
+        "3. try to switch between edge workspaces..."
+    ],
+    "308116": [
+        "1. Suspend the laptop. Resume. See that the screen is locked.",
+        "2. Unlock it by entering your password in the unlock dialog",
+        "3. See the screensaver stopping and the desktop appearing"
+    ],
+    "308254": [
+        "1. Open Konsole & put to full screen mode (Panel is 100% length at the bottom of the screen)",
+        "2. Switch to another desktop and click on the desktop or other window to lose focus from Konsole",
+        "3. Switch back to Konsole via keyboard shortcut (or via Pager widget in the panel)"
+    ],
+    "308283": [
+        "1. Enable Dim Inactive effect with e.g. option to also dim panels",
+        "2. Observe that panel is dimmed",
+        "3. Change configuration to not dim panel"
+    ],
+    "308332": [
+        "1. Enable compositing",
+        "2. Run \"mplayer -vo gl teartest.mp4\"",
+        "3. Hit \"F\" (for full-screen mode)"
+    ],
+    "308438": [
+        "1. Start with compositing enabled. Open a Konsole.",
+        "2. In the window menu, choose \"More Actions - Special Window Settings...\"",
+        "3. In the \"Appearance\" tab, enable \"Block compositing\", choose \"Force\" and \"yes\"",
+        "4. Close all window (at least all Konsole windows and all the others which have the \"block composite\" property).",
+        "5. Verify that opening a Konsole will block compositing, and closing it will re-enable compositing. Make sure it is closed.",
+        "6. Hit Ctrl+Alt+F12 to disable compositing",
+        "7. Start a Konsole."
+    ],
+    "308620": [
+        "1.  Open a window with text in it.",
+        "2.  Remove focus from new window, not necessarily moving it under another window. "
+    ],
+    "308633": [
+        "1. Open two dolphin windows",
+        "2. Shade them",
+        "3. Group them in tabs"
+    ],
+    "308649": [
+        "1. Install kwin_gles",
+        "2. Use kwin_gles with Qt 4.8.3"
+    ],
+    "308807": [
+        "1. Zoom in (Meta+ +)",
+        "2. Zoom out (Meta+ - or Meta+0)",
+        "3. Open krunner (alt+F2) "
+    ],
+    "309155": [
+        "1. check virtual desktops + all other desktops or check activities+ all other activities in task switcher kcm",
+        "2. hit alt+tab"
+    ],
+    "309170": [
+        "0. Have the Maximize effect enabled",
+        "1. Open a window",
+        "2. Maximize it",
+        "3. Fullscreen it",
+        "4. Press Alt",
+        "5. Left click and hold the window"
+    ],
+    "309426": [
+        "1. Create 2 activities and 4 virtual desktops.",
+        "2. Create keyboard shortcuts to the activities (I'm using Meta + F1/Meta + F2).",
+        "3. Activity 1: Open an instance of Chrome on desktop 1, desktop 1 must be the active desktop.",
+        "4. Activity 2: Open another instance of Chrome on desktop 1, open an instance of Kate on desktop 2, desktop 2 must be the active desktop.",
+        "5. Switch activities utilizing the keyboard shortcuts (otherwise it's not reproducible)."
+    ],
+    "309521": [
+        "2) [Move it to left screen if not already there]",
+        "3) Resize it",
+        "4) Close it",
+        "5) Re-open it",
+        "6) Move it to right screen",
+        "7) Resize it",
+        "8) Close it",
+        "9) Re-open it"
+    ],
+    "309541": [
+        "1. Set launch feedback to \"Passive busy cursor\"",
+        "2. Enable the \"Startup feedback\" KWin effect",
+        "3. Start Firefox or Thunderbird (or anything else which takes a few seconds until the icon disappears)",
+        "4. Move the cursor"
+    ],
+    "309569": [
+        "1.lock screen",
+        "2.wait three days",
+        "3.try to unlock"
+    ],
+    "309591": [
+        "1. Install two or more displays.",
+        "2. Maximize a window.",
+        "3. Activate Pack Window in the direction of another display."
+    ],
+    "309958": [
+        "1. Place the app in the systray",
+        "2. Open it back"
+    ],
+    "309960": [
+        "1. Point konqueror to the address data:text/html,<i>Hi</i> <u>there</u>",
+        "2. Press alt-tab, cycle through windows until the konqueror window is active"
+    ],
+    "310084": [
+        "1. Use 2 monitors, one of then positioned lower than the other",
+        "2. activate a window on the lower screen"
+    ],
+    "310286": [
+        "1. Activate the translucency effect (80%)",
+        "2. Create a per window rule to set the opacity of a programm to 90%"
+    ],
+    "310476": [
+        "1.Enable new title bar window button",
+        "2. Click on menu button in title bar of focused window."
+    ],
+    "310497": [
+        "1. In Settings > Workspace Appearance > Cursor Theme, set the Oxygen Blue theme, size 48.",
+        "2. In Desktop Effects, enable Zoom and set the options to Zoom Factor 1.05, Mouse cursor to either \u201ckeep\u201d or \u201chide\u201d.",
+        "3. Zoom in a small amount"
+    ],
+    "310562": [
+        "1. open multiple applications",
+        "2. press Alt+Shift+Tab",
+        "3. press Alt+Shift+Tab"
+    ],
+    "310776": [
+        "0. Precondition: Suspend desktop effects on fullscreen.",
+        "1. Activate Fullscreen in VLC when a video is playing, don't touch the mouse and wait for the control to disappear. If you cannot see a transition make sure to activate the FPS display as a reliable indicator.",
+        "2. or start Minecraft in Fullscreen (F11)",
+        "3. Compare to other video games (there should be a difference for \"Waking Mars\")"
+    ],
+    "310850": [
+        "1.Create a new activity",
+        "2.Open the kwin menu in any window",
+        "3.Go to the Activities submenu"
+    ],
+    "310933": [
+        "1. Choose a screen setup with different size in \"extended mode\", e.g. 1680x1050 and 1920x1080",
+        "2. Define the \"workspace behavior\" such that anything is activated if you try to touch the bottom screen."
+    ],
+    "311216": [
+        "1. Configure kwin to use XRender, leave effects enabled",
+        "2. Configure virtualbox to use seamless mode with a windows VM",
+        "3. Drag a window inside virtualbox and watch the background"
+    ],
+    "311253": [
+        "1. Maximize a window double-clicking it",
+        "2. Restore the window double-clicking it again"
+    ],
+    "311296": [
+        "1. Enable the option to show the close window buttons in the Present Windows settings.",
+        "2. Have exactly two windows open.",
+        "3. Use the Present Windows effect (in the video, I go to the top left corner of the screen).",
+        "4. Close one of the windows by clicking on the button that appears on its top right corner.",
+        "5. Click on the remaining window.",
+        "6. Rotate the cube."
+    ],
+    "311401": [
+        "1. Start Chrome",
+        "2. Uncheck \"Use system title bar and borders\" in settings",
+        "3. Switch between windows"
+    ],
+    "311442": [
+        "1. Enable \"Show Panels\" setting in Present Windows",
+        "2. Open KRunner",
+        "4. Trigger Present Windows"
+    ],
+    "311553": [
+        "1. run \"kcmshell4 kwincompositing\"",
+        "2. Switch to the General or All effects tab",
+        "3. Resize the window as small as it will fo"
+    ],
+    "311558": [
+        "1. enable twinview with secondary screen to the right of the primary.",
+        "2. attempt to activate a hot corner on the right side of the virtual screen.",
+        "3. attempt to maximise window on the secondary screen by dragging it to the top of the screen."
+    ],
+    "311698": [
+        "1. Enable FXAA on nvidia-settings",
+        "2. Turn \"Keep window thumbnails\" to \"Never\"",
+        "3. Turn \"Keep window thumbnails\" to \"Only for Shown Windows\"",
+        "4. Switch desktop"
+    ],
+    "311893": [
+        "1. Open two windows and tab them together using kwin's tabbing function.",
+        "2. Hover over the tab in the background."
+    ],
+    "311995": [
+        "1. enable switcher OSD",
+        "2. switch desktop"
+    ],
+    "312004": [
+        "1. Right-click on the title bar of a window not in focus and bring up the operations menu.",
+        "2. Select maximize, minimize, close or any item in the 'More Actions' menu."
+    ],
+    "312020": [
+        "1. Ensure that the notification area is in the same part of the screen as yakuake.",
+        "2. Open yakuake.",
+        "3. Trigger a notification (e.g. `notify-send title body`)"
+    ],
+    "312059": [
+        "1.use air plasma theme",
+        "2.alt+tab"
+    ],
+    "312168": [
+        "1. Use new Air theme in KDE 4.10 RC1",
+        "2. Click eg. battery monitor or NM applet"
+    ],
+    "312292": [
+        "1. Lock the screen.",
+        "2. In my case the computer was idle for the night so the display was turned off. This might not be necessary to reproduce the problem.",
+        "3. Unlock the screen by typing the password."
+    ],
+    "312346": [
+        "1. git clone https://github.com/shlomif/PySolFC.git",
+        "2. git checkout deal_ms_cards",
+        "3. python pysol.py",
+        "4. Move the main window with the card to the other corner of the screen",
+        "5. Press the \"File\" menu (or press Alt+F)"
+    ],
+    "312485": [
+        "1. create a new kwin rule which remove borders",
+        "2. create 2 activities",
+        "3. open an application",
+        "4. switch to the other activty",
+        "5. the application is on the activity (all activities)"
+    ],
+    "312503": [
+        "1. Move the cursor on a minimized application on the panel",
+        "2. Look at the miniature",
+        "3. Move the cursor away"
+    ],
+    "312784": [
+        "1. On Dolphin drag a file or a directory and drop it to another directory or device.",
+        "2. Instead of appearing the move/copy/link menu nothing happens and sometimes while you are dragging the cursor show the crossed circle on every possible target.",
+        "3. Droping from Dolphin to the Plasma Desktop or folderview widget works, and dragging from Thunar to Dolphin also works but not the opposite."
+    ],
+    "312835": [
+        "1. run \"kcmshell4 keys\", find kwin",
+        "2. Assigen Ctrl+Alt+Right as the keyboard shortcut for \"Switch to next desktop\"",
+        "3. Use that shortcut to switch desktop"
+    ],
+    "312906": [
+        "0. Move the KDE panel to the top of the laptop screen",
+        "1.  connect an external 2nd monitor",
+        "2.  configure 2nd screen as above the laptop screen",
+        "3.  open an application (dolphin or konsole) on laptop screen",
+        "4.  maximize the window"
+    ],
+    "313061": [
+        "1. Enable \"Login\" effect",
+        "2. Next login, watch screens behave differently..."
+    ],
+    "313091": [
+        "1.Go to \"configure desktop>Application Appearance>Style>Fine Tuning> MenuBar\" and choose \"Title bar Button\"",
+        "2.Apply changes"
+    ],
+    "313228": [
+        "1. Open System settings -> Window behavior -> Moving",
+        "2. Click on the text on the side of one of the three checkboxes"
+    ],
+    "313625": [
+        "1. Open KSnapshot;",
+        "2. Set mod to \"Window Under Cursor\"",
+        "3. Take screenshot of KDE application."
+    ],
+    "313690": [
+        "1. Push mouse cursor against screen edge (Top left is: Present Windows - All Desktops)",
+        "2. Put computer to sleep by closing the display",
+        "3. Wake it up (by opening)"
+    ],
+    "313742": [
+        "1. Set the menubar style to title bar button",
+        "2. Open a new window of an application (e.g. Okular or Words)",
+        "3. Try to access the menu entries by keyboard shortcuts",
+        "4. Click on the menu",
+        "5. Try to access the menu entries by keyboard shortcuts"
+    ],
+    "313826": [
+        "1. Right click on a window title bar, \"More actions\"->\"Special application settings\"",
+        "2. Go to the \"Appearance & Fixes\" tab",
+        "3. Click the checkbox to the left of \"Moving/resizing\""
+    ],
+    "314476": [
+        "1. Run konsole in fullscreen mode",
+        "2. Move with the shortcuts to another window",
+        "3. Change application by clicking on activator in task manager (in the other desktop)",
+        "4. Move back to the previous window"
+    ],
+    "314590": [
+        "1. Activate \"show desktop\" (I have a shortcut for that, but there are also plasmoids available for your panel)",
+        "2. Repeat 1."
+    ],
+    "314715": [
+        "1. Open some windows.",
+        "2. Start the present windows effect and observe the behavior of the active window."
+    ],
+    "314728": [
+        "1. Open System settings.",
+        "2. Change theme of windows."
+    ],
+    "314760": [
+        "1. Run Okular using kwin as a window manager",
+        "2. Assign a window shortcut to the Okular window (Alt+F3 \u2192 more actions \u2192 window shortcut)",
+        "3. Try some keyboard input action in the Okular window, e.g. hit Space"
+    ],
+    "314790": [
+        "1. Install Arch Linux from scratch so it is brand new nothing is modified",
+        "2. Install KDE and activate it via systemctl enable kdm.service; login",
+        "3. Configure Seperate X Screen via Nvidia-Settings",
+        "4. Press Alt + Tab "
+    ],
+    "314817": [
+        "1. Make sure the blur and fade effects are activated.",
+        "2. Safe intermediate render results must be activated for the blur effect.",
+        "3. Open dolphin, make it the active window and move it to a position where the launcher will overlap it.",
+        "4. Klick on the launcher symbol to open the launcher, then click again to close it."
+    ],
+    "314864": [
+        "1. Plug in 2nd LCD monitor, set preview all windows feature on screen edge workspaces.",
+        "2. Unplug 2nd LCD monitor, run single laptop monitor.",
+        "3. Try to re-set screen edge settings in workspaces."
+    ],
+    "314927": [
+        "1. Activate Thumbnail Aside in systemsettings->Desktop Effects->All effects",
+        "2. Open a window and use Thumbnail Aside on it",
+        "3. Lock the screen"
+    ],
+    "315064": [
+        "1. Will attach Air's translucent/dialogs/background for testing",
+        "2. Try to Alt+Tab"
+    ],
+    "315540": [
+        "1. Try to switch tabs ",
+        "2. While still having your hand on Alt+Tab , move the mouse with the other hand"
+    ],
+    "315866": [
+        "1. Enable the \"dim inactive\" effect",
+        "2. Open two or more konsole windows",
+        "3. Let one of the konsole windows obtain focus, and observe that all konsoles brighten"
+    ],
+    "315879": [
+        "1. Activate Present Windows by any means be it hotkey, moving cursor to top-left corner or through the icon-only task manager",
+        "2. Move the cursor between windows",
+        "3. Click on a window"
+    ],
+    "315909": [
+        "1. Open some window, e.g. konsole",
+        "2. try to resize it by dragging the lower right corner"
+    ],
+    "315956": [
+        "1. Open two windows and tab them",
+        "2. Shade and enable auto shade/unshade on mouse hover",
+        "3. Put the mouse on it and move it out"
+    ],
+    "316033": [
+        "1. Switch to a theme like air-oxygen",
+        "2. Switch to another theme like gaia-recycled"
+    ],
+    "316040": [
+        "1. Plugin an external monitor",
+        "2. Add it to the left of the main monitor using xrandr"
+    ],
+    "316177": [
+        "1. Launch 'kcmshell4 kwincompositing'",
+        "2. Select 'All effects' tab",
+        "3. Search for 'Desktop grid' effect",
+        "4. Click on 'Configure' (icon) button",
+        "5. Modify shortcut for 'Display desktop grid'",
+        "6. Click 'OK' button"
+    ],
+    "316354": [
+        "1. Have two running activities.",
+        "2. Start Kile (or other programs with splash screens. Haven't tested so far) on one activity and switch to the other.",
+        "3. Restart/Log out and back in."
+    ],
+    "316468": [
+        "0. Set \"System Settings->Window Behavior->Window Behavior->Focus stealing prevension\"  to \"Medium\" or smaller.",
+        "1. Open a terminal, e.g. Konsole or Yakuake",
+        "2. Type \"sleep 2; kdesudo true\" in the terminal and press Enter",
+        "3. Open a new tab in the terminal (Ctrl+Shift+N) within 2 seconds and start typing",
+        "4. See that once kdesudo appears, your command ending goes to password field instead of terminal",
+        "5. Now set \"System Settings->Window Behavior->Window Behavior->Focus stealing prevension\"  to \"High\"",
+        "6. Launch an app, e.g. a browser, maximize its window.",
+        "7. Now launch another app, e.g. Dolphin",
+        "8. See Dolphin hiding behind the window appeared in step 6."
+    ],
+    "317025": [
+        "1. Compile the attached java Swing application (Iconify.java)",
+        "2. Run the application",
+        "3. Shade the application",
+        "4. Minimize the application",
+        "5. Un-minimize the application",
+        "6. Un-shade the application"
+    ],
+    "317222": [
+        "1. Connect two monitors to computer",
+        "2. use separate X screen",
+        "3. try to move window from one screen to another by using context menu from title bar"
+    ],
+    "317238": [
+        "1. Open Konsole and maximise it",
+        "2. Open the task switcher by hitting Alt-Tab",
+        "3. Cycle through windows till Konsole is brought to foreground"
+    ],
+    "317601": [
+        "1. Go to System Settings->Desktop Effects->Advanced and check \"Enable color correction (experimental)\"",
+        "2. Click on the \"Logout\" button in kickoff"
+    ],
+    "317713": [
+        "1. Connect external display to a laptop, set it as primary, move some windows there",
+        "2. Disconnect, and then reconnect the same external display"
+    ],
+    "317756": [
+        "1. Install LinuxMint 14 with KDE on a relatively weak platform (My Netbook has no graphics card)",
+        "2. Go to Desktop Effects and change the Blur Intensity (at all)",
+        "3. Try doing anything afterwards (Though a restart MAY be required)"
+    ],
+    "317996": [
+        "1. Alt+F3, right-click on titlebar, or left click the application icon in the titlebar",
+        "2. attempt to access actions in the submenus without using mouse or arrow keys"
+    ],
+    "318228": [
+        "1. Set unshade after hover or whatever is called.",
+        "2. Enable window grouping.",
+        "3. Group two windows.",
+        "4. Shade the group.",
+        "5. Hover over titlebar of the shaded group.",
+        "6. Move mouse pointer away from the window."
+    ],
+    "318383": [
+        "1. Register a shortcut with an unused key-sequence using the title \"title 1\"",
+        "2. Register a shortcut with the same key-sequence as before using the title \"title 2\""
+    ],
+    "318390": [
+        "1. Open non maximized window which can produce modal KDialog;",
+        "2. Open modal KDialog;",
+        "3. Move parent window under its dialog."
+    ],
+    "318567": [
+        "1. Open any application, e.g. KWrite",
+        "2. Go to System Settings / Window Decorations and select and apply \"Plastik\" theme",
+        "3. Resize KWrite window",
+        "4. Open a dialog in KWrite, e.g. by pressing Ctrl+O to open a file chooser dialog",
+        "5. Minimize KWrite window, then restore it again",
+        "6. Repeat the steps, but using window decoration theme \"Nano\""
+    ],
+    "318800": [
+        "1. Install and use nouveau drivers.",
+        "2. Add the following rule: https://wiki.archlinux.org/index.php/Nouveau#Tear-free_compositing",
+        "3. Install virtualbox and start a simple vm"
+    ],
+    "319767": [
+        "1. open KCM KWin Scripts",
+        "2. activate a script",
+        "3. click apply"
+    ],
+    "319866": [
+        "1. Put one monitor into portrait mode",
+        "2. Launch applications ",
+        "3. Cake"
+    ],
+    "320010": [
+        "1. enable an auto-lowering plasma panel",
+        "2. open a few windows, at best firefox (seems to happen most often with it), make sure the windows overlap and partially cover the panel",
+        "3. hover the panel to make it pop to the front",
+        "4. alternatively, press alt-f2 to get krunner pop to the front",
+        "5. alternatively, start a new application (via shortcut or krunner, doesn't matter. don't use the start menu, as the panel being at the front avoids the problem)"
+    ],
+    "320210": [
+        "1. Login to the system, open many ( > 20 )  windows ( Konsole, emacs, okular, firefox ) in different desktops",
+        "2. Switch from one virtual Desktop to another ",
+        "3. Evaluate how long it takes to be able to write something in the default window"
+    ],
+    "320271": [
+        "1. Plugin a external monitor and enable it using xrandr",
+        "2. Use scim in some window on the right monitor"
+    ],
+    "320299": [
+        "1.Open \"system setting\" and go to go to \"Workspace Appearance\".",
+        "2.Go to \"Window Decorations tab and \"Click \"Get New Decorations...\".",
+        "3.Search for \"Glowglass-Cuppertino\" and install it.",
+        "4.Change the theme to \"Glowglass-Cuppertino\", and restart computer.",
+        "5.Log in to the KDE desktop and start any windows."
+    ],
+    "320459": [
+        "1. On a fresh Kubuntu 13.04 or up-to-date Kubuntu 12.10 (running KDE 4.10.3), run vnc4server",
+        "2. Connect to this system from other machine using krdc or any VNC client",
+        "3. The mouse cursor was wrong.  In a window I can only change the width or height, but can not click any component inside."
+    ],
+    "320693": [
+        "1. Start a program on one monitor.",
+        "2. Use Alt+F2 or K-menu to start another program on another monitor."
+    ],
+    "320892": [
+        "1. Minimise or close all windows.",
+        "2. Open the K-Menu.",
+        "3. Click the Plasma desktop to close the K-Menu."
+    ],
+    "320904": [
+        "1.set Screen Edge action \"Show Desktop\" to react in 0 latency",
+        "2.move your cursor to the edge"
+    ],
+    "320921": [
+        "1.detach a panel from a program",
+        "2.move the panel to some area that you want",
+        "3.lock the panel",
+        "4.minimize the application"
+    ],
+    "321217": [
+        "1.Launch Kwin with opengl set to > 1.2",
+        "2. Kwin starts",
+        "3. Screen slowly or quickly fills in with black"
+    ],
+    "321245": [
+        "1.Activate Thumbnails switching mode",
+        "2.Enabling Outline selected window option",
+        "3.Press alt+tab"
+    ],
+    "321252": [
+        "1. Update to 4.11",
+        "2. Try to close a window with a mouse button that you previously configured"
+    ],
+    "321259": [
+        "1. Assign effect to top right corner",
+        "2. Connect a second screen with larger resolution as lect screen",
+        "3. Move the mouse pointer to the top right corner of the right screen"
+    ],
+    "321340": [
+        "1. touch ~/.test.swp",
+        "2. gvim ~/test",
+        "3. Gvim will pop up a dialog box warning you that a .swp file already exists. Close the dialog box by selecting any of the options. The Gvim window will stay darkened."
+    ],
+    "321405": [
+        "1.disabled maximize at the top edge.",
+        "2. Drag window to top of screen or bottom of the screen"
+    ],
+    "321638": [
+        "1. Have a maximized window",
+        "2. Go to system settings \u2192 All Effects",
+        "3. Change a setting there, eg. \"Animation speed\"",
+        "4. Apply"
+    ],
+    "321639": [
+        "1. Assign a shortcut for maximize/restore window",
+        "2. Hit it a couple of times"
+    ],
+    "321831": [
+        "1. put panel on the left",
+        "2. opengl compositing is ON, blur effect ON",
+        "3. take a windiow and push it to left side to tile it half or quarter of screen",
+        "4. move the windiow below panel still while dragging it to the border"
+    ],
+    "321959": [
+        "1. enable \"Suspend desktop effects for fullscreen windows\" in kwin kcm",
+        "2. open gwenview, select \"Animations: openGL\" in \"Settings > Configure\"",
+        "3. start a photo Slideshow, then exit [esc]"
+    ],
+    "322013": [
+        "1. Make two mostly white windows (eg the google website).",
+        "2. Turn on the invert effect so that the windows are now mostly black.",
+        "3. Put one window on top of the other (so that the other is covered).",
+        "4. Now make the window on top ~50% transparent."
+    ],
+    "322206": [
+        "1. Start KDE",
+        "2. Open gwenview",
+        "3. Set it to display pictures in full screen mode",
+        "4. Pass the pictures with space bar."
+    ],
+    "322307": [
+        "1. Attach a second mouse and keyboard to your PC (I have a laptop, so that part is easy^^)",
+        "2. Setup xinput to use them as second master device:",
+        "3. Open two applications side-by-side, e.g. kwrite and konsole",
+        "4. Click the right window with mouse A, the left instance with mouse B",
+        "5. Type on both keyboards - the text appears in the two windows",
+        "6. Now click the left window with mouse B and type on keyboard B"
+    ],
+    "322441": [
+        "1. Open \"zoom desktop\" effect details in systemsettings",
+        "2. assign \"enlarge\" hotkey to [Super]+[+]",
+        "3. apply changes"
+    ],
+    "322493": [
+        "1. quick tile a window to left screen border",
+        "2. drag window from opposite half side of its decoration, that is to say, right side, near window control buttons",
+        "3. drag window along screen border "
+    ],
+    "322496": [
+        "1. de-activate translucent window while moving effect to better see bad behavior ",
+        "2. pick a window with dark background (ex. konsole) to better see bad behavior ",
+        "3. drag it to a side border for quick tiling",
+        "4. untrigger quick tile effect"
+    ],
+    "322522": [
+        "1. Set focus behaviour to Click To Focus",
+        "2. Close KCM",
+        "3. Open KCM"
+    ],
+    "322543": [
+        "1. Have a display with a width of at least 1960 pixels (mine is 2048x1152)",
+        "2. Take any window and resize it to more than 1960 pixels wide"
+    ],
+    "322616": [
+        "1. Open systemsettings",
+        "2. Open the window management settings",
+        "3. Open the window behaviour part"
+    ],
+    "322633": [
+        "1. Attach at least two displays.",
+        "2. Enable UndirectFullscreen.",
+        "3. Start video player on first display, switch it to fullscreen mode, start video playback.",
+        "4. Launch System Settings on second display, disable UndirectFullscreen and Apply."
+    ],
+    "322650": [
+        "1. Goto System Settings | Window Behavior | Window Rules",
+        "2. Click New",
+        "3. For Window title, select anything other than Unimportant"
+    ],
+    "322852": [
+        "1. Open a FullHD video in VLC (?)",
+        "2. Try quick maximizing window"
+    ],
+    "322961": [
+        "1. In kwin kcm, set compositing type to OpenGL 2.0 and Qt graphics system to Native",
+        "2. Look at window titles, for example in systemsettings, when switching between Overview and a kcm"
+    ],
+    "323065": [
+        "1. Open Dolphin",
+        "2. Maximize the window (double click the title bar or the button)",
+        "3. Restore the window (double click the  title bar or the button)"
+    ],
+    "323079": [
+        "1. Use more than one monitor and set them up like in the figure",
+        "2. Add a panel to the top or right of the main screen/monitor",
+        "3. Maximize a window on the main screen that contains the plasma panel."
+    ],
+    "323133": [
+        "1.Start counter strike from steam",
+        "2.trying to modify the volume from keys fn + F8 - F9",
+        "3.or simply when i hit alt-tab to switch between counter strike and other app"
+    ],
+    "323528": [
+        "1. Define a hotkey for opening a terminal (and flag as \"unimportant\")",
+        "2. Press the new hotkey",
+        "3. Launch a fullscreen game",
+        "4. Press the new hotkey",
+        "5. Try to switch to another application (using Alt+Tab)"
+    ],
+    "323588": [
+        "1. Have screen edges configured to travel between desktops",
+        "2. Move cursor to top/bottom/left/right edge"
+    ],
+    "323686": [
+        "1. Suspend computer for longer time;",
+        "2. Resume;",
+        "3. Repeat steps 1 and 2 as sometimes it works."
+    ],
+    "323688": [
+        "1.Change desktop effects compositing type to OpenGL 3.1",
+        "2.Use the system a bit",
+        "3.Revert compositing to OpenGL 2.0",
+        "4. Activate the slide effect"
+    ],
+    "323706": [
+        "1. Set up two displays with multiple workspaces (3x3 grid for example)",
+        "2. Press key to show Desktop Grid"
+    ],
+    "323792": [
+        "1. Open system settings window maximized",
+        "2. Change compositing type to opengl 1.2",
+        "3. Turn off blur effect",
+        "4. Use screen edge effect."
+    ],
+    "323798": [
+        "1. use Plastik window decoration",
+        "2. run kdialog --error \"this should not happen\" --title \"asdf <div>\""
+    ],
+    "323806": [
+        "1. Desktop effects must be enabled.",
+        "2. Maximize a window of choice.",
+        "3. \"Demaximize\" it by clicking on the replaced maximize button or leftclick and hold the window decoration, drag it down and release the window."
+    ],
+    "323817": [
+        "1. Set compositing type to opengl 3.1, no tearing",
+        "2. Reboot"
+    ],
+    "323818": [
+        "1. Set compositing type to opengl 3.1, no tearing",
+        "2. Reboot"
+    ],
+    "323835": [
+        "1. Choose anti-tearing options which prevent teraring",
+        "2. Reboot",
+        "3. Settings are the same but tearing is back",
+        "4. Change settings to something else and back again: Tearing is gone",
+        "5. GOTO 2"
+    ],
+    "323855": [
+        "1. In System Settings, set up dual monitor configuration with second monitor moved x pixels right by however many pixels the first monitor is. Example for me: 2560 x and 0 y.",
+        "2. Open a window, not maximised and drag it using its title bar to the bottom right corner in an attempt to line the window's bottom right corner with the same corner on the desktop."
+    ],
+    "323927": [
+        "1. Install Kubuntu 12.04 with latest updates",
+        "2. Having my Graphics card ATI FirePro 2260",
+        "3. Use jockey suggested fglrx-driver which is 8.96.7",
+        "4. Add KDE backports PPA https://launchpad.net/~kubuntu-ppa/+archive/backports",
+        "5. Update KDE to Version 4.11.0"
+    ],
+    "324034": [
+        "1.change dashboard-settings",
+        "2.activate the dashboard"
+    ],
+    "324049": [
+        "1. Boot to desktop, immediately open a window (dolphin instance will do)",
+        "2. Move the window around, there is no tearing",
+        "3. After a few seconds, suddenly, the tearing appears",
+        "4. Go to System settings > Desktop effects > Advanced and set the compositing type to opengl 3.1 > Apply> back to opengl 2.0> Apply",
+        "5. No tearing for the remainder of desktop session",
+        "6. Reboot",
+        "7. The tearing is back in the same way as in steps 2-3"
+    ],
+    "324190": [
+        "1. Enable FPS counter and reboot.",
+        "2. Right after startup open a terminal window and start dragging it around and watch the FPS counter."
+    ],
+    "324242": [
+        "1. open window on monitor 1",
+        "2. maximize it",
+        "3. drag it to monitor 2"
+    ],
+    "324272": [
+        "1. Go to System preferences, workspace appearance, windows decoration, set decoration, shadows.",
+        "2. Change options of size and color for the edge of the windows and accept. ",
+        "3. It does not happen anything but the windows continue with the same tiny blue edge and not bright nor shadows."
+    ],
+    "324276": [
+        "1.Tab 2 or more windows in one group.",
+        "2.Shade group.",
+        "3.Change virtual desktop.",
+        "3.Switchback to VD containing your group.",
+        "4.Unshade group."
+    ],
+    "324326": [
+        "1. Minimize some windows.",
+        "2. Log out.",
+        "3. Log in."
+    ],
+    "324437": [
+        "1. System with nvidia drivers with proper vsync settings",
+        "2. Either logout or reboot system"
+    ],
+    "324522": [
+        "1.run `KWIN_OPENGL_INTERFACE=egl_wayland kwin --replace &!`",
+        "2.have desktop effects disabled. Run it AND toggle effects witchAlt Shift F12"
+    ],
+    "324560": [
+        "1. Open this page in Chromium: http://jurjenbokma.com/ApprenticesNotes/turing_off_overcommit.html",
+        "2. Move cursor to third code rectangle (with \"cat <<EOF...\")",
+        "3. After a \"Step 3\" tooltip appears, move it to light background",
+        "4. See the result as in screenshot"
+    ],
+    "324672": [
+        "1. Freeze a program somehow",
+        "2. Close the window with a single click on the X",
+        "3. Double click the X to SIGTERM the application",
+        "4. Tripple click the X to SIGKILL the application"
+    ],
+    "324709": [
+        "1. Add new display to the top",
+        "2. add panel on the top of the bottom screen",
+        "3. maximize any app on the bottom of the screen"
+    ],
+    "324733": [
+        "1. Open a game in windowed mode, screen sized window.",
+        "2. Try to make it full screen."
+    ],
+    "324742": [
+        "1. Enable VSync in the Desktop Effects settings.",
+        "2. Reboot.",
+        "3. Login into KDE"
+    ],
+    "324770": [
+        "1. Start KDE",
+        "2. Move window with Titlebar drag / Watch video in any player",
+        "3. Pronounced tearing in region of movement",
+        "4. Go to System Settings > Desktop effects > Advanced > Scale Method and change setting (to anything)",
+        "5. Tearing disappears",
+        "6. Restart KDE",
+        "7. Problem recurs."
+    ],
+    "325134": [
+        "1. Enable Blur.",
+        "2. On a Radeon system with Mesa 9.2 release, run kwin_gles --replace &",
+        "3. See an output like mine."
+    ],
+    "325340": [
+        "1. Same hardware? In System Settings, in Desktop Effects, in the Advanced tab:",
+        "2. Restart compositing? (Alt+Shift+F12)",
+        "3. Click around some windows until the effect occurs"
+    ],
+    "325496": [
+        "1. Maximize window",
+        "2. Drag window by mouse (by caption)",
+        "3. Window draggable"
+    ],
+    "325592": [
+        "1. Configure your laptop to go to sleep when the lid is closed",
+        "2. Activate expose",
+        "3. Close the lid",
+        "4. Open it and wake the laptop"
+    ],
+    "325610": [
+        "1. Disable desktop effects.",
+        "2. Enable desktop effects.",
+        "3. Open Handbrake with some enqueue file.",
+        "4. Say \"Yes\" to reload pending files.",
+        "5. A new window appears with big borders corrupted..",
+        "6. Open a window of any program and move it, observe top-right and bottom-left corners for a parallel multicolored line moving with window."
+    ],
+    "325763": [
+        "1. Set a different mouse cursor theme than Oxygen in systemsettings",
+        "2. Click on a window's titlebar and move it"
+    ],
+    "325799": [
+        "1.Enable Mouse Tracking in Proportional mode",
+        "2.Zoom in on one corner of the screen, move mouse a little, zoom out (while cursor is still in the same corner).",
+        "3.Move mouse cursor to opposite corner when zoomed all the way out then zoom in while cursor is stationary in that corner of the screen.  Watch screen jump from previous corner to current one."
+    ],
+    "325851": [
+        "1. Open systemsettings - Desktop Effects",
+        "2. Adjust the animation speed."
+    ],
+    "325939": [
+        "1.  in the Pager settings check to enable the 'Desktop Switch On-Screen Display'",
+        "2. Uncheck 'Show desktop layout indicators'",
+        "3. Create keyboard shortcut keys for 'Switch to Next Desktop' & 'Switch to Previous Desktop' and use either the shortcut keys, or use a mouse scroll wheel to move back and forth.",
+        "4. As soon as the 'Desktop Switch On-Screen Display' dissappears move again, try to move the second it dissapears and hopefully it will turn black.",
+        "5. I'm using the default settings for the Effects in KDE 4.11.2, nothing has been changed."
+    ],
+    "325946": [
+        "1. Open System Settings > Window decorations",
+        "2. Click Configure Decoration, make changes, click OK"
+    ],
+    "325959": [
+        "1. Configure KWin to use OpenGL rendering (instead of XRender) in Desktop Effects on the hardware mentioned in the description. (May occur on other hardware too.)",
+        "2. Enable the Fade effect in Desktop Effects.",
+        "3. Open a folder pop-up in the Folder View widget, mouse over into a sub-folder, then mouse out of all the pop-ups.",
+        "4. Enable (detailed) tooltips in System Settings and Dolphin, mouse over any icon in these applications, then mouse out.",
+        "5. Close any open window larger than about 600x400 pixels."
+    ],
+    "326136": [
+        "1.  Create a task bar on the top of the primary screen",
+        "2.  Attach a secondary display above the primary",
+        "3.  Maximize a window on the primary display"
+    ],
+    "326903": [
+        "1. Right-Click app window's Title Bar",
+        "2. Choose 'Move to Desktop' or 'Move to Screen' #",
+        "3. Click a choice."
+    ],
+    "327361": [
+        "1. Place a window centered on one screen",
+        "2. Move the window to the other screen"
+    ],
+    "327410": [
+        "1. Switch theme to Plastik",
+        "2. go to http://www.frog23.net/development/kde-title-bug.html or open the attached file",
+        "3. look at the window decoration"
+    ],
+    "327443": [
+        "1.Run kwin effect shift alt f12",
+        "2.Levae opened window inactive",
+        "3.Hover on inactive window to get back sharpenes"
+    ],
+    "327472": [
+        "1. Open a console window and set a shortcut for it (e.g., Alt + F12).",
+        "2. Create or modify a window rule for any window, it doesn't have to be the konsole window.",
+        "3. Notice that the shortcut that was set in step 1 is gone."
+    ],
+    "327559": [
+        "1. Log into plasma",
+        "2. Do what you would normally do on windows (enter start menu)",
+        "3. Enjoy",
+        "4. Sometimes it's very rare so you need to spam lpm alot."
+    ],
+    "327657": [
+        "1. Open \"System settings\" and \"Chromium\"",
+        "2. Run \"gvim\" on screen 1.",
+        "3. Run",
+        "4. On screen 2 open:",
+        "5. Use Alt+Tab for switch",
+        "6. Use Alt+Tab for switch"
+    ],
+    "327884": [
+        "1. Open any window, for example dolphin, kwrite, etc.",
+        "2. Resize to maximum size in both X and Y.",
+        "3. Maximize it"
+    ],
+    "328010": [
+        "1. Enable the mouse click animation effect. Note that it is not required to activate the effect (Meta+*) to experience the slowdown.",
+        "2. Use your PC for a while... do lots of clicking on things, opening windows, closing them, etc."
+    ],
+    "328071": [
+        "1. Activate Blur Effect",
+        "2. Use Plasma (i.e Takeoff)"
+    ],
+    "328264": [
+        "1. Activate the \"Present Windows\" function (by mouse in corner or other means)",
+        "2. Try pressing Volume Up/Down buttons."
+    ],
+    "328301": [
+        "1 The first option is in",
+        "2 The second option is in"
+    ],
+    "328391": [
+        "1. Open \"KDE System Settings > Workspace Behavior > Virtual Desktops > Switching\"",
+        "2. Look at \"Shortcuts\""
+    ],
+    "328745": [
+        "1. Turn on compositing.",
+        "2. Configure xscreensaver to use a demo that grabs a desktop image and draws on top of it (e.g. BSOD)",
+        "3. Let the xscreensaver demo run."
+    ],
+    "328951": [
+        "1. Set animation speed to very slow to properly observe",
+        "2. Enable blur with save intermediate rendering results",
+        "3. Open Systemsettings",
+        "4. move the mouse around to show and hide tooltips"
+    ],
+    "329821": [
+        "1. Get a system with an Nvidia graphics card and install a GLX_EXT_BUFFER_AGE-supporting driver version.",
+        "2. Install/upgrade to kwin 4.11.5.",
+        "3. Launch glxgears"
+    ],
+    "329864": [
+        "1. Open Dolphin and KWrite",
+        "2. Open the Desktop Effects module in System Settings",
+        "5. Maximize and restore the KWrite windows",
+        "5. Change the state of e.g. the Fade Out effect twice (i.e. ending in the active state)",
+        "6. Press the Apply button"
+    ],
+    "329906": [
+        "1. Disable desktop compositing (Shift+Alt+F12)",
+        "2. Start a program that takes a little while to start up (e.g. firefox)",
+        "3. Quickly re-enable desktop compositing (Shift+Alt+F12)"
+    ],
+    "330083": [
+        "1.  Start application",
+        "2.  Access menu option to popup dialog",
+        "3.  Press dialog Minimize Button"
+    ],
+    "330352": [
+        "1. Connect 2 monitors with different refresh rates.",
+        "2. Move windows around, or play a high fps video."
+    ],
+    "330573": [
+        "1. Use XShapeCombineRectangles on a window to give the window an explicit shape:",
+        "2. Set the _MOTIF_WM_HINTS property on the same window with flags = 1 and decorations = 0:",
+        "3. (After flushing the event loop). Clear the XShape:"
+    ],
+    "330679": [
+        "1. Enable zoom.",
+        "2. Zoom in.",
+        "3. Notice the mouse being slightly offset: try moving to the extreme left edge of the screen.",
+        "4. Notice the mouse cursor never changing: try resizing a window (you may need to guess because of the above)."
+    ],
+    "330758": [
+        "1. Open a window (do not maximize it).",
+        "2. Place it in the middle of the screen.",
+        "3. Move it to the other screen via kwin-keyboard-shortcut (\"Move window to next monitor\" (or so))."
+    ],
+    "330819": [
+        "1. Open a window, maximize it.",
+        "2. Move it to the other screen via keyboard-shortcut",
+        "3. Move it back again."
+    ],
+    "331054": [
+        "1. Activate highlight kwin effect, moving mouse over taskbar (I'm using icon-tasks if this is important) opened window button. That window would be highlighted.",
+        "2. Lock the screen. I have autolocking feature on, so this happens to me often. But Ctrl+Alt+L work well too."
+    ],
+    "331148": [
+        "1.Start desktop 3D animation (cube, sphere or cyinder)",
+        "2.Hold left button and drag with mouse between desktops",
+        "3.Release it and start again 3D animation use mouse wheel to change desktop"
+    ],
+    "331158": [
+        "1. Go to system settings",
+        "2. Go to Global Keyboard Shortcuts",
+        "3. Select 'kwin'",
+        "4. Filter for 'Quick Tile'"
+    ],
+    "331462": [
+        "1. Activate an Aurorae theme.",
+        "2. Click on the window menu button (icon) and quickly release the mouse button."
+    ],
+    "331512": [
+        "1. Open four windows (e.g. konsole), put them on the four quarters of your screen",
+        "2. Switch focus from one to the other using Meta+Alt+<Arrow>",
+        "3. Put two of them in 'Visible on all desktops'",
+        "4. Switch focus from one to the other using Meta+Alt+<Arrow>"
+    ],
+    "331527": [
+        "1. Maximize a window in one screen",
+        "2. Use \"Window to Next Screen\" to send this window to another screen"
+    ],
+    "331545": [
+        "1. Have two activities, A and B.",
+        "2. Right-click on title bar of a window on activity A and in the \"Activities\" menu check \"B\"",
+        "3. See that all activities are now checked, so uncheck A and click away from the menu.",
+        "4. Wonder why nothing has happened. ",
+        "5. WTF? Try again, this time selecting \"All Activities\"",
+        "6. Wonder why the menu just closed itself. It didn't do that in step 3, I had to click away from the menu.",
+        "7. Right-click the title bar again and under \"Activities\" click \"B\"",
+        "8. Notice the window has gone from the Task Manager on the panel, but the window and the menu are still visible",
+        "9. Click away from the menu, and notice the window is now torn and improperly rendered, because it's not actually on this activity any more"
+    ],
+    "331668": [
+        "1. Workspace Behavior",
+        "2. Screen Edges",
+        "3. Desktop Cube-Cube > Apply"
+    ],
+    "331720": [
+        "1. Log in.",
+        "2. Observe tearing.",
+        "3. Change System Settings -> Desktop Effects -> Advanced -> OpenGL Options -> Tearing Prevention (VSync) option.",
+        "4. Disable desktop effects.",
+        "5. Re-enable desktop effects.",
+        "6. Observe that tearing is gone."
+    ],
+    "331841": [
+        "1. Configure a screensaver, deselect the option to lock the screen (ask for a password) to reproduce my configuration. Configure a hot corner that \"Prevents Screen Locking\"",
+        "2. Open a website with streaming (Flash) video content, and launch it fullscreen",
+        "3. put the mouse pointer in the hot corner you configured",
+        "4. Sit back to watch the video."
+    ],
+    "332091": [
+        "1. Open applications",
+        "2. Close applications",
+        "3. Crash sometimes"
+    ],
+    "332184": [
+        "1. Set a window shortcut via More Actions --> Special Application Settings --> Arrangement & Access --> Shortcut / Force.",
+        "2. Close the dialog, and open it again --> the shortcut setting is not remembered, indicating to me that no application shortcut is set",
+        "3. Assign a different shortcut via More Actions --> Window Shortcut."
+    ],
+    "332518": [
+        "1. Open systemsettings",
+        "2. Click Desktop Effects"
+    ],
+    "332519": [
+        "1. Open systemsettings",
+        "2. Click Compositor"
+    ],
+    "332534": [
+        "1. Open Workspace Appearance | Window Decorations",
+        "2. Look for an option to install a windeco from disk"
+    ],
+    "332868": [
+        "1. activate menu style \"In title bar button\"",
+        "2. work around 10 min within Kontact switching various pim-applications"
+    ],
+    "332926": [
+        "1. Start desktop effects.",
+        "2. ->Crash<-"
+    ],
+    "333012": [
+        "1. Enable \"Zoom\" and \"Track mouse\" effects. ",
+        "2. Configure the \"Zoom\" effect and select \"Disabled\" in \"Follow (or track) the mouse\" combo box.",
+        "3. \"Accept\"",
+        "4. Apply a zoom to the screen (using shortcut to \"zoom\" the scrreen) and activate \"Track mouse\" effect shortcut.",
+        "5. Move mouse pointer while \"Track mouse\" effect is on. "
+    ],
+    "333815": [
+        "1. Enable appmenu.",
+        "2. Open modal dialog for any application",
+        "3. Click on the appmenu of the disabled window."
+    ],
+    "334330": [
+        "1. Turn on laptop.",
+        "2. Boot Mageia 3",
+        "3. Log in."
+    ],
+    "334391": [
+        "1. open systemsettings",
+        "2. go to Desktop effect > all effects > blur",
+        "3. on the Blur settings untick the \"save intermediate rendering results\" option.",
+        "4. notice the blur on any transparent panel, widget, ..., etc."
+    ],
+    "334588": [
+        "1. Go to System Settings -> Workspace Appearance -> Window Decoration",
+        "2. From \"Get new Decorations\" install: 'Simplicity' or 'Diamond' select it and hit apply",
+        "3. Log out and try to Log in again to your account"
+    ],
+    "334911": [
+        "1. Open systemsettings",
+        "2. Hover mouse over an item",
+        "3. Wait for tooltip to show, move away or to another item"
+    ],
+    "334942": [
+        "1. Use activities and put some windows on different ones",
+        "2. after some time (usually hours) right click on the title of a window and select Activities",
+        "3. kwin crashes"
+    ],
+    "334954": [
+        "1a. Drag from title bar or by holding the modifier key (Alt) and dragging anywhere.",
+        "1b. Resize by dragging from window edge or by holding the modifier key and pressing right mouse button."
+    ],
+    "335063": [
+        "1. Open any windows",
+        "2. Plug a new screen",
+        "3. Start Display Configuration (should start automatically)",
+        "4. Apply"
+    ],
+    "335187": [
+        "1. Press Alt+Tab",
+        "2. Wait till window is shown",
+        "3. Click outside the window"
+    ],
+    "335246": [
+        "1. Switch to the thumbnail effect for alt+tab ",
+        "2. Close all windows and launch one application",
+        "3. press alt+tab"
+    ],
+    "335271": [
+        "1. Open 'kcmshell5 desktop'",
+        "2. Select another \"Desktop Effect Animation\" under \"Switching\" tab than the default \"Slide\"",
+        "3. Click \"Apply\"",
+        "4. Switch to another desktop"
+    ],
+    "335272": [
+        "1. Make sure desktop change OSD is enabled in 'desktop' KCM",
+        "2. Move mousepointer to 2nd screen in a multi-screen setup",
+        "3. Switch desktops"
+    ],
+    "335337": [
+        "1. Visit a page in Google Chrome or Mozilla Firefox, then maxime it's window",
+        "2. Click the \"K\" menu to get browser window painted in black",
+        "3. Use ALT+TAB to restore the browser window contents ; however that would not succeed 100% of the times you do ALT+TAB"
+    ],
+    "335741": [
+        "1. Open several documents in LibreOffice, including .docx, .odt and .odp.",
+        "2. Try and toggle between them with \"walk thourgh windows of current application\" keyboard shortcut"
+    ],
+    "335770": [
+        "1. Open some window",
+        "2. Click on Kickoff icon",
+        "3. Click on Kickoff icon again to close it"
+    ],
+    "335926": [
+        "1. xrandr --output VGA1 --above LVDS1",
+        "2. Freeze"
+    ],
+    "336014": [
+        "1. Configure a twinview Xscreen with dual monitors",
+        "2. Create a panel at the TOP of a monitor. ",
+        "3. Offset one of the monitors in the Xscreen such that the Panel is not technically at the \"top\" bounding of the Xscreen, rather, is just bound to the top edge of the monitor within the larger Xscreen.",
+        "4. Open a window. (Dolphin, KCalc, etc)",
+        "5. Be frustrated"
+    ],
+    "336204": [
+        "1. Open Firefox or Thunderbird",
+        "2. Click on the menu button in the decoration",
+        "3. Click outside of the menu to close it",
+        "4. Try to perform some action, i.e. use right click to open the context menu"
+    ],
+    "336342": [
+        "1. Have any issue set OpenGLIsUnsafe in kwinrc",
+        "2. Access the KCM",
+        "3. Click the button to re-enable compositing"
+    ],
+    "336589": [
+        "1. Install xf86-video-intel 2.99.912",
+        "2. Download http://rghost.ru/56512098. This is 60 fps video",
+        "3. mplayer -vo gl output.mp4 or mpv --vo opengl output.mp4",
+        "4. Watch video in windowed mode. It should play very smooth",
+        "5. Run mplayer/mpv again. Press \"f\" to go fullscreen"
+    ],
+    "336787": [
+        "1. login",
+        "2. kwin crashes"
+    ],
+    "336866": [
+        "1. Run plasmashell",
+        "2. Enable scalein",
+        "4. Open a Plasma popup (eg. kickoff menu)"
+    ],
+    "336909": [
+        "1. Open a few windows",
+        "2. Minimize them with \"Show Desktop\"",
+        "3. Start a new application"
+    ],
+    "337398": [
+        "1. zoom with \"meta+=\"",
+        "2. move cursor over a task in the task manager"
+    ],
+    "338972": [
+        "1. Enable System Settings > Desktop Behaviour > Desktop Effects > \"Desktop Cube Animation\"",
+        "2. Change System Settings > Desktop Behaviour > Screen Edges > \"Switch Desktop on Edge\" to \"Always Enabled\"",
+        "3. Make sure there is more than one virtual desktop",
+        "4. Move a window to another virtual desktop by dragging it."
+    ],
+    "339030": [
+        "1. Enable Desktop Effects.",
+        "2. Click suspend to RAM.",
+        "3. Attempt to wake the computer from sleep."
+    ],
+    "339235": [
+        "1. Login",
+        "2. Start and login to skype",
+        "3. Close skype contacts window"
+    ],
+    "339434": [
+        "1. Use i.e. the left, bottom screen corner to invoke present windows",
+        "2. Start a game in dota",
+        "3. Try to move the camera diagonally (left, bottom)",
+        "4. The camera will not move diagonally"
+    ],
+    "339621": [
+        "1. Create a csv file, save it somewhere in the filesystem, close it",
+        "2. Open Libreoffice writer window, minimise it",
+        "3. Using a file browser, open the saved csv file "
+    ],
+    "339660": [
+        "1. Make two keyboards connected to your PC.",
+        "2. Assing some action to shortcut CTRL+1.",
+        "3. Press CTRL+1 from the keyboard which has not been used."
+    ],
+    "340116": [
+        "1. Set the wheel event to something like \"Change opacity\"",
+        "2. Click apply",
+        "3. Attempt to use the mouse wheel to trigger the opacity change"
+    ],
+    "340166": [
+        "1. Set the no titlebar option in the Windows Rules.",
+        "2. Windows have no borders."
+    ],
+    "340497": [
+        "1. Enable the Slide desktop switching effect under System Settings -> Desktop Effect -> General.",
+        "2. Start an application in fullscreen mode (Okular, Konsole, ...).",
+        "3. Switch to or from the desktop with the full screen application."
+    ],
+    "340594": [
+        "1. create window rule for \"konsole\":",
+        "2. run \"konsole\" and (for example) \"kwrite\", \"google-chrome\";",
+        "3. press Alt+Tab some times to switch to \"google-chrome\";",
+        "4. press \"Meta + `\" to switch to 'konsole\";",
+        "5. press Alt+Tab one time."
+    ],
+    "340597": [
+        "1. Boot system",
+        "2. Log into plasma"
+    ],
+    "340600": [
+        "1. Have some window (say Konsole)",
+        "2. Go to \"Windows behavior - > Rules for windows\" (or something like that in ksystemsettings)",
+        "3. Put in description and Window class (or let it be detected)",
+        "4. Go to Size and Position",
+        "5. Select Vertically/Horizontally maximized - forced",
+        "6. Apply rule"
+    ],
+    "340660": [
+        "1.Put panel vertically on the right hand side of the left screen of a two screen setup",
+        "2. Maximize a Window on the left screen, on which the panel is.",
+        "3. Recognize that the maximized window goes below the panel, being maximized to the full"
+    ],
+    "340878": [
+        "1. Set your panel to autohide;",
+        "2. Make it appear and disappear."
+    ],
+    "340960": [
+        "1.Try to build kwin with -DKWIN_BUILD_SCREENEDGES=OFF option",
+        "2.wait"
+    ],
+    "340961": [
+        "1.build kwin with -DKWIN_BUILD_ACTIVITIES=OFF",
+        "2.wait"
+    ],
+    "341014": [
+        "1. Build kwin with the following dependencies: extra-cmake-modules, attica, kwindowsystem, kconfig, kcoreaddons, kcrash, kglobalaccel, ki18n, kwidgetsaddons, kdbusaddons, karchive, kdoctools, kservice, kauth, kcodecs, kguiaddons, kconfigwidgets, kitemviews, kiconthemes, knotifications, kjobwidgets, kwallet, solid, sonnet, kcompletion, ktextwidgets, kxmlgui, kbookmarks, kio, kinit, kdeclarative, kcmutils, kactivities, plasma-framework, frameworkintegration, knewstuff",
+        "2. After the build succeeds, run kwin."
+    ],
+    "341117": [
+        "1. Create two overlapping windows (konsole)",
+        "2a. Repeatedly clicking inside the current inactive window focuses and raises it.",
+        "2b. Repeatedly clicking the titlebar of the current inactive window focuses and raises it until about 3 clicks in (depending on what was focused when you started and how many clicks it took you to overlap the windows)."
+    ],
+    "341148": [
+        "1. (optional) Press Shift+Alt+F12 to disable compositing.",
+        "2. (optional) run 'xinput list' between other xinput commands to see what changed.",
+        "3. (optional) Plug in a second mouse (serial if you know your way around inputattach, or PS/2 or USB)",
+        "4. (optional) Also another keyboard, if you have the second mouse (having two keyboards with one mouse makes it hard to focus one of the pointers - if the keyboards aren't attached to the same one)",
+        "5. xinput create-master \"Virtual core 2\"",
+        "6. (optional) xinput reattach \"pointer:Logitech USB Receiver\" \"Virtual core 2 pointer\" (use the actual name of your mouse or the id - you only need 'pointer:' if there's a keyboard with the same name, and you need to use the id if there are two mice with the same name)",
+        "7. (optional) xinput reattach 9 \"Virtual core 2 keyboard\" (again, use your exact id or name)",
+        "8. Re-enable compositing.",
+        "9. (optional) System Settings\u2192Desktop Effects\u2192Show Paint - this helps with measuring how much it flickers"
+    ],
+    "341336": [
+        "1. Start some windows",
+        "2. Distribute them around your workspaces",
+        "3. Log out and log back in"
+    ],
+    "341475": [
+        "1. Enable blur/background constrast effect",
+        "2. Having a plasma panel which can trigger those effects.",
+        "3. use zoom effect to scale the desktop"
+    ],
+    "341675": [
+        "1. Add BorderlessMaximizedWindows=true to the [Windows] section of your ~/.config/kwinrc",
+        "2. Restart kwin_x11",
+        "3. Maximize any window"
+    ],
+    "341715": [
+        "1. Run kwin git master",
+        "2. Maximize or restore a window"
+    ],
+    "341908": [
+        "1. Apply a theme different from Oxygen",
+        "2. Right click on a window titlebar",
+        "3. Verify there's no \"attach as tab\" options available"
+    ],
+    "341930": [
+        "1. Place some applications on various Activities and Desktops",
+        "2. Logout or Restart",
+        "3. Login in the same session as in 1"
+    ],
+    "342083": [
+        "1. Open the \"Desktop effects\" settings panel",
+        "2. Try and drag the scrollbar cursor up and down",
+        "3. Now, try and drag the panel contents up and down"
+    ],
+    "342085": [
+        "1. Right click a task entry, select Minimize",
+        "2. Repeat 1."
+    ],
+    "342121": [
+        "1. Enable shuttered windows",
+        "2. Shutter up some dolphin windows ",
+        "3. Add a screen during the session"
+    ],
+    "342757": [
+        "1. Open e.g. konsole",
+        "2. Disable compositing"
+    ],
+    "342758": [
+        "1. Use breeze window decoration",
+        "2. Enable XRender compositing"
+    ],
+    "342868": [
+        "1. Start several applications in different windows",
+        "2. Switch between the windows noting the most recently used",
+        "3. They will not be in a consistent order of most recently used"
+    ],
+    "342881": [
+        "1. Run a fullscreen program",
+        "2. quit or alt tab to desktop"
+    ],
+    "342893": [
+        "1. Install libinput-0.8.0",
+        "2. Try to compile KWin-5.1.95"
+    ],
+    "343040": [
+        "1. try to zoom with the zoom plugin",
+        "2. see that nothing is happening",
+        "3. report a duplicate of this bug :) maybe it is a duplicate of some other already."
+    ],
+    "343299": [
+        "1. Go to System Settings -> Application Style (it will give you a preview of window decorations)",
+        "2. Switch away to Widget Style or Gnome Application Style",
+        "3. Switch back to Window Decorations"
+    ],
+    "343319": [
+        "1. Place window0 above window1 and keep the cursor above them both. Window0 now has focus.",
+        "2. Bind a key to e.g., \"quick tile right\", and activate it so that window0 is moved away from under the cursor."
+    ],
+    "343430": [
+        "1. Open Android Studio / IntellIJ IDEA / any application written in Java and type some text",
+        "2. Click on a different window (e.g. Konsole/Chrome)",
+        "3. Start typing text again"
+    ],
+    "343431": [
+        "1. Dual screen with Display configuration having monitors display desktop side-by-side (default)",
+        "2. Set Task Switcher to use \"Screens\" and \"current screen\".",
+        "3. Open some various windows on either monitor",
+        "4. Focus on app on either monitor and then use the alt+tab switcher"
+    ],
+    "343455": [
+        "1. change animation speed to instant or almost instant",
+        "2. open a plasma menu, start, whatever in quick succession ",
+        "3. the shadow border will stay there although the window was dismissed"
+    ],
+    "343480": [
+        "1. Open Ruby Mine",
+        "2. Try to switch to another application (e.g. dolphin, amarok, google chrome, etc)",
+        "3. You can use any way: Alt+TAB, taskbar, or click by mouse on another application's window explicitly",
+        "4. One time it switches normally and passes the focus, another -- RM holds the focus even though you just clicked on another window."
+    ],
+    "343501": [
+        "1. Install plasma 5.2",
+        "2. Run Kodi"
+    ],
+    "343691": [
+        "1. Maximize window",
+        "2. De-maximize the window",
+        "3. Repeat 1. and 2. and observer the window size."
+    ],
+    "343843": [
+        "1. Open some programs",
+        "2. Move them to different virtual workspaces",
+        "3. Restart Plasma 5"
+    ],
+    "343958": [
+        "1. Connect an external display",
+        "2. Switch output only to external display",
+        "3. Switch between the apps"
+    ],
+    "344343": [
+        "1. Login",
+        "2. Start some programs",
+        "3. Wait few minutes",
+        "4. Try to move window"
+    ],
+    "344470": [
+        "1.Use desktop for a while (till sound quits working)",
+        "2. Run fuser -v /dev/snd/*"
+    ],
+    "344508": [
+        "1. Assign Zoom effect to Meta+Plus",
+        "2. Assign another shortcut to Meta+Shift+Plus",
+        "3. Press Meta+Shift+Plus"
+    ],
+    "344671": [
+        "1.Konqueror open on screen 1.  Konsole open on screen 0.",
+        "2.Click \"Help->About Konsole\" then close \"About Konsole\" window.",
+        "3.Konqueror on screen 1 frequently gets focus instead of Konsole main window."
+    ],
+    "344856": [
+        "1. run konsole, move window",
+        "2.logout",
+        "3.login"
+    ],
+    "344864": [
+        "1. Set your TV at 23.976hz",
+        "2. Play a 23.976fps movie"
+    ],
+    "345159": [
+        "1. Trigger present windows through a screen corner",
+        "2. Trigger that same screen corner again"
+    ],
+    "345495": [
+        "1. set shortcut in systemsettings",
+        "2. press meta shift tab"
+    ],
+    "345499": [
+        "1.Setup three monitors side by side with the middle one slightly lower than the others (i.e. 0x0, 1920x10, 3840x0)",
+        "2.Drag window to middle top of the middle screen.",
+        "3.It doesn't resize to full screen."
+    ],
+    "345511": [
+        "1. play a video",
+        "2. zoom the window to very large size , say 3840x2160 ( actully very normal size on 2160p screens)",
+        "3. toogle the compositing"
+    ],
+    "345634": [
+        "1. Create panel with autohide enabled",
+        "2. In fullscreen DOTA 2, in game move mouse to left side of the screen"
+    ],
+    "345809": [
+        "1. Connect/disconnect external monitor to cause kwin to switch displays",
+        "2. Keep hitting switch-windows shortcut (Meta+Tab in my case) a couple of times."
+    ],
+    "346116": [
+        "1. Do some some stuff.",
+        "2. Switch window from time to time",
+        "3. Do more of that.",
+        "4. If you are lucky whole screen will freeze."
+    ],
+    "346235": [
+        "1. Open Display dialog (kscreen)",
+        "2. Change resolution",
+        "3. Apply"
+    ],
+    "346268": [
+        "1. Connect two external screens or with a laptop one external screen.",
+        "2. Enable both of them in KScreen, extending the desktop.",
+        "3. Enable Window Aperture if not enabled.",
+        "4. Use the Show Desktop action."
+    ],
+    "346275": [
+        "1. Fire up OpenGL composited kwin",
+        "2. Enable vsync"
+    ],
+    "346282": [
+        "1. Ensure XRender is installed",
+        "2. Ensure Mesa, or other OpenGL is not installed",
+        "3. Compile KDELibs without OpenGL support",
+        "4. Compile KWin without OpenGL support"
+    ],
+    "346396": [
+        "1. Tile window by dragging to screen edge",
+        "2. Open new window of same application"
+    ],
+    "346437": [
+        "1. Move mouse over icon-onlytaskmanger",
+        "2. Let the preview of windows come up (bit choppy on my computer)",
+        "3. Behold squares"
+    ],
+    "346442": [
+        "1. Have Fade and Glide Activated in compositing effects.",
+        "2. Open a window",
+        "3. Close the window and look carefully where the window was."
+    ],
+    "346764": [
+        "1. Open any application in fullscreen",
+        "2. Move the mouse pointer above the window title bar",
+        "3. Mouse pointer disappears"
+    ],
+    "346789": [
+        "1. Open Krunner of click at any plasma widget, which would open a plasma popup",
+        "2. Close it"
+    ],
+    "347111": [
+        "1. Create file ~/.config/kwinrulesrc.lock.",
+        "2. Open a window (application) for which there is a rule set in ~/.config/kwinrulesrc."
+    ],
+    "347176": [
+        "1. Install a script with a configuration menu",
+        "2. Open it in the kcm"
+    ],
+    "347425": [
+        "1. Open an application in windowed mode. E.g. kate or Firefox.",
+        "2. Resize the window with mouse. Or maximize/unmaximize it by clicking on the button in the window decoration.",
+        "3. Repeat step 2 multiple times."
+    ],
+    "347466": [
+        "1. Open some apps and trigger action \"Show desktop\"",
+        "2. You should see in probably in upper right corner some fragments of those apps due to new effect",
+        "3. Right click on desktop when in  \"Show desktop\" mode",
+        "4. Pick from context menu \"Lock screen\"",
+        "5. When screen is locked we can see those apps fragments in upper right corner"
+    ],
+    "347490": [
+        "1. Open Kate",
+        "2. Trigger the file dialog, for example for opening a file"
+    ],
+    "347658": [
+        "1. enable kwin",
+        "2. GLX backend + any openGL version",
+        "3. vsync: anything except \"never\""
+    ],
+    "347693": [
+        "1. Use the attached .kde folder as your .kde folder (back yours up first)",
+        "2. Restart your desktop service or reboot",
+        "3. Log in, your desktop should be hung."
+    ],
+    "347818": [
+        "1. start any wine program (for example, foobar2000)",
+        "2. make it open any dialog (for example, load some music files with foobar2000)"
+    ],
+    "347975": [
+        "1. Open a window in activity B",
+        "2. Change to activity A",
+        "3. Zoom out into \"desktop grid\" mode",
+        "4. Left click on the place on the desktop grid where B's window would be."
+    ],
+    "348034": [
+        "1. Focus follows mouse",
+        "2. Start IDEA and a second window",
+        "3. Alternate mouse position between both windows"
+    ],
+    "348121": [
+        "1. Connect a second monitor",
+        "2. Drag a (non-maximized) window by its titlebar to the top of the second monitor"
+    ],
+    "348127": [
+        "1. Install NetBeans (https://netbeans.org/downloads/) or RubyMine [30 Day Trial] (https://www.jetbrains.com/ruby/download/)",
+        "2. Run NetBeans or RubyMine",
+        "3. Move to another desktop",
+        "4. Switch back to the desktop running NetBeans or RubyMine"
+    ],
+    "348218": [
+        "1. suspend to RAM (sleep)",
+        "2. wake up after ~1h"
+    ],
+    "348302": [
+        "1. Switch rendering backend",
+        "2. Hit apply"
+    ],
+    "348460": [
+        "1. Put monitor to sleep",
+        "2. Wake PC up",
+        "3. Monitor rendering goes crazy, unviewable"
+    ],
+    "348472": [
+        "1. right click on a windows bar,",
+        "2. \"More Actions\",",
+        "3. \"Special Windows Settings\" or \"Special Application Settings\""
+    ],
+    "348566": [
+        "1. Right click on title bar of a window like Konsole.",
+        "2. Select more actions, then 'Windows shortcuts'",
+        "3. Set a shortcut",
+        "4. Reboot, open window, view shortcut."
+    ],
+    "348577": [
+        "1. Set KWin rendering backend to OpenGL (2.0 or 3.1), not XRender.",
+        "2. Trigger Desktop Grid with Ctrl-F8.",
+        "3. It doesn't happen when the Desktop Grid is toggled the first time after restarting kwin, so close it and trigger it once more."
+    ],
+    "348640": [
+        "1. open a window",
+        "2. quick tile the window",
+        "3. resize the window by dragging an edge"
+    ],
+    "348643": [
+        "1. press alt-tab ",
+        "2. press alt-tab again"
+    ],
+    "348753": [
+        "1.Logout",
+        "2.Enter Password",
+        "3.Log Back In"
+    ],
+    "348906": [
+        "1. match a window by any of the available methods",
+        "2. start the program"
+    ],
+    "348935": [
+        "1. Open 2 or more instances of the same application (kate, dolphin, whatever...)",
+        "2. Hitting Alt + ` will cycle around the same application windows",
+        "3. Hit Ctrl + L to lock your session",
+        "4. Unlock your session",
+        "5. Hit Alt + `"
+    ],
+    "348963": [
+        "1. Right click on icon, select More Actions",
+        "2. Select Special Window Settings",
+        "3. Crash"
+    ],
+    "349020": [
+        "1. Click on the Help on a window",
+        "2. Find the About Kde option ",
+        "3. Click on it "
+    ],
+    "349023": [
+        "1. Click left upper corner/app icon in window title",
+        "2. click \"weitere Aktionen\" (more settings)",
+        "3. click special settings"
+    ],
+    "349123": [
+        "1. Connect a second monitor",
+        "2. Open a window on the first display and maximize it.",
+        "3. Disconnect the second monitor"
+    ],
+    "349135": [
+        "1. Open two activities, put some windows here and there.",
+        "2. Log off",
+        "3. Log on again"
+    ],
+    "349210": [
+        "1. Suspend to RAM my PC",
+        "2. Wake up from suspend"
+    ],
+    "349361": [
+        "1. \"System preferences, Task switcher\"  select \"Wheel selector\" and apply",
+        "2. Alt+Tab"
+    ],
+    "349406": [
+        "1. Right clicking a window titlebar.",
+        "2. Select More Actions > Special Application Settings... or More Actions > Special Window Settings..."
+    ],
+    "349702": [
+        "1. Boot a laptop with a connected external keyboard",
+        "2. Start kwin",
+        "3. Detach external keyboard",
+        "4. Launch \"present windows\"",
+        "5. Attempt to filter/navigate using the laptop keyboard"
+    ],
+    "349935": [
+        "1.Open the system tray's battery info",
+        "2.Click on the gear icon near \"activate power management\"",
+        "3.Maximize the window"
+    ],
+    "350391": [
+        "1. Put your PC to sleep using Application Launcher >> Leave >> Sleep (I've not tried other methods.)",
+        "2. After a while, get your PC to wake up from sleep."
+    ],
+    "350545": [
+        "1.Install simplicity transclucent from 'Get new themes' button",
+        "2.If not already opened open window decorations selection"
+    ],
+    "350821": [
+        "1. Compile the code posted in ticket #90944.",
+        "2. Run it.",
+        "3. Watch KWin crash and hang up the desktop."
+    ],
+    "351044": [
+        "1. Terminal: kwin_x11 --replace",
+        "2. Grab Terminal-Window and move to egde of screen to switch workspace"
+    ],
+    "351161": [
+        "1. Open an application (like Konsole, or Knoqueror), but not in maximized mode. ",
+        "2. Shade the window. In some applications you will notice that the window is re-sized. ",
+        "3. \"Unshade\" the window. The Window now, has a different than the origianal size, usually a minimal one."
+    ],
+    "351200": [
+        "1. Switch from GLX to EGL",
+        "2. Start PlaneShift",
+        "3. Login in with an account"
+    ],
+    "351350": [
+        "1. Open several windows",
+        "2. Alt+Tab"
+    ],
+    "351825": [
+        "1. Configure the shortcut in \"Global Keyboard Shortcuts\"",
+        "2. Press the configured key combination"
+    ],
+    "351869": [
+        "1. Make sure you have two windows open on one of the virtual desktops.",
+        "2. Activate Desktop Grid effect",
+        "3. Click on the first window to exit the effect and return to window and desktop",
+        "4. Activate Desktop Grid effect again",
+        "5. Click on the other window that is open on the desktop"
+    ],
+    "351984": [
+        "1. Click the minimize button on a window ",
+        "2. Click its taskbar entry to bring it back"
+    ],
+    "352185": [
+        "1. Openeither firefox or kwrite",
+        "2. Tiling to left half of screen.",
+        "3. Maximize the window",
+        "4. create a new window with ctrl + N"
+    ],
+    "352427": [
+        "1. Use EGL for compositing",
+        "2. Open Chrome or Launcher",
+        "3. Browser through bookmarks menu or applications"
+    ],
+    "352483": [
+        "1. install script",
+        "2. enable script",
+        "3. start krita (or maximize any window really)"
+    ],
+    "352680": [
+        "1. write a kwin effect for kwin/5, w/o specifying X-Plasma-API=javascript",
+        "2. install it",
+        "3. open the kcm desktop and check if your effect is shown in that dialog"
+    ],
+    "352744": [
+        "1. quick-tile a window on the non-primary screen at the upper edge by holding the left mouse button and moving it to the upper edge",
+        "2.The area where the window should be after tiling gets greyed out",
+        "3.release the mouse button"
+    ],
+    "352960": [
+        "1. Have compositing enabled",
+        "2.Open Gnome Files (Nautilus)"
+    ],
+    "353154": [
+        "1. Right click on window title bar.",
+        "2. More actions->Special *"
+    ],
+    "353167": [
+        "1. Have two monitors",
+        "2. Drag any window to the second monitor",
+        "3. Try to maximize it by dragging to the upper edge and letting go"
+    ],
+    "353428": [
+        "1.  Login to system.",
+        "2. Do something with a window or have a second call like a pop-up and the desktop crashes."
+    ],
+    "353745": [
+        "1.Enable effect slide back",
+        "2.Minimize window",
+        "3.Restore it",
+        "4. Click in other, no effect is triggered"
+    ],
+    "353954": [
+        "1. Open a window",
+        "2. Right click the titlebar, the context window shows up ",
+        "3. Click anywhere else ; the popup does not disappear"
+    ],
+    "354090": [
+        "1. Open Kicker menu",
+        "2. Navigate to some app",
+        "3. Open context menu -> Edit Application",
+        "4. Close the opened dialog",
+        "5. Switch to other virtual desktop"
+    ],
+    "354115": [
+        "1. Lock the session",
+        "2. Turn of the monitors",
+        "3. Let the system sit idle for some hours",
+        "4. Unlock the session"
+    ],
+    "354390": [
+        "1. Right click on title bar and see Operations Menu (Minimize, Maximize, More Actions, etc).",
+        "2. Left/right click on window area or on title bar again."
+    ],
+    "354407": [
+        "1. Create a panel or simply select the default panel.",
+        "2. Unlock widgets. Go to 'More Settings' and set 'Visibility' to 'Auto Hide'.",
+        "3. Move the cursor near the edge of the screen to make the panel appear and disappear."
+    ],
+    "354572": [
+        "1. Install Kubuntu 15.10 and install all available updates (as of 2015-10-29)",
+        "2. Create custom keyboard shortcut to launch Konsole: System Settings -> Shortcuts -> Custom Shortcuts -> New -> Global Shortcut -> Command/URL",
+        "3. Assign meta-T as the key combination, \"konsole\" as the command",
+        "4. Apply changes, verify that System Settings window still has focus",
+        "5. Press meta-T, verify that Konsole is launched"
+    ],
+    "354702": [
+        "1. Select the Breeze desktop theme",
+        "2. Select the Plastik window decoration",
+        "3. Maximize/restore a window",
+        "4. Toggle the all desktops/current desktop button"
+    ],
+    "354878": [
+        "1.  Open the VLC player and make sure, you have disabled the option \"Integrate video in interface\"  in the preferences of VLC.",
+        "2.  Play any kind of video.",
+        "3. Close the video window with a klick on the x-button in the kwin title bar.",
+        "4. Kwin crashes immediate. VLC is still alive and working.",
+        "5. Go to a console (ctrl+alt+F2) and kill all instances of Kwin with \"kill -9 ...\". Kill without the option \"-9\" does not terminate Kwin.",
+        "6. Change back to X and plasmaoidshell (ctrl+alt+F1)",
+        "7. alt+F2",
+        "8. start kwin again.",
+        "9. go back to step #1  ;-)"
+    ],
+    "354890": [
+        "1. Disable the tabbox effect at System Settings -> Window Management -> Task Switcher. Alternatively, you can enable one of the effects that still involve the highlight effect (\"Thumbnails\", \"Text only\", \"Informative\", etc.).",
+        "2. Have a few open windows on the desktop. Some maximized, others not maximized at different positions and sizes.",
+        "3. Press Alt+Tab and hold Alt. Keep pressing Tab to switch between windows and look at the inactive half-transparent windows."
+    ],
+    "355330": [
+        "1. Install Plasma 5",
+        "2. Enable desktop effects Compositor preferences.",
+        "3. Reboot",
+        "4. Observe desktop effects working, such as in fading menus or how windows face and move around when they're minimized",
+        "5. Press Alt+Shift+F12",
+        "6. Observe desktop effects have stopped working",
+        "7. Press Alt+Shift+F12",
+        "8. Observe"
+    ],
+    "355333": [
+        "1. Disable vsync",
+        "2. Open anything from the panel that has a shadow",
+        "3. Close it"
+    ],
+    "355448": [
+        "1. Reboot after updates 11/16/15",
+        "2. Plasma 5 loads very slowly",
+        "3. Applications are barely usable as they take are slow to open and text input (even in this form) gets halted."
+    ],
+    "355539": [
+        "1. Hit Ctrl+Alt+Del to show logout dialog",
+        "2. Zoom in using whole desktop zoom"
+    ],
+    "355647": [
+        "1.Apply this color scheme: http://netrunnerlinux.com/plasma5/Carbon.colors",
+        "2.Set breeze window decoration",
+        "3.Configure shadow to 60%"
+    ],
+    "356028": [
+        "1. Open a window with title bar",
+        "2. Right-click title bar",
+        "3. Click outside the menu that appears"
+    ],
+    "356060": [
+        "1. Connect second display",
+        "2. Open any Qt4 application (e.g. krusader)",
+        "3. Open any menu"
+    ],
+    "356381": [
+        "1.Trigger eye On Screen effect",
+        "2.Trigger eye On Screen effect again while earlier animation of \"eye on screen\" is still running"
+    ],
+    "356480": [
+        "1.login plasma",
+        "2.show desktop",
+        "3.open a few applications"
+    ],
+    "356515": [
+        "1. minimize all applications so that the desktop background is shown",
+        "2. click to klipper, power, network or any other plasmoid in the tray",
+        "3. close plasmoid by click on that plasmoid symbol again"
+    ],
+    "356574": [
+        "1. Set the panel to \"Auto Hide\"",
+        "2. Go to System Settings -> Desktop Behavior -> Screen Edges and change\"Switch desktop on edge\"  to \"Always enabled\"",
+        "3. move the cursor to the edge where the panel is supposed to show up"
+    ],
+    "357232": [
+        "1. open spectacle",
+        "2. select capture window under cursor",
+        "3. check \"include title bar and borders\"",
+        "4. tries to capture a large window, a maximized window will do and my screen resolution is 3200x1800"
+    ],
+    "357311": [
+        "1. Go to systemsettings, color",
+        "2. Change the window decorations to Plastik",
+        "2. Change the colorscheme"
+    ],
+    "357450": [
+        "1. Set the double-click titlebar action to maximise;",
+        "2. Drag a window by its titlebar to the very top (but don't let it maximise);",
+        "3. Double click the titlebar to maximise, pause a little, don't move the mouse;",
+        "4. Triple click;",
+        "5. Keep clicking."
+    ],
+    "357643": [
+        "1. Open systemsettings5, make sure the window is not maximized",
+        "2. Set the \"double click\" titlebar action in \"Window Actions and behavior\" is set to Maximize, click Apply.",
+        "3. Double-click on the systemsetting5's titlebar."
+    ],
+    "357669": [
+        "1. Open a window",
+        "2. Shade and unshade a few times",
+        "3. see the window lose height"
+    ],
+    "357692": [
+        "1. Enable the zoom desktop effect",
+        "2. Zoom in to 6x.",
+        "3. Move the cursor fast."
+    ],
+    "358187": [
+        "1. Enable de-neo2 keyboard layout",
+        "2. log in into plasma wayland session",
+        "3. test typing"
+    ],
+    "358884": [
+        "1. Use Triple head nvidia pc with xinerama enabled",
+        "2. login"
+    ],
+    "359064": [
+        "1. Login to plasma desktop",
+        "2. Start Thunderbird",
+        "3. Compose new mail or reply to existing mail."
+    ],
+    "359262": [
+        "1. Maximize a window",
+        "2. Right-click on the top decoration",
+        "3. Move pointer on the menu to display a submenu",
+        "4. Move pointer over the submenu "
+    ],
+    "359423": [
+        "1. Monitor 1 is left",
+        "2. Monitor 2 is right",
+        "3. Dragg a window on monitor 1 to the right side of monitor 1"
+    ],
+    "359473": [
+        "1. Login with multiple screens connected.",
+        "2. Open any two windows.",
+        "3. After opening of the second one, kwin_x11 service stops."
+    ],
+    "359668": [
+        "1. Use desktop grid (CTRL + F8)",
+        "2. Place the mouse on a window (or just have a maximized windows on the desktop you're selecting)",
+        "3. End desktop grid"
+    ],
+    "360218": [
+        "1. Minimize all windows",
+        "2. Lock screen"
+    ],
+    "360521": [
+        "1. Right click window decoration -> More Actions -> Custom settings for this program/window",
+        "2. Go to the third tab \"Geometry & Access\"",
+        "3. Check \"Shortcut\"",
+        "4. Chose any of the settings in the combobox (eg. \"Force\")",
+        "5. Click \"Edit\" button next to the text field",
+        "6. Click \"Simple Shortcut\" in the resulting dialog",
+        "7. Click the \"None\" button in the resulting dialog",
+        "8. Press a key combination",
+        "9. Click \"OK\""
+    ],
+    "360536": [
+        "1. Enable fall apart effect",
+        "2. Use task switcher such that its overlay is shown",
+        "3. Select a window"
+    ],
+    "360538": [
+        "1. Open \"Desktop Effects\" configuration",
+        "2. Make a change to the configuration",
+        "3. Hit apply",
+        "4. Try to edit the filter"
+    ],
+    "360550": [
+        "1. Open at least two windows",
+        "2. Use the task switcher to cicle through them"
+    ],
+    "360673": [
+        "1. Click Shutdown or Reboot in the Leave menu.",
+        "2. Wait."
+    ],
+    "361151": [
+        "1.Move the mouse first slowly and then fast.",
+        "2.You notice that the mouse goes faster when you move the mouse fast and goes slower when you do the opposite.",
+        "3.That is the problem right there."
+    ],
+    "361154": [
+        "1. Compositing on",
+        "2. Launch a fullscreen 3D/GL based game"
+    ],
+    "361231": [
+        "1. Start system with saved and opened Firefox session.",
+        "2. Open second window of other program (for example Dolphin).",
+        "1. Connect second monitor through HDMI.",
+        "2. Switch display to only second monitor.",
+        "3. After a while switch it back to only laptop display."
+    ],
+    "361294": [
+        "1. Go to Desktop Effects - System Settings",
+        "2. Change Compositing Type to OpenGL 2.0"
+    ],
+    "361296": [
+        "1. Click a file or system tray icon to move",
+        "2. Move the icon at any rate of speed",
+        "3. Remove finger from left-click button to end mouse input on the object being drug"
+    ],
+    "361480": [
+        "1. systemsettings > window management > titlebar actions > double-click: minimize > apply",
+        "2. doubleclick on the window titlebars of some apps"
+    ],
+    "361704": [
+        "1. Open an application window on external screen.",
+        "2. Hibernate.",
+        "3. Disconnect external screen",
+        "4. Resume"
+    ],
+    "361837": [
+        "1. Start the \"Left 4 Dead 2\" game from Plasma",
+        "2. Quit the game",
+        "3. Open any other window"
+    ],
+    "362120": [
+        "1) Open multiple windows",
+        "2) Press Alt-Tab to switch between windows"
+    ],
+    "362312": [
+        "1. Enable vsync",
+        "2. Do something that might induce tearing like playing a game, scrolling, or dragging a window around the screen"
+    ],
+    "362501": [
+        "1. Open e.g. console window",
+        "2. Choose \"Shade\" from titlebar actions menu to reduce window",
+        "3. Choose \"Shade\" again to restore window"
+    ],
+    "362549": [
+        "1. Change \"Task Switcher\" shortcut to [Meta+Tab]",
+        "2. Press [Meta]",
+        "3. Press [Tab]",
+        "4. Wait for \"Task Switcher\" to appear.",
+        "5. Release [Tab]",
+        "6. Press [Tab]"
+    ],
+    "362770": [
+        "1. set BorderlessMaximizedWindows=true under [Window] and restart kwin.",
+        "2. Choose any third party or non-standard window decoration",
+        "3. On a non-maximized window, click the Maximize icon on the window"
+    ],
+    "362826": [
+        "1. Enable \"morphing popups\" effect, enabled by default",
+        "2. Start dragging a file",
+        "3. While still pressing the mouse button stop moving the mouse and start moving again"
+    ],
+    "362860": [
+        "1. Setup shade on titlebar wheel event",
+        "2. Align a window with top screen edge",
+        "3. Throw the mouse at the top edge and scroll"
+    ],
+    "363350": [
+        "1. Enable EGL compsiting",
+        "2. Highlight text in Firefox",
+        "3. Click somewhere on the page",
+        "4. Scroll"
+    ],
+    "363537": [
+        "1. Right-click on a layer",
+        "2. Click on Filter Mask...",
+        "3. The window appears"
+    ],
+    "363580": [
+        "1. You might have to make the corner where the Kickoff menu is located be a hot corner that activates the 'show all windows' function. Whether that's needed remains to be determined.",
+        "2. Jam the mouse into that corner."
+    ],
+    "363588": [
+        "1. Enable hotcorners",
+        "2. Put an application into fullscreen",
+        "3. Use a hotcorner"
+    ],
+    "363923": [
+        "1. Open a kdialog windows (by example, when you try to save a file from the browser, the dialog window to select the destination)",
+        "2. Close the dialog window.",
+        "3. Show the desktop (minimize all).",
+        "4. You can see the static image of the recently closed dialog window."
+    ],
+    "364199": [
+        "1. Have Plasma >=5",
+        "2. Have Background Contrast and/or Blur desktop animation enabled",
+        "3. Zoom in using kmag in fullscreen mode"
+    ],
+    "364483": [
+        "1. Enable Slide Back effect",
+        "2. Open two windows",
+        "3. Switch from one to the other"
+    ],
+    "364485": [
+        "1. Hover any item in the Plasma panel",
+        "2. Move the pointer to another panel item"
+    ],
+    "364607": [
+        "1. Set Breeze decoration to \"No Borders\"",
+        "2. Attempt to resize from the left, bottom, or right edges, or either bottom corner."
+    ],
+    "365591": [
+        "1. Login",
+        "2. Compositor won't start until you restart plasmashell"
+    ],
+    "365681": [
+        "1. Grab and drag a window either by the title bar or by Alt+Click.",
+        "2. Drag it to an edges of the display."
+    ],
+    "365685": [
+        "1. make a quick qt/qml app with \"Qt.WindowStaysOnBottomHint\" in it",
+        "1. open dolphin, tick \"keep below\" on it's titlebar",
+        "2. click somewhere on plasmashell, click back to application's titlebar",
+        "3. repeat..."
+    ],
+    "365780": [
+        "1a. Move a window with Alt key and mouse click.",
+        "1b. Move the mouse over some widget with a tooltip so that a pop-up appears."
+    ],
+    "365892": [
+        "1. Set panel to auto-hide.",
+        "2. Move windows toward the panel once it is hidden."
+    ],
+    "365918": [
+        "1. Switch to one of the two OpenGL backends.",
+        "2. Open one or a few new Dolphin windows, for example.",
+        "3. Move the cursor around on top of it."
+    ],
+    "366091": [
+        "1. Reboot the system.",
+        "2. Log in to KDE.",
+        "3. Logout and try to log in again."
+    ],
+    "366385": [
+        "1. boot the system (live usb/cd Kubuntu 16.04.1, freshly insalled Kubuntu 16.04.1, VM or may be your real system)",
+        "2. Press: Application Launcher - Applications - Settings -System Settings - Applications Style - Window Decorations - Select Plastic - Apply",
+        "3. Press: All Settings (the back button) - Input Devices - Touchpad - Joystic (or other tab, or back) - Discard",
+        "4. Close the System Settings window by clicking on the \"X\" close button",
+        "5. Do again: Application Launcher - Applications - Settings -System Settings - Input Devices - Touchpad - Joystic (or other tab, or back) => KWin  crash"
+    ],
+    "366434": [
+        "1.launch kcm",
+        "2.go to screen and compositing"
+    ],
+    "366603": [
+        "1. Restart your Plasma 5 environment. Just killing and restarting plasmashell does not make this issue visible. Better start with a freshly started environment form the login manager.",
+        "2. Open 2 applications",
+        "3. Press alt+tab",
+        "4. Nothing happens",
+        "5. Press alt+tab again",
+        "6. now it works :)"
+    ],
+    "366612": [
+        "1. Enable Mouse Click Animation Desktop Effect",
+        "2. Click and release left button while not moving the mouse ",
+        "3. Observe the lack of animation"
+    ],
+    "366692": [
+        "1. Press bounded keys to activate the effect",
+        "2. Don't move mouse pointer"
+    ],
+    "367554": [
+        "1. Launch some program.",
+        "2. Right-click on the window title bar and select More Actions->Special Window Settings",
+        "3. In the \"Size & Position Tab\", check \"Maximized vertically\"/\"Apply Now\"/\"Yes\" and hit OK.",
+        "4. Repeat Step 2.",
+        "5. Then in the \"Size & Position Tab\", check \"Maximized vertically\"/\"Apply Initially\"/\"Yes\" and hit OK.",
+        "6. Close the program, and then re-launch it."
+    ],
+    "367609": [
+        "1.add \"Show desktop\" widget to your panel",
+        "2.right click on your desktop, open \"Desktop settings\" (or\" Folder View Settings\", depending on the container being used)",
+        "3. click on \"Show desktop\" icon in your panel"
+    ],
+    "367961": [
+        "1. Open some windows",
+        "2. Click on each of them in circle then on the desktop and repeat"
+    ],
+    "368499": [
+        "1. Open panel options, \"more options\" and select \"Windows Can Cover\"",
+        "2. Open an arbitrary window and place it above the panel"
+    ],
+    "368547": [
+        "1. Have a bottom panel and konsole window open",
+        "2. Press F11 key (assigned to fullscreen in konsole)"
+    ],
+    "368902": [
+        "1. Move a non-maximized window such that the upper left corner reaches the top-left corner of your desktop",
+        "2. Set an action to the top-left hot corner",
+        "3. Try to use it"
+    ],
+    "369133": [
+        "1. Open display config dialogue",
+        "2. Drastically decrease your resolution",
+        "3. Try to increase resolution again; Good luck finding/hitting the apply button (alt + a will do, though)"
+    ],
+    "369213": [
+        "1. Turn on pc",
+        "2. Login the user in Plasma session",
+        "3. There is not transparency in the Desktop theme. Neither Panel or widgets, only a color solid. ",
+        "4. The compositor are initialised because the other effects work fine.",
+        "5. Run kwin_x11 --replace on Krunner (or console)",
+        "6. Transparency in panel returns."
+    ],
+    "370146": [
+        "1. start a program",
+        "2. Enter the windows rules (<alt><f3> -> More actions->Special settings for this window)",
+        "3.  4th Tab (Appearance and corrections) (Sorry, german KDE...english terms might not be completely correct) -> Enable \"Ignore Global shorctus\" and set to \"Force\"",
+        "4. Shortcut combinations with <meta> are blocked...meta itself for menu is not blocked and opens the menu."
+    ],
+    "370158": [
+        "1. Start a wayland session and configure multiple virtual desktops (perhaps this needs to be done in an X session)",
+        "2. Move to any of the \"non-primary\" desktops.",
+        "3. Invoke krunner"
+    ],
+    "370466": [
+        "1.Open setup windows",
+        "2.Open desktop behaviour",
+        "3.open dialog windows about cube effect (or any other dialog windows)",
+        "4.i setup and i push OK button",
+        "1.Open Firefox",
+        "2.open more table into firefox",
+        "3.close firefox",
+        "4.dialog windows appears, which ask me if i'm sure to close the tabs",
+        "5.i click YES button"
+    ],
+    "370542": [
+        "1. Bind win+j to select the next window via the task switcher system and remove the visualisation animation.",
+        "2. Bind win+k to select the next desktop.",
+        "3. Open two applications on your current desktop.",
+        "4. Hold win and hit j to move to the next application on your desktop.",
+        "5. While still holding win, hit k to move to the next desktop."
+    ],
+    "370982": [
+        "1. activate the setting BorderlessMaximizedWindows to true",
+        "2. Open a wayland session",
+        "3. Maximize a wayland window and a xwayland window"
+    ],
+    "371025": [
+        "1. sudo apt install libunity9",
+        "2. sudo dpkg -i google-chrome-stable_current_amd64.deb",
+        "3. start Chrome",
+        "4. maximize Chrome"
+    ],
+    "371480": [
+        "1. Compile and run any SDL2 program (LazyFoo's tutoral or my Ray Tracer will do the job)",
+        "2. Weird things described above starts to happen"
+    ],
+    "374554": [
+        "1. run kwayland/tests/dpmsTest",
+        "2. Select Off"
+    ]
+}

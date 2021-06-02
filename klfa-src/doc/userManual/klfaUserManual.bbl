@@ -1,0 +1,43 @@
+\begin{thebibliography}{{Sun}10b}
+
+\bibitem[CPMP07]{Cotroneo:LogFileAnalysis:SOQUA:2007}
+Domenico Cotroneo, Roberto Pietrantuono, Leonardo Mariani, and Fabrizio
+  Pastore.
+\newblock Investigation of failure causes in workload-driven reliability
+  testing.
+\newblock In {\em proceedings of the Fourth international workshop on Software
+  quality assurance}, pages 78--85. ACM, 2007.
+
+\bibitem[{Gla}]{GNetbeansCaseStudy:WEBSITE:2008}
+{Glassfish user forum}.
+\newblock Glassfish configuration issue.
+  http://forum.java.sun.com/thread.jspa?threadID=5249570, visited in 2010.
+
+\bibitem[MP07]{Mariani:COTS:IEEES:2007}
+L.~Mariani and M.~Pezz\`e.
+\newblock Dynamic detection of {COTS} components incompatibility.
+\newblock {\em {IEEE} Software}, 24(5):76--85, September/October 2007.
+
+\bibitem[MP08]{Mariani:ISSRE:2008}
+Leonardo Mariani and Fabrizio Pastore.
+\newblock Automated identification of failure causes in system logs.
+\newblock In {\em Proceedings of the 19th IEEE International Symposium on
+  Software Reliability Engineering (ISSRE'08)}, pages 117 -- 126, Washington,
+  DC, USA, 2008. IEEE Computer Society.
+
+\bibitem[{Sun}10a]{petstore}
+{Sun}, visited in 2010.
+\newblock Java PetStore. http://java.sun.com/developer/releases/petstore/.
+
+\bibitem[{Sun}10b]{ulf}
+{Sun}, visited in 2010.
+\newblock GlassFish v3 Application Server Administration Guide.
+  http://docs.sun.com/doc/820-4495.
+
+\bibitem[Vaa03]{VaarandiIPOM2003}
+R.~Vaarandi.
+\newblock A data clustering algorithm for mining patterns from event logs.
+\newblock In {\em Proceedings of the 3rd IEEE Workshop on IP Operations and
+  Management}, 2003.
+
+\end{thebibliography}

@@ -1,0 +1,13 @@
+#TeXlipse project settings
+#Thu Jul 29 19:52:38 CEST 2010
+builderNum=0
+outputDir=doc/userManual/
+makeIndSty=
+bibrefDir=
+outputFormat=dvi
+tempDir=doc/userManual
+mainTexFile=examples.tex
+outputFile=examples.dvi
+langSpell=
+markDer=true
+srcDir=doc/userManual/

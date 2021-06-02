@@ -1,0 +1,2705 @@
+{
+    "79919": [
+        "1. Switch off [ ] Cursor follows line breaks.",
+        "2. Open a new document.",
+        "3. Move the cursor to the right and watch the Col: field in the status line."
+    ],
+    "86981": [
+        "1. Set up settings as described above.",
+        "2. Reproduce the initial situation.",
+        "3. Hit Enter."
+    ],
+    "98453": [
+        "1. open any translated *.po file (saved in UTF8) with KWrite",
+        "2. Check the menu Tools > Encoding"
+    ],
+    "99383": [
+        "1. Open kate (make sure \"restore files\" is enabled).",
+        "2. Create some trash files.",
+        "3. Open them in kate.",
+        "4. Close kate.",
+        "5. Delete the files (or rename the directory).",
+        "6. Open kate again."
+    ],
+    "102107": [
+        "1. Have a document loaded that is not marked as modified.",
+        "2. Do a search and replace for which you certainly know it won't replace anything."
+    ],
+    "102378": [
+        "1. Have some documents open like A, B, and C, with B being the currently selected one.",
+        "2. Open the document list.",
+        "3. Right click on A. A is displayed as selected.",
+        "4. Select \"Close\""
+    ],
+    "130252": [
+        "1. Create a test file",
+        "2. Open \"test\" using kwrite or kate",
+        "3. Go to bottom and search(Ctrl+F) \"line\" with \"Find backwards\" option "
+    ],
+    "131604": [
+        "0. Ensure that option \"warn on change\" is *off*.",
+        "1. Open a new session",
+        "2. Enter something into the file and save it under \"a\"",
+        "3. Make a new file and save it under \"b\"",
+        "4. Touch \"a\" from outside.",
+        "5. Now \"a\" should be marked as externally changed in the document list."
+    ],
+    "141915": [
+        "1. Open kate (may you need to open in pa_IN.UTF-8 kate)",
+        "2. open attached txt file",
+        "3. for each given line, Please goto End of line, and see the position of cursor"
+    ],
+    "176609": [
+        "1. Open kwrite/kate",
+        "2. type (or copy/past) few lines",
+        "3.  Print as Hard copy"
+    ],
+    "178685": [
+        "1. Create a document that has the search term \"foo\" occurring on multiple lines",
+        "2. Use the 's' command for a search, by typing something like \":s/foo/bar\" and then hitting 'enter' while in vi normal mode.",
+        "3. Use either the 'n' or 'p' commands to attempt to navigate between the other occurrences of the search term."
+    ],
+    "200858": [
+        "1)open attached file crashme.js",
+        "2)put cursor on marked line",
+        "3)press ctrl+shift+minus",
+        "4)press up key"
+    ],
+    "202083": [
+        "1. Open kate/kwrite",
+        "2. Type abc in a new document",
+        "3. Click between \"a\" and \"b\" and, keeping pressed, do these:",
+        "3a. Move the cursor between \"b\" and \"c\" (the letter \"b\" will be selected)",
+        "3b. Move the cursor between \"a\" and \"b\" and release the button",
+        "4. Click between \"a\" and \"b\" and drag the cursor between \"b\" and \"c\""
+    ],
+    "202084": [
+        "1. Open Kate",
+        "2. Enable the Build Plugin under \u00abSettings\u00bb -> \u00abConfigure Kate\u00bb -> \u00abPlugins\u00bb",
+        "3. Click the Build Output in the bottom and make sure that in the Settings tab,",
+        "4. Run \u00abBuild\u00bb -> \u00abQuick Compile\u00bb from the top menu.",
+        "5. Go in the tab \u00abErrors and Warning\u00bb (in the Build Output section)"
+    ],
+    "202085": [
+        "1. Uninstall ctags, if you have it installed",
+        "2. Open kate and enable the CTags plugin under \u00abSettings\u00bb -> \u00abConfigure Kate\u00bb",
+        "3. Click the CTags button in the bottom of the kate window."
+    ],
+    "213112": [
+        "1. Define snippet:",
+        "2. Create new document",
+        "3. Insert the snippet defined in step 1.",
+        "4. Type 12345"
+    ],
+    "213602": [
+        "1.  Open attached file",
+        "2.  Expand all folds if necessary, then collapse at line 18",
+        "3.  Go to line 5",
+        "4.  Press Enter to insert a newline"
+    ],
+    "238657": [
+        "1. open kwrite",
+        "2. Ctrl+F",
+        "3. Click 'Options' drop down"
+    ],
+    "240262": [
+        "1. Open the document \"/usr/share/doc/kde/HTML/en/kwrite/index.docbook\".",
+        "2. Scroll the document so as to place #introduction at the top of the pane.",
+        "3. Press the collapse triangle."
+    ],
+    "240422": [
+        "1. Create a file (in a terminal, `touch /tmp/junk.txt`)",
+        "2. Edit it in Kate.",
+        "3. While editing, delete the file (in a terminal, `rm /tmp/junk.txt`)",
+        "4. Watch Kate's Documents tab"
+    ],
+    "240441": [
+        "1) Start kate",
+        "2) Relocate left sidbar buttons to bottom sidebar",
+        "3) Close kate",
+        "4) Start kate"
+    ],
+    "240444": [
+        "1) Start kate",
+        "2) Activate Tab Bar plugin",
+        "3) Close kate",
+        "4) Restart kate"
+    ],
+    "240447": [
+        "1) Start kate",
+        "2) Access the Settings Menu"
+    ],
+    "240775": [
+        "1) Settings...Configure Kate...Plugins...Check External Tools.",
+        "2) Settings...Configure Kate...External Tools...New...",
+        "3) Fill in any script, e.g. cd \"%directory\""
+    ],
+    "241085": [
+        "1. open kwrite",
+        "2. select ibus-rawcode/ or korean-korean input method from ibus preferences",
+        "3. type any character sequence with korean or with ibus-rawcode 0915",
+        "1. open kwrite",
+        "2. select ibus-rawcode/ or korean-korean input method from ibus preferences",
+        "3. type any character sequence with korean or with ibus-rawcode 0915"
+    ],
+    "241104": [
+        "1) Enable the AutoBrace plugin",
+        "2) Check the \"Auto brackets\" option",
+        "3) Type \"{<enter>\""
+    ],
+    "241994": [
+        "1. Set the shortcuts for the \"Insert Smart Newline\" action to \"None\";",
+        "2. Type Shift+Return."
+    ],
+    "242576": [
+        "1. Open the normal text styles configuration dialog",
+        "2. Unset the background for \"Alert\"",
+        "3. Press \"Apply\", close and re-open the configuration dialog"
+    ],
+    "242605": [
+        "1) Open or create a text file in kate that contain enough text to fill the whole screen.",
+        "2) Point your mouse cursor at the vertical scroll bar and turning the wheel on your mouse.",
+        "3) Observe the vertical scroll bar and the page."
+    ],
+    "243443": [
+        "1: Settings > Editor > Editing > Enabled static word wrap, wrap words at 80",
+        "2: Press Ctrl+D to start a comment.",
+        "3: Begin typing words so that the line reaches 80 chars and is wrapped.",
+        "4: Notice that the second line does not start with '% '."
+    ],
+    "243791": [
+        "1. open the attached file with kwrite",
+        "2. see syntaxhighlighting fail"
+    ],
+    "243972": [
+        "1. start kate",
+        "2. go to Settings -> Configure Kate -> Plugins",
+        "3. enable Tabify or any other tabs plugin",
+        "4. make sure, that tabs appeared above edit area",
+        "5. close kate",
+        "6. start again."
+    ],
+    "244284": [
+        "1. Open the attachment of Bug 240262.",
+        "2. Set the encoding to UTF-16.",
+        "3. Save the file somewhere else.",
+        "4. Compare to the original."
+    ],
+    "244867": [
+        "1. Open a sufficiently large text-file.",
+        "2. Place the mouse-cursor over the vertical scrollbar.",
+        "3. Try to scroll using the mouse-wheel."
+    ],
+    "245126": [
+        "1. Create a session",
+        "2. Open files file1 file2 file3 through SFTP",
+        "3. Close kate",
+        "4. Open the session in such a way that the files cannot be loaded, the files on the left will appear as \"Unknown\"",
+        "5. try opening file1 again with Ctrl+O. "
+    ],
+    "246699": [
+        "1. open a file in kate",
+        "2. select File",
+        "3. select Print",
+        "4. select Options>> from the Print Dialog Window",
+        "5. select Header & Footer Tab",
+        "6. enter the \"%P\" opcode in the Footer's center Format field, (could use any Format field)",
+        "7. select the Print button on the Print Dialog Window"
+    ],
+    "247057": [
+        "1. Open example txt file",
+        "2. Disable dynamic word wrap"
+    ],
+    "247986": [
+        "1 use the kate colors here: http://linux.derkeiler.com/Mailing-Lists/SuSE/2010-01/msg00631.html",
+        "2 open a python file. See how some parts have white background.",
+        "3 open settings > fonts and colors > highlighting text styles ",
+        "4 try to alter or unset the white background for the 'normal' color. it may look like it did change, but nothing happens on python files."
+    ],
+    "248467": [
+        "1.open kate",
+        "2.input some text",
+        "3.select some text",
+        "4.alt+tab switch to the other application",
+        "5.replication 4.",
+        "1. open kate",
+        "2. input some text",
+        "3. find some word existed",
+        "4. find one and press esc and then the selected text lost"
+    ],
+    "248558": [
+        "1. Open 2 documents",
+        "2. Mark a part of the text in first document",
+        "3. Switch to second document",
+        "4. Switch back to first document"
+    ],
+    "248634": [
+        "1- Add connection.",
+        "2- DataBase driver: QMYSQL",
+        "3- In the next step: - Hostname: localhost",
+        "4- Finally, you can input any connection name."
+    ],
+    "248752": [
+        "1. With a text file loaded that has enough content to fill the screen, select View-> Split View-> Split Horizontal.",
+        "2. In the top pane, conduct a search with the Find function (Edit-> Find).",
+        "3. Switch to the bottom pane by clicking in it."
+    ],
+    "249772": [
+        "1. select any words or lines in a document",
+        "2. click to switch to another opened document or another application",
+        "3. switch back to the document"
+    ],
+    "249898": [
+        "1. Open the attached bug.spec.",
+        "2. Disable automatic line break"
+    ],
+    "249913": [
+        "1) Open file with \"show code folding markers\" ticked.",
+        "2) Press \"Crtl+S\" or \"Alt+6\": markers are gone and all the code is unfolded.",
+        "3) Close and reopen the file: markers are back and usable again!"
+    ],
+    "250359": [
+        "1. Open a text file with multiple lines of content.",
+        "2. Press Ctrl-G or choose from the menu bar: Edit -> Go to Line...",
+        "3. Press the \"End\" key"
+    ],
+    "250658": [
+        "1. Set UTF-8 encoding as default in setting (Open/Save menu).",
+        "2. Open file with different encoding.",
+        "3. Save file."
+    ],
+    "252215": [
+        "1/ Open a document > select some text > open another one > switch back to the first document in the Documents tab > Previously selected text is deleted.",
+        "2/ Open a document > select some text > Open the Document tab > Close the Document tab > Previously selected text is deleted."
+    ],
+    "252319": [
+        "1. Open a file with UTF-8 BOM (did not try other encoding) that was not added by the session of Kate.",
+        "2. View the menu item of \"Tools->Add Byte Order Mark (BOM)\" and see if it's checked or not."
+    ],
+    "252412": [
+        "1. Open or create a new document that has more than a page of text.",
+        "2. Scroll down so the cursor is located above the last VISIBILE line (not necessarily the last absolute line of the document).",
+        "3. Type something."
+    ],
+    "252722": [
+        "1. Open Kate",
+        "2. Enable IBUS input method",
+        "3. Input Chinese character"
+    ],
+    "253963": [
+        "1) Open a document",
+        "2) Use Ctrl-F to open the Find tool",
+        "3) Enter a string in the Find field",
+        "4) Close the Find tool",
+        "5) Use F3 until you reach the end of the document",
+        "6) Use F3 another time to start the search from the beginning"
+    ],
+    "254048": [
+        "1. Open project",
+        "2. Select a line with a single '}' on it (the easiest way to reproduce for me)",
+        "3. Place the cursor after any characters (non wrapping cursor need to be selected)",
+        "4. Hold the Ctrl key and press right arrow"
+    ],
+    "256090": [
+        "1. Create a new document or open a text file",
+        "2. Highlight some text in the file",
+        "3. Open the command line and run moveLinesDown"
+    ],
+    "256134": [
+        "1. Open Kwrite",
+        "2. Types: Line 1<ENTER>Line 2",
+        "3. Save the file as \"demo.txt\""
+    ],
+    "256148": [
+        "1. Settings - Configure Kate - Application - Plugins - enable File Templates",
+        "2. Settings - Manage Templates - New - Next - choose 'Script\\Python' in the 'Highlight' option. Continue to finish the wizard.",
+        "3. Then take a look at the generated template file."
+    ],
+    "257467": [
+        "1. Press <ctrl>+<f> to search for a string.",
+        "2. With the match highlighted, press <esc>.",
+        "3. Highlighted string will delete."
+    ],
+    "257647": [
+        "1. enable tabbar extension",
+        "2. in its settings: set Style to \"Flat\""
+    ],
+    "257648": [
+        "1. enable tabbar extension",
+        "2. open its settigs dialog",
+        "3. click on the right side of the \"Opacity:\" slider to increase opacity"
+    ],
+    "257809": [
+        "1.) Start kwrite",
+        "2. Open the attached javascript file"
+    ],
+    "257960": [
+        "1. Start new instance of kate",
+        "2. Open file, for example /etc/profile on archlinux it does not have \"#!/bin/sh\" in beginning so text highlighting is none.",
+        "3. Press <Alt+T, H> to open Tools -> Highlighting menu. In appeared popup menu underlined hot keys only on first letters (see attachment) - they are not unique."
+    ],
+    "258513": [
+        "1. Enable XML Completion plugin in KATE settings",
+        "2. Highlight some text",
+        "3. Go to XML -> Insert XML Element",
+        "4. Enter a tag e.g. 'p'",
+        "5. Hit OK"
+    ],
+    "258980": [
+        "1. Set indentation to normal.",
+        "2. Open a C(.c), C++(.cpp), JavaScript(.js), Ruby(.rb) file.",
+        "3. Check indention (menu Tools ->Indentation) to see that it changed to \"C Style\"(for C, C++, JS) or Ruby(for Ruby)",
+        "1. If you save the file(Ctrl+s) the indentation _changes_ to the default for that file type(\"C Style\" for C, C++, JavaScript and \"Ruby\" for Ruby).",
+        "2. If you again change indentation to Normal and save the file, again the indentation is changed."
+    ],
+    "259879": [
+        "1. Make a short line of text, say \"test\"",
+        "2. Copy the line and paste it in a new line",
+        "3. Select everything",
+        "4. Copy",
+        "5. Paste in a new line",
+        "6. Repeat 3-5 until you have over 500,000 lines of text (this should be under 20 times, since the number of lines doubles each iteration)"
+    ],
+    "259933": [
+        "1) Create two subdirectories called x and xy in the same directory.",
+        "2) Touch two files x/x.txt xy/xy.txt",
+        "3) Open these file in Kate."
+    ],
+    "260389": [
+        "1. Open the find/replace bar (ctrl+f by default).  ",
+        "2. Open the go to line bar (ctrl+g by default)."
+    ],
+    "260917": [
+        "1. In kate, make 3 blank documents.",
+        "2. Save them as test1, test2, and test3",
+        "3. Write the file name of the file in each file (so \"test1\", \"test2\", and \"test3\", respectively)",
+        "4. Save them",
+        "5. The order in the documents list should be test1, test2, then test3",
+        "6. Click on test2 in the documents list",
+        "7. Save test2 as test8"
+    ],
+    "261288": [
+        "1. Open kwrite or kdevelop",
+        "2. Edit font in font and color, click ok."
+    ],
+    "261655": [
+        "1. Highlight some text.",
+        "2. Press Ctrl+F to open Find bar at bottom of window. The selected word should auto-fill in the field.",
+        "3. Press Enter to find the next term."
+    ],
+    "262788": [
+        "1. Sort the documents by URL (right click document pane> Sort By > URL).",
+        "2. Open several new files (I use Ctrl+N until I have Untitled, Untitled (2) up to (5)).",
+        "3. Click one of the Untitled files."
+    ],
+    "262799": [
+        "1. Create two subdirectories in the same parent directory: \"test\" and \"test123\" (without quotes).",
+        "2. Put a file in both directories.",
+        "3. Open the files in kate",
+        "4. Make sure the documents panel is visible and in tree mode"
+    ],
+    "264480": [
+        "1. Enable auto completion.",
+        "2. Type in some words.",
+        "3. Start typing a previously entered word."
+    ],
+    "264492": [
+        "1. Open kate.",
+        "2. Menu: Session -> Quick Open Session -> \"Default session\".",
+        "3. Kate toolbar/panel layout changes.",
+        "4. Right-click on the \"Show active\" button."
+    ],
+    "264610": [
+        "1. Start kate",
+        "2. Change Tree View -> Background Shading setting (anything: enable/disable, change colors)",
+        "3. Restart kate"
+    ],
+    "265145": [
+        "1. Open Kate and select Haskell from the Tools -> Mode -> Source Code -> Haskell (I'm translating from the Spanish options were it is \"Herramientas -> Modo -> Codigo fuente -> Haskell",
+        "2. Copy and paste the following code, (also i am uploading as an attachment)",
+        "3. Put the cursor at the end of the second line (the one with the \"let\" word on it) and press enter, it should trigger the bug"
+    ],
+    "265944": [
+        "1. Open Kate",
+        "2. Open a system file: like /var/log/messages.log",
+        "1. From the command line execute kate /var/log/messages.log"
+    ],
+    "266394": [
+        "1. open two files",
+        "2. highlight/copy text in file 1",
+        "3. switch to file 2 (no need to paste if I copied)",
+        "4. switch back to file 1"
+    ],
+    "266708": [
+        "1) rm ~/.kde/share/config/kate* (optional)",
+        "2) run kate and write some text with words that are longer then Minimal word length to complete (3 letters by deafult)",
+        "3) rewrite the same text"
+    ],
+    "267356": [
+        "1. Open a bunch of files in one session.",
+        "2. Click the main close button (\"x\") on the title bar.",
+        "3. Open some file with Kate (by double-clicking the file to open it in Kate by file associations, or in some other way)."
+    ],
+    "268067": [
+        "1) Set tree view sorting by \"Opening Order\" (Settings/Configure Kate/Application/Tree View/Sort by)",
+        "2) Open many files using the gui. Ctrl+tab (or alt+left depending on keyboard shortcut set) works as expected.",
+        "3) Open many files from cli using \"kate --pid `pidof kate` file.txt\"",
+        "4) Iterate through opened files using keyboard shortcut."
+    ],
+    "268068": [
+        "1) Set kate to show session list at startup: \"Settings/Configure Kate/Application/Sessions/Behaviour on Application Startup\" set to \"Manually choose a session\".",
+        "2) Launch kate, select a session.",
+        "3) Launch kate again and try to open the same session. The following popup appear:",
+        "4) Select \"No\"."
+    ],
+    "269205": [
+        "1) Open Kate/Kwrite ",
+        "2) In the Settings For the Editor under the tab indentation Set the style to haskell",
+        "3) type on a line let {}",
+        "4) press enter",
+        "5) File or Vote for Bug"
+    ],
+    "269280": [
+        "1. Move cursor to a line containing leading whitespace",
+        "2a. Move cursor to any column in that line except the first non-whitespace character",
+        "2b. Move cursor to first non-whitespace",
+        "3. press Home key"
+    ],
+    "269493": [
+        "1.Type:",
+        "2.Set cursor on the first bracket(after foo).",
+        "3.Type %d"
+    ],
+    "269518": [
+        "1. run wp or whatever which loads *.php in some file",
+        "2. edit some php file",
+        "3. kate saves broken php files"
+    ],
+    "269575": [
+        "1.Open Kwrite. Write something.",
+        "2.Use any of the following functions: Capitalize, Uppercase, Lowercase in Tools",
+        "3.Write something, including letters with accents. The accents will not be set.",
+        "1.Open Kwrite. Write something.",
+        "2.Use any of the following functions: Capitalize, Uppercase, Lowercase in Tools",
+        "3.Write something, including letters with accents. The accents will not be set."
+    ],
+    "270515": [
+        "1. Download this file: http://sismo-project.org/get/sismo.php",
+        "2. Try to open it in kwrite or kate"
+    ],
+    "270552": [
+        "1. open a sample file on a disk, e.g. ~/test.txt",
+        "2. delete or move ~/test.txt",
+        "2. response: kate report the file is missing",
+        "3. with the opened file, save as another file at a new location.",
+        "3. response: kate did not update the tree view for the new location of test.txt"
+    ],
+    "270983": [
+        "1) mount a directory over sshfs and edit several files on it in kate/kwrite",
+        "2) quickly save and switch documents: 'ctrl-s alt-left' in kate, 'ctrl-s alt-tab' in kwrite"
+    ],
+    "271136": [
+        "1) Launch kate from termial",
+        "2) exit kate"
+    ],
+    "271401": [
+        "1. Create a file called test.txt",
+        "2. Create these folders: 1  2  3  10  11  20  21",
+        "3. Copy test.txt to all of those folders",
+        "4. Open all of the files in kate",
+        "4. Set the documents panel to tree view"
+    ],
+    "272707": [
+        "1. Open the attached kate-code-folding-error.sh script,",
+        "2. Fold the \"if\" statement"
+    ],
+    "272976": [
+        "1. Open document tab window on left.",
+        "2. Make the document tab window too narrow to show complete filenames."
+    ],
+    "273270": [
+        "1. Start Kate",
+        "2. Expand Documents list",
+        "3. Switch Documents list to View Mode -> List Mode",
+        "4. Open a file with a known file type icon"
+    ],
+    "273638": [
+        "1.- Make sure to be in Vi normal mode.",
+        "2.- Press d + t + Alt Gr + }"
+    ],
+    "276628": [
+        "1) Open Kate.",
+        "2) Open Dolphin.",
+        "3) Select a file in Dolphin and open it with Kate.",
+        "4) Quickly click on Dolphin window - this should make it keep the focus.",
+        "5) But after a moment Kate steals this focus anyway."
+    ],
+    "278132": [
+        "1. Open a text file with Kate. Make sure that the text has spaces and nonspaces.",
+        "2. Open Find and Replace(Ctrl+R)",
+        "3. Enter in the Find input: [^\\s]",
+        "4. Press next to search for a nonspace."
+    ],
+    "278580": [
+        "0) Add attached file to snippets repository",
+        "1) type in C++ source file \"bmi:container\"",
+        "2) watch incorrect indentation"
+    ],
+    "278902": [
+        "1. Vi Input Mode ",
+        "2. Show the JavaScript Console",
+        "3. Press close button for JavaScript Console"
+    ],
+    "279413": [
+        "1) Go to Settings -> Configure Kate.",
+        "2) Click on Editor Component -> Open/Save",
+        "3) Click on the Modes & Filetypes Tab",
+        "4) Click on Download Highlighting Files..."
+    ],
+    "279910": [
+        "1. Move the cursor to column #1.",
+        "2. Hold SHIFT; press Down one or times to create a full-line selection of one or more lines; release SHIFT.",
+        "3. Press Tab once."
+    ],
+    "280105": [
+        "1) Open some documents in Kate.",
+        "2) Just switch randomly between documents"
+    ],
+    "282323": [
+        "01 #!/usr/bin/env python",
+        "03 OK = 200",
+        "05 def foo():",
+        "06 \tpass",
+        "08 if (OK == 200):",
+        "09 \tprint \"GOOD!\"",
+        "10 else :",
+        "11 \tprint \"OOPS!\""
+    ],
+    "284922": [
+        "1. enable static word-wrap",
+        "2. open a document and type something in.",
+        "3. disable static word-wrap",
+        "4. try to write a long line"
+    ],
+    "286468": [
+        "1. create (or open) 2 files",
+        "2. search file abc.txt with \"bc\" contents",
+        "3. click to move to bcd.txt file and start search"
+    ],
+    "286887": [
+        "1. start kate or a new editor window ",
+        "2. type in 1234 in the text editor",
+        "3. activate block select mode (CTRL+SHIFT+b)",
+        "4. place cursor outside of the test -> move cursor two steps after 1234",
+        "5. press SHIFT+CTRL+CURSOR_LEFT -> system freezes "
+    ],
+    "287538": [
+        "1- Click the 'Terminal' button to hide the terminal",
+        "2- Click again to show it"
+    ],
+    "288552": [
+        "1. Enable one of the affected plugins.",
+        "2. Disable it."
+    ],
+    "288841": [
+        "1. Open any text file",
+        "2. Modify it",
+        "3. Does not save and close kwrite. Change this file on other editor (not kate/kwrite)",
+        "4. Switch again to kwrite. Kwrite will say: \"The file ... was modified by onther program\". Press button \"Reload file\"."
+    ],
+    "289882": [
+        "1 Uncheck kwrite option Settings -> Conifgure Editor... -> Editing -> Cursor & Selection -> Wrap Cursor.",
+        "2 In empty document type 10 characters of text",
+        "3 Add second EMPTY line",
+        "4 Compare 6 character column number in status bar of 1st and 2nd lines."
+    ],
+    "289884": [
+        "1 enable option \"Copy/Cut the current line if no selection\"",
+        "2 open any text file",
+        "3 place cursor to column greater one",
+        "4 press Ctrl+Ins"
+    ],
+    "290739": [
+        "1) Print a large text document, i.e., 2000+ lines.",
+        "2) Open the Print Queue for observation",
+        "2.1) Try printing a Page Range",
+        "3) Try printing a Selection"
+    ],
+    "291574": [
+        "1. tar jxf kate-4.7.4.tar.bz2",
+        "2. cd kate-4.7.4",
+        "3. mkdir build",
+        "4. cd build",
+        "5. cmake -DKDE4_ENABLE_FINAL=ON ..",
+        "6. make"
+    ],
+    "291867": [
+        "1. Open the kate config dialog, click Fonts & Colors",
+        "2. Create a new dummy color schema (or import one from a file)",
+        "3. Select the schema in the top drop down, click Delete."
+    ],
+    "291868": [
+        "1. Start with a clean color schme (backup then rm .kde4/share/config/kateschemarc  and katesyntaxhighlightingrc)",
+        "2. Edit kate settings -> Fonts and Colors",
+        "3. Under the \"Colors\" tab change the \"Normal Text\" background under the \"Text Area Background\" heading to a color you will remember. I fancy bright Magenta #FF00FF. This color will be lost.",
+        "4. Switch to the \"Normal Text Styles\" tab and change some colors there. These colors will be preserved.",
+        "5. Export the new style to a file.",
+        "6. Close kate/kdevelop/whatever, and prune your .kde4/share/config/kateschemarc  and katesyntaxhighlightingrc once again",
+        "7. Restart kate/kdevelop/whatever and re-import your color scheme"
+    ],
+    "293901": [
+        "1) create new project",
+        "2) create main.c",
+        "3) type #include <unittest++/uni",
+        "4) let Kdevelop to complete the file name",
+        "4) see that the line got underlined in red and file cannot be found because of the lowercase u"
+    ],
+    "295222": [
+        "1. Open Mason component",
+        "2. Turn on Mason highliting"
+    ],
+    "298513": [
+        "1. enter some text ",
+        "2. mark part of it in visual selection (press v and move cursor)",
+        "3.  hit Del"
+    ],
+    "298726": [
+        "1. Go to the mapping list in Vi-mode preferences",
+        "2. Map an accented character to some command (say \":\")",
+        "3. In the normal mode, press the key that was just mapped"
+    ],
+    "298793": [
+        "1. Make simple snippet",
+        "2. Select a text",
+        "3. Run a snippet"
+    ],
+    "298806": [
+        "1. Open perl file",
+        "2. Make a line like: "
+    ],
+    "298904": [
+        "1.create a new file",
+        "2.use any hex-editor to input these three bytes(in hex): EF BB BF",
+        "3.use kwrite to open this file"
+    ],
+    "299113": [
+        "1. run any script like the one as describe in the details paragraph( must run ok the first time after boot ).",
+        "2. Close Kate",
+        "3. re run the script"
+    ],
+    "299248": [
+        "1.Settings",
+        "2.Configure kate",
+        "3.Plugins",
+        "4.External tools?"
+    ],
+    "299475": [
+        "1. echo '#define MACRO //comment' > file.c",
+        "2. kwrite file.c"
+    ],
+    "299706": [
+        "1. Start kate (e.g. from the command line)",
+        "2. open file view via the File->Open menu command",
+        "3. click on file icon to open the file"
+    ],
+    "299765": [
+        "1. Start Kate.",
+        "2. In Settings > Documents > Background Shading, change the colors.",
+        "3. Close and restart Kate."
+    ],
+    "299768": [
+        "1. Open some documents with the Tree View document list setting on.",
+        "2. Create new document (Ctrl+N). Save it in any folder."
+    ],
+    "299815": [
+        "1. Open a file",
+        "2. Press F10 (or enable the \"dynamic word wrap\" using the menu View->Dynamic Word Wrap)",
+        "3. Close the file",
+        "4. Open the file again"
+    ],
+    "299951": [
+        "1. Create a document, activate dynamic word wrap (F10) and create/paste several lines that are wrapped several times. Make sure the text is long enough so that the vertical scroll bar appears.",
+        "2. Drag the vertical scrollbar up and down slowly. Multiple wrapped lines appear/disappear as one element.",
+        "3. Use mousewheele to move up and down. Multilines can be positioned in the middle.",
+        "4. Use the small up/down buttons below the vertical scroll bar. Multilines can be positioned in the middle.",
+        "5. Position the text using mouswheele, so that a multiline is positioned in the middle.",
+        "6. Place the cursor anywhere and start typing. The half-shown multiline jumps down so the beginning of the line is visible."
+    ],
+    "299963": [
+        "1. Open a document in Kate",
+        "2. Select some text",
+        "3. Press Ctrl+G",
+        "4. Choose a line different from the one(s) where text is selected",
+        "5. Type anything"
+    ],
+    "300009": [
+        "1) Copy the syntax file into /usr/share/kde4/apps/katepart/syntax/",
+        "2) Open the testcase in Kwrite."
+    ],
+    "300015": [
+        "1. character 'p' at the first column + 95 spaces + character 'q' at 97th column.",
+        "2. Print ..."
+    ],
+    "300209": [
+        "1.load the file. even a recovered version of the file",
+        "2. Ctrl-S or select the Save item from the menu"
+    ],
+    "300453": [
+        "1. in Kate, write (without quotes) the names \"Jensen\" and \"Hansen\" on separate lines",
+        "2. mark \"Han\" and overwrite it with \"Jen\"",
+        "3. if you have word completion enabled after 3 characters, Kate will now suggest that you mean \"Jensen\". Let it complete that for you."
+    ],
+    "300649": [
+        "1. Select two or more lines (Line numbers 2-4)",
+        "2. Run script \"Duplicate selected lines down\" with shortcut or menu item.",
+        "3. Run script \"Move selected lines down\""
+    ],
+    "300941": [
+        "1.Enter two lines:",
+        "2.Select them with Ctrl+v, then up arrow",
+        "3.Press 'y' to copy the two lines"
+    ],
+    "300989": [
+        "1. go to command mode",
+        "2. type V",
+        "3. type Y"
+    ],
+    "301018": [
+        "1. open f77 .f file with anything that uses katepart",
+        "2. see the lack of highlighting and remember the goold old days there was nice highlighting",
+        "3. wipe .f;.F; from  /usr/share/kde4/apps/katepart/syntax/ansforth94.xml to make peace with katepart"
+    ],
+    "301162": [
+        "1. create a file with four distinguishable lines",
+        "2. position the cursor at the beginning of the second line",
+        "3. hold the shift button and press down once (=> the second line is selected and the cursor is at the beginning of the third line).",
+        "4. move ([ctrl]+[shift]+[down])/ duplicate ([ctrl]+[alt]+[down])/ indent the line"
+    ],
+    "301367": [
+        "1. Enter more then two or more lines",
+        "2. Add more text at the front (or somewhere in the middle)",
+        "3. Try to undo the changes of (2)"
+    ],
+    "301518": [
+        "1. Set Quit shortcut to nothing (disable)",
+        "2. Set vim mode to STRG+Q",
+        "3. close kate",
+        "4. start kate push STRG+Q"
+    ],
+    "301590": [
+        "1. Open an editor window in Kile, and shrink it to be horizontally small (e.g. a few cm).",
+        "2. Hit CTRL+F",
+        "3. Click outside of Kile on another window (such as a pdf)"
+    ],
+    "301636": [
+        "1. Write hello world program in C or PHP:",
+        "2. Put the cursor on the opening bracket"
+    ],
+    "301842": [
+        "1.turn on block mode",
+        "2.select column of text",
+        "3.type desired input for entire column",
+        "4.(expected) desired input is placed on every line of selected text"
+    ],
+    "301990": [
+        "1. Enable automatic spellchecking and disable word wrapping.",
+        "2. Type an incorrectly spelled word.",
+        "3. Follow that with a long series of correctly spelled words that exceeds the horizontal size of the window.",
+        "4. Place an incorrectly spelled word at the end.",
+        "5. While scrolled to the right side of the line, right click on the incorrectly spelled word.",
+        "6. Scrolled to the same location, right click on the space where there is correctly spelled text on the left most side of the window."
+    ],
+    "302099": [
+        "1.Enter Kate's vi mode (normal).",
+        "2.Enter cmd: \":N\" where N is a line number. Kate's cmd line pops open.",
+        "3.Press enter/return."
+    ],
+    "302142": [
+        "1. Optionally, select several lines",
+        "2. Press Ctrl-Alt-Up/Down to duplicate the selection (or, if none, the line under cursor)",
+        "3. Press Ctrl-Shift-Up/Down to move the duplicated line(s)"
+    ],
+    "302175": [
+        "1. open a large text file (15MB in my case - kate eats 80MB of memory )",
+        "2. open a system monitor",
+        "3. scroll up and down in the file and watch the memory consumption grow wildly"
+    ],
+    "302338": [
+        "1. Open file in directory e.g. \"src\"",
+        "2. Open another file in the same directory e.g. \"src\"",
+        "3. Observe duplicate entries in \"Documents\" tab"
+    ],
+    "302446": [
+        "1. Navigate into any line which contains e.g. a curly brace.",
+        "2. Type yf{",
+        "1. Navigate into any line.",
+        "2. Try the command \"r}\"."
+    ],
+    "302748": [
+        "1. Write text with underlin",
+        "2. Comment text"
+    ],
+    "302979": [
+        "1. Open any file",
+        "2. Open the search box (CTRL + F)",
+        "3. Try to input an acute accent via the keyboard (for example \u00e1 via \" \u00b4 + a \")"
+    ],
+    "303280": [
+        "1. Create a file with a really long line before its line berak.",
+        "2. Open the file. If the line was long enough, you will get a dialog telling you that the line was wrapped and the file opened in read-only mode.",
+        "3. Go to Editor > Tools."
+    ],
+    "303597": [
+        "1. While in kate session, press F6 for icon border and F11 for line numbers.",
+        "2. Exit kate.",
+        "3. Reopen kate. Those two settings will be gone."
+    ],
+    "303598": [
+        "1. Open a file with lines larger than 1024 characters in kate/kwrite",
+        "2. Save",
+        "3. Enjoy your silent breakage"
+    ],
+    "303786": [
+        "1.Open kate and fill some text. E.g.",
+        "2. click Menu -> Edit -> Find",
+        "3. try to find \"background\"",
+        "4. click the arrow on the right to get more options",
+        "5. click \"find all\""
+    ],
+    "304099": [
+        "1. Create three text files contained a few words (the same in each)",
+        "2. Use Search and Replace to look for one of the words",
+        "3. Double-click first item, file is loaded, word is shown selected in the proper colour",
+        "4. Double-clikc the next item, file is loaded, word is shown highlight in fixed yellow colour"
+    ],
+    "304258": [
+        "1. Type a word that 'hits' the line length limit. For example,       break|  (| indicates the limit)",
+        "2. Press space in front of break"
+    ],
+    "304326": [
+        "1. Remove ctrl+ +/- bindings ",
+        "2. Reset bindings to fonts only",
+        "3. Open more than one file in different folders (so folder binding reappear)",
+        "4. Check how ctrl++ works"
+    ],
+    "304548": [
+        "1. Open Kwrite, open the settings window from the menu.",
+        "2. Go to the \"Plugins\" section at the bottom. (\"Lis\u00e4osat\" in Finnish, not sure if it's called Plugins or extensions in English)",
+        "3. From the list of available plugins, click on the blue info icon."
+    ],
+    "304995": [
+        "1. Start Kate or Kwrite",
+        "2. Open perl script"
+    ],
+    "305068": [
+        "1. Select a folder containing a huge number of file (in my case, a cache folder) ",
+        "2. Type enter"
+    ],
+    "305313": [
+        "1. Create a new .js file, open it in Kate",
+        "2. Write the following into it:"
+    ],
+    "305722": [
+        "1. Have Kate configured to wrap long lines when opening (default configuration)",
+        "2. Open file with longer lines for editing (F4) in Krusader"
+    ],
+    "306007": [
+        "1. Type \\citep{AwesomePaper} in a latex source file in kate or katepart.",
+        "2. Spell-check. "
+    ],
+    "306280": [
+        "1.\u001b Enable the File Templates plugin",
+        "2. Go to Settings -> Manage Templates -> Download",
+        "3. You get the error."
+    ],
+    "306985": [
+        "1. Open the following syntaxtically correct minimal \"kate-bug.tex\" LaTeX source file with Kate:",
+        "2. Click twice on the triangular folding markers next to \\begin{array}{l} and watch each time.",
+        "3. Click twice on the triangular folding markers next to \\begin{eqnarray*} and watch each time."
+    ],
+    "307019": [
+        "1. open/create document",
+        "2. add any changes",
+        "3. try to quit Kate"
+    ],
+    "307020": [
+        "1. open/create document ",
+        "2. add any changes ",
+        "3. try to quit Kate, cancel",
+        "4. try to close document, cancel",
+        "5. compare button order"
+    ],
+    "307107": [
+        "1. Settings|Configure Kate...|Fonts & Colors|Styles for Markups|Others/Alerts (any other as well)",
+        "2. Disable background color for an item that has one",
+        "3. Click Apply and OK"
+    ],
+    "307384": [
+        "1. Open new file Kwrite/Kate/KDevelop/whatever.",
+        "2. Type `a` (including backquotes)",
+        "3. CTRL-Backspace"
+    ],
+    "307608": [
+        "1. Create a kate file containing the text bacon scones. Switch to vi mode if not in it already",
+        "2. Open up the Replace dialog, and enter ",
+        "3. Press the Replace button repeatedly. "
+    ],
+    "307620": [
+        "1.Create a document with arbitrary name",
+        "2.Save it",
+        "3.Modify tab size to any size, just not 8 (works great!)",
+        "4.Rename the document to \"Makefile\" and see that the tab size is always 8 regardless the configured setting."
+    ],
+    "307623": [
+        "1. Enter Vi mode in Kate",
+        "2. Type \":help w\"."
+    ],
+    "307628": [
+        "1. Create a text file with the following text:",
+        "2. Switch to vi mode and navigate to the placeCursorHere etc",
+        "3. Perform"
+    ],
+    "308039": [
+        "1. Get the actual git repo with git clone kde:kate",
+        "2. Build",
+        "3. blubb and so on"
+    ],
+    "308048": [
+        "1. Open a new (empty) document Kate / KWrite",
+        "2. Enter the FIRE character (U+1F525, see http://www.fileformat.info/info/unicode/char/1f525/index.htm under \"Java Data\")",
+        "3. Press backspace to delete the entered character"
+    ],
+    "308339": [
+        "1.open 3 files in different tabs",
+        "2.Rearrange the tabs manually to a differnt order",
+        "3.Use Alt+left/right arrow to switch between tabs"
+    ],
+    "308896": [
+        "1. Open a .pl file",
+        "2. Switch to prolog mode"
+    ],
+    "309281": [
+        "1. Enable kate minimap",
+        "2. Open a file"
+    ],
+    "309640": [
+        "1. Select a text region",
+        "2. Enter search mode (Ctrl+f)",
+        "3. Type text"
+    ],
+    "309723": [
+        "1. Select some text in the document",
+        "2. Focus terminal",
+        "3. Press Ctrl+C"
+    ],
+    "309800": [
+        "1. Open attached file in kate",
+        "2. Select all, then Tools - Align to indent the code",
+        "3. Add newlines after each opening bracket",
+        "4. Select all, then Tools - Align to indent the code"
+    ],
+    "309977": [
+        "1. Create a document with exactly two lines",
+        "2. Write \"1\" on the first line and \"2\" on the second",
+        "3. Place the cursor in the first line and hit [Strg]+[Shift]+[down]"
+    ],
+    "309978": [
+        "1. Create a document with five lines",
+        "2. Write \"1\" on the first line, \"2\" on the second, ... \"5\" on the last",
+        "3. Place the cursor in the first line and hit [Shift]+[down] to select the first line (the cursor is then on the first column of the second line)",
+        "4. Use [ctrl]+[shift]+[down] repeatedly"
+    ],
+    "309980": [
+        "1. Create a file with three lines;",
+        "2. Write \"1\" on the first line, leave the second empty and write \"3\" on the last line",
+        "3. Put the cursor to the first position of the first line; hit [shift]+[down] to select the first line;",
+        "4. Use [ctrl]+[alt]+[down] to duplicate the selection"
+    ],
+    "309990": [
+        "1. Open a text file supporting block folding (e.g. a C++ file) in defaultly configured kate",
+        "2. Position the cursor anywhere in the file (inside a block is better, for full frustrating effect)",
+        "3. Hit Ctrl+Shift+= (same as Ctrl++ on US layouts)",
+        "4. Hit Ctrl+=",
+        "5. Hit Ctrl+-",
+        "6. Hit Ctrl+Shift+- (same as Ctrl+_ on US layouts)"
+    ],
+    "310319": [
+        "1. Hit TAB, enter a pipeline (ASCII 124), then the tabulator disappears",
+        "2. Go to a whole new line. Enter a pipeline and put a tabulator to the left of it. Go to the end of the line and hit Enter.",
+        "3. Enter a pipeline again and the tabulator in that line disappears and a space remains at the beginning of the line."
+    ],
+    "310712": [
+        "1. Set \"Remove trailing spaces\" to \"In Entire Document\"",
+        "2. Add a few spaces at the end of a line in some document.",
+        "3. Position cursor at the end of the line or somwhere inside trailing spaces.",
+        "4 . Press Ctrl+S"
+    ],
+    "311570": [
+        "1.try to download new snippets ",
+        "2.observe the GHNS WINDOW ",
+        "3.read Configuration file not found:\"ktexteditor codesnippets_core.knsrc\"",
+        "4. you can't download snippets from internet "
+    ],
+    "311945": [
+        "1. Open a file with a big paragraph and comment some big paragraph.",
+        "2. Close the file and reopen it.",
+        "3. Press F10 for a dynamic word wrap.",
+        "4. Commented paragraphe is broken and some its part became a part of the main text.",
+        "5. Pull up a string which is broken - now whole paragraph is commented again.",
+        "6. Save, close and reopen the file. Press F10 ----> paragraph is broken on 1023 simbol."
+    ],
+    "311976": [
+        "1. open a text file with Kate 3.9.90",
+        "2. edit the file and exit using the window exit tab with the save option",
+        "3. open the text file again and note that the edit done in step 2 is not saved."
+    ],
+    "312121": [
+        "1. Open any shell script with Kate/KWrite/etc",
+        "2. Turn on Scripts/bash syntax highlighting (optional)"
+    ],
+    "312192": [
+        "1. Visit http://jsfiddle.net/",
+        "2. Type code, eg `console.log(0);`.",
+        "3. Select all code",
+        "4. Paste in Kate",
+        "5. Save code, eg. as test.js",
+        "6. Run code, eg. using `node test.js`"
+    ],
+    "312274": [
+        "1.open kate",
+        "2.open or create bash script",
+        "3.view syntax color"
+    ],
+    "312321": [
+        "1. Use the oxygen theme",
+        "2. Open a file with 100+ line",
+        "3. Go to the last line",
+        "4. Notice the hidden digit"
+    ],
+    "312630": [
+        "1. select some text / word e.g clicking on it",
+        "2. press Ctrl+F",
+        "3. switch to Power search and replace bar",
+        "4. replace the text with something else",
+        "5. select another text / word",
+        "6. press Ctrl+F"
+    ],
+    "312788": [
+        "1. Open kate or something using the kpart (like kile)",
+        "2. Have auto-spellchecking enabled",
+        "3. Right click on a word that is spelled wrong"
+    ],
+    "312795": [
+        "1. Open Kate",
+        "2. Click \"Sessions\" menu"
+    ],
+    "312819": [
+        "1. Create file with name \"><hr><h1>123.txt ",
+        "2. Open it with Kate"
+    ],
+    "313017": [
+        "1. Open a lot of files over sftp to cause the still loading notification to appear (I'm not sure if it'll happen with local files)",
+        "2. Hit File->reload all",
+        "3. Switch to another file (if the notification is not there, keep switching until you find a file that took longer to load and triggered the notification)"
+    ],
+    "313549": [
+        "1. write a syntax file that gives a float a different color than the rest of everything",
+        "2. open a file that has a few numbers -.204  204  ",
+        "3.  Not knowing exactly what I'm doing, ignore the other errors"
+    ],
+    "313953": [
+        "1. Open a text file (of about 2 KB)",
+        "2. Press and keep holding CTRL-S (save)",
+        "3. If you keep pressing several seconds, Kate saves the file all the time and blocks more than a minute, ralenticing also the system"
+    ],
+    "314265": [
+        "1. Use neo2 layout (setxkbmap de neo on most modern linux distributions)",
+        "2. Enter some text in kate",
+        "3. enter visual mode",
+        "4. press the mod4 key (on most keyboards it is AltGr)"
+    ],
+    "314325": [
+        "1. Enable Autobrace plugin",
+        "2. Write something",
+        "3. Select (highlight) this something",
+        "4. Press the double quote key"
+    ],
+    "314379": [
+        "1. Create new file, put in some lines of troff and save with extension *.n",
+        "2. Select 'Troff mandoc' highlighting (Tools/Mode/Markup/ or Tools/Highlighting/Markup)",
+        "3. Make some changes",
+        "4. Save file"
+    ],
+    "314381": [
+        "1. Uncheck meta information box",
+        "2. Re-open previously edited file"
+    ],
+    "314415": [
+        "1. Open the nepomuk-core project in Kdevelop",
+        "2. Go to the indexscheduler file",
+        "3. Press 'j' when in normal mode"
+    ],
+    "314530": [
+        "1. update to KDE 4.10 (on Ubuntu 12.04 using ppa:kubuntu-ppa/backports)",
+        "2. in Kate open menu Settings > Configure Kate",
+        "3. look at Editor Component > Extensions"
+    ],
+    "314710": [
+        "1. Start Kate",
+        "2. Load a file from somewhere that is not $HOME",
+        "3. Open terminal widget"
+    ],
+    "314773": [
+        "1. Create a new Python file",
+        "2. Open in Kate",
+        "3. Write:"
+    ],
+    "314845": [
+        "1. start kate (current version from git) from the command-line with a non-existing filename as argument (eg. \"run.sh kate ~/nonexisting.txt\")",
+        "2. Make sure NOT to dismiss the error message (\"The file /home/.../nonexisting.txt could not be loaded, as it was not possible to read from it. Check if you have read access to this file.\")",
+        "3. click on the \"New\" button (or open an existing file or File->New from template, ...)"
+    ],
+    "314868": [
+        "1. enable vi input mode",
+        "2. try Ctrl+F and then buttons \"Next\" \"Previous\""
+    ],
+    "314886": [
+        "1. Open a text file with many occurrences of a string \"abc\" (for instance)",
+        "2. Search for \"abc\" using ctrl+f",
+        "3. Use enter to switch to the next \"abc\" occurrence, until you get back to the beginning of the file",
+        "4. An error message written in light pink is shown on the bottom right \"Bottom has been reached, continue from the top\" (translated from French)"
+    ],
+    "314906": [
+        "1. Open the attached file from this bug report with kate.",
+        "2. Make sure highlighting mode is \"Ruby\".",
+        "3. Go to the EOF position (Ctrl + End) and enter the \"]\" or \"}\" with your keyboard."
+    ],
+    "314908": [
+        "1. Open KDevelop",
+        "2. Press Right Alt + O with polish keyboard layout"
+    ],
+    "315146": [
+        "1. open a (preferably long) document",
+        "2. middle click and hold on the scrollbar at a position far away from the current view",
+        "3. look at the line numbers in the tooltip vs. the ones in the current view"
+    ],
+    "315246": [
+        "1. Enable kate-ctags plugin",
+        "2. Create a ctags database that contains multiple instances of the same tag (preferably, 6-7)",
+        "3. Point kate-ctags to that database",
+        "4. Try to lookup the tag - try several prefixes of varying lengths"
+    ],
+    "315248": [
+        "1. Open kate with several lines of text.",
+        "2. Enable scrollbar marks (View -> Show Scrollbar Marks)",
+        "3. Use the Search and Replace plugin to highlight some lines. Scrollbar marks should appear for these.",
+        "4. Bookmark one of these highlighted lines.",
+        "5. Hide the Find and Replace panel and highlights (Esc, Esc).",
+        "6. Bookmarks -> Clear All Bookmarks."
+    ],
+    "315389": [
+        "1. Select text, eg. some text",
+        "2. Press quote-key: \""
+    ],
+    "315529": [
+        "1. open a terminal",
+        "2. launch kate"
+    ],
+    "315649": [
+        "1. Open kate",
+        "2. Quick open different sessions using \"Session > Quick Open Session\" for a while",
+        "3. Repeat step 2 several times."
+    ],
+    "315768": [
+        "1. Create a new file",
+        "2. Add the text \"testing123\" to the blank document.",
+        "3. Open the search and replace plugin",
+        "4. put this text in the search box (no quotes): \"^(\\w+)ing\"",
+        "5. check the \"Regular Expressions\" check box",
+        "6. Click \"search\":",
+        "7. In the replacement box, put \"\\1ed\" (no quotes)",
+        "8. Click \"replace checked\""
+    ],
+    "315769": [
+        "1. Create a new kate document",
+        "2. Hit the \"Enter\" or \"Return\" key 5 times in the blank document",
+        "3. Open the search and replace plugin",
+        "4. In the search box type this \"\\n\" (no quotes)",
+        "5. Check the \"Regular Expressions\" check box",
+        "6. Click \"search\""
+    ],
+    "315770": [
+        "1. Open a new kate document",
+        "2. In the document, type this \"111111\" (no quotes)",
+        "3. Open the search and replace plugin.",
+        "4. In the plugin, type this \"[1]+\" (no quotes)",
+        "5. Check the \"Regular Expressions\" checkbox",
+        "6. Press \"search\""
+    ],
+    "315940": [
+        "1. Paste the two lines from above into a new document in kile",
+        "2. Enable automatic spell checking"
+    ],
+    "316023": [
+        "1.Write an mfile",
+        "2.Select a block of text",
+        "3.From tools menu select commetn option "
+    ],
+    "316074": [
+        "1. open kate",
+        "2. load a .py file",
+        "3. type \"if True:\" followed by enter"
+    ],
+    "316094": [
+        "1.  copy this example text file with TABs:  http://charette.no-ip.com:81/tmp/kdevelop_tabstop.txt",
+        "2.  view in editor other than KDevelop",
+        "3.  view in KDevelop; note the alignment issues"
+    ],
+    "316197": [
+        "1. Install",
+        "2. Launch, using a dark theme",
+        "3. editor should be bright, when it shouldn't."
+    ],
+    "316234": [
+        "1. touch /tmp/test.txt",
+        "2. chmod 664 /tmp/test.txt",
+        "3. chown root:admin /tmp/test.txt  ",
+        "4. Open /tmp/test.txt with the Kate, edit it and try to save. "
+    ],
+    "316413": [
+        "1. Use some text field, editor, or browser to enter \"http://www.google.com/search?q=goo\" (without quotes)",
+        "2. Copy it to clipboard using either \"copy\" or X-Window selection",
+        "3. Paste it into kwrite by using either \"paste\" or MOUSE3, accordingly to step 2",
+        "4. Press Enter to go to the next line",
+        "1. Enter the following text by keyboard into a new file in kwrite: \"http://www.google.com/search?q=goo\" (without quotes)",
+        "2. Press Enter"
+    ],
+    "316558": [
+        "1. Open KWrite.",
+        "2. Type some text in.",
+        "3. Delete everything you just typed.",
+        "4. Press the X button to close the KWrite window."
+    ],
+    "316811": [
+        "1.open the kate",
+        "2.help menu ",
+        "3.about kate"
+    ],
+    "316862": [
+        "1. in a new document, move to the last line and enter any text",
+        "2. hit Ctrl+Alt+Down"
+    ],
+    "317142": [
+        "1. Open the configure dialogue from the menu and set the uncheck the checkbox for \"display functions parameters\" for the symbolviewer plugin.",
+        "2. Close the dialogue and one can see the function parameters not displaying as expected.",
+        "3. Restart Kate. The function parameters come back again."
+    ],
+    "317278": [
+        "1. Before logging off, modify one of the files in kate session.",
+        "2. Log off. A message box appears on all desktops (together with kate) asking you whether to save the changes."
+    ],
+    "317352": [
+        "1. Launch kate",
+        "2. Open any file (> 1 line)",
+        "3. Show line numbers"
+    ],
+    "317364": [
+        "1. Enable \"Allow scrolling past end of document\" under configuration->Editing->Text Navigation",
+        "2. Open a document with more than a few lines of text",
+        "3. Move the view down beyond the end of the document and click the last line"
+    ],
+    "317865": [
+        "1. kate",
+        "2. open ~/.fvwm-crystal/recipes/Amiga",
+        "3. Save As"
+    ],
+    "317887": [
+        "1. Open the \"Configure Kate\" option from the Settings menu.",
+        "2. Navigate to Editor Component > Editing and choose the \"Tabulators and spaces\" option.",
+        "3. Press OK.",
+        "4. Reopen the Configure Kate dialog and navigate to the same option."
+    ],
+    "317923": [
+        "1. Open kate",
+        "2. Enable vi input mode",
+        "3. Press Ctrl+Cursor (right or left)"
+    ],
+    "318128": [
+        "1. Open Kate",
+        "2. Browse to an ftp server root directory (ie. ftp://example.com/ without further path)",
+        "3. Open a text file there",
+        "4. Open another text file in the same directory"
+    ],
+    "318398": [
+        "1. textfile: [section] \\n text \\n text \\n [section] \\n text \\n text",
+        "2. select INI-File highlighting",
+        "3. fold second section, move cursor away, click on folding symbol again"
+    ],
+    "318595": [
+        "1. Use the katecodefoldingtest.xml file in the attachment. It is a shortened version that specifically demonstrates the problem.",
+        "2. Start kate. Open the attached sample file.",
+        "3. View -> Code Folding -> Fold Toplevel Nodes"
+    ],
+    "318746": [
+        "1. open a few documents",
+        "2. try to drag an item in the view",
+        "3. miss manual sorting option in documents-settings"
+    ],
+    "318781": [
+        "1.Enable Vi mode",
+        "2.Add these mappings:",
+        "3.Add some text and go to normal mode.",
+        "4.Try navigating with any of the h, j, or k keys."
+    ],
+    "319425": [
+        "1. Open Kate",
+        "2. Check View -> Show Scrollbar Mini-map",
+        "3. Close Kate",
+        "4. Open Kate again"
+    ],
+    "319576": [
+        "1.  Load the following ruby program into kate:",
+        "2.  highlight the whole program  (eg Ctrl-A)",
+        "3. Align the highlighted region (Menu Tools > Align)",
+        "4. repeat (up to about 10 or 12 times) until problem shows itself"
+    ],
+    "319679": [
+        "1. Download rxvt-unicode (urxvt) sources",
+        "2. Open that file in Kate",
+        "3. Make edits",
+        "4. Save",
+        "6. Press F5"
+    ],
+    "319774": [
+        "1. Select part of line",
+        "2. Look for length of selection"
+    ],
+    "319979": [
+        "1. Open kate",
+        "2. Switch syntax mode to Python",
+        "3. Enter example code"
+    ],
+    "320375": [
+        "1. Execute query \"explain select * from any_table\"",
+        "2. See both query result tabs."
+    ],
+    "320813": [
+        "1. Create a file with Python syntax",
+        "2. enter a 'string' or \"string\" or \"\"\"string\"\"\"",
+        "3. See the entered text highlighted as comment instead of as string"
+    ],
+    "320955": [
+        "1. Open a new document",
+        "2. Write the following lines:",
+        "3. copy 'test'",
+        "4. paste it on a new line"
+    ],
+    "321123": [
+        "1.Enable block mode",
+        "2.Try to move cursor past the end of a line"
+    ],
+    "321132": [
+        "1. Open several files",
+        "2. In the file list, right-click close one of the other (not currently active/displayed) documents"
+    ],
+    "321135": [
+        "1. Use sshfs to mount something on an oversea host",
+        "2. Use Kate to open a file on that mount",
+        "3. Try to type something"
+    ],
+    "321142": [
+        "1. Start a markdown document",
+        "2. Write a '###### 6th level header'"
+    ],
+    "321203": [
+        "1. Enable scrollbar minimap.",
+        "2. Open a short text file.",
+        "3. Add/remove lines to it."
+    ],
+    "321384": [
+        "1. Create a file with content like this: http://paste.kde.org/777884/raw/",
+        "2. Open the file and collapse all the lines."
+    ],
+    "321728": [
+        "1. Save the attached file as file.js",
+        "2. Open it.",
+        "3. Check the syntax highlight."
+    ],
+    "321801": [
+        "1. Ctrl+R",
+        "2. Fill out Search and Replace with input",
+        "3. Press Alt+L"
+    ],
+    "322118": [
+        "1. With Snippets plugin installed, create and name a new Snippet.",
+        "2. Enter:",
+        "3. Enter:",
+        "4. Apply the changes.",
+        "5. Select some text and run the Snippet."
+    ],
+    "322209": [
+        "1. Have minimap scrollbar enabled",
+        "2. Try dragging the selected rectangle in the map"
+    ],
+    "322281": [
+        "1. Configure the Kile editor to use a font that supports typographic ligatures (such as Verily Serif Mono -- which can be freely downloaded for testing);",
+        "2. Type the sequence \"fi\" or \"fl\" in the editor."
+    ],
+    "322711": [
+        "1. Scroll",
+        "2. Be lucky"
+    ],
+    "322715": [
+        "1. Open a file that is similar to the above \"Details\"",
+        "2. Modify it",
+        "3. Try to save the modifications"
+    ],
+    "322849": [
+        "1. using code scheme here: http://paste.chakra-project.org/4900/",
+        "2. type in kdevelop to enable code completion"
+    ],
+    "323048": [
+        "1. Paste above code into Kate, ",
+        "2. select Tools->Highlighting->Markup->Latex"
+    ],
+    "323060": [
+        "1. Choose a file to open, or create a new one:",
+        "2. Open aforementioned file:",
+        "3. Add some text that includes one or more right-parentheses:",
+        "4. Do something to cause kate to quit unexpectedly:",
+        "5. Open the file again:",
+        "6. Kate indicates the file was not closed properly.",
+        "7. Recovered data is missing all right parentheses:"
+    ],
+    "323444": [
+        "1. Enable symbol list viewer",
+        "2. Open/create file with some content that will populate symbol list viewer",
+        "3. Make changes to the document and note symbol list flickering",
+        "4. This is especially distracting in tree view"
+    ],
+    "323525": [
+        "1. Open create a perl file that has code like:",
+        "2. Observe that symbol viewer's perl parser interprets the line \"= 'bar';\" as the start of a comment."
+    ],
+    "323693": [
+        "1. mkdir foo",
+        "2. echo 1234567890 > foo/bar",
+        "3. chmod 555 foo",
+        "4. kate foo/bar",
+        "5. hit Ctrl+A",
+        "6. hit Del",
+        "7. type ABC",
+        "8. hit Ctrl+S"
+    ],
+    "323815": [
+        "1. Put Kate in Perl syntax highlighting mode (for example, by saving the current file with with a .pl extension",
+        "2. Type out any code that contains a q{ } block containing nested curly braces. For a simple example: q{ {{}} }",
+        "3. Make sure bracket highlighting is turned on (Settings > Configure Kate > Editor Component > Appearance > Highlight range between selected brackets)",
+        "4. Move your cursor next to each of the closing braces. You will see that one of them gets matched up incorrectly with the opening brace right after the q, and closing braces after that fail to get matched up at all."
+    ],
+    "324023": [
+        "1. Open a project in kate",
+        "2. Modify a file or delete a file"
+    ],
+    "324129": [
+        "1. Create a template from \"Settings > Manage templates\". Save it as an utf-8 document.",
+        "2. open the template from the \"File > New from template...\" menu. ",
+        "3. The new file has incorrect accents."
+    ],
+    "324695": [
+        "1. Open a file with some text.",
+        "2. Mark a block of text in block mode",
+        "3. Yank it via e.g. y"
+    ],
+    "324797": [
+        "1. Open up kate.",
+        "2. Write some text",
+        "3. Change to VI mode. (Ctrl + Meta + V)",
+        "4. Move the cursor to the very beginning of the file.",
+        "5. Press \"XP\" in normal vi mode."
+    ],
+    "324829": [
+        "1.open kate",
+        "2.open a js minified file"
+    ],
+    "324959": [
+        "1. The file was: http://pastebin.com/h9R3ePbZ, however just about any .l file will do.",
+        "2. To reproduce, open the file and fold each section from the bottom to the top, then try to unfold."
+    ],
+    "325035": [
+        "1. Turn on autobrackets and hyphenation from plugin.",
+        "2. Select a text.",
+        "3. Add brackets."
+    ],
+    "325794": [
+        "1. load german keymap",
+        "2. go into VI Insert Mode",
+        "3. try to write curly or square brackets by pressing Alt Gr + 7,8,9,0"
+    ],
+    "325877": [
+        "1.create new file with this text",
+        "2.or this",
+        "3.turn on perl syntax hightlight"
+    ],
+    "326049": [
+        "1.my $x = 123456789; # ok",
+        "2.my $x = 123_456_789; # only 123"
+    ],
+    "326494": [
+        "1. Enable (in settings) and activate (open the dialog) \"Search & Replace\" plugin ",
+        "2. Enter search text in first field on upper left side",
+        "3. Select \"in Folder\" from drop down box on upper right side",
+        "4. Click \"Search\" button on upper right side"
+    ],
+    "326869": [
+        "1. Open file ",
+        "2. Delete the file from disk",
+        "3. Get \"File changed dialog\"",
+        "4. Look at the buttons"
+    ],
+    "327011": [
+        "1. Type a raw string, for example:",
+        "2. Look at the syntax highlighting.",
+        "3. Submit bug report."
+    ],
+    "327510": [
+        "1. Select text",
+        "2. Press tab"
+    ],
+    "328044": [
+        "1. Select vi mode in Kate",
+        "2. Use vi command 's' '5' to remove a 5-chars words",
+        "3. input another word and press ESC"
+    ],
+    "328170": [
+        "1. Enable both the project plugin and the build plugin (the former is enabled by default.)",
+        "2. Press Ctrl+Alt+Left or Ctrl+Alt+Right."
+    ],
+    "328312": [
+        "1. Open kate",
+        "2. Type ctrl + alt + u + 0d7a and then press enter. "
+    ],
+    "328406": [
+        "1. Start Kate.",
+        "2. Attempt to resize left sidebar using mouse."
+    ],
+    "328569": [
+        "1. Enable \"Projects\" plugin",
+        "2. Press Ctrl+Alt+O"
+    ],
+    "328891": [
+        "1. Make sure that Static Word Wrap is enabled.",
+        "2. Start a multiline comment with /* and start typing anything.",
+        "3. Continue typing, until you go beyond the static word wrap marker."
+    ],
+    "328900": [
+        "1. open the attached tc.tex file w/ Kate or Kwrite or Kile or any other editor using kate part",
+        "2. go to settings->editing->general and enable static word wrap",
+        "3. go to settings->open/save->general and set remove trailing spaces to 'on modified lines'",
+        "4. put the cursor at the end of the document and hit enter",
+        "5. mark the entire document (ctrl + a), comment out the text (ctrl + d) and save it (ctrl + s)"
+    ],
+    "329019": [
+        "1. Run Qt Creator and download the Julia highlighting pattern.",
+        "2. Note that no syntax highlighting is done."
+    ],
+    "329023": [
+        "1. Open an existing plain text document that does not contain programming language source code.",
+        "2. On a new line, type a word followed immediately by a colon symbol (:)."
+    ],
+    "329030": [
+        "1. In \"Dolphin\": doubleclick on a file named (example) \"notes.ly\". (Such files contains simple text.)",
+        "2. Kate crashes."
+    ],
+    "329318": [
+        "1. Configure Kate to display full path in title bar",
+        "2. Open a document e.g. \"~/old/doc.json\" (only a single document, not multiple)",
+        "3. Edit the document, File > Save As \"~/new/doc.json\""
+    ],
+    "329370": [
+        "1. Use the b\u00e9po keyboard layout (`setxkbmap fr bepo`)",
+        "2. Activate the vi input mode of Kate",
+        "3. Try to input one of: \u00e9, \u00e8, \u00e0"
+    ],
+    "329541": [
+        "1. Add the 'tab bar' plugin",
+        "2. Open two files",
+        "3. Switch tabs from within the tab bar."
+    ],
+    "329756": [
+        "1. Change Keyboard Layout to German",
+        "2. Enter Insert Mode",
+        "3. Press one of the Keys \u00e4, \u00f6, \u00fc (on german keyboard) or ', ;, [ (on english keyboard)",
+        "4. Press shift and one of the keys mentioned in step 3"
+    ],
+    "329888": [
+        "1. Open a session containing more than one tab.",
+        "2. Rearrange the tabs.",
+        "3. Save the session.",
+        "4. Close the session, by opening another session or by restarting Kate.",
+        "5. Reopen the session."
+    ],
+    "330025": [
+        "1. ihello<ESC> (insert hello and get back to normal mode).",
+        "2. qquq (record a macro in q with just an undo operation)",
+        "3. @q  <- crash"
+    ],
+    "330357": [
+        "1. Hit F7",
+        "2. Type \"open\" or \"open...\" (without quotes)",
+        "3. Hit enter/return"
+    ],
+    "330623": [
+        "1. launched Kate,. ",
+        "2.  clicked Help->About Kate",
+        "3. The \"About Kate\" dialog pops up. Click the close button in the dialog and Kate crashes."
+    ],
+    "330715": [
+        "1. Enable static word wrap",
+        "2. Zooming the kile text editor (e.g. ctrl-- and ctrl-+, or ctrl-mousewheel)"
+    ],
+    "330780": [
+        "1.Open Kwrite",
+        "2.Go to Settings/Configure Editor/Editing Tab/Auto Completion Sub Tab",
+        "3.Flag/Unflag Enable Auto Completion"
+    ],
+    "330852": [
+        "1. Open Kate on Wayland",
+        "2. Open a file in Kate",
+        "3. Activate Settings -> Show Path in Titlebar"
+    ],
+    "330862": [
+        "1. Launch Kate",
+        "2. Click 'Open File', or any other method to get the file open dialogue",
+        "3. Browse to a file on a remote path (\\\\<server>\\path\\to\\file)"
+    ],
+    "331021": [
+        "1. turn on vi mode",
+        "2. use shift J"
+    ],
+    "331299": [
+        "1. open with kate documents so that the tree looks like this:",
+        "2. click to f1.txt to open it",
+        "3. collapse dir1",
+        "4. collapse dir2",
+        "5. uncollpse dir2 with a doubleclick."
+    ],
+    "331736": [
+        "1. Open a new empty file",
+        "2. Write sed script with address statement, add a flag (for example I to make regex case-insensitive)",
+        "3. Add a sed command after; say, c command to replace the matched line."
+    ],
+    "332122": [
+        "1. Type some English text in any katepart app, say kwrite.",
+        "2. Hit layout switch combination (CapsLock)."
+    ],
+    "332288": [
+        "1. create a file with some arbitrary suffix (tried .mk and .su)",
+        "2. type a forward slash (/) at the end of any line",
+        "3. enjoy crash"
+    ],
+    "332426": [
+        "1. Open C++ file",
+        "2. Change mode to \"Normal\"",
+        "3. Attempt to edit the file"
+    ],
+    "332597": [
+        "1. open a multi line text file in kate",
+        "2. select the last chars of the file ",
+        "3. press the delete line shortcut"
+    ],
+    "332717": [
+        "1.  Realize there is something you don't know about what you are doing",
+        "2.  Figure out what you need to look up",
+        "3.  Go to Kate's Help menu"
+    ],
+    "333049": [
+        "1. Start kate on OSX",
+        "2. Click on \"Search and Replace\" Tab",
+        "3. See the weird layout"
+    ],
+    "333092": [
+        "1. Use find in files to do a search and wait it to be finished.",
+        "2. Click on new button to open new search tab",
+        "3. Search another term in the new tab and wait until it completes.",
+        "4. Click on the first tab to see the previous results"
+    ],
+    "333393": [
+        "1. Press Apple+F to enforce displaying find pane at app's window bottom",
+        "2. Resize application windows to minimum width"
+    ],
+    "333396": [
+        "1. Open new kate or kwrite document",
+        "2. Enter text:",
+        "3. On a new line start typing 'helloWo'"
+    ],
+    "333402": [
+        "1. open Kate and create a new file",
+        "2. activate C mode",
+        "3. make sure dynamic line wrapping is activate",
+        "3. create a C function with a long signature and put a curly bracket directly behind the signature, e. g.",
+        "4. make sure the cursor is not near one of the brackets and thus they are not highlighted",
+        "5. resize the window to be just wide enough that the opening curly bracket is not put on an extra line (this must be done pixel-precisely)",
+        "6. move the cursor to one of the brackets"
+    ],
+    "333423": [
+        "1. Open Kate with a file that is longer than the window is tall (or create one...). It is more obvious if the file has a few lines which are of significantly different length than the rest.",
+        "2. Turn on the scrollbar minimap (View->Scrollbar Mini-map)",
+        "3. Enable the autocenter cursor option. (Settings->Configure Kate->Editor Component->Editing->Text Navigation->Autocenter cursor) (I typically have it set to 6 lines, but it appears that any values produces the bug)",
+        "4. In the same location as (3) also check allow scrolling past end of document.",
+        "5. Apply the settings.",
+        "6. Scroll around the document and observe that the lines shown do not line up with the lines indicated"
+    ],
+    "333447": [
+        "1. Select text with mouse while in vi command mode",
+        "2. Press 'dd'"
+    ],
+    "333608": [
+        "1. Enter p:- (a -> X = Y.c ; true) into a new file.",
+        "2. Save file as a Prolog file."
+    ],
+    "333636": [
+        "1. Read Korean text file in UTF-8",
+        "2. Choose encoding (Korean->EUCKR)"
+    ],
+    "333696": [
+        "1. Set indentation mode to \"C++/boost\"",
+        "2. write '#include \"'",
+        "3. input \".\" twice"
+    ],
+    "333768": [
+        "1. Enable Tab Bar plugin from Kate\u2019s application settings",
+        "2. Open a file with an ampersand character in its name"
+    ],
+    "333868": [
+        "1. Open Settings->Configure KDevelop",
+        "2. Create user schema with arbitrary name",
+        "3. Delete user schema",
+        "4. Click Apply"
+    ],
+    "334151": [
+        "1. Open kate",
+        "2. Open tree view on the right",
+        "3. Open a first document",
+        "4. Unfold the tree view to see your document",
+        "5. Open another document in a different folder",
+        "6. You can't see the first document"
+    ],
+    "334316": [
+        "1. Make sure you are using the default syntax highlighting settings (you might want to back up and/or delete '~/.kde/share/configkatesyntaxhighlightingrc')",
+        "2. Create a new file.",
+        "3. Set the Mode - or the Highlighting - to Sources > C++",
+        "4. Type any single-line comment; I used '// Hello, world!'",
+        "5. Put different numbers of characters before the '//'; they can be tabs (which count as one character), spaces, letters, or anything else. Try with multiples of 4, and other numbers."
+    ],
+    "334550": [
+        "1. Open a large text document ( I generated one by strac'ing a application )",
+        "2.  Search for a word inside the document that occurs multiple times",
+        "3. Do a reverse search from the first hit",
+        "4. Once you arrive at the last hit, a message appears that search is continuing from the bottom",
+        "5. Scroll up/down in kate"
+    ],
+    "334681": [
+        "1. start a new, clean Kate session",
+        "2. Ctrl+S (save the empty document in an arbitrary new file)",
+        "3. make a modification in the document (e. g. type a space and note that the file is now marked with a disk symbol in the Documents view, because there are unsaved changes)",
+        "4. Ctrl+W (request closing of current document)",
+        "5. Alt+C (Kate asks for confirmation as there are unsaved changes, respond with Cancel)",
+        "6. Ctrl+S"
+    ],
+    "334717": [
+        "1. Open Xournal and create a .xoj file.",
+        "2. Open Kate and open the .xoj file.",
+        "3. Save the file ('File' -> 'Save' or 'Save as')."
+    ],
+    "334830": [
+        "1. Turn on PHP highlighting mode",
+        "2. Enter the following code:"
+    ],
+    "335590": [
+        "1. Open a document with many toplevel nodes (e.g. a Python module file)",
+        "2. Hit \"Ctrl+Shift+-\" (default shortcut) or click View->Code Folding->Fold Toplevel Nodes",
+        "3. Try to unfold everything."
+    ],
+    "335744": [
+        "1. Make a CSS file",
+        "2. Add a media query with parentheses"
+    ],
+    "335768": [
+        "1. Open multiple documents.",
+        "2. Switch to Document list at the left side. Use arrow keys to move around (highlight another document).",
+        "3. Pressing Enter (or Space) to open highlighted document."
+    ],
+    "335952": [
+        "1. open a file",
+        "2. change indenting mode to C++/Boost",
+        "3. create a new line"
+    ],
+    "336085": [
+        "1. Open Kate",
+        "2. Move window to bottom of screen so that the input frame is just above the edge of the screen.  (Scrollbar, etc. will be off screen.)",
+        "3. Enter down to the bottom of the input area.",
+        "4. Adjust editor size so that there is about 2/3 of a line space after the last line.",
+        "5. On the next to last line (or anywhere above) type in a word longer than 8 letters (e.g. \"Dorchester\" in this example).",
+        "6. On the last line, type \"Dor\". (The timing of keystrokes might play a role.)"
+    ],
+    "336608": [
+        "1.Open 3 files",
+        "2. Rearrange them in the single-line tab bar",
+        "3. Cycle between the documents and watch the tab bar"
+    ],
+    "336819": [
+        "1. To verify this, I started by creating a test plaintext file. ",
+        "2. I checked the permission bits, which defaulted to 644. ",
+        "3. I edited the file in Kate (which never changes the permission bits of files on my local system).",
+        "4. I refreshed the sftp folder and checked the permission bits again -- and for some reason it changed to 600."
+    ],
+    "337253": [
+        "1. open a file with kate",
+        "2. try to open a 2nd file with kate (via e.g. dolphin, or manully from konsole; via filebrowser plugin works!)"
+    ],
+    "337286": [
+        "1. Open a file with more lines than will fit in the view.",
+        "2. Select some text with the mouse or by entering VISUAL mode and moving the cursor.",
+        "3. Scroll the view so that the selected text is not visible.",
+        "4. Click in the view."
+    ],
+    "337315": [
+        "1. Open a file",
+        "2. Remove the file from file system",
+        "3. Kate shows a dialog that the file has changed"
+    ],
+    "338744": [
+        "1. Open Kate with a new file",
+        "2. Choose C mode, or save as *.c",
+        "3. Enter the following macro:"
+    ],
+    "339143": [
+        "1. Make a directory owned by root. Make a file there owned by your user.",
+        "2. Open the file with Kate as you, writing the content \"12345\", and save it.",
+        "3. Change the content with Kate to \"999\", and save it.",
+        "4. cat ~you/ownedbyroot/thefile"
+    ],
+    "339467": [
+        "1. Install ibus, ibus-qt and ibus-hangul.",
+        "2. For Qt 5, make sure that you have platforminputcontexts/libibusplatforminputcontextplugin.so in your plugins dir. It's included in the qtbase source tree.",
+        "2. Make sure ibus-daemon is running (e.g. ibus-daemon -drx).",
+        "3. Run ibus-setup and add Korean to the language list.",
+        "4. Depending on your distro, ibus may be using an X11Embed tray icon, which Plasma Desktop 5 no longer supports. Install and run something like wmsystemtray to get a floating window with legacy tray icons.",
+        "5. Use the tray icon to switch to Korean.",
+        "6. Make sure your environment is set up correctly:",
+        "7. Run Kate in this environment.",
+        "8. On an en_US or de_DE hardware keyboard, type the letters \"gks\" in sequence.",
+        "1. g -> \"\u314e\", cursor positioned after.",
+        "2. k -> \"\ud558\", cursor positioned after.",
+        "3. s -> \"\ud55c\", cursor positioned after.",
+        "4. Space -> \"\ud55c \", cursor positioned after."
+    ],
+    "339603": [
+        "1. Run the script that create the command (in a string variable : CMD) and then start kate ",
+        "2. A first error message appear ( see http://paste.opensuse.org/85077159 )",
+        "3. The left part of kate showing directory and files is completly false ( see http://paste.opensuse.org/78912091)"
+    ],
+    "339671": [
+        "1. Use kate frameworks branch",
+        "2. Run it against Qt 5.3+",
+        "3. Scroll using a touchpad"
+    ],
+    "340521": [
+        "1. Enable settings allowing long lines",
+        "2. Have a file with long line (like https://github.com/gravitystorm/openstreetmap-carto/blob/739298d645babdb9da5aee2ef6434ecac00035cb/project.yaml#L1199 )",
+        "3. Edit in this line/mark part of it"
+    ],
+    "340544": [
+        "1.open konsole as normal user",
+        "2. switch user to root",
+        "3. type in kate and hit the enter key"
+    ],
+    "340771": [
+        "1. Launch yakuake or konsole",
+        "2. run tmux",
+        "3. run kate (crashes)."
+    ],
+    "340936": [
+        "1. Open multiple documents",
+        "2. Mousewheel the tab bar"
+    ],
+    "341458": [
+        "1. Open a document and type: Hello, hello, you foo(l)!",
+        "2.Search and replace 'hello' with 'goodbye' (case sensitive)",
+        "3.Search and replace 'Hello' with 'Goodbye'  (case sensitive)"
+    ],
+    "341617": [
+        "1. Have open applications and Kate open on Workspace X",
+        "2. Close down the system",
+        "3. Halt close down or restart after closedown",
+        "4. Kate appears on every Workspace.",
+        "5. Right click on title bar, click move to desktop, check menu, all desktops is now checked."
+    ],
+    "341689": [
+        "1. Turn on vi mode, and let it override Kate's shortcuts",
+        "2. Insert some text, and then drop back into normal mode (eg: iblahblah<esc>)",
+        "3. Yank (some of) that text (eg: 0ye)",
+        "4. Enter insert mode (a or i)",
+        "5. Type <c-r>\""
+    ],
+    "342170": [
+        "1. Open two text files in the same kate. ",
+        "2. Switch from one to the other in the tree on the left. See the buttons move.",
+        "3. Switch to the other one. See the buttons move.",
+        "4. Switch back to the first one. See the buttons move.",
+        "5. Repeat a couple of times.",
+        "6. Then the buttons stop moving."
+    ],
+    "342200": [
+        "1. In an empty document, enter the following content:",
+        "2. Enable Block editing mode and overwrite mode",
+        "3. Set the cursor in the first column of the line w/ the first 'x' and hit 'shift'+'down' to select column 0 of both rows.",
+        "4. start typing three 'x' characters"
+    ],
+    "342512": [
+        "1. Open a moderately sized source file in KDevelop; ideally, set a breakpoint on AssistantPopup::updatePosition if you have debug symbols (this is helpful for reproducibility).",
+        "2. Move the cursor in the source file onto a problem that triggers an assistant popup (e.g. missing method or variable).",
+        "3. Hit the \"Fold Toplevel Nodes\" keyboard shortcut (default Ctrl+Shift+-).",
+        "4. If you set the breakpoint, you hit the keyboard shortcut while the program was stopped; continue in the debugger until you hit the segfault."
+    ],
+    "343087": [
+        "1. Open Kate",
+        "2. Create at least two sessions",
+        "3. In Sessions -> Manage Sessions delete the first one, then try to delete the second (last) one"
+    ],
+    "343158": [
+        "1. Create new file in Kate",
+        "2. Save file onto disk",
+        "3. Check file permissions"
+    ],
+    "343245": [
+        "1. Open Dolphin and navigate to an SSH remote folder",
+        "2. Right click the file, choose Open With -> Kate",
+        "3. The error message appears"
+    ],
+    "343255": [
+        "1. Open any text file",
+        "2. Click Save As.. from File menu.",
+        "3. There is no such encoding option in Save dialog"
+    ],
+    "343327": [
+        "1. Alter any of the existing schemas in Kate",
+        "2. Export it somewhere as .kateschema",
+        "3. Remove it from Kate so that it can be imported from file",
+        "4. Go to Settings --> Configure Kate --> Fonts & Colors --> Import and browse to the location where the file was saved earlier",
+        "5 Kate fails to see any schema files."
+    ],
+    "343329": [
+        "1. Open Dolphin",
+        "2. Navigate to FTP server",
+        "3. Open file"
+    ],
+    "343629": [
+        "1. run the command \"setxkbmap de neo\" to set the keyboard layout to the layout",
+        "2. start kate with some random text",
+        "3. try to move the cursor with AltGr+S or AltGr+F",
+        "4. run the command \"setxkbmap us\" to get back to us layout (copy it from here in case you are lost writing on that layout)"
+    ],
+    "343863": [
+        "1. Turn on the computer (skip this step if your computer is on already)",
+        "2. Open kate (doesn't matter if choose a session or new session or what)",
+        "3. In session menu, choose New (or open an existing session)",
+        "4. Disco"
+    ],
+    "343979": [
+        "1. Concatenate string \"12\" about 30000 times",
+        "2. Press ctr+r to enter replace mode and choose plain text replacement",
+        "3. Replace \"2\" with \"3\""
+    ],
+    "343980": [
+        "1. Enter visual mode and select text down to some column in the last line of the file",
+        "2. Issue \"D\" (delete entire line)"
+    ],
+    "344074": [
+        "1. Open 2 documents",
+        "2. Try to move tab by clicking on it"
+    ],
+    "344112": [
+        "1. Run the kate editor.",
+        "2. See at 'Tools' > 'Scripts' menu."
+    ],
+    "344341": [
+        "1. Copy /usr/share/katepart5/syntax/abc.xml to ~/.kde/share/apps/katepart/syntax/syntax-test.xml ",
+        "2. Change language name in syntax-test.xml ",
+        "3. Restart Kate and try to select the new syntax highlighting under \"Tools | Highlighting\""
+    ],
+    "344366": [
+        "1.  open file with code",
+        "2. fold a few things",
+        "3. reopen file"
+    ],
+    "344442": [
+        "1. Write some R code with alert tags:",
+        "2. Save as \"foobar.R\""
+    ],
+    "344481": [
+        "1. Run kate",
+        "2. Change settings",
+        "3. Quit and reopen kate"
+    ],
+    "344502": [
+        "1. Create a folder somewhere.",
+        "2. Create a file in this folder, with a content.",
+        "3. Create a new nession in Kate.",
+        "4. Drag the folder to Kate from a file explorer."
+    ],
+    "344504": [
+        "1. Display a vertically splitted view.",
+        "2. Open 2 quite large files in the 2 frames and scroll to the middle of the files.",
+        "3. Click there in the 2 files.",
+        "4. Close Kate.",
+        "5. Open Kate.",
+        "1. Use a named session.",
+        "2. Display a vertically splitted view.",
+        "3. Open 2 quite large files in the 2 frames and scroll to the middle of the files.",
+        "4. Click there in the 2 files.",
+        "5. Open another session.",
+        "6. Open the first session again."
+    ],
+    "344520": [
+        "1. Start kate",
+        "2. Set input mode to vi-mode",
+        "3. Focus text area by clicking",
+        "4. Hit ? to open reverse find text box",
+        "5. Hit any letter/symbol/number"
+    ],
+    "344536": [
+        "1. Open multiple documents",
+        "2. Try to drag a tab to left or right"
+    ],
+    "344561": [
+        "1. Open Kate in VI mode",
+        "2. Enter find mode with either / or Ctrl-F",
+        "3. Type any character"
+    ],
+    "344636": [
+        "1. Ctrl+O to see the dialog.",
+        "2. Tab or click on \"Files of type\""
+    ],
+    "344700": [
+        "1. Open Kate",
+        "2. Switch to VI Mode",
+        "3. Input a colon (:) and press any letter (like q)."
+    ],
+    "344734": [
+        "1. One a new document, and set the syntax highlighting to treat it as CSS",
+        "2. Enter the a line containing brackets with a space, for instance:"
+    ],
+    "345212": [
+        "1. Open/save a file with .bash or .sh extension",
+        "2. Kate crashes"
+    ],
+    "345542": [
+        "1. Open Kate",
+        "2. Attempt to use a shortcut (Ctrl+C, Ctrl+S, etc)"
+    ],
+    "346101": [
+        "1. Build kate with libgit2(v0.22.2)",
+        "2. Go to a base directory of a git clone",
+        "3. Open a plain text file"
+    ],
+    "346464": [
+        "1.Insert @media (min-width:500px) {",
+        "2.See what happens"
+    ],
+    "346844": [
+        "1. Open a Kate project",
+        "2. Open the Projects sidebar",
+        "3. Open a file in the project file list",
+        "4. Edit the file, but don't save it"
+    ],
+    "346950": [
+        "1.Open Kate.",
+        "2.Type some text.",
+        "3.Press Ctrl+A to select all."
+    ],
+    "347253": [
+        "1. Install kubuntu 15.04",
+        "2. Start dolphin go to  \"remote filesystems\" and create a network share",
+        "3. Start Kate, choose \"Open...\" go to \"Remote filesystems\""
+    ],
+    "347311": [
+        "1. Open Kate",
+        "2. Enable the Projects plugin",
+        "3. Enable the Search and Replace plugin",
+        "4. Open a project in Kate (either by opening a .kateproject file or opening a file from a git/hg/svn repo, if the option is enabled in the Projects plugin settings).",
+        "5. Open the Search and Replace plugin tool view",
+        "6. Open the dropdown for the `Search in:` label on the right-side of the tool view"
+    ],
+    "347327": [
+        "1. Settings -> Configure Kate",
+        "2. Fonts & Colors -> Font",
+        "3. Vary Size until see that letters are not showed correctly"
+    ],
+    "347343": [
+        "1. Open a text file",
+        "2. Configure Kate to Enable Swap File and Sync every long enough time",
+        "2. Open a file browser and watch the Swapfile.",
+        "3. Change the text,",
+        "4. look at the Swapfile"
+    ],
+    "347421": [
+        "1. Copy some text to clipboard",
+        "2. Open Kate",
+        "3. Attempt to paste text, can't do it"
+    ],
+    "347569": [
+        "1. open kate",
+        "2. open settings",
+        "3. look desperately for your favourite functionality"
+    ],
+    "347571": [
+        "1. open remote file using fish",
+        "2. go to File -> Open"
+    ],
+    "347645": [
+        "1. With Auto Braces turned on (auto-brackets is no longer available), type a few words of text.",
+        "2. Highlight a portion of text then press any of the following keys \" ' [ ( {",
+        "3. Instead of the highlighted text being encased between the chosen quotes or brackets / braces, the quotes or brackets / braces appear and the text is gone."
+    ],
+    "347692": [
+        "1. in $HOME/.config/kdeglobals set SingleClick=true under the [KDE] section",
+        "2. start xfce ",
+        "3. start kate",
+        "3. create 2 empty documents",
+        "4. try singe clicking in the left side document pane to switch the current document"
+    ],
+    "347768": [
+        "1. Open two different files in Kate.",
+        "2. Edit one of them but don't save it.",
+        "3. Close the edited file."
+    ],
+    "347769": [
+        "1. Open Kate.",
+        "2. Open Settings > Configure Shortcuts.",
+        "3. Search for \"input mode\" or \"toggle\""
+    ],
+    "348174": [
+        "1. Start Kate 5.0.0 with its default configuration",
+        "2. A file called \"Untitled\" should be open",
+        "3. Enable option \"Application|General|Warn about files modified by foreign processes\".",
+        "4. Type some text (e.g. \"x\") into file \"Untitled\"",
+        "5. Try to close file \"Untitled\"",
+        "6. Message \"The document \"Untitled\" has been modified...\" appears",
+        "7. Choose option \"Discard\" and Kate crashes"
+    ],
+    "348598": [
+        "1. Open file with long lines",
+        "2. Select Print Preview"
+    ],
+    "348845": [
+        "1. Enable vi mode",
+        "2. Go in command mode",
+        "2. Input `:vsplit`"
+    ],
+    "349006": [
+        "1. Open Kate.",
+        "2. Change settings (e.g. removing white spaces or indentation settings)."
+    ],
+    "349586": [
+        "1. Go to 'Settings' > 'Configure Kate...' > 'Editor Component' > 'Open/Save' > 'Modes & Filetypes'",
+        "2. Select Filetype: 'Markup/HTML'",
+        "3. Click 'Download Highlighting Files...'"
+    ],
+    "349705": [
+        "1. Set the border to show line numbers",
+        "2. Change input mode to vi mode"
+    ],
+    "349733": [
+        "1. Enable either tab bar plugin",
+        "2. Open multiple files, such as in alphabetical order",
+        "3. Switch tabs with <ALT>, and left or right"
+    ],
+    "349855": [
+        "1.Opens a file from Dolphin with Kate",
+        "2.Opens another file from Dolphin with Kate"
+    ],
+    "350252": [
+        "1. Create a cpp file with two functions.",
+        "2. In the first make sure you have a string with an escaped quote.",
+        "3. Switch to symbol viewer"
+    ],
+    "350332": [
+        "1. Make sure you are using KF <= 5.9 (as in Kubuntu 15.04)",
+        "2. Download and try to build kate as instructed by: http://kate-editor.org/get-it/"
+    ],
+    "350411": [
+        "1. Open Search & Replace plugin",
+        "2. Type something in the Find field",
+        "3. Immediately after, press Tab"
+    ],
+    "350535": [
+        "1. Open Kwrite.",
+        "2. Click in the document window, so the cursor will receive keyboard events.",
+        "3. Hold down the left Ctrl and Shift keys.",
+        "4. Type the letter u.",
+        "5. Release all of them.",
+        "6. Try to type 2022 (followed by a space) and get it to turn into a bullet point as it should.",
+        "7. See that you're just left with the number 2022, no Unicode."
+    ],
+    "350695": [
+        "1. Open Kate - either a new session or an existing document",
+        "2. Start typing"
+    ],
+    "351190": [
+        "1. type:",
+        "2. Remain with the cursor on the last line and press \"enter\""
+    ],
+    "351453": [
+        "1. Open a file longer than a single screen",
+        "2. Create a bookmark (ctrl-b)",
+        "3. Scroll the window"
+    ],
+    "351481": [
+        "1. Open 5 projects (could be reproducible with 3 or 4 too)",
+        "2. Select some project from the project list"
+    ],
+    "351496": [
+        "1. Open a python file.",
+        "2. Ensure the correct highlighting mode is active.",
+        "3. Create a function or class definition. Notice the folding becomes active with the opening paren and then deactivates with the closing paren."
+    ],
+    "351757": [
+        "1. open file",
+        "2. add bookmarks",
+        "3. (close and reopen kate?)",
+        "4. clear all bookmarks",
+        "5. save file",
+        "6. close file",
+        "7. reopen file"
+    ],
+    "351932": [
+        "1. Open a file in kate.",
+        "2. Delete that file on disk. ",
+        "3. Then go back to that file in kate.",
+        "4. Click cancel",
+        "5. Try saving the document",
+        "6. Click cancel.",
+        "7. Edit the document",
+        "8. Try saving the document again",
+        "9. Click cancel.",
+        "10. Open another file in kate.",
+        "11. Rename that file on disk.",
+        "12. Go back to that file in kate.",
+        "13. Click ignore changes."
+    ],
+    "352490": [
+        "1) open a file via sftp (sftp://foo.example.com/home/smithj/myfile.txt) ",
+        "2) edit the file and save it ",
+        "3) goto file -> open "
+    ],
+    "352585": [
+        "1. Open new instance of kwrite or kate.",
+        "2. Ensure that the \"code folding markers\" area is shown.",
+        "3. Change syntax highlighting to anything but 'None', e.g. 'C++'.",
+        "4. Click on the grey folding-marker area anywhere *below the last line* of text (i.e. the empty first line)."
+    ],
+    "352627": [
+        "1. Clone a git repository.",
+        "2. Enable the Kate project plugin, and ensure it was built with libgit2.",
+        "3. Open any file in the git repository."
+    ],
+    "352797": [
+        "1. Use the 'open' file dialog in Kate version: 15.08",
+        "2. Navigate to some other directory you'd like to create a new file in",
+        "3. Type name of new file, confirm selection"
+    ],
+    "352802": [
+        "1. Navigate to Settings > Configure Kate",
+        "2. Click on 'Application' or 'Editor' headings ",
+        "3. Observe: an empty preference page is displayed."
+    ],
+    "352810": [
+        "1. Open a file in Kate.",
+        "2. Try pressing NumPad keys."
+    ],
+    "352936": [
+        "1. Open a new document in kate",
+        "2. Turn off bloc num",
+        "3. Write something, try to move the cursor using the HOME / FINE keys"
+    ],
+    "353088": [
+        "1.Open File",
+        "2.Run Script which makes Changes to File",
+        "3.Dialog 'File changed' -> Reload"
+    ],
+    "353162": [
+        "1.Create a PHP file",
+        "2.Open it with Kate",
+        "3.Insert a \"heredoc\" structure"
+    ],
+    "353258": [
+        "1. Enable word count",
+        "2. Type 3 lines each consisting of a single word (e.g. a single 'a')",
+        "3. Delete the middle line"
+    ],
+    "353287": [
+        "1. open a file longer than screen height",
+        "2. go near the end of the file",
+        "3. left-click in the document area with your mouse, keep button pressed",
+        "4. move the mouse pointer to the top of your screen"
+    ],
+    "353319": [
+        "1. Open dialog (File->Open...)",
+        "2. Resize dialog",
+        "3. Close dialog by loading a file",
+        "4. Open dialog again"
+    ],
+    "353332": [
+        "1. Enter VI mode",
+        "2. Type some text.",
+        "3. Press CTRL-S. "
+    ],
+    "353508": [
+        "1. Replace \"Foo\" with \"Bar\" using the \"Search and Replace tool (Bar is capitalized here)",
+        "2. Replace \"Bar\" with \"bar\" using the \"Search and Replace tool (bar is not capitalized here)",
+        "3. You will have to type the escape keyboard button to quit the replace history combo box",
+        "4. Click the Search or Replace buttons: \"bar\" is replaced with \"Bar\", it is impossible to replace what was originally searched with lower case \"bar\"."
+    ],
+    "353676": [
+        "1. edit snippet",
+        "2. choose a snippet main shortcut",
+        "3. try that combination of key: does not work"
+    ],
+    "353794": [
+        "1. Open a file from a remote filesystem",
+        "2. Press \"Open...\"",
+        "3. Open dialog starts in my $HOME directory"
+    ],
+    "353852": [
+        "1. Use Kate 15.08.1 and open a python file (optional, probably)",
+        "2. Split view vertically & use code folding for a couple of code blocks",
+        "3. Save session",
+        "4. Reopen Kate"
+    ],
+    "353947": [
+        "1. cd $project_dir",
+        "2. kate README.md",
+        "3. <boom>"
+    ],
+    "354060": [
+        "1. Set up your touchpad to allow scrolling horizontally",
+        "2. Open a new document in kate or kwrite and type \"something\"",
+        "3. Scroll left"
+    ],
+    "354080": [
+        "1. Edit a file over the network connection",
+        "2. Type in characters and watch the editor lag",
+        "3. Try changing \"disable swap file syncing\" option",
+        "4. Go back to step 2"
+    ],
+    "354258": [
+        "0. Start Kate and any other Gnome application.",
+        "1. Open some document in Kate.",
+        "2. Click mouse to a place in the document to make the cursor blink.",
+        "3. In Gnome press Alt+Tab to switch to another application.",
+        "4. Press Alt+Tab again to switch back to Kate."
+    ],
+    "354494": [
+        "1. Open a file which is part of a Git repository",
+        "2. Open the \"project\" panel on the left"
+    ],
+    "354613": [
+        "0. Start Kate with XDG_CURRENT_DESKTOP=KDE environment (I do it in Gnome).",
+        "1. Open a file on an FTP server.",
+        "2. Press Open again."
+    ],
+    "355045": [
+        "0. Enable persistent selections.",
+        "1. Load a document.",
+        "2. Select a part of the document with Shift+Right.",
+        "3. Put the cursor in the middle of a selection.",
+        "4. Press Shift+Right or Shift+Left. After this the selection truncated (to the position of cursor) in the forward direction.",
+        "5. Select a part of the document with Shift+Left.",
+        "6. Put the cursor in the middle of a selection.",
+        "7. Press Shift+Right or Shift+Left. After this the selection truncated (to the position of cursor) in the backward direction."
+    ],
+    "355220": [
+        "1. Run `touch test`",
+        "2. Run `kate test.txt`",
+        "3. Close the file (not Kate)",
+        "4. Click on File -> Open recent -> test.txt"
+    ],
+    "355615": [
+        "1. In Kate, go to Settings > Configure Kate... > Font & Colors. Then select the Highlighting Text Styles tab.",
+        "2. In any Highlight text style (even \"None\"), modify the selected color of any context.",
+        "3. Click on Apply."
+    ],
+    "355827": [
+        "1. Activate the projects plugin",
+        "2. Make sure the autoloading of git files is on or create a .kateproject file",
+        "3. Open file from a git repository"
+    ],
+    "356276": [
+        "1) Open file in kate and change it, (without saving).",
+        "2) Then, edit that file in different program. ",
+        "3) Kate will ask you to reload that file. Confirm it.",
+        "4) Kate will ask you to save changes. Reject it.",
+        "5) Kate segfaults."
+    ],
+    "356813": [
+        "1. Open kwrite",
+        "2. Say Ctrl + P, and while the print dialog is displayed",
+        "3. Quit kwrite as \"qdbus `qdbus | grep kwrite` /kwrite/MainWindow_1/actions/file_quit trigger\""
+    ],
+    "356815": [
+        "1. Open kate",
+        "2. Issue Ctrl + P, and when the print dialog is open,",
+        "3. Say \"qdbus `qdbus | grep kate` /kate/__KateMainWindow_1/actions/file_quit trigger\" from a terminal"
+    ],
+    "356852": [
+        "1. Switch to Breeze Dark color option",
+        "2. Write some text in Kate",
+        "3. Print said text (to PDF, for example)"
+    ],
+    "356965": [
+        "1. start kate5",
+        "2. work a while, possibly changing which plugins should be loaded",
+        "3. exit"
+    ],
+    "357437": [
+        "1. Open Kate",
+        "2. Open Edit > Replace..."
+    ],
+    "357475": [
+        "1. start KWrite",
+        "2. press Save (or Ctrl+S)"
+    ],
+    "357523": [
+        "1. Launch kate",
+        "2. Close kate's window",
+        "3. Issue \"ps -ef | grep kate\" from a vt"
+    ],
+    "357970": [
+        "1.Open Kate. Hit Ctrl-R to open the search and replace panel at the bottom.",
+        "2. Enter some text into Find: and Replace: fields",
+        "3.Hover the mouse cursor over Replace or Replace All or Find All buttons -"
+    ],
+    "358266": [
+        "1. Save a session with multiple files and a splitted view",
+        "2. Close Kate",
+        "3. Open Kate and reload the previous session"
+    ],
+    "358526": [
+        "1. Start KDevelop 4.90.90+",
+        "2. Change KDE colorscheme (in System Settings). Dark->light or the reverse is most noticeable.",
+        "3. Try poking KDevelop. Wait until it unfreezes. Look at it."
+    ],
+    "359207": [
+        "1. Enable symbol list plugin",
+        "2. Open a source code file, such as a Python module /usr/lib64/python2.7/xmlrpclib.py",
+        "3. Go go symbol list, and enable \"List/Tree Mode\" and \"Enable Sorting\"",
+        "4. Open \"Configure - Kate\" dialog again, make some changes, or do nothing",
+        "5. Close the dialog by clicking OK button"
+    ],
+    "359463": [
+        "1. accidentally press control+m or Preferences -> show menu bar (under imput lag or just lag)",
+        "2. do not read the banner (under lag + imput lag)"
+    ],
+    "359691": [
+        "1. Open a file in Kate",
+        "2. Modify that file using another program, such as vim",
+        "3. Switch back to Kate Window and click on the opened file - you should be prompted with a warning asking if you want to reload the file because it changed"
+    ],
+    "360195": [
+        "1. Open files in different folders",
+        "2. Right-click on a folder entry in the documents list"
+    ],
+    "360252": [
+        "1. Open Kate",
+        "2. Go to menu Settings - Configure Kate",
+        "3. Select at the left Editor Component - Open/Save",
+        "4. At the right, on \"File Opening & Saving\", select the third tab \"Modes & Filetypes\"",
+        "5. Press \"Download Highlighting files...\""
+    ],
+    "360281": [
+        "1. download (git download) and compile kate following the directions here: http://kate-editor.org/get-it-kde-4-x/",
+        "2. run kate from the terminal using the run.sh info shown on the above referenced url page",
+        "3.  Sometimes when saving a file or closing a file tab the error reported in details above is reported on the console",
+        "4. Sometimes it is reproducible if you select \"Open\" icon then just click the \"cancel\" button"
+    ],
+    "360583": [
+        "1. Open Kate in XFCE 4.1.2 desktop environment",
+        "2. Press Save or Save As"
+    ],
+    "360658": [
+        "1. install kubuntu 1510",
+        "2. open kate, help menu , report bug",
+        "3. try to fill in bug"
+    ],
+    "360860": [
+        "1. Open filter text dialog Tools > Filter text",
+        "2. Enter 500+ characters long command and execute it",
+        "3. Open filter text dialog Tools > Filter text"
+    ],
+    "361197": [
+        "1. Kate \u2192 \"Settings\" \u2192 \"Configure Kate...\" \u2192 \"Editor Component/Fonts & Colors\" \u2192 \"Default Text Styles\"",
+        "2. Change any color to #859900 (Solarized's \"green\")",
+        "3. Invoke the color pick dialog again",
+        "4. Observe the stored color"
+    ],
+    "361517": [
+        "1. Install kate from kde-unstable on arch",
+        "2. Run kate"
+    ],
+    "362273": [
+        "1.Create new encrypted file from sample small text file.  ",
+        "2.Run Kate,",
+        "3. open new file"
+    ],
+    "362447": [
+        "1. Open Kate",
+        "2. Enable toolbar",
+        "3. Change window-close to something else",
+        "4. Kate picks up this change"
+    ],
+    "362864": [
+        "1. Start Kate session (either from shell or application menu/krunner)",
+        "2. Close Sidebar",
+        "3. In Kate settings menu : enable save Window state in Session / Load last used Session",
+        "4. Close Kate",
+        "5. Restart Kate (as per 1.)"
+    ],
+    "363220": [
+        "1. Open a document that is large enough to scroll",
+        "2. Press ctrl-r",
+        "3. Press Replace All",
+        "4. Scroll down with the mouse wheel"
+    ],
+    "363273": [
+        "1. Have Kate open in a saved session",
+        "2. Use the quick open session menu option to switch to a different session"
+    ],
+    "363365": [
+        "1. Connect using dolphin to the remote sftp server. For example localhost:22/var/",
+        "2. Open the file using kate. \"For example megafile.php\"",
+        "3. In kate press the button \"File\" and choose \"Open\""
+    ],
+    "363482": [
+        "1. Open Kate5",
+        "2. Activate the Search & Replace view, in the advanced mode (\"Search in\", Filter:, Exclude:)",
+        "3. Downsize the toolview area to its minimal height"
+    ],
+    "364128": [
+        "1. Open a file",
+        "2. Close all files",
+        "3. Choose Open"
+    ],
+    "364266": [
+        "1. Use option to show status bar.",
+        "2. Close Kate.",
+        "3. Start Kate."
+    ],
+    "364405": [
+        "1. Open a number of tabs, this number seems to be variable. It does not seem to matter if they are files or new tabs, but crashing seems to be more likely with files. ",
+        "2. Start closing them when clicking on the cross on the tab.",
+        "3. Kate will crash unexpectedly."
+    ],
+    "364620": [
+        "1. Open syntax file /usr/share/kde4/apps/katepart/syntax/bash.xml with sudo access",
+        "2. Edit the language / general / keywords as follow: weakDeliminator=\"^%_-\" additionalDeliminator=\"`$#\"",
+        "3. Restart kate and open a bash script",
+        "4. Double click on a string starting with \"$\" or on text surrounded by square or curly braces"
+    ],
+    "364650": [
+        "1. Set keyboard layout to 'us' (native layout is 'se')",
+        "2. Activate vi mode",
+        "3. Type '/' to enter forward search",
+        "4. Type '_'"
+    ],
+    "365124": [
+        "1. Enter text",
+        "2. Enter regex",
+        "3. Enter replacement",
+        "4. Click 'Replace All'"
+    ],
+    "365705": [
+        "1. Set Settings --> Configure Editor --> Open/Save --> End of line to UNIX.",
+        "2. In a top-level directory, save a .kateconfig file containing \"eol unix\".",
+        "3. Save a file there, or edit an existing file and save it.",
+        "4. Examine this file with a hex editor such as Bless."
+    ],
+    "365815": [
+        "1. mkdir -p /tmp/3",
+        "2. touch /tmp/3/aaaaa.sql",
+        "3. Open Kate 16.04.3 and use the Open dialog to navigate to the created directory. "
+    ],
+    "366018": [
+        "1. Menu/Settings/Configure Kate/Fonts & Colours/Import",
+        "2. Search for .kateschema file",
+        "3. No file found. Even though there is a file"
+    ],
+    "366260": [
+        "1.direct mouse cursor above file",
+        "2.click right button",
+        "3.select \"open with Kate\""
+    ],
+    "366496": [
+        "1. Open files with Kate",
+        "2. Modify the files with an external application",
+        "3. Attempt to close Kate"
+    ],
+    "366766": [
+        "1. Select any text file in a file browser (I used dolphin).",
+        "2. Open Kate (I have documents panel set to tree-view, not sure if it matters).",
+        "3. Drag text file onto Kate multiple times."
+    ],
+    "367786": [
+        "1. First enable the preference on Editing > VI Input Mode >  Let VI commands override Kate Shortcuts.",
+        "2. After close the preferences window, and press \":\" to write into command line of VI.",
+        "3. Now press the Shift key and Kate will crash."
+    ],
+    "367821": [
+        "0. This is for wine standard installation",
+        "1. check if wine is installed",
+        "2. run wineboot -fu to create the WINEPREFIX",
+        "3. open the file \"user.reg in ~/.wine"
+    ],
+    "368032": [
+        "1. Open a text file",
+        "2. Press CTRL + F.",
+        "3. Search for a word.",
+        "4. Replace the word with some other text."
+    ],
+    "368218": [
+        "1. copy any persian or arabic language text and paste it in kate. ",
+        "2. put cursor on a word.",
+        "3. press delete or space button."
+    ],
+    "368266": [
+        "1. Start Plasma Wayland",
+        "2. Launch KWrite"
+    ],
+    "368267": [
+        "1. Start Plasma Wayland",
+        "2. Launch Kate"
+    ],
+    "369149": [
+        "1. Enter some text and select part of it.",
+        "2. Press Ctrl+F.",
+        "3. Select another part of text and press Ctrl+F again."
+    ],
+    "369507": [
+        "1. open a file",
+        "2. try to change encoding from utf8 to cp1250"
+    ],
+    "369883": [
+        "1. Highlight text with mouse",
+        "2. Press Ctrl-f to use highlighted text for Find",
+        "3. Try this again"
+    ],
+    "371498": [
+        "1. Create a new document in kate or kwrite",
+        "2. Write two different words.",
+        "3. Select the first word",
+        "4. Hit the \"find\" keyboard shortcut (\"ctrl+f\" by default).",
+        "5. Select the second word.",
+        "6. Hit the \"find\" keyboard shortcut again"
+    ]
+}
