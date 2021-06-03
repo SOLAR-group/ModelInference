@@ -25,7 +25,7 @@ start = time.time()
 
 program = arguments[0]
 run_id = arguments[1]
-algorithm = arguments[4]
+algorithm = arguments[2]
 
 if len(arguments) < 4 or algorithm != "NSGAII":
     objectives = "UnRec-Size-UnObs"

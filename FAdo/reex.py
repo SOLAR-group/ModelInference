@@ -354,7 +354,7 @@ class regexp(RegularExpression):
         f = list(sre)
         if f[0] is tuple:
             try:
-                if f[0][1] is 2:
+                if f[0][1] == 2:
                     return {(_ifconcat(j, self, d), (s, _ifconcat(i, self, d))) for j, (s, i) in f}
                 else:
                     return {(j, _ifconcat(i, self, d)) for j, i in f}
