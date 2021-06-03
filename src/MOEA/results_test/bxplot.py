@@ -66,8 +66,8 @@ class TestR:
             for alg in ["NSGAII", "NSGAIII", "MOEAD"]:
                 for i in range(1, 31):
                     print("\r" + str(i) + "        ", end="")
-                    front_file = open('../../../data/' + product + '/'
-                                      + alg + '/' + str(i) + '_EAfront' + alg + '_' + product + '.pkl', 'rb')
+                    front_file = open('../../../results/' + product + '/'
+                                      + alg + '/UnRec-Size-UnObs/' + str(i) + '_EAfront' + alg + '_' + product + '.pkl', 'rb')
                     pareto = pickle.load(front_file)
                     front_file.close()
                     for fit_vector in pareto.get("F"):
@@ -101,7 +101,7 @@ class TestR:
         ax.set_xticklabels(['NSGA-II', 'NSGA-III', 'MOEA/D'])
         #ax.set_xlim(0.5, 2 + 0.5)
         # Save the figure
-        fig.savefig('../../../data/boxplots/'+ self.product +'UnRec.png', bbox_inches='tight')
+        fig.savefig('../../../results/boxplots/'+ self.product +'UnRec.png', bbox_inches='tight')
 
         fig = plt.figure(2, figsize=(4, 4.2))
         # Create an axes instance
@@ -119,7 +119,7 @@ class TestR:
         ax.set_xticklabels(['NSGA-II', 'NSGA-III', 'MOEA/D', 'KLFA'])
         #ax.set_xlim(0.5, 2 + 0.5)
         # Save the figure
-        fig.savefig('../../../data/boxplots/'+ self.product +'Size.png', bbox_inches='tight')
+        fig.savefig('../../../results/boxplots/'+ self.product +'Size.png', bbox_inches='tight')
 
         fig = plt.figure(3, figsize=(4, 4.2))
         # Create an axes instance
@@ -138,14 +138,14 @@ class TestR:
         ax.set_xticklabels(['NSGA-II', 'NSGA-III', 'MOEA/D'])
         #ax.set_xlim(0.5, 2 + 0.5)
         # Save the figure
-        fig.savefig('../../../data/boxplots/' + self.product +'UnObs.png', bbox_inches='tight')
+        fig.savefig('../../../results/boxplots/' + self.product +'UnObs.png', bbox_inches='tight')
 
 
 if __name__ == '__main__':
     software = ["Calendar"]
     startf = time.perf_counter()
     step = list()
-    os.makedirs(os.path.dirname("../../../data/boxplots/"), exist_ok=True)
+    os.makedirs(os.path.dirname("../../../results/boxplots/"), exist_ok=True)
     for product in software:
         print(product + "\n")
         ts = TestR(product)

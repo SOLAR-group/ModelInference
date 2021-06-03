@@ -21,7 +21,7 @@ class PerformanceIndicators:
         ref_pareto_front = list()
         for alg in self.algorithms:
             for run in range(1, self.n_run + 1):
-                front_file = open('../../../data/' + product + '/' + alg + '/'
+                front_file = open('../../../results/' + product + '/' + alg + '/UnRec-Size-UnObs/'
                                   + str(run) + '_EAfront' + alg + '_' + product + '.pkl', 'rb')
                 pareto_set = pickle.load(front_file)
                 front_file.close()
@@ -45,7 +45,7 @@ class PerformanceIndicators:
 
         for alg in self.algorithms:
             for run in range(1, self.n_run + 1):
-                front_file = open('../../../data/' + product + '/' + alg + '/'
+                front_file = open('../../../results/' + product + '/' + alg + '/UnRec-Size-UnObs/'
                                   + str(run) + '_EAfront' + alg + '_' + product + '.pkl', 'rb')
                 pareto_set = pickle.load(front_file)
                 front_file.close()
@@ -71,14 +71,14 @@ class PerformanceIndicators:
 
 
 if __name__ == '__main__':
-    # prod = ["kate", "Vibe", "krita", "LibreOffice", "Firefox OS", "Firefox for Android", "SeaMonkey", "Thunderbird", "Calendar", "BIRT"]
+    # prod = ["kate", "Vibe", "krita", "LibreOffice", "Firefox_OS", "Firefox_for_Android", "SeaMonkey", "Thunderbird", "Calendar", "BIRT"]
     prod = ["BIRT"]
     bounds = {"kate": [[179, 1, 0], [401, 500, 500]],
               "Vibe": [[242, 1, 0], [425, 500, 500]],
               "krita": [[711, 1, 0], [958, 500, 500]],
               "LibreOffice": [[781, 1, 0], [1040, 501, 500]],
-              "Firefox OS": [[849, 1, 0], [1082, 500, 500]],
-              "Firefox for Android": [[799, 1, 0], [1054, 501, 500]],
+              "Firefox_OS": [[849, 1, 0], [1082, 500, 500]],
+              "Firefox_for_Android": [[799, 1, 0], [1054, 501, 500]],
               "SeaMonkey": [[1236, 1, 0], [1598, 500, 500]],
               "Thunderbird": [[1377, 1, 0], [1654, 500, 500]],
               "Calendar": [[2262, 1, 0], [2576, 501, 500]],
@@ -89,11 +89,11 @@ if __name__ == '__main__':
     algorithms = ['NSGAII', 'NSGAIII', 'MOEAD']
     hv_results = {}
     igd_results = {}
-    os.makedirs(os.path.dirname('../../../data/Performance Indicator/'), exist_ok=True)
+    os.makedirs(os.path.dirname('../../../results/Performance Indicator/'), exist_ok=True)
     for indx, product in enumerate(prod):
-        # hv_file = open('../../../data/Performance Indicator/HV/hv_' + program + '.txt', 'w+')
-        igd_file = open('../../../data/Performance Indicator/IGD/igd_' + product + '.txt', 'w+')
-        igd_ref_file = open('../../../data/Performance Indicator/IGD/igd_ref_' + product + '.pkl', 'wb')
+        # hv_file = open('../../../results/Performance Indicator/HV/hv_' + program + '.txt', 'w+')
+        igd_file = open('../../../results/Performance Indicator/IGD/igd_' + product + '.txt', 'w+')
+        igd_ref_file = open('../../../results/Performance Indicator/IGD/igd_ref_' + product + '.pkl', 'wb')
         # hv_file.write("Product: " + program + "\n")
         igd_file.write("Product: " + product + "\n")
         print("\n" + product + "\n")
@@ -104,7 +104,7 @@ if __name__ == '__main__':
         reference_pareto = pi.computeReferenceParetoFront()
         pickle.dump(reference_pareto, igd_ref_file)
         igd_ref_file.close()
-        igd_ref_file = open('../../../data/Performance Indicator/IGD/igd_ref_' + product + '.pkl', 'rb')
+        igd_ref_file = open('../../../results/Performance Indicator/IGD/igd_ref_' + product + '.pkl', 'rb')
         reference_pareto = pickle.load(igd_ref_file)
         igd_ref_file.close()
 
@@ -113,7 +113,7 @@ if __name__ == '__main__':
             igd_results[product][alg] = list()
             for run_num in range(1, n_run + 1):
                 print("\rRun: " + str(run_num) + "        ", end="")
-                front_file = open('../../../data/' + product + '/' + alg + '/'
+                front_file = open('../../../results/' + product + '/' + alg + '/UnRec-Size-UnObs/'
                                   + str(run_num) + '_EAfront' + alg + '_' + product + '.pkl', 'rb')
                 pareto_set = pickle.load(front_file)
                 front_file.close()
@@ -136,8 +136,8 @@ if __name__ == '__main__':
         #     hv_results[program][alg] = list()
         #     for run_num in range(1, n_run + 1):
         #         print("\rRun: " + str(run_num) + "        ", end="")
-        #         front_file = open('../../../data/' + program + '/' + alg + '/'
-        #                           + str(run_num) + '_EAfront' + alg + '_' + program + '.pkl', 'rb')
+        #         front_file = open('../../../results/' + product + '/' + alg + '/UnRec-Size-UnObs/'
+        #                                   + str(run_num) + '_EAfront' + alg + '_' + product + '.pkl', 'rb')
         #         pareto_set = pickle.load(front_file)
         #         front_file.close()
         #         hv = pi.computeHV(pareto_set.get("F"), np.asarray(bounds[program][0]), np.asarray(bounds[program][1]))

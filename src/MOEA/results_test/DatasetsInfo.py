@@ -1,7 +1,7 @@
-import datetime
-import time
-import pickle
 import collections
+import datetime
+import pickle
+import time
 from statistics import variance, stdev
 
 
@@ -32,8 +32,9 @@ class DatasetsInfo:
             bugTrace = self.step_map_train[key]
             bug_lengths.append(len(bugTrace))
             bug_length_sum += len(bugTrace)
-        mean_bug_length = bug_length_sum/num_bugs
-        info.append([round(stdev(bug_lengths), 2), round(variance(bug_lengths), 2), round(mean_bug_length, 2), num_bugs])
+        mean_bug_length = bug_length_sum / num_bugs
+        info.append(
+            [round(stdev(bug_lengths), 2), round(variance(bug_lengths), 2), round(mean_bug_length, 2), num_bugs])
 
         keys = self.step_map_test.keys()
         num_bugs = len(keys)
@@ -44,7 +45,8 @@ class DatasetsInfo:
             bug_lengths.append(len(bugTrace))
             bug_length_sum += len(bugTrace)
         mean_bug_length = bug_length_sum / num_bugs
-        info.append([round(stdev(bug_lengths), 2), round(variance(bug_lengths), 2), round(mean_bug_length, 2), num_bugs])
+        info.append(
+            [round(stdev(bug_lengths), 2), round(variance(bug_lengths), 2), round(mean_bug_length, 2), num_bugs])
 
         return info
 
@@ -52,9 +54,8 @@ class DatasetsInfo:
 if __name__ == '__main__':
     # Datasets are ordered by size
 
-
-    software =     ["kate", "Vibe", "krita", "LibreOffice", "Firefox OS",
-    "Firefox for Android", "SeaMonkey", "Thunderbird", "Calendar", "BIRT"]
+    software = ["kate", "Vibe", "krita", "LibreOffice", "Firefox_OS",
+                "Firefox_for_Android", "SeaMonkey", "Thunderbird", "Calendar", "BIRT"]
     startf = time.perf_counter()
     for product in software:
         print(product + "\n")

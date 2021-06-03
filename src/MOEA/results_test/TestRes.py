@@ -97,8 +97,8 @@ class TestR:
                 print("\r" + str(n_run) + "        ", end="")
                 bug_par = set()
                 tim = 0
-                front_file = open('data/' + product + '/'
-                                  + alg + '/' + str(n_run) + '_EAfront' + alg + '_' + product + '.pkl', 'rb')
+                front_file = open('../../../results/' + product + '/' + alg + '/UnRec-Size-UnObs/'
+                                  + str(n_run) + '_EAfront' + alg + '_' + product + '.pkl', 'rb')
                 pareto = pickle.load(front_file)
                 front_file.close()
 
@@ -143,14 +143,14 @@ class TestR:
 
 if __name__ == '__main__':
     # Datasets are ordered by size
-    # ["kate", "Vibe", "krita", "LibreOffice", "Firefox OS", "Firefox for Android", "SeaMonkey", "Thunderbird", "Calendar", "BIRT"]
+    # ["kate", "Vibe", "krita", "LibreOffice", "Firefox_OS", "Firefox_for_Android", "SeaMonkey", "Thunderbird", "Calendar", "BIRT"]
 
     software = ["Thunderbird"]
     startf = time.perf_counter()
     step = list()
     for product in software:
         print(product + "\n")
-        steps_file = open('data/bug/datasetF/BugStepsMappedPp_' + product + '_plus.pkl', 'rb')
+        steps_file = open('data/bug/dataset/BugStepsMappedPp_' + product + '_plus.pkl', 'rb')
         step_map = pickle.load(steps_file)
         steps_file.close()
         ts = TestR(product, step_map)
