@@ -12,7 +12,7 @@ The next sections provide more information about each.
 
 ## Requirements
 
-Our code uses Python 3.8.
+Our project uses Python 3.8+.
 
 The list of libraries needed for this project can be found in `libs.txt`.
 You can install them in your virtual environment with `pip install -r libs.txt`.
