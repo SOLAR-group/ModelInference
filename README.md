@@ -1,4 +1,4 @@
-# Inferring Test Models using Multi-Objective Evolutionary Algorithms
+# Inferring Test Models from User Bug Reports Using Multi-Objective Search
 
 This project aims at automatically inferring test models using bug reports.
 After collecting the bug reports, processing them into execution traces, and then collecting a dictionary, a Multi-Objective Evolutionary Algorithm (MOEA) is used to find the best models.
